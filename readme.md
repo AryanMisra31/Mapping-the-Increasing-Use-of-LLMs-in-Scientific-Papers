@@ -90,6 +90,37 @@ example of inference data:
 
 Note that we provide our tokenize function in tokenize_demo.ipynb for reference.
 
+### Estimating AI use in plain-text reports
+
+The `scripts/estimate_txt.py` script applies the repository's mixture-model
+estimator to the `.txt` files in `Aryan_GPT reports/`. It selects 40 reports
+reproducibly (seed 42), copies them into `Aryan_GPT reports/ground_truth/` as
+100% AI-generated reference texts, and uses them to estimate the AI text
+distribution. The other reports are scored individually on a continuous
+0-to-100% scale.
+
+Before running the script, add your human-written reference reports as `.txt`
+files directly to `data/human_reference_txt/` (not in nested folders). Use
+human-authored reports that are as similar as possible to the target reports in
+field, length, and style. The script derives the human-text distribution from
+these files; it stops with an explicit error if the folder has no `.txt` files
+or the files contain no usable sentences.
+
+Run from the repository root:
+
+```bash
+python scripts/estimate_txt.py
+```
+
+The script writes a ground-truth manifest, per-report estimates and 95%
+bootstrap confidence intervals (200 resamples) to
+`Aryan_GPT reports/analysis/ai_use_estimates.csv`, and a corpus boxplot to
+`Aryan_GPT reports/analysis/ai_use_boxplot.png`. The boxplot zooms its y-axis
+to the nearest lower ten-percentage-point boundary and labels that boundary.
+The estimates compare the supplied human reference with the 40 reports assumed
+to be fully AI-generated. They are model-based estimates, not definitive
+classifications of individual reports.
+
 ## Repository Structure
 
 Below is a high-level overview of the repository/project file-tree:
