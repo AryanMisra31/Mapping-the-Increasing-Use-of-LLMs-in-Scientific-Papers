@@ -1,0 +1,204 @@
+﻿In practice report
+
+Empowering healthcare professionals to return to
+work through simulation training: addressing
+psychosocial needs
+Aleks Saunders ,1,2 John Brooks,3 Wathik El Alami,3 Zaina Jabur,1 Colette Laws-
+Chapman,3 Marcella Schilderman,1 Camilla Tooley,1 Chris Attoe1,2
+
+1Maudsley Simulation, South INTRODUCTION activities were based on experiential learning theory
+London and Maudsley NHS In the UK, 10% of trainee doctors are out of clinical and national standards of simulation practice from
+Foundation Trust, London, UK
+2 practice at any given time, for reasons including
+Institute of Psychiatry, the Associated for Simulated Practice in Healthcare.
+Psychology and Neuroscience, personal health, carer duties, further education, The first day involved team-building exercises,
+King’s College London, London, research and parental leave.1 overviews of changes in practice, and self-care
+UK Doctors report that leaving work often invokes and well-being sessions, with the aim to build
+3Simulation and Interactive feelings of isolation and sadness, as well as concerns a strong group dynamic to allow participants to
+Learning Centre, Guy's and
+Saint Thomas' NHS Foundation around a lack of support from colleagues and orga- express their concerns. Days 2–4 focused on
+Trust, London, UK nisations, and even negative views from their simulation training, including practical skills ses-
+
+families.1 Self-stigmatisation sees doctors internalise sion based on mastery learning, communications
+Correspondence to negative views about themselves, promoting self- skills stations, and high-fidelity simulated scenar-
+Aleks Saunders, Maudsley esteem issues and a lack of help-seeking behaviour, ios and reflective debriefs using the Diamond
+Simulation, South London and which also relates to the constructs of personal and model.4 Simulated patients played by professional
+Maudsley NHS Foundation
+Trust, London, UK; Aleks. professional identity.2 Addressing and tackling the actors training to play patients, manikins and
+Saunders@kcl.ac.uk barriers related to returning to work is not only practical equipment were used, with 10–15 min
+
+beneficial for a doctor’s well-being but for patient simulated scenarios shared with the group via live
+Accepted 27 March 2020 care too. One systematic review found that doctors video link, followed by a 30–40 min debrief ses-
+
+with higher occupational well-being adhere more to sion. These methods ensured that the principles
+treatment guidelines, are more optimistic and help- of high-fidelity simulation were adhered to. Day
+ful, and direct more attention to patient’s psychoso- 4 concluded with a review of their progress,
+cial health.3 action planning for their return to work journeys
+
+Although programmes exist to support returning and final reflections on their personal and health
+doctors, there is a shortage of evidence-based inter- needs.
+ventions. This report outlines a training interven-
+tion and subsequent evaluation for returning
+healthcare professionals, in which they can develop Procedure
+their clinical skills and needs as well as their own Facilitators delivering the training (n=6) and
+psychosocial skills and needs. researchers not delivering the training (n=2) con-
+
+ducted naturalistic observations of the partici-
+METHODS pants, considering their needs, experience of the
+
+Training course training, and the outcomes and impact of the
+training. Field notes and unstructured observation
+
+The 4-day course aimed to update doctors returning
+notes were collected throughout all days of the
+
+to work on their clinical skills and knowledge, while
+training course. A Thematic Analysis5 of observa-
+
+creating an open space to address personal and psy-
+tional data was conducted by collating the data,
+
+chosocial needs regarding returning (see table 1 for
+reviewing for familiarisation, coding key pieces of
+
+learning activities and scenarios). The course was
+data and acknowledging emerging reoccurring
+
+delivered in a simulation centre in South London,
+themes across the data set. This was reviewed by
+
+with each day lasting approximately 8 hours, by
+a multiprofessional faculty of clinical educators the researchers and facilitators, with final emer-
+
+and simulation experts, including doctors, nurses gent themes agreed.
+
+and psychologists. All faculties had received debrief
+training using the Diamond model.4 PRELIMINARY FINDINGS
+
+The course was developed by the multiprofes- A total of 64 participants attended five separate
+sional faculty in consultation with healthcare pro- courses running between September 2018 and
+
+© Author(s) (or their
+employer(s)) 2019. No fessionals who were returning to practice or had June 2019 in South London. Of these, 89.4% of
+commercial re-use. See rights recently done so, as well as educational psycholo- participants were medical doctors, 2.1% were
+and permissions. Published gists and programme lead for supporting returning nurses, 6.4% were allied health professionals and
+by BMJ. healthcare professionals. The course outcomes and 2.1% had an unspecified clinical role. Emergent
+To cite: Saunders A, learning activities were mapped to the evidence on themes from the thematic analysis were psychoso-
+Brooks J, El Alami W, et al. the needs of returning clinicians, including from cial needs of learners, psychological concepts as
+BMJ Simul Technol Enhanc a UK-based project to gather the needs of returners subject matter, and the value of peer support and
+Learn 2020;6:371–373. to the National Health Service (NHS). Learning learning.
+
+Saunders A, et al. BMJ Simul Technol Enhanc Learn 2020;6:371–373. doi:10.1136/bmjstel-2019-000566 371
+
+
+
+In practice report
+
+Table 1 Boot camp timetable with an overview of learning activities
+Title Learning activity
+
+Day 1 AM Welcome & Introduction Housekeeping, introductions, establishing safety and confidentiality, and course overview
+Build a Bridge Team-building activity involving building a bridge with limited resources, followed by a debrief
+
+Day 1 PM Hopes & Concerns Facilitated discussions, video from a returner, Q&A and circle of care
+System Changes Going through changes in NHS, HEE, CCG, 5-Year Forward, and so on
+Self-care & Well-being Self and group care activities: 5 ways to well-being, wheel of life, body scan
+
+Day 2 AM Skills Stations SBARD, NG tube insertion, phlebotomy and cannulation
+Day 2 PM Communications Skills Introduction to the first patient. History of tonic–clonic seizures, now experiencing non-epileptic seizures. The task is to take a history
+
+Scenario 1 of the presenting complaint. Debrief
+Scenario 2 Discuss and explain medically unexplained symptoms and the potential causes of the patient’s worsening symptoms with the patient.
+
+Debrief
+Scenario 3 Refer the patient for psychiatric review, using the SBARD tool to hand them over. Debrief
+
+Day 3 AM High-Fidelity Simulation Meet new patient, 74 years old. Son has requested a home visit due to reduced mobility and a lack of self-care from grief. Tasked to
+Scenario 1 review and assess. Debrief
+Scenario 2 1 month later. The son is concerned that his mother is ‘out of sorts’ over the phone andmaybe unwell. Take a further assessment of the
+
+patient. Debrief
+Day 3 PM Scenario 3 The patient is admitted to the hospital with sepsis secondary to a chest infection. Called for a review as staff are concerned at
+
+increased agitation, paranoia and confusion. Debrief
+Scenario 4 In the hospital, the patient develops a rash and swollen face following antibiotic administration. The underlying cause of this is acute
+
+anaphylaxis. Debrief
+Scenario 5 The patient goes into cardiac arrest as a result of the anaphylaxis. Debrief
+
+Day 4 AM Scenario 6 Son arrives, angry and threatening regarding the level of care the patient has received and the medication error. Debrief
+Scenario 7 The patient is scheduled to be discharged but is reluctant to leave. A neighbour has moved into her house and is asking for money.
+
+When the neighbour arrives on the ward, he is suspicious and defensive if this is brought up. Debrief
+Actor Feedback Simulation actors give additional feedback to the participants on the perspectives of their characters, and what techniques were
+
+helpful or unhelpful from participants as a group
+Day 4 PM Participant check-in Check-in with the participant’s emotions and thoughts. Review any areas left uncovered, for example, whistleblowing, changing
+
+cultures
+Unfolding stories Activity in which all participants write a positive, anonymised comment on each other, which is reflected on as a group
+Wrapping up Learner led methods of keeping in touch. Take away learning points
+Social event Refreshments in a local venue to continue connections, optional
+
+*The cited information (table 1 scenarios) is not from an actual patient. Any resemblance to real person living or deceased will be coincidence.
+CCG, clinical commissioning group; HEE, Health Education England; NG, nasogastric; NHS, National Health Service; SBARD, Situation, Background, Assessment, Recommdentation, and Decision.
+
+Psychosocial needs of learners: discussions in debrief suggest experience raised the possibility of social capital being
+that there is a greater need to provide psychosocial support a powerful tool to harness in supporting returners, engaging
+alongside clinical skills for healthcare professionals returning to them in their work and connecting with shared values.
+work and that it is important to be able to build rapport over
+multiple days, in an environment dedicated to doing so. This DISCUSSION
+allowed for open discussions to reflect the concerns and needs Findings highlighted a gap in psychosocial support for returning
+of the learners. Additionally, learners were enthusiastic about clinicians, and offered preliminary findings on supporting retur-
+discussions that concerned their psychosocial functioning, well- ners through simulation training boot camps that engage with
+being, work-life balance and internal concepts that underpin personal needs, psychological concepts and peer support. Having
+performance and engagement in the workplace. a psychologically safe environment where people feel comforta-
+
+Psychological concepts as subject matter: participants were ble to share experiences as well as dedicated sessions to practice
+responsive to psychological concepts that were effectively self-care as a healthcare professional are important to build con-
+brought into the training, from group reflective practice to beha- fidence and feel able to return successfully.
+viour change approaches such as goal setting. Self-esteem, self- Being able to build rapport through time with peers and trai-
+identity and self-care were identified as being highly important to ners allowed for more in-depth discussions and created a safe and
+develop alongside clinical skills, with confidence being the main trusting space for participants to be able to express themselves
+concern regarding returning to work. Participants reported hav- and their concerns. The evidence suggests that developing inter-
+ing more self-worth and feeling more valued as a healthcare nal skills relating to psychosocial well-being could be valuable for
+professional after the course, and that the opportunity to develop participants, alongside developing external clinical skills.
+confidence in one’s role and a peer support network of others Therefore, subsequent training delivery and research may wish
+with relatable experience was valuable. to focus on addressing these factors for clinicians planning on
+
+Value of peer support and learning: another major theme of returning to work. Significantly, it was noted that addressing
+concern for returners was the sense that they felt alone in their clinical matters alongside personal or psychosocial factors that
+worries. After the course, based on peer support, senior support underlie clinical practice was well received and even sought after
+and networking, many were relieved to know they were not the by participants throughout the training.
+only ones who felt concerned about returning and that the peer To the author’s knowledge, this is the first study to address the
+support and mutual respect and experience was an important psychosocial needs of doctors returning to work. A larger mixed
+facilitator of their personal growth. This aspect of shared methods study is underway to evaluate the effect of the
+
+372 Saunders A, et al. BMJ Simul Technol Enhanc Learn 2020;6:371–373. doi:10.1136/bmjstel-2019-000566
+
+
+
+In practice report
+
+simulation training boot camp on participants’ well-being, resi- Provenance and peer review Not commissioned; externally peer reviewed.
+lience, self-efficacy, confidence and knowledge, with additional
+
+ORCID iD
+qualitative methods aiming to understand their experience and Aleks Saunders http://orcid.org/0000-0002-5117-4911
+development from the training.
+
+REFERENCES
+Contributors ZJ, MC, CT, CLC, WE, JB, CA: contributed to the design and delivery of 1 Health Education England. Supported return to training. HEE, 2018. Available: https://
+the project; inputted to the final manuscript before submission. AS and CA: led on www.hee.nhs.uk/our-work/supporting-doctors-returning-training-after-time-out
+drafting the manuscript. 2 Henderson M, Brooks SK, Del Busso L, et al. Shame! Self-stigmatisation as an obstacle to
+Funding The authors have not declared a specific grant for this research from any sick doctors returning to work: a qualitative study. BMJ Open 2012;2:e001776.
+funding agency in the public, commercial or not-for-profit sectors. 3 Scheepers RA, Boerebach BCM, Arah OA, et al. A systematic review of the impact of
+
+physicians' occupational well-being on the quality of patient care. Int J Behav Med
+Competing interests None declared. 2015;22:683–98.
+Ethics approval Ethical approval for the study was provided by the Psychiatry, Nursing 4 Jaye P, Thomas L, Reedy G. 'The diamond': a structure for simulation debrief. Clin Teach
+and Midwifery Research Ethics Subcommittee at King’s College London on behalf of the 2015;12:171–5.
+Health Research Authority. The cited information (table 1 scenarios) is not from an actual 5 Clarke V, Braun V, Hayfield N. Thematic analysis. qualitative psychology: a practical
+patient. Any resemblance to real person living or deceased will be coincidence. guide to research methods 2015;1:222–48.
+
+Saunders A, et al. BMJ Simul Technol Enhanc Learn 2020;6:371–373. doi:10.1136/bmjstel-2019-000566 373

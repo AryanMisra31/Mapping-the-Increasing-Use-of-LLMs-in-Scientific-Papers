@@ -1,0 +1,524 @@
+﻿Acta Psychologica 212 (2021) 103194
+
+Contents lists available at ScienceDirect 
+
+Acta Psychologica 
+journal homepage: www.elsevier.com/locate/actpsy 
+
+Imitation in one’s own presence: No specific effect of self-focus on imitation 
+Divyush Khemka a,*, Narges Ahmadilari a, Geoffrey Bird b,c, Caroline Catmur a 
+
+a Department of Psychology, Institute of Psychiatry, Psychology & Neuroscience, King’s College London, De Crespigny Park, London SE5 8AF, UK 
+b Department of Experimental Psychology, University of Oxford, Anna Watts Building, Radcliffe Observatory Quarter, Woodstock Road, Oxford OX2 6GG, UK 
+c Social, Genetic and Developmental Psychiatry Centre, Institute of Psychiatry, Psychology & Neuroscience, King’s College London, De Crespigny Park, London SE5 8AF, 
+UK   
+
+A R T I C L E  I N F O   A B S T R A C T   
+
+Keywords: Previous studies have reported that imitative responses may be modulated by top-down social factors such as 
+Imitation self-focus. However, growing evidence suggests that such social factors may actually modulate domain-general 
+Spatial compatibility processes such as spatially compatible responding, rather than specifically social processes such as imitation. In 
+Domain-generality this study, we aimed to identify the cognitive processes being modulated under conditions of heightened or 
+Self-focus 
+Self-awareness diminished self-focus. Participants performed a stimulus-response compatibility task which independently 
+Perception-action measures both spatial and imitative response tendencies, under two conditions: heightened self-focus, where the 
+
+task was performed in the presence of two mirrors; and diminished self-focus, where the mirrors were covered. 
+While participants were faster to respond to compatible trials than to incompatible trials, both imitatively and 
+spatially, there was no significant modulation of either spatial or imitative compatibility by self-focus; although 
+the magnitude of the modulation of spatial compatibility was numerically similar to the effect of self-focus on 
+imitation found in previous studies. These results provide no evidence for an effect of self-focus on either social- 
+specific, or domain-general, processes.   
+
+1. Introduction domain-general cognitive process, which would produce effects on any 
+type of perception-action link (such as the tendency to respond on the 
+
+Humans tend to spontaneously imitate the movements, facial ex same side of space as an observed stimulus)? 
+pressions, postures and speech patterns of others (Bock, 1986; Chartrand One reason for expecting such modulation to be imitation-specific 
+& Lakin, 2013; Sheflen, 1964). Multiple accounts suggest that obser stems from evidence suggesting that the control of imitation appears 
+vation of an action elicits a matching motor representation in the to involve a social-specific neurocognitive mechanism (Brass, Bekker
+observer, and these perception-action links induce strong imitative ing, Wohlschläger, & Prinz, 2000; Brass, Ruby, & Spengler, 2009), 
+tendencies (Fadiga, Fogassi, Pavesi, & Rizzolatti, 1995; Greenwald, sometimes termed self-other control. Self-other control has been pro
+1970, 1972; Heyes, 2011). There is considerable evidence that such posed as a cognitive process involved in controlling self- versus other- 
+perception-action links, and their behavioural outcome, imitation, can relevant mental representations and is thought to contribute to higher- 
+be modulated by social factors including social group membership order sociocognitive functions such as theory of mind and empathy 
+(Gleibs, Wilson, Reddy, & Catmur, 2016; Miles, Griffiths, Richardson, & (de Guzman, Bird, Banissy, & Catmur, 2016; Santiesteban et al., 2012). 
+Macrae, 2010; Rauchbauer, Majdandžić, Hummer, Windischberger, & Evidence from both brain stimulation and neuropsychological studies 
+Lamm, 2015; Rauchbauer, Majdandžić, Stieger, & Lamm, 2016; Yabar, suggests that the control of imitation is governed by cognitive mecha
+Johnston, Miles, & Peace, 2006), direct eye gaze (Wang & Hamilton, nisms distinct from those involved in general inhibition (Brass, Derrfuss, 
+2014; Wang, Newport, & Hamilton, 2011; Wang, Ramsey, & Hamilton, & von Cramon, 2005; Hogeveen et al., 2015; Sowden & Catmur, 2015), 
+2011), and pro-social priming (Cook & Bird, 2011, 2012; Leighton, Bird, and such mechanisms may be specific to the regulation of self- versus 
+Orsini, & Heyes, 2010). However, the specificity of such social modu other-related representations (Brass et al., 2009; de Guzman et al., 
+lation is unclear: is such modulation specific to imitation (the produc 2016). On the other hand, recent studies have cast doubt on the sug
+tion of a movement that matches an observed movement in terms of the gestion that previously reported modulation of imitation is in fact spe
+configural relationships between body parts), or is it the result of a cific to imitation. For example, Marsh, Bird, and Catmur (2016) utilised 
+
+* Corresponding author. 
+E-mail address: divyush.khemka@kcl.ac.uk (D. Khemka).  
+
+https://doi.org/10.1016/j.actpsy.2020.103194 
+Received 27 February 2020; Received in revised form 28 September 2020; Accepted 3 October 2020   
+Available online 30 October 2020
+0001-6918/© 2020 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+
+
+D. Khemka et al.                                                                                                                                                                                                      A   c t a   P  s y  c h  o  l o  g i c a  212 (2021) 103194
+
+a design in which the ability to control imitative responses could be awareness also increases focus on social norms and morals by making 
+isolated from the ability to control the tendency to respond in a spatially the self the object of one’s attention. In terms of perception-action links, 
+compatible manner (Catmur & Heyes, 2011). Marsh et al. demonstrated it has been argued that under conditions of self-focus, effects of 
+that previously used social modulators of imitation (group membership perception on behaviour may be modulated (Dijksterhuis & Bargh, 
+and eye gaze) in fact modulated spatial compatibility but not imitative 2001), because at any given time, multiple action tendencies are acti
+compatibility. vated and self-focus may thus facilitate performance of the self-relevant 
+
+The importance of accounting for non-imitative processes such as action, rather than the other-relevant action. Such facilitation would 
+spatial compatibility is underlined by the fact that the majority of result in reduced imitation. Furthermore this effect should be specific to 
+research exploring the social modulation of imitation has utilised imitation, as the selection of self-versus other-relevant motor represen
+stimulus-response compatibility tasks to measure imitative tendencies. tations is thought to require self-other control, as outlined above. 
+In such tasks, the participant performs movements which are either the Spengler et al. (2010) investigated whether manipulating self- 
+same as (compatible with) or different from (incompatible with) awareness, via changing participants’ level of self-focus, would modu
+observed movements, which are usually irrelevant or incidental to the late imitative tendencies. Participants performed an imitative compati
+participant’s instructed task. Response times on compatible trials are bility task under conditions of either heightened or lowered self-focus 
+typically faster than those on incompatible trials, demonstrating the induced by either the presence or absence of a mirror. During the high 
+influence of the task-irrelevant stimulus movement on the instructed self-focus condition (i.e., with mirror), participants showed less imita
+response. It is usually presumed that this response time effect (‘imitative tion of task-irrelevant finger movement stimuli than during the low self- 
+compatibility effect’) is the result of the topographical similarity, in focus condition. However, the finger movement stimuli were not only 
+terms of body part configuration, between the observed and performed imitatively compatible or incompatible with the participants’ responses, 
+movements. However, in many cases, imitative compatibility effects are they were also presented on the same or opposing side of space as those 
+confounded by spatial compatibility (Aicken, Wilson, Williams, & Mon- responses. Thus, it is possible that the self-focus manipulation in Spen
+Williams, 2007; Bertenthal, Longo, & Kosobud, 2006; Jansson, Wilson, gler et al. (2010)’s study could potentially have influenced spatial 
+Williams, & Mon-Williams, 2007). For example, I may be faster to compatibility rather than imitative compatibility. 
+perform a right-hand index finger movement than to perform a right- In the present study, therefore, we aimed to re-examine a previous 
+hand middle finger movement in the presence of a task-irrelevant method of modulating imitation, self-focus, and test whether such 
+right-hand index finger movement, not just because the stimulus hand modulation is indeed specific to imitation, by measuring the extent to 
+is performing the ‘same’ movement as me, but also because the stimulus which self-focus exerts an influence over both imitative and spatially 
+movement occurs to the left of a fixation point, and my index finger compatible response tendencies. Self-focus was manipulated in the same 
+response occurs on the left side of space relative to the other movement way as Spengler et al. (2010, Experiment 1), through the presence or 
+in my task set (a middle finger movement). It is therefore necessary to absence of mirrors either side of the participant’s computer screen. 
+control for the possible influence of spatial compatibility on response Imitative and spatial compatibility were isolated and measured using 
+times by manipulating, and measuring, both spatial and imitative the same task as Sowden and Catmur (2015), allowing assessment of the 
+compatibility (Catmur & Heyes, 2011). independent effects of the self-focus manipulation on each of these 
+
+In most previous studies of the social modulators of imitation, processes. Self-focus was manipulated in a within-subjects design, with 
+imitative compatibility and spatial compatibility have been confounded. each participant experiencing either the self-focus condition or the 
+For example, Rauchbauer et al. (2016) demonstrated an effect of group control condition first. However, given that it seemed likely that par
+membership and emotional expression on a measure that confounded ticipants would become more aware of the relevance of the mirrors once 
+imitative and spatial compatibility (on imitatively compatible trials, they experienced the second condition in which the mirrors were 
+observed finger movements occurred on the same side of space as re revealed or covered, respectively, we included the order in which par
+sponses, while the reverse was the case for imitatively incompatible ticipants experienced the two conditions as a between-subjects factor in 
+trials). A further study confirmed the effect of emotional expression on preliminary analyses (see Supplementary materials). If interactions are 
+the same measure (Butler, Ward, & Ramsey, 2016). As indicated above, found with this between-subjects factor, subsequent analysis can be 
+however, when imitative compatibility is disentangled from spatial carried out on participants’ responses on the first condition they per
+compatibility, some data suggest that social modulators including group formed, when they were less likely to be aware of the nature of the 
+membership and eye gaze in fact modulate spatial, rather than imitative, experimental manipulation. 
+compatibility (Marsh et al., 2016). If the modulation of imitation by self-focus is specific to imitation, 
+
+Not all social modulators may affect perception-action links in the we should observe an interaction between self-focus condition and 
+same way, however: Cook and Bird (2011, 2012) demonstrated an in imitative, but not spatial, compatibility. If instead it is having its effects 
+fluence of pro-social priming on imitation of finger movements but not on non-imitative processes, we should observe an interaction between 
+on a closely matched ‘effector priming’ measure. Thus it is possible that self-focus condition and spatial compatibility. This study will therefore 
+some social modulators, including group membership, eye gaze, and help to determine whether self-focus (and, by extension, other social 
+emotional expression, modulate perception-action links via domain- modulators of imitation) affects imitation-specific or domain-general 
+general processes, whereas others, including perhaps pro-social prim processes. 
+ing, may act in a socially-specific way. However, as very few studies 
+have disentangled the effects of social modulators on imitation from 2. Method 
+their effects on spatial compatibility (to our knowledge, only Cook & 
+Bird, 2011, 2012, and Marsh et al., 2016), the question of whether most 2.1. Participants 
+social modulators act on imitation or on domain-general processes re
+mains unresolved. Here, therefore, we chose to re-examine a modulating A power analysis revealed that at least forty-four participants would 
+factor, self-focus, that has previously been shown to affect imitation be required to be able to detect the key effect (d = 0.425) found in the 
+(Spengler, Brass, Kühn, & Schütz-Bosbach, 2010), and to test whether its previous study which investigated the effect of self-focus on stimulus- 
+effects are specific to imitation or may instead arise via the modulation response compatibility (Spengler et al., 2010; Experiment 1). Howev
+of domain-general perception-action links. er, to account for potential participant exclusion based on high error 
+
+Self-focus is an interesting example of a social modulator because rates or drop-outs, sixty-two adult volunteers were recruited for this 
+although ostensibly related to the self, the theory of objective self- study through the King’s College London research participation system. 
+awareness (Duval & Wicklund, 1972) suggests that increasing self- Two of these participants were provided with a small cash remuneration 
+
+2
+
+
+
+D. Khemka et al.                                                                                                                                                                                                      A   c t a   P  s y  c h  o  l o  g i c a  212 (2021) 103194
+
+while the rest took part in partial fulfilment of course requirements. One then changed to show either a raised index or middle finger (hand 
+participant was excluded as they were able to identify the purpose of the movement trials), or a pixelated version of the hand (baseline trials) for 
+mirror manipulation, and two participants were excluded due to their 500 ms. The change in finger position induces apparent motion in the 
+mean reaction time exceeding 2.5 standard deviations from the sample observer so that they perceive a finger lifting movement (Press, Gill
+mean. meister, & Heyes, 2007). Simultaneously, an imperative cue (purple or 
+
+The final sample therefore comprised 59 participants (6 males; 4 left- green square) replaced the fixation point. This cue acted as a signal to 
+handed; Mage = 18.8 years, SDage = 0.795). A power analysis conducted the participant to respond by lifting their own index or middle finger. 
+in G*Power 3.1 revealed that a sample of 59 participants allows us to Cue colour-response mapping (e.g. purple-index lift, green-middle lift) 
+detect a minimum effect size of d = 0.35 at 80% power. All participants was counterbalanced between subjects. 
+had normal or corrected-to-normal vision. The experiment was On hand movement trials, spatial and imitative compatibility be
+approved by the King’s College London research ethics committee and tween the observed and the instructed finger movements were manip
+was performed in accordance with the principles of the Helsinki ulated in a 2 × 2 factorial design. In order to manipulate imitative 
+Declaration (World Medical Association, 2013). All participants pro compatibility, the imperative cue instructed the participant to lift either 
+vided written informed consent and were aware they could withdraw at the same finger (imitatively compatible) or a different finger (imita
+any time. tively incompatible) to that lifted by the hand. Spatial compatibility was 
+
+manipulated in an orthogonal manner to imitative compatibility due to 
+the inclusion of both left and right hand stimuli, meaning that the par
+
+2.2. Stimuli and experimental design ticipant’s movement could be performed on either the same side of space 
+(spatially compatible) or the opposite side of space (spatially incom
+
+2.2.1. Stimulus-response compatibility task patible) to the side of space on which the hand movement occurred. For 
+Automatic imitation and spatial compatibility effects were measured example, if the observed hand was a right hand, then imitatively 
+
+using a computerised stimulus-response compatibility task involving the compatible actions were also spatially compatible, because the observed 
+observation and execution of finger lifting movements (Catmur & Heyes, finger lift was on the same side of space as the finger to be moved; and 
+2011; Sowden & Catmur, 2015). The modulation of automatic imitation imitatively incompatible actions were also spatially incompatible. 
+and spatial compatibility was assessed in a within-subject design by However, if the observed hand was a left hand, imitatively compatible 
+combining the finger movement task with two different experimental actions were spatially incompatible and imitatively incompatible ac
+conditions. In the self-focus condition participants were primed with tions were spatially compatible (see Fig. 2). 
+heightened self-focus, while in the control condition self-focus was not On baseline trials, the stimulus hand became pixelated in order to 
+manipulated (see Section 2.2.2). The order of the conditions was match the visual change occurring on hand movement trials. Baseline 
+counterbalanced across participants. trials were included to permit comparison of response times across the 
+
+Throughout the experiment participants were required to hold down two experimental conditions when no finger movements were pre
+the “N” and “M” keys on a computer keyboard with their right index and sented. A difference in response times on baseline trials in the self-focus 
+middle fingers. The computer keyboard was positioned horizontally, compared to the control condition could indicate general effects of self- 
+parallel to the base of the desktop with the “N” and “M” keys in line with focus on processes such as attention or motivation. 
+the centre of the computer screen to ensure optimum spatial mapping After the presentation of the hand movement or baseline image, 
+between observer and stimulus hands. Participants had to respond to an another grey screen was presented for 500 ms – 1200 ms depending on 
+imperative cue by releasing a key thus performing a finger lift. Trials the previous interval to ensure that all trials lasted 3500 ms. 
+started with a grey screen with “GET READY” in the centre displayed for Imitative compatibility (compatible, incompatible), spatial compat
+1000 ms. This was replaced with either a right or left resting hand, with ibility (compatible, incompatible) and experimental condition (self- 
+a fixation point equidistant between the index and middle fingers (see focus, control) were manipulated within-subject in a 2 × 2 × 2 factorial 
+Fig. 1), for a variable inter-stimulus interval (randomly selected from design for hand movement trials. For baseline trials, stimulus hand (left, 
+values between 800 ms and 1500 ms in steps of 50 ms). The hand image 
+
+Fig. 1. Timeline of a single hand movement trial. Participants were first instructed to get ready, meaning that they should use their index and middle fingers of their 
+right hand to depress the “N” and “M” keys, respectively. After a brief interval, the static hand was presented, followed by the task-irrelevant finger lift stimulus. 
+Responses (finger lifts) were made according to the colour of the task-relevant cue (green or purple) presented with the task-irrelevant stimulus. For the response 
+mapping in which a purple cue requires a middle finger lift, this trial is imitatively and spatially incompatible, whereas for trials in which a purple cue requires an 
+index finger lift, it is imitatively and spatially compatible. 
+
+3
+
+
+
+D. Khemka et al.                                                                                                                                                                                                      A   c t a   P  s y  c h  o  l o  g i c a  212 (2021) 103194
+
+Fig. 2. Left panel: Left and right baseline stimuli. Right panel: The 2 (imitative compatibility) x 2 (spatial compatibility) task design, illustrated for a trial when an 
+index finger lift is the instructed response. When a middle finger is the instructed response, the levels of spatial and imitative compatibility are each reversed. 
+
+right) and experimental condition (self-focus, control) were manipu and dependency on other people. The scale includes 24 items and all 
+lated in a 2 × 2 factorial design. Dependent variables were response time responses are made on a 7-point Likert-type scale with anchors of 1 
+(measured from onset of the imperative cue) and number of errors. (strongly disagree) and 7 (strongly agree). The two factors are not 
+Participants completed 120 trials in each experimental condition, with related (r = − 0.04; Singelis, 1994), so it is possible to score high or low 
+each trial type repeated 20 times per condition and presented in a on both factors. Exploratory factor analysis conducted in the original 
+random order. Trials were separated into three blocks per condition and paper reports medium-to-high internal consistency for the independent 
+participants were instructed that they could take a short break between (Cronbach’s α = 0.69) and the interdependent factors (Cronbach’s α =
+blocks. The task took no longer than 15 min. All stimuli and instructions 0.73). For the current experiment, the scale was divided in two parallel 
+were coded in Matlab 2012 (The Mathworks, Matick, MA) and presented forms. The items were evenly distributed on the two forms, with twelve 
+with Cogent 2000. questions in total on each form, six of each factor. The forms were 
+
+presented in a counterbalanced order after each of the two experimental 
+2.2.2. Self-focus manipulation conditions. 
+
+In the self-focus condition, mirrors (height: 70 cm; width: 50 cm) 
+were positioned on both sides of the computer screen so the participants 
+saw their head and upper body while they were responding to the pre 2.3. Procedure 
+sented stimuli. The mirrors were positioned relative to each partici
+pant’s position on the seat such that each participant could view their The experiment took place in a quiet testing lab in King’s College 
+head and upper body in both mirrors. The bottom of each mirror was London. After reading the information sheet and signing the consent 
+covered with black card to avoid participants being able to see their own form, participants were provided with the instructions for the stimulus- 
+finger movements. In the self-focus condition, the rest of each mirror response compatibility task. They then performed a practice version of 
+was uncovered while the participants performed the computer task. In this task which included 12 trials, comprising a fully factorial combi
+the control condition, the mirrors were fully covered with black cloth. nation of all six stimuli with both responses. Participants who made 
+Apart from the visibility of the mirrors, the self-focus condition and the more than three errors were required to repeat the practice trials until 
+control condition did not differ. they made no more than three errors on the 12 trials. The experimenter 
+
+remained in the room during the practice to answer any questions the 
+2.2.3. Self-Construal Scale participant had about the instructions. Once the participant completed 
+
+Imitation in a naturalistic setting has previously been shown to vary the practice trials, the experimenter either revealed the mirrors or left 
+as a function of levels of self-construal (van Baaren, Maddux, Chartrand, them covered, and left the room. After three blocks had been completed 
+De Bouter, & Van Knippenberg, 2003, Study 3). Therefore, in order to the participant was told to ask the experimenter outside the room for 
+assess possible changes in self-construal as a result of the manipulation further instructions. The participant then filled out the first half of the 
+of self-focus, a questionnaire was filled out by participants after each Self-Construal Scale. The next condition followed, with the mirrors now 
+experimental condition, comprising items from the Self-Construal Scale covered/revealed, followed by the other half of the Self-Construal Scale. 
+(Singelis, 1994). The Self-Construal Scale measures two factors: inde Following the last questionnaire, participants were asked two ques
+pendent and interdependent self-construal. Participants scoring high on tions to ascertain the degree to which they could infer the purpose of the 
+the independent factor (example item: “My personal identity, indepen study and of the self-focus manipulation. Each participant was first 
+dent of others, is very important to me”) describe themselves as indi asked “What is the purpose of this study?” followed by “What effect did 
+vidualistic and unique, stressing their independence. High the mirrors have while you were doing the task, if any?” Participants’ 
+interdependent scorers (example item: “I have respect for the authority 
+figures with whom I interact”) endorse their connectedness to relatives 
+
+4
+
+
+
+D. Khemka et al.                                                                                                                                                                                                      A   c t a   P  s y  c h  o  l o  g i c a  212 (2021) 103194
+
+responses were noted down verbatim.1 Any participant who identified compatible trials. No other main effects or interactions were detected 
+that the presence or absence of the mirror might affect imitation of the (all F(1,57) < 0.73, all p > .396, all η2 
+
+p < 0.013). 
+on-screen hand was excluded. Error data on the baseline trials were also analysed using the same 
+
+ANOVA as for the response time data. This revealed no significant main 
+3. Results effects or interaction (all F(1,57) < 1.26, all p > .266, all η2 
+
+p < 0.022). 
+
+3.1. Stimulus-response compatibility task 3.2. Self-Construal Scale 
+
+Preliminary analyses of the effect of the self-focus manipulation on Table 1 presents the descriptive statistics for the Self-Construal Scale 
+spatial compatibility revealed a trend-level interaction with condition data. Two independent samples t-tests were performed, one for each self- 
+order, indicating an effect of the first condition completed on perfor construal factor, to test the effect of the experimental manipulation on 
+mance during the subsequent condition. Therefore, all analyses were self-reported self-construal. No significant difference was detected for 
+performed on the first condition only. Results of the preliminary ana either the interdependent (t(57) = 0.59, p = .557, d = 0.14) or the in
+lyses are included in Supplementary materials. dependent (t(57) = 0.85, p = .400, d = 0.20) factors. This shows that the 
+
+For each participant, the mean and SD response times on correct mirror manipulation did not significantly influence scores on the self- 
+trials were calculated and any response times more than 2.5SD from the construal scale. 
+overall mean of that participant were excluded (1.9% of trials). The 
+mean response time on the remaining trials was calculated for each cell 4. Discussion 
+of the design for each participant. Fig. 3 displays the mean response 
+times across all participants for each cell of the design, including base The present study aimed to identify the mechanisms involved in the 
+line trials. social modulation of imitation. We investigated whether a social factor 
+
+The total number of errors was also calculated for each cell of the previously shown to modulate imitation, self-focus, specifically modu
+design, including baseline trials, and the means of these values across all lates imitative processes when spatially compatible responding is 
+participants are displayed in Fig. 4. controlled for. By utilising a stimulus-response compatibility task which 
+
+allowed the dissociation of imitative and spatial compatibility, we aimed 
+3.1.1. Response time (RT) analysis to determine whether social modulators impact on imitation via 
+
+The response time data were subjected to a repeated measures domain-specific or domain-general processes. 
+ANOVA with within-subjects factors of imitative compatibility Analysis of both the response time and error data in the first condi
+(compatible, incompatible), and spatial compatibility (compatible, tion completed by participants revealed no significant interaction be
+incompatible) and between-subjects factor of experimental condition tween self-focus and spatial or imitative compatibility, showing no 
+(self-focus, control). The ANOVA revealed a main effect of imitative evidence that self-focus affects imitation or spatial compatibility. The 
+compatibility, (F(1,57) = 28.20, p < .001, η2 
+
+p = 0.331), and spatial baseline data for both response time and errors showed no effect of the 
+compatibility, (F(1,57) = 185.06, p < .001, η2 
+
+p = 0.765), such that mean self-focus manipulation on responses, confirming that the self-focus 
+response time on incompatible trials was significantly higher than that manipulation did not affect ‘raw’ response times or accuracy. Interest
+on compatible trials, both imitatively and spatially. No main effect of ingly, although there was no significant effect of self-focus on spatial 
+experimental condition was found, (F(1,57) = 0.024, p = .876, η2 
+
+p = compatibility, the magnitude of the spatial compatibility effect in each 
+0.000), indicating that response times were not significantly different of the two experimental conditions (self-focus: 41 ms; control: 49 ms) 
+between the self-focus and control conditions. Crucially, no interaction was similar to the magnitude of the effect of self-focus on imitation re
+was found between experimental condition and imitative compatibility, ported by Spengler et al. (2010, Experiment 1; self-focus: ~45 ms; 
+(F(1,57) = 0.23, p = .631, η2 
+
+p = 0.004), or experimental condition and control: ~55 ms), suggesting that numerically at least, our manipulation 
+spatial compatibility (F(1,57) = 1.22, p = .274, η2 
+
+p = 0.021), suggesting had a similar effect to that of Spengler and colleagues. The preliminary 
+that the self-focus manipulation did not significantly influence imitative within-subjects analysis revealed a trend-level effect of condition order 
+or spatial compatibility. on spatial compatibility, suggesting that participants’ involvement in 
+
+Response time on the baseline trials was also analysed using a the first condition may have impacted their performance on the second 
+repeated measures ANOVA with within-subjects factor of stimulus hand condition they performed. As a result, we only used data from the first 
+(right, left) and between-subjects factor of experimental condition (self- condition in the main analyses. While switching from a within-subjects 
+focus, control). This revealed no significant main effects or interaction analysis to a between-subjects analysis will have impacted the statistical 
+(all F(1,57) < 1.04, all p > .311, all η2 
+
+p < 0.018), indicating that overall power of the study, the within-subjects analysis reported in Supple
+response times did not differ across experimental conditions, and that mentary materials also showed no effect of self-focus on imitation, 
+the laterality of the on-screen hand did not affect response times. making it unlikely that our current results are due to a reduction in 
+
+statistical power. 
+3.1.2. Error analysis These results indicate that – at least when implemented using a 
+
+The error data were subjected to a repeated measures ANOVA with mirror manipulation of the sort used here – self-focus does not have a 
+the same factors as the response time data. This revealed a main effect of significant influence on either spatial compatibility or imitation, con
+imitative compatibility (F(1,57) = 60.48, p < .001, η2 
+
+p = 0.515), and trary to the findings of Spengler et al. (2010). It is possible that the lack 
+spatial compatibility (F(1,57) = 48.09, p < .001, η2 
+
+p = 0.458), similar to of a modulatory effect on both spatial and imitative compatibility may 
+the effects found in the RT data. Additionally, a significant interaction be due to potential weakness in the self-focus manipulation. Although 
+between spatial and imitative compatibility was detected (F(1,57) = we used the same manipulation as Spengler and colleagues, it is possible 
+14.57, p < .001, η2 
+
+p = 0.204), such that the imitative compatibility effect that the current manipulation created only a limited sense of heightened 
+was greater during spatially incompatible trials than during spatially self-focus. To our knowledge, only Spengler et al. have previously used a 
+
+mirror manipulation to investigate the effect of self-focus on imitation; 
+but large numbers of previous studies have used mirrors to induce a state 
+
+1 The manipulation check was added to the procedure after approximately of heightened self-focus (e.g. Dijksterhuis & van Knippenberg, 2000; 
+one-third of participants had been tested; a separate analysis revealed no dif Martin, Perry, & Kaufman, 2020; Ross, Anderson, & Campbell, 2011; 
+ference in results between those who did, and those who did not, receive the Silvia, 2012; Wicklund & Duval, 1971). Thus it seems that a mirror 
+manipulation check. manipulation is a commonly used and generally robust method of 
+
+5
+
+
+
+D. Khemka et al.                                                                                                                                                                                                      A   c t a   P  s y  c h  o  l o  g i c a  212 (2021) 103194
+
+Fig. 3. Mean response time for each level of spatial and imitative compatibility, and for the baseline stimuli, for each experimental condition. SC = Spatially 
+compatible; IC = Imitatively compatible; SI = Spatially incompatible; II = Imitatively incompatible. Error bars indicate standard error of the mean. 
+
+Fig. 4. Mean number of errors for each level of spatial and imitative compatibility, and for the baseline stimuli, for each experimental condition. Twenty trials were 
+presented in each cell of the design in each condition. SC = Spatially compatible; IC = Imitatively compatible; SI = Spatially incompatible; II = Imitatively 
+incompatible. Error bars indicate standard error of the mean. 
+
+Supporting the above point as one potential limitation of the current 
+Table 1 study is the lack of an effect of the self-focus manipulation on the self- 
+Mean ± standard deviation responses to each self-construal factor across the 
+experimental conditions.  construal measure. We included a measure of self-construal because 
+
+levels of independent and interdependent self-construal have previously 
+Experimental Interdependent self- Independent self- been shown to affect imitation (van Baaren et al., 2003, Study 3). If we 
+condition construal construal had found increased endorsement of statements relating to independent 
+Self-focus 29.93 ± 4.67 25.24 ± 4.39 self-construal following the self-focus condition, this would have pro
+Control 28.39 ± 4.47 26.57 ± 5.92  vided an additional confirmation of the impact of the self-focus 
+
+manipulation on a relevant personality dimension. On the other hand, 
+increasing self-focus, although of course it remains a possibility that however, it may have been unlikely that we would have observed an 
+other papers reporting null effects of such a manipulation have been less effect of such a brief manipulation on a relatively stable trait (Singelis 
+commonly published in the past (Rosenthal, 1979). et al., 2006). Therefore, future studies should attempt to include a more 
+
+One previous study has shown that self-focus can reduce behavioural sensitive measure for the effectiveness of the self-focus manipulation. 
+mimicry; but in that study, self-focus was manipulated in a different The lack of evidence for social modulation of imitation has possible 
+way. van Baaren et al. (2003, Study 1) asked participants to perform a implications for our understanding of the role of self-other control in 
+bogus translation task alongside confederates who were performing social cognitive functioning. Previous research has suggested that self- 
+task-irrelevant movements. In the self-focus condition, participants were other control may contribute to higher-order sociocognitive functions 
+asked to fill in omissions in the translated text by choosing between the such as theory of mind, perspective-taking and empathy (Happé, Cook, 
+words “I”, “me”, or “mine”, thus increasing attention to the self. In a & Bird, 2017; Sowden & Shah, 2014; Santiesteban et al., 2012; de 
+control condition, the words were “he”, “him”, and “his”. During the Guzman et al., 2016). However, the current evidence does not support 
+self-focus condition, participants showed less imitation of the confed the converse relationship, that is, that high-level social factors influence 
+erate’s movements than during the control condition. Therefore, self-other control. Thus, it is possible that the relationship between self- 
+perhaps a more robust self-focus manipulation than the use of mirrors other control and higher-order social functioning may be a bottom-up 
+may be able to successfully produce modulation of perception-action process rather than a bidirectional association between higher-order 
+links. and low-level processes. 
+
+6
+
+
+
+D. Khemka et al.                                                                                                                                                                                                      A   c t a   P  s y  c h  o  l o  g i c a  212 (2021) 103194
+
+In summary, the current findings do not provide support for the Gleibs, I. H., Wilson, N., Reddy, G., & Catmur, C. (2016). Group dynamics in automatic 
+claim that self-focus modulates imitation-specific processes. However, imitation. PLoS One, 11(9). 
+
+Greenwald, A. G. (1970). Sensory feedback mechanisms in performance control: With 
+evidence for modulation of spatial compatibility was not found either. special reference to the ideo-motor mechanism. Psychological Review, 77(2), 73. 
+Future studies should therefore aim to use more robust manipulations to Greenwald, A. G. (1972). On doing two things at once: Time sharing as a function of 
+uncover the precise nature of the cognitive processes that are modulated ideomotor compatibility. Journal of Experimental Psychology, 94(1), 52–57. 
+
+Happé, F., Cook, J. L., & Bird, G. (2017). The structure of social cognition: In (ter) 
+in social contexts. dependence of sociocognitive processes. Annual Review of Psychology, 68, 243–267. 
+
+Heyes, C. (2011). Automatic imitation. Psychological Bulletin, 137(3), 463. 
+CRediT authorship contribution statement Hogeveen, J., Obhi, S. S., Banissy, M. J., Santiesteban, I., Press, C., Catmur, C., & Bird, G. 
+
+(2015). Task-dependent and distinct roles of the temporoparietal junction and 
+inferior frontal cortex in the control of imitation. Social Cognitive and Affective 
+
+Divyush Khemka: Methodology, Investigation, Formal analysis, Neuroscience, 10(7), 1003–1009. 
+Writing – original draft. Narges Ahmadilari: Investigation, Writing – Jansson, E., Wilson, A. D., Williams, J. H., & Mon-Williams, M. (2007). Methodological 
+reviewing and editing. Geoffrey Bird: Writing – reviewing and editing. problems undermine tests of the ideo-motor conjecture. Experimental Brain Research, 
+
+182(4), 549–558. 
+Caroline Catmur: Conceptualisation, Methodology, Formal analysis, Leighton, J., Bird, G., Orsini, C., & Heyes, C. (2010). Social attitudes modulate automatic 
+Software, Supervision, Writing – reviewing and editing. imitation. Journal of Experimental Social Psychology, 46(6), 905–910. 
+
+Marsh, L. E., Bird, G., & Catmur, C. (2016). The imitation game: Effects of social cues on 
+“imitation” are domain-general in nature. NeuroImage, 139, 368–375. 
+
+Declaration of competing interest Martin, D. U., Perry, C., & Kaufman, J. (2020). Effects of a mirror on young children’s 
+transgression in a gift-delay task. British Journal of Developmental Psychology, 38(2), 
+
+None. 205–218. 
+Miles, L. K., Griffiths, J. L., Richardson, M. J., & Macrae, C. N. (2010). Too late to 
+
+coordinate: Contextual influences on behavioral synchrony. European Journal of 
+Acknowledgements Social Psychology, 40(1), 52–60. 
+
+Press, C., Gillmeister, H., & Heyes, C. (2007). Sensorimotor experience enhances 
+automatic imitation of robotic action. Proceedings of the Royal Society B: Biological 
+
+We would like to thank Sabine Lee for her assistance with data Sciences, 274(1625), 2509–2514. 
+collection. This research did not receive any specific grant from funding Rauchbauer, B., Majdandžić, J., Hummer, A., Windischberger, C., & Lamm, C. (2015). 
+agencies in the public, commercial, or not-for-profit sectors. Distinct neural processes are engaged in the modulation of mimicry by social group- 
+
+membership and emotional expressions. Cortex, 70, 49–67. 
+Rauchbauer, B., Majdandžić, J., Stieger, S., & Lamm, C. (2016). The modulation of 
+
+Appendix A. Supplementary data mimicry by ethnic group-membership and emotional expressions. PLoS One, 11(8), 
+Article e0161064. 
+
+Supplementary data to this article can be found online at https://doi. Rosenthal, R. (1979). The file drawer problem and tolerance for null results. Psychological 
+Bulletin, 86(3), 638. 
+
+org/10.1016/j.actpsy.2020.103194. Ross, J., Anderson, J. R., & Campbell, R. N. (2011). Situational changes in self-awareness 
+influence 3- and 4-year-olds’ self-regulation. Journal of Experimental Child 
+
+References Psychology, 108(1), 126–138. 
+Santiesteban, I., White, S., Cook, J., Gilbert, S. J., Heyes, C., & Bird, G. (2012). Training 
+
+social cognition: From imitation to theory of mind. Cognition, 122(2), 228–235. 
+Aicken, M. D., Wilson, A. D., Williams, J. H., & Mon-Williams, M. (2007). Methodological Sheflen, A. E. (1964). The significance of posture in communication systems. Psychiatry, 
+
+issues in measures of imitative reaction times. Brain and Cognition, 63(3), 304–308. 27(4), 316–331. 
+Bertenthal, B. I., Longo, M. R., & Kosobud, A. (2006). Imitative response tendencies Silvia, P. J. (2012). Mirrors, masks, and motivation: Implicit and explicit self-focused 
+
+following observation of intransitive actions. Journal of Experimental Psychology: attention influence effort-related cardiovascular reactivity. Biological Psychology, 90 
+Human Perception and Performance, 32(2), 210. (3), 192–201. 
+
+Bock, J. K. (1986). Syntactic persistence in language production. Cognitive Psychology, 18 Singelis, T. M. (1994). The measurement of independent and interdependent self- 
+(3), 355–387. https://doi.org/10.1016/0010-0285(86)90004-6 construals. Personality and Social Psychology Bulletin, 20(5), 580–591. 
+
+Brass, M., Bekkering, H., Wohlschläger, A., & Prinz, W. (2000). Compatibility between Singelis, T. M., Yamada, A. M., Barrio, C., Laney, J. H., Her, P., Ruiz-Anaya, A., & 
+observed and executed finger movements: Comparing symbolic, spatial, and Lennertz, S. T. (2006). Metric equivalence of the bidimensional acculturation scale, 
+imitative cues. Brain and Cognition, 44, 124–143. the satisfaction with life scale, and the self-construal scale across Spanish and 
+
+Brass, M., Derrfuss, J., & von Cramon, D. Y. (2005). The inhibition of imitative and English language versions. Hispanic Journal of Behavioral Sciences, 28(2), 231–244. 
+overlearned responses: A functional double dissociation. Neuropsychologia, 43(1), Sowden, S., & Catmur, C. (2015). The role of the right temporoparietal junction in the 
+89–98. control of imitation. Cerebral Cortex, 25(4), 1107–1113. 
+
+Brass, M., Ruby, P., & Spengler, S. (2009). Inhibition of imitative behaviour and social Sowden, S., & Shah, P. (2014). Self-other control: A candidate mechanism for social 
+cognition. Philosophical Transactions of the Royal Society B: Biological Sciences, 364, cognitive function. Frontiers in Human Neuroscience, 8(789). 
+2359–2367. Spengler, S., Brass, M., Kühn, S., & Schütz-Bosbach, S. (2010). Minimizing motor 
+
+Butler, E. E., Ward, R., & Ramsey, R. (2016). The influence of facial signals on the mimicry by myself: Self-focus enhances online action-control mechanisms during 
+automatic imitation of hand actions. Frontiers in Psychology, 7, 1653. motor contagion. Consciousness and Cognition, 19(1), 98–106. 
+
+Catmur, C., & Heyes, C. (2011). Time course analyses confirm independence of imitative van Baaren, R. B., Maddux, W. W., Chartrand, T. L., De Bouter, C., & Van Knippenberg, A. 
+and spatial compatibility. Journal of Experimental Psychology: Human Perception and (2003). It takes two to mimic: Behavioral consequences of self-construals. Journal of 
+Performance, 37(2), 409. Personality and Social Psychology, 84(5), 1093. 
+
+Chartrand, T. L., & Lakin, J. L. (2013). The antecedents and consequences of human Wang, Y., & Hamilton, A. F. D. C. (2014). Why does gaze enhance mimicry? Placing gaze- 
+behavioral mimicry. Annual Review of Psychology, 64, 285–308. mimicry effects in relation to other gaze phenomena. The Quarterly Journal of 
+
+Cook, J., & Bird, G. (2011). Social attitudes differentially modulate imitation in Experimental Psychology, 67(4), 747–762. 
+adolescents and adults. Experimental Brain Research, 211(3–4), 601–612. Wang, Y., Newport, R., & Hamilton, A. F. D. C. (2011). Eye contact enhances mimicry of 
+
+Cook, J. L., & Bird, G. (2012). Atypical social modulation of imitation in autism spectrum intransitive hand movements. Biology Letters, 7(1), 7–10. 
+conditions. Journal of Autism and Developmental Disorders, 42(6), 1045–1051. Wang, Y., Ramsey, R., & Hamilton, A. F. D. C. (2011). The control of mimicry by eye 
+
+de Guzman, M., Bird, G., Banissy, M. J., & Catmur, C. (2016). Self – Other control contact is mediated by medial prefrontal cortex. Journal of Neuroscience, 31(33), 
+processes in social cognition: From imitation to empathy. Philosophical Transactions 12001–12010. 
+of the Royal Society B, 371, 20150079. https://doi.org/10.1098/rstb.2015.0079 Wicklund, R., & Duval, S. (1971). Opinion change and performance facilitation of 
+
+Dijksterhuis, A., & Bargh, J. A. (2001). The perception-behavior expressway: Automatic objective as a result of objective self-awareness. Journal of Experimental Social 
+effects of social perception on social behavior. In , Vol. 33. Advances in experimental Psychology, 7, 319–342. 
+social psychology (pp. 1–40). Academic Press.  World Medical Association. (2013). World Medical Association Declaration of Helsinki: 
+
+Dijksterhuis, A., & Van Knippenberg, A. D. (2000). Behavioral indecision: Effects of self- Ethical principles for medical research involving human subjects. JAMA, 310(20), 
+focus on automatic behavior. Social Cognition, 18(1), 55–74. 2191–2194. https://doi.org/10.1001/jama.2013.281053 
+
+Duval, S., & Wicklund, R. A. (1972). A theory of objective self awareness. Academic Press.  Yabar, Y., Johnston, L., Miles, L., & Peace, V. (2006). Implicit behavioral mimicry: 
+Fadiga, L., Fogassi, L., Pavesi, G., & Rizzolatti, G. (1995). Motor facilitation during action Investigating the impact of group membership. Journal of Nonverbal Behavior, 30(3), 
+
+observation: A magnetic stimulation study. Journal of Neurophysiology, 73(6), 97–113. 
+2608–2611. 
+
+7

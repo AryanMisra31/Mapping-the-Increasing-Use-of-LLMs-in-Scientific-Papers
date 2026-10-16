@@ -1,0 +1,1013 @@
+﻿education 
+sciences
+
+Commentary
+
+Understanding and Addressing the Deficiencies in UK
+Mathematics Education: Taking an International Perspective
+Charlotte S. Skipp and Eleanor J. Dommett *
+
+Department of Psychology, Institute of Psychiatry, Psychology and Neuroscience, King’s College London,
+London SE5 8AF, UK; charlotte.skipp@kcl.ac.uk
+* Correspondence: Eleanor.dommett@kcl.ac.uk; Tel.: +44-207-848-6928
+
+Abstract: This paper reflects on UK mathematics education following the poor performance in the
+Programme for International Student Assessment (PISA) metric, which compares reading, science,
+and mathematics across 27 countries. We compared a range of features within secondary school
+mathematics in the UK with the countries outperforming the UK. We note disparities in the depth
+of the curriculum and the use of high-stakes testing which could be disadvantaging UK students.
+We also reflect on key factors that may underpin teacher effectiveness in the UK, including teacher
+expectations, in part driven by early use of ability sets, a lack of teacher autonomy, and poor
+continuous professional development. On this basis, we make several recommendations to strengthen
+UK mathematics education.
+
+Keywords: PISA; teacher effectiveness; teacher autonomy; professional development; assessment;
+curriculum
+
+
+
+
+Citation: Skipp, C.S.; Dommett, E.J.
+Understanding and Addressing the 1. Introduction
+Deficiencies in UK Mathematics Mathematics is a core discipline that sits at the heart of primary and secondary
+Education: Taking an International education in the UK. Despite this, it has recently been noted by Andreas Schleicher, the
+Perspective. Educ. Sci. 2021, 11, 141. Education Director of the Organisation for Economic Co-operation and Development
+https://doi.org/10.3390/ (OECD), that if the UK education system continues to progress at its current rate, “it would
+educsci11030141
+
+take a very long time to catch up with the highest achieving countries” [1]. These remarks
+were in response to the UK’s performance in the Programme for International Student
+
+Academic Editor: Andrew Lumpe
+Assessment (PISA) 2018, an assessment conducted every three years, across 79 different
+
+Received: 1 March 2021 countries, which explores the abilities of 15-year-olds to solve problems set in real-world
+Accepted: 19 March 2021 contexts, in reading, science, and mathematics. In PISA 2018, the UK was ranked 14th for
+Published: 23 March 2021 reading and science, but only 18th for mathematics, with students in 12 countries with
+
+maths abilities that were at least four months ahead of the comparable UK cohort [2].
+Publisher’s Note: MDPI stays neutral Within the top scoring countries, there were gender differences in performance. In some
+with regard to jurisdictional claims in cases, girls outperformed boys (e.g., Finland), but in most countries, including the UK,
+published maps and institutional affil- boys outperformed girls. Moreover, within the UK, the gender gap was greater than for
+iations. all countries that outperformed the UK. Given this poor performance in mathematics, it is
+
+timely to reflect on what can be done to improve this in the UK. One approach is to examine
+practices in PISA’s top performing countries, such as Estonia, Finland, the Netherlands,
+and several in East Asia, and compare these to the UK.
+
+Copyright: © 2021 by the authors. There are, of course, likely to be many factors that have led to these countries being
+Licensee MDPI, Basel, Switzerland. more successful, including performance in other areas—research suggests that mathematics
+This article is an open access article ability is, in part, underpinned by reading performance [3]. However, it is not possible to
+distributed under the terms and examine all of these and, as such, we have chosen to focus on two core areas: 1. curriculum
+conditions of the Creative Commons and assessment and 2. teacher effectiveness, considering several factors within each of
+Attribution (CC BY) license (https:// these (Figure 1).
+creativecommons.org/licenses/by/
+4.0/).
+
+Educ. Sci. 2021, 11, 141. https://doi.org/10.3390/educsci11030141 https://www.mdpi.com/journal/education
+
+
+
+Educ. Sci. 2021, 11, x FOR PEER REVIEW 2 of 15 
+ 
+
+Educ. Sci. 2021, 11, 141 2 of 15
+
+ 
+FFigiugrue 1r.eA 1re.a sAforrecaonss ifdoerra tcioonnwshiedneexraamtiinoinng wpoohreUnK emxatahmemianticinpegrf oprmoaonrc eU. K mathematic performance. 
+
+Furthermore, we focus on secondary education (ages 11–18 years, Year 7–13) because
+this perFioud irstahsseorcmiateodrwei,t hwaesi gfnoificcuanst odrno ps-eofcfoinnmdaathreym aetidcsupcerafotirmonan c(ea[g4]e, san 1d1–18 years, Year 7–13) because 
+evidence suggests that students often find secondary school mathematics particularly
+dtihffiicsu lpt beercaiuosde t hise  inafsosrmoacliaaptperodac hwtaikthen at psriigmnariyfischaonolti sdrerpolapce-dowffit hina  nmeedatohematics performance [4], and 
+understand increasingly abstract concepts [5]. Finally, it is also apparent that in the UK, this
+ies va pidereiondcweh iscuh egngdsewstitsh tshtuadetn ststuvedryednistisnt eorfestteend i nfimnadth semecatoicns,dwaithrya  rsevcihewooofl mathematics particularly dif-
+pfoisctu-16lte dbuecactiaoun rseeve atlhineg tihnatfwohremn tahol seaipnpuprpoear scehco ntdaakryesnch oaotl aprergiimvenatrhye  chsocihceool is replaced with a need to 
+whether to study this subject, only 13–14% engage [6]. Additionally, this analysis focuses
+ounnstdatee rscshtoaonlsd(as ionpcporseeadstointhgosleyr uanbpsritvraateclyt ocr oinndecpeenpdtesn t[ly5),]b. eFcaiunseatlhleym, aijto riitsy also apparent that in the UK, 
+otfhsitusd iesn tas aptteenrdiothdis wtypheiocfhin estnitudtsio nwaintdht hsetPuIdSAemntasth vemeartyics dsciosriens toebtraeinsetdebdy in mathematics, with a review 
+tohifs specotosrta-r1e6si gendifiucacnatlytiloowne rrtehvanetahloisne agc htihevaedt iwn inhdeenpe ntdheontssech ionol su[7p].per secondary school are given the 
+2c.hCourirciceu lwumhaentdhAesrse stsom sentut dy this subject, only 13–14% engage [6]. Additionally, this analysis 
+2.1. Re-Shaping the Curriculum
+focIut sheassb oeenn ssutaggtees tsedchthoaot alss t(raonsg ocpurpricousluemd, twoh itchh oisseess renutinal pforrifvacailtietaltyin gor independently), because the 
+hmigha-jqourailittyy l eoafrn sintgu, sdheounldtsf oacutsteonnodn lythfuinsd taympeneta locfo nicnepsttsiatnudtiporinnc iaplnesd[8 ]t.hBey PISA mathematics scores ob-
+employing a more focused curriculum, material can be taught in a way that supports
+dteaeipnereldea rbniyng tahlloisw isnegcsttuodre natsrteo esniggagneiwfiicthamnattleyri alloinwa ewra ytthhaatncr etahteos saed eaepcehr ieved in independent schools 
+u[n7d]e. rs tanding [9]. This can facilitate longer term retention of key concepts [10], and the
+development of critical and analytical skills, which are essential for mathematics and
+employability [11]. Despite this ideal, over the past two decades, the UK has moved away
+f2ro.m Caumrartihcemualtuicms cu arrnicudlu Am sfosceussesdmonekneyt concepts and principles [8,12] to one that
+has been described by Schleicher as a “mile wide and an inch deep” [13]. The result of
+t2hi.s1s.h Ralleo-wSahnadpbirnoagd tchurer iCcuulurmriicsuthlaut mno individual topic or concept can be explored
+in depth. Thus, the focus of lessons becomes the memorisation of facts, associated with
+surface Ileta hrnainsg ,braetehenr tshuangtgeaechsitnegdst uthdeants ato satdroopnt tghe cthuorurgihctsuolfuama,t hwemhaitcichia nis,  essential for facilitating high-
+an outcome that can be achieved by giving them the opportunity to work through and
+sqoluveamliattyhe mleaaticranl pinrogbl,e msshboyuthledm sfeolvcesu[s8] .oFnur thoenrmlyor ef,uthne UdKamcurerincutlauml ctyopnicaclleypts and principles [8]. By em-
+opvleorcyominpglic ate ms moarthee mfoatcicus,sgeidvin cgustrurdiecnutsluprmobl,e msawtheerrieatlh ecamnat hbeem attaicualgshkitll in a way that supports deeper 
+requirements are low but the complex and confusing context in which the problems are
+elmeaberdndiend gm aaklelsothwemindgiffi scutlut tdoesonlvtes. to engage with material in a way that creates a deeper under-
+stanIndcointgra s[t9to].t hTe hUKisa pcparnoa cfha,cbielttietrapteer folormninggecro utnetrrimes  inrePtISeAnttyipoicna lloyft akeeay concepts [10], and the devel-
+narrower but deep approach, in line with research. For example, in Finland, the curriculum
+ios pcemntreednotn oinf qcuririyt-ibcaaseld alenadrn iangn, awliythtiacnainl hsekreinltlsfo,c uws honictrhan asfroerm einsgsestnudteiantls for mathematics and employ-
+iantboialcittivye ,[i1nd1e]p.e Dndeenstpleiatren etrhs, iwsh iodcaenaalc,q ouivreekrn otwhleed pgeafsotr tthwemose dlveesc[a14d,1e5]s. ,T thhe e UK has moved away from a 
+emphasis placed on achieving this has increased in recent years, such that since 2015, the
+Fminnaitshh eedmucaattiiocnss ycstuemrrhicasurleuqumire dfostcuudesnetsdto otank ekoneeym coodunlecaepyetasr wahnedre tpheryinciples [8,12] to one that has 
+sbeleecetna rdeael-slicferiisbsueedt hbatyis Sofcphelresoincahl einrt earesst aan d“museilaem wulitiddiesc iapnlindar yaanp pirnoacchh deep” [13]. The result of this 
+to explore and solve the problem by themselves [15]. Similarly, in Singapore, there is a
+fsohcuaseldlo, cwoh earenntd, a nbdrcohaallden gciungrcruircruicululumg riosu ntdheadtin ninoq uiinryd-biavseiddleuaranli ntgo[1p6i,1c7 ]or concept can be explored in 
+adndepantheth. oTs hofutesa,c hthleses ,fleoacrnumso oref[ 1l8e].sLsooonkisn gbsepeccoifimcalelysa tthmeat hmemeamticso, trhiessatrtoinogn of facts, associated with sur-
+Japanese curriculum concentrates on a few key topics. This is supported by an analysis
+face learning, rather than teaching students to adopt the thoughts of a mathematician, an 
+outcome that can be achieved by giving them the opportunity to work through and solve 
+mathematical problems by themselves [8]. Furthermore, the UK curriculum typically 
+overcomplicates mathematics, giving students problems where the mathematical skill re-
+quirements are low but the complex and confusing context in which the problems are 
+embedded makes them difficult to solve. 
+
+In contrast to the UK approach, better performing countries in PISA typically take a 
+narrower but deep approach, in line with research. For example, in Finland, the curricu-
+lum is centred on inquiry-based learning, with an inherent focus on transforming students 
+into active, independent learners, who can acquire knowledge for themselves [14,15]. The 
+emphasis placed on achieving this has increased in recent years, such that since 2015, the 
+Finnish education system has required students to take one module a year where they 
+select a real-life issue that is of personal interest and use a multidisciplinary approach to 
+explore and solve the problem by themselves [15]. Similarly, in Singapore, there is a fo-
+cused, coherent, and challenging curriculum grounded in inquiry-based learning [16,17] 
+and an ethos of teach less, learn more [18]. Looking specifically at mathematics, the strong 
+Japanese curriculum concentrates on a few key topics. This is supported by an analysis of 
+English and Japanese mathematics textbooks, which found that whilst the English speci-
+fication for geometry aims to cover various topics, the Japanese curriculum focuses solely 
+
+
+
+Educ. Sci. 2021, 11, 141 3 of 15
+
+of English and Japanese mathematics textbooks, which found that whilst the English
+specification for geometry aims to cover various topics, the Japanese curriculum focuses
+solely on geometric proof using congruency. This allows for the proof to be concentrated
+on in depth when students learn geometry, whereas in England, the concept is dispersed
+throughout topics, such as number and algebra, as well as geometry, and therefore, it is
+never studied in detail [19].
+
+Based on the success of these other countries, we would recommend that the UK
+consider reshaping its mathematics curriculum to focus only on key concepts and princi-
+ples, supporting in-depth study. This study should be grounded in inquiry-based learning,
+rather than memorisation of facts. Inquiry-based learning is associated with a number of
+positive outcomes, including increased student engagement [20], improved critical think-
+ing [21,22], a more positive attitude towards problem solving [21], and the development
+of flexible mathematics knowledge [23]. Furthermore, inquiry-based learning should im-
+prove students’ abilities to solve mathematical problems embedded in complex contexts,
+which can provide a more authentic experience. Within inquiry-based learning, there
+are a range of approaches that could be adopted, depending on the cohort. For example,
+problem-based learning, where students are encouraged to collaborate to solve complex,
+real-world problems [24] or project-based learning, where students master new material
+through the creation of an original product or presentation, for example, a play or video,
+which is typically presented to an outside audience [24]. The latter corresponds to Bloom’s
+taxonomy, where the creation of original work is positioned at the top of the hierarchy
+of learning and therefore can be argued to lead to the deepest and thus most effective
+learning [25].
+
+2.2. Changing the Stakes of Assessments
+The type of assessment used clearly interacts with, and is informed by, the shape of
+
+the curriculum. Assessment can be described and classified in many ways, one of which
+is whether it is high- or low-stakes. High-stakes assessments take the form of tests used
+to make decisions about the students or educators, for example, supporting student pro-
+gression, and the purpose is centred on accountability. By contrast, low-stakes assessments
+focus on measuring achievement and identifying any problems, without significant conse-
+quences. In England, students take several compulsory high-stakes mathematics exams,
+comprising Standard Assessment Tests (SATS) at age 10/11 and the General Certificate
+of Secondary Education (GCSEs) at age 15/16. Students can also elect to sit mathematics
+A-level, where they take high-stakes examinations at age 17/18. The high-stakes nature
+of SATS is demonstrated by these results often being used to set students upon arrival
+at secondary school, whilst GCSE and A-level mathematics grades can determine which
+sixth form or college [26], and then which university a student can attend [27]. Several
+recent reforms have also increased the stakes associated with each mathematics exam.
+GCSE students must now achieve at least a grade 4 (previously a C) to avoid a resit [28],
+and all coursework has been removed from the qualification [29]. Moreover, in A-level
+mathematics, students’ abilities are now assessed after two years of study, rather than at
+the end of each year.
+
+The emphasis on high-stakes assessment is at odds with research findings which indi-
+cate that this approach can be detrimental. For example, there is evidence that high-stakes
+testing can indirectly reduce the quality of teaching and learning [30], as teachers focus on
+teaching what they know will be tested, resulting in a narrowing of the curriculum [31].
+Given the discussion above, narrowing of the UK curriculum is not necessarily a bad thing,
+but evidence also shows that high-stakes tests drive teachers to spend increased classroom
+time coaching for, and practising, tests, meaning the opportunity to enhance students’
+conceptual knowledge through deep learning is subsequently disregarded [32]. Other
+areas may also go undeveloped, such as development of higher-order skills (e.g., critical
+thinking) [33]. Research suggests that teachers end up ignoring best practice to manage
+the high-stakes testing environment [33]. Teachers also report teaching to the lowest com-
+
+
+
+Educ. Sci. 2021, 11, 141 4 of 15
+
+mon denominator, which can adversely impact more gifted students, effectively creating
+a ceiling effect for them [34]. The combination of a shallow and broad curriculum and
+high-stakes testing in the UK, therefore, likely results in a shallow and narrow curriculum,
+arguably the worst of all options.
+
+As well as changes in what is taught within a specific subject, high-stakes assessments
+can lead to schools devoting extra instructional time to the examined core subjects, of
+which mathematics is one, at the cost of other subjects, in the belief that this will improve
+performance [35]. However, research has found that this is counterproductive. Academic
+achievement is not enhanced when the time allocated to creative subjects is limited [36], as
+engagement in Physical Education lessons, for example, can improve students’ mathematics
+grades [37].
+
+There is also evidence of increased negative effects on everyone involved in the
+process—teachers, students, parents [38–40]. Landry (2005) reports that students are
+demotivated by the pressure created from high-stakes assessment which can lead to greater
+drop-out rates. Health effects reported include fear, anxiety, stress, physical illness, and
+powerlessness in students [41], and studies demonstrating negative effects of high-stakes
+assessment hugely outnumber studies indicating positive effects [42]. As with the effects
+derived from changes in teaching, the impacts on stress are not uniform. Students from non-
+white cultures or those in poverty appear to experience more severe negative effects [43].
+Anxiety is particularly pertinent when discussing mathematics because maths anxiety is a
+recognised phenomenon. In its most severe form, maths anxiety is found in 2–6% of UK
+secondary school students and is defined as “a feeling of tension and anxiety that interferes
+with the manipulation of number and the solving of mathematics problems in a wide variety
+of ordinary life and academic situations” [44] (p. 551). High-stakes assessments may be a
+potential trigger for maths anxiety [45]. This is particularly concerning because once an
+individual has maths anxiety, it is difficult to tackle, manifesting as a vicious cycle whereby
+anxiety leads to poor performance, but also poor performance increases anxiety [46].
+Therefore, triggering a student’s maths anxiety with one high-stakes assessment is likely to
+disadvantage them in all further tests, as the condition that stops them from demonstrating
+their true abilities would persist [47]. Notably, maths anxiety is more prevalent in girls [48],
+indicating that, as with other effects, the impact of high-stakes tests may not be uniform.
+
+Given the above, it would be wise for the UK to consider reducing high-stakes assess-
+ment in all subjects but particularly mathematics, which is already associated with high
+levels of anxiety. This approach would be in line with the countries outperforming the UK
+in PISA. For example, in Finland, students do not take any high-stakes examinations until
+age 18 [49]. The lack of such assessments is also likely to have contributed to lower levels
+of stress and higher life satisfaction in this cohort [50]. In Finland, 78% of students are
+satisfied with their lives, a figure that is significantly higher than the OECD average of 67%
+and the UK average of 53%, which over the past three years has fallen faster than any other
+country with comparable PISA results [51–53]. In turn, high levels of life satisfaction not
+only improve wellbeing but also have a positive impact on exam grades [54]. Furthermore,
+having only one set of high-stakes examinations to take gives these students a much longer
+period to prepare. This can reduce self-doubt, anxiety and fear of failure, and subsequently
+enhance performance and welfare [55–57].
+
+Whilst removing some or all of the current high-stakes assessments would bring the
+UK in line with Finland and other high-performing countries, such a change is unlikely to
+be achievable in the short term, given the amount of high-stakes assessment the UK system
+has, and the educational reform that would be needed to remove it. This was evidenced
+in the chaos caused by the emergency exam removal in light of the COVID-19 pandemic.
+Therefore, the options that follow should be considered as either long-term solutions or
+intermediate measures. One such option would be to reintroduce mathematics coursework.
+This would reduce the weighting and subsequent pressure associated with exams, which
+is often detrimental to student performance [58]. Coursework would also allow students
+to demonstrate they can apply their mathematics knowledge to real-life problems in a
+
+
+
+Educ. Sci. 2021, 11, 141 5 of 15
+
+more authentic way than an exam [59]. Furthermore, evidence suggests that the removal
+of mathematics coursework in 2006 had a greater negative impact on girls compared with
+boys, a group already disadvantaged by higher levels of maths anxiety [29,60], and so,
+reintroducing coursework may reduce overall gender differences. It should be noted,
+however, that analysis of the impact of coursework and examinations on boys and girls
+suggests that any coursework advantage is relatively small for girls and so will not provide
+a silver bullet for the gender differences [61]. Another option is to retain high-stakes
+assessments but to switch to open book examinations. This is because they encourage
+deeper learning, as students can spend more time engaging with the material, rather than
+learning facts [62]. A slight amendment to this could be to use modified closed book
+examinations, with an adaptation that permits students taking in handwritten note cards or
+cheat sheets, again preventing the process of rote learning [63,64]. Evidence also suggests
+that open book exams can also be less stressful for students [65] and that performance is
+comparable with closed book exams, indicating that this would not be a case of lowering
+academic standards [66].
+
+3. Teacher Effectiveness
+The positive impact that an effective teacher has cannot be underestimated. The
+
+Sutton Trust [67] found that having a very effective teacher, in comparison to an average
+one, can cause students’ mathematics scores to increase by 25–45%, an outcome that
+is greatest amongst disadvantaged students. Teacher effectiveness is dependent on a
+range of factors, but here, we have chosen to focus on (i) teacher expectations, (ii) teacher
+autonomy, and (iii) continuous professional development (CPD). Although we discuss
+these as separate entities, we recognise that they are related—for example, appropriate
+professional development can increase teacher autonomy [68].
+
+3.1. Teacher Expectations
+The impact of teacher expectations on student performance was first demonstrated in
+
+1968 [69] in the now famous study which showed that randomly labelling some students
+as potential high achievers caused them to make significantly more progress than their
+peers, despite there being no prior differences in their abilities. These findings have been
+supported by work focusing specifically on mathematics which showed that high teacher
+expectations led to grade improvements [70]. Furthermore, these effects are not dependent
+on individual student expectation; when teachers place high expectations on groups of
+students, their self-perceptions of their mathematics abilities increase across the course of
+a school year, whilst the opposite effect occurs when low expectations are assigned [71].
+For secondary school teachers, recognising this is particularly important, because low
+expectations may accentuate the typical decline seen in students’ self-perceptions of their
+scholastic abilities that occurs during adolescence [72].
+
+One group of particular interest in this review is girls. The PISA data show that the
+UK has one of the biggest gender gaps in mathematics performance, similar to countries
+which overall perform much worse. Girls are being outperformed by boys by 12 points
+(the average across all countries is 5). Part of this could arise from the impact of teacher
+expectations. Research has shown that immediately prior to secondary school, teachers
+perceive boys to be more able than girls, and this can result in parents holding the same
+views [73]. Furthermore, in secondary age students, teacher expectations correlated to
+students’ maths achievement over a year later and the students on self-concept in maths
+was impacted by the teacher expectation [74]. Secondary pupils have been shown to
+perceive STEM subjects, including mathematics, as more masculine, and this in turn is
+associated with reduced likelihood of continuing with study in this area, for example,
+at university [75]. Any factors which increase these gendered views within the pupils
+themselves, including teacher expectations, are likely to result in decreased interest in a
+topic, which could subsequently result in lowered performance in girls.
+
+
+
+Educ. Sci. 2021, 11, 141 6 of 15
+
+As well as teacher expectations potentially reinforcing gender stereotypes, there are
+also likely to be more general effects. Research suggests that teachers in Western countries,
+including the UK, are likely to discount a student after a single, weak result because they
+do not expect to see any further improvement and thus have low expectations of their
+students [76]. Such teachers will often comfort students following a poor performance,
+using phrases such as “it’s just not the case that everyone is a math person” [76] (p. 735).
+This can be problematic as the teacher’s failure to offer strategies for improvement may
+cause students to assume that they have little belief in their abilities and are disinterested
+in helping them to progress [76]. Furthermore, teachers in Western countries often overuse
+praise, which can create issues. For example, if a student receives undue praise for complet-
+ing an easy task, they may interpret this to mean that the teacher has low expectations of
+their abilities [77]. Finally, in the UK, almost half of Year 5 and nearly all secondary school
+students are placed in sets [78], a process which can significantly impact the level of mathe-
+matics attainment they can achieve [79]. This setting is highly likely to influence teachers’
+perceptions of their students’ abilities, which in turn stipulates the level of work they set;
+thus, the student can determine whether the teacher has low or high expectations [80].
+
+The research into teacher expectations in Western countries is in stark contrast to the
+approaches taken by the high-performing countries of China, Singapore, Japan, and South
+Korea, where teachers hold very high expectations of their students [81,82]. These high
+expectations may be caused by teachers’ adoption of the incremental theory of intelligence,
+which states that with the necessary effort, anyone can improve, regardless of their intelli-
+gence [83]. In addition to this, Asian teachers are acutely aware of overpraising students,
+such that it is only offered when both performance and effort levels are very high [83].
+Furthermore, in Japanese schools, students are not placed into ability sets until the age of
+15 [84]. This instils a belief amongst teachers that all students can attain the desired level of
+mathematical proficiency.
+
+Given the research emphasising the importance of teacher expectations and ap-
+proaches taken in high-performing countries, we would suggest some changes to the
+UK approach. For example, teachers should avoid overly praising students, particularly
+those who are less able, when they complete an easy mathematics question and ensure that
+a poor result is followed with advice that enables progression, rather than comfort [76,77].
+Similarly, placing students in sets based on their perceived mathematical competency
+should be delayed. The complete eradication of sets may have the greatest impact on
+teacher expectations, and it may also narrow the achievement gap by improving the grades
+of students who would be placed in the lower sets [79,85] but would likely be met with re-
+sistance for several reasons. Firstly, high achievers who, because of setting, achieve GCSEs
+that are half a grade higher than that predicted from their Key Stage 3 scores [79] would
+likely be in favour of keeping them. Secondly, the middle-class parents who schools want
+to attract, as they often invest social capital to ensure high standards for their offspring,
+typically demand sets, as they are confident that their child will be placed in a higher set
+and hence benefit [86]. Thirdly, a survey showed that only 14% of UK mathematics teachers
+felt mixed-ability classes were suitable for maths [87]. Finally, the school inspectorate,
+Ofsted, perceives setting to be an indicator of high standards and in recent years has
+emphasised gifted and talented programmes [88], meaning setting is very much engrained
+within the education system. A sensible compromise would therefore be to delay setting
+until Year 10, which has been successfully implemented in Japan and a small sample of
+schools in the UK [79]. Finally, to avoid teacher expectations widening or sustaining the
+gender difference in maths performance, it is important to educate teachers about gender
+differences and gender stereotypes. This type of education should begin within initial
+training because research suggests biases develop prior to classroom teaching [89], but
+projects that extend beyond this to incorporate connections between pupils, parents and
+teachers and university STEM departments should also be considered [90].
+
+
+
+Educ. Sci. 2021, 11, 141 7 of 15
+
+3.2. Teacher Autonomy
+Teacher autonomy can be defined as the “freedom to construct a personal pedagogy
+
+which entails a balance between personality, training, experience and the requirements of
+the specific education context” [91] (p. 92), and it is strongly related to teacher effectiveness,
+with more effective teachers having more autonomy [92]. There is also a positive correlation
+between student attainment and teachers’ curricula and assessment autonomy [93], mean-
+ing that a lack of autonomy could plausibly contribute to poor performance in indicators
+such as PISA.
+
+In the UK, teacher autonomy has gradually declined with the rise of neoliberalism,
+which has meant that for maintained schools, the government no longer offers a broad
+advisory outline of what they should teach but instead creates detailed unit plans, covering
+all aspects of the curriculum. This is accompanied with targets that teachers should look to
+address in each lesson [94]. Neoliberalism has also led to the introduction of school league
+tables collated from the results of standardised tests, which forces schools to compete and
+prove their worth. Subsequently, the focus of lessons has become helping students to
+pass examinations, and hence, teaching is rigid, and there is deprivation of opportunity
+to experiment with new pedagogy [95]. This effect is most pronounced in mathematics,
+as it is considered the single best way to rank a school [94]. Furthermore, a misalignment
+between teachers’ current roles and professional perspectives has resulted in a decline in
+autonomy [96]. UK teachers are experiencing an increasing demand to carry out worthless
+bureaucratic tasks [97]; thus, they are unable to allocate the desired amount of time to
+activities they value or find rewarding, such as helping students to progress academically
+and personally [98].
+
+This lack of autotomy can impact students in several ways. Figures show that in the
+UK, 32.5% of newly qualified teachers leave the profession in the first five years [99–101],
+with an increase in central government control, and hence a lack of autonomy, being
+specified as one of the top ten reasons for doing so [102]. Furthermore, those that do
+not leave but struggle with the lack of autonomy will often be drawn to the independent
+school sector, where traditionally they have more autonomy [103]. Consequently, a lack
+of autonomy for UK teachers can result in a shortage of experienced teachers in the state
+school sector, which may explain their lower PISA mathematics scores [7]. Another way in
+which lower autonomy can contribute to poorer performance is through decision making.
+Evidence indicates that educational decisions are likely to be of a higher standard when
+made by those responsible for their implementation; indeed, they are often better informed
+and subsequently more successful [104]. Where teachers lack autonomy and decision-
+making powers, poor decisions are likely to be made by those with no role in implementing
+them in the classroom.
+
+The lack of teacher autonomy in the UK is in stark contrast to higher performing
+nations such as Estonia and the Netherlands, whose respective rankings of 8th and 9th
+in PISA 2018 may be partly attributable to high rates of teacher autonomy. In Estonia,
+educators can spend additional time on teaching and learning as they have few administra-
+tive tasks to complete [18], whilst headteachers, rather than government, have the power
+to decide upon the school’s educational priorities and development plans [105]. In the
+Netherlands, 94% of decisions are made within the school, rather than at state level [106].
+Teachers have the freedom to select curriculum and testing methods [107] and headteachers
+are able to prescribe class size, teacher evaluation methods, and the start and end times of
+the school day for each year group [108].
+
+Given the stark differences between teacher autonomy in the UK and high performing
+countries, the UK should return some autonomy to teachers (both classroom teachers and
+headteachers). This process has already begun with many secondary schools in the UK
+converting to academies [109] either as part of a Multi-Academy Trust (MAT) where the
+trust may retain much of the autonomy [110] or as a Single Academy Trust (SAT), meaning
+that the school runs itself and thus has complete autonomy [111]. In terms of greater
+autonomy, a SAT may look like the obvious answer, but a MAT can still be advantageous
+
+
+
+Educ. Sci. 2021, 11, 141 8 of 15
+
+because there can be some autonomy within the constraints of the trust, which can provide
+consistency. This corresponds with the aligned autonomy model, which demonstrates that
+institutions are most effective when high autonomy is coupled with high alignment. This
+is because giving all staff the opportunity to experiment with no overarching structure
+creates a chaotic culture [112].
+
+Irrespective of whether schools become academies, the UK education system should
+be resourced in a way that allows the introduction of more administrative roles, which
+should mean, as is the case in Estonia, teachers spend less time on administration and
+thus more time on teaching. This should enhance teachers’ autonomy and hence their
+commitment to the profession [97,113,114].
+
+3.3. Continuous Professional Development (CPD)
+One way to ensure teacher effectiveness is developed and maintained is to provide a
+
+wide range of high-quality CPD opportunities for teachers. Professional development op-
+portunities have been shown to have a positive impact on students’ mathematics, problem
+solving, and reasoning abilities [115], as well as increasing teachers’ knowledge, self-
+efficacy, and their willingness to experiment with new teaching methods [115,116]. Such
+experiences also show teachers that there are pathways for improvement and progression
+to obtain expert or higher status. Despite the clear value of appropriate CPD, there is
+evidence that CPD is poor in the UK and appears to have declined in recent years. For
+example, between 1972 and 1990, teachers could enrol on the Secondary Mathematics
+Individualised Learning Experiment (SMILE), a mathematics programme where one day a
+week they were released from their teaching responsibilities to meet with other educators
+to collaborate, develop, and improve upon a student-centred mathematics curriculum [94].
+Currently, this type of CPD, both in terms of quantity and approach, is rare. The decline
+in quality CPD is not driven by a lack of interest; indeed, there is a clear desire to engage
+in CPD, with participation rates high at 92% [117]. Rather, it seems that the quantity and
+quality of CPD has declined. On average, teachers in England now spend just four days
+per year on CPD, which is significantly below the average of 40 days in Shanghai, and
+the OECD average of ten and a half days [117]. Furthermore, such opportunities often
+consist of one-off sessions that are not delivered by experts, not research-informed, nor
+clearly contextualised to classroom practice [118]. Subsequently, only 9% lead to educators
+incorporating new ideas into their teaching, whilst just 1% facilitate improvements in
+practice [119].
+
+In contrast to the little and superficial approach to CPD that is commonplace in the
+UK, higher performing PISA countries take a very different approach. For example, in 2010,
+Singapore introduced the Academy of Singapore Teachers, which has successfully created
+“a teacher-led culture of professional excellence for the teaching fraternity” [120] (p. 168).
+Teachers participate in subject-specific groups, led by either teachers identified as excellent,
+or specialists from the Ministry of Education and National Institute of Education (NIE),
+to enhance their knowledge of the curriculum, assessment literacy, and pedagogy [120].
+Focusing specifically on CPD within mathematics, Germany’s Enhancing the Efficacy of
+Teaching in Science and Mathematics (SINUS) programme, which began in 1998, adopts a
+similar network model based on discipline, without relying on identified experts. SINUS
+encourages teachers from within a school or across the network to meet to discuss teaching
+methods that enhance student learning [18]. Whilst country-wide implementation no
+longer exists, many decentralised programmes continue to run, and the programme has
+been shown to be effective, with students who attended SINUS schools significantly
+outperforming those who did not in mathematics (and science), an outcome that was
+accentuated amongst those of lower ability. Thus, the programme also helped to reduce
+the attainment gap [121]. Whilst Germany no longer outperforms the UK, this CPD stems
+from a period when they did. A similar approach is taken in Japan, which still outperforms
+the UK, where CPD includes a strategy known as Lesson Study to help teachers to improve
+
+
+
+Educ. Sci. 2021, 11, 141 9 of 15
+
+upon their practices through collaboratively designing lessons, reflecting on them and
+revising them [122].
+
+A common feature of CPD from these countries is that they are discipline-specific
+and teacher-led as part of a community of practitioners. They are also continuous rather
+than single day events that are not connected. We recommend that the UK consider
+adopting a similar approach to CPD, supporting the fostering of networks which allow
+teachers to critically evaluate their own and their peers’ approaches and co-construct
+lessons. Such an approach should be possible despite increasingly tight school budgets
+because rather than sending teachers on external costly courses, the CPD can arise from
+within the school, or network of schools. Furthermore, if additional administrators were
+brought in, as recommended above, teacher time would be freed up to support greater CPD.
+An approach similar to SINUS where groups of teachers congregate to critically evaluate
+their teaching methods can lead to the generation of more innovative ideas and create
+a sense of community, which supports positive change [123,124] and in many cases can
+be done in-house, depending on the size of the school. Research has also shown that the
+Japanese Lesson Study approach can be successfully employed by mathematics teachers in
+Western countries [122], although there are some caveats. In Japan, the collectivist culture
+means that teaching is considered a public activity, and hence, educators are accustomed
+to peer scrutiny, which may differ from the UK [125]. Additionally, Lesson Study is a
+long-standing tradition in Japan, and thus, the structural flexibility required for teachers to
+observe lessons and engage in debriefs has always been in place [125]. This contrasts to the
+UK where flexibility is lacking; the average teacher in England works an additional eight
+hours a week, in comparison to those in similar OECD countries [126,127], and there is a
+shortage of mathematics teachers [108], meaning finding the time and flexibility for this
+could be challenging. Therefore, the CPD may have to start off with a similar programme
+in mind as a long term rather than immediate goal.
+
+4. Conclusions
+The UK is underperforming in mathematics on the international platform, and the
+
+data from PISA 2018 force serious consideration of the issue. In this paper, we have
+reflected on the differences in UK practice in several areas of the educational landscape and
+identified specific pitfalls associated with mathematics education in UK secondary state
+schools. Based on this, we have made a series of recommendations summarised in Table 1.
+
+Specifically, we believe that narrowing and deepening the curriculum and reducing the
+emphasis on traditional high-stakes testing, either by reintroducing coursework or opting
+for open book examinations, would be beneficial. We have also suggested that it may be
+beneficial to use praise more carefully and delay setting students by ability to better manage
+teacher expectations and the expectations students have of themselves. Although gender
+differences are not unique to mathematics, they may also play a role in the poor PISA
+performance and this could, in part, be addressed by teacher training and collaboration
+with industry/university to reduce gender stereotyping in teachers and pupils. There is
+also a clear need to reduce the administrative burden on UK teachers, which would in
+turn increase the amount of time they have to teach and engage in effective collaborative
+CPD, as well as increase autonomy. Both will likely increase teacher effectiveness and
+reduce the high levels of attrition in the profession, keeping effective teachers in state
+schools for longer. These recommendations range from relatively small-scale, for instance,
+avoiding praise when a student completes an easy task, to large-scale interventions, such as
+modifying high-stakes assessments. The scale of these changes corresponds with the level
+of buy-in needed to adopt them. Some require political support, funding, and government
+action, but others can be implemented locally. Irrespective of scale, buy-in at the relevant
+level may not be achieved if the change is perceived as additional work [128]. Buy-in can
+be encouraged by offering access to research which demonstrates why change is important
+and the positive impact it will have [129]. Additionally, in the case of schools and teachers,
+giving ownership or allowing them to help to design the changes increases the likelihood of
+
+
+
+Educ. Sci. 2021, 11, 141 10 of 15
+
+successful implementation [129,130]. However, engaging in the process of change requires
+teachers to leave their comfort zone and overcome bad habits, which is notoriously difficult
+and takes practise even if the teacher has good intentions [131–133], and therefore, any
+recommendations for change must be carefully communicated and implemented.
+
+Table 1. Summary of recommendations to improve UK mathematics performance.
+
+Area Recommendation
+
+1. Increase focus on key concepts and principles
+Curriculum 2. Increase inquiry-based learning
+
+1. Reduce high-stakes assessment or introduce of
+Assessment open book exams
+
+2. Reintroduce of coursework
+
+1. Reduce use of praise for easy tasks
+2. Remove or delay ability setting
+3. Increase teacher training around gender
+
+Teacher expectations stereotyping
+4. Collaborate with universities/industries to
+
+challenge gender stereotypes
+
+1. Increase teacher autonomy in the classroom
+Teacher autonomy 2. Increase resources for administrative roles to
+
+allow teachers to teach
+
+1. Increase opportunities for longitudinal
+discipline specific, teacher-led CPD
+
+Continuous Professional development 2. Foster development of peer support networks
+3. Allow greater time for CPD
+
+It is also important to note that although we have made specific recommendations
+based on the identified deficiencies in the UK, it would be naïve to assume that every
+problem can be addressed by following the practises of high performing countries. Cer-
+tainly, other countries’ accomplishments may not be completely attributable to superior
+educational practices or systems—cultural values are also likely to be influential—and
+these clearly vary both between and within countries. For example, research found that
+despite attending the same school, white Americans believed that mathematics ability is
+innate, whereas Asian Americans thought it was dependent on effort. Consequently, Asian
+Americans demonstrated enhanced levels of intrinsic motivation and persevered with chal-
+lenging work, which led to the achievement of higher mathematics grades [134]. Similarly,
+East Asian students are typically motivated by failure. One study discovered that when
+East Asian students failed a test, they spent significantly longer answering the questions
+in a second similar one. Contrastingly, Western students devoted less time to the second
+test [135,136]. Furthermore, East Asian students are normally more disciplined than their
+Western counterparts, meaning teachers spend less time managing behaviour and more
+time teaching mathematics [137]. Such students are also more likely to study in their spare
+time [40,137] and receive additional tuition [138]. Therefore, whilst the recommendations
+outlined here are believed to be feasible for the UK, based on previous practice or research,
+it is necessary to conduct evaluations of changes and consider pilot programmes where
+possible, for example, with individual exam boards including coursework or regional CPD
+networks and funding initially. In this way, the UK can take steps to gradually changing its
+direction of travel and improving mathematics performance for the next generation.
+
+
+
+Educ. Sci. 2021, 11, 141 11 of 15
+
+Author Contributions: Conceptualization, C.S.S. and E.J.D.; Literature Reviewing, C.S.S.; writing—
+original draft preparation, C.S.S. and E.J.D.; writing—review and editing, E.J.D. All authors have
+read and agreed to the published version of the manuscript.
+
+Funding: This research received no external funding.
+
+Conflicts of Interest: The authors declare no conflict of interest.
+
+References
+1. Coughlan, S. Pisa Tests: UK Rises in International School Rankings. Available online: https://www.bbc.co.uk/news/education-
+
+50563833 (accessed on 4 January 2021).
+2. OECD. PISA 2018 Results What Students Know and Can Do; OECD: Paris, France, 2019; Volume 1.
+3. Sanz, M.T.; López-Iñesta, E.; Garcia-Costa, D.; Grimaldo, F. Measuring Arithmetic Word Problem Complexity through Reading
+
+Comprehension and Learning Analytics. Mathematics 2020, 8, 1556. [CrossRef]
+4. Ofsted. Mathematics: Made to Measure; Ofsted: London, UK, 2012.
+5. Gardiner, T. Background: Why focus on Key Stage 3? In Teaching Mathematics at Secondary Level; Gardiner, T., Ed.; Open Book
+
+Publishers: Cambridge, UK, 2014; pp. 5–8.
+6. Hodgen, J.; Pepper, D.; Sturman, L.; Ruddock, G. Is the UK an Outlier? An International Comparison of Upper Secondary Mathematics
+
+Education; Nuffield Foundation: London, UK, 2010.
+7. Jerrim, J. The 10 Key Findings from PISA 2015; FFT Education Datalab: London, UK, 2016.
+8. Oates, T. Could do better: Using international comparisons to refine the National Curriculum in England. Curric. J. 2011, 22,
+
+121–150. [CrossRef]
+9. Marton, P.; Säljő, R. On qualitative differences in learning, I: Outcome and process. Br. J. Educ. Psychol. 1976, 46, 4–11. [CrossRef]
+10. DeLotell, P.J.; Millam, L.A.; Reinhardt, M.M. The use of deep learning strategies in online business courses to impact student
+
+retention. Am. J. Bus. Educ. 2010, 3, 49–56. [CrossRef]
+11. Moon, R.; Curtis, V.; Dupernex, S. How enterprise education can promote deep learning to improve student employability. Ind.
+
+High. Educ. 2013, 27, 433–448. [CrossRef]
+12. Shayer, M.; Ginsburg, D. Thirty years on–a large antieyrg, F effect/(II): 13fect 14fect/(II):e Piagetian tests of formal operations
+
+norms 1976stion/7. Br. J. Educ. Psychol. 2009, 79, 409–418. [CrossRef]
+13. Telegraph. UK children falling behind maths due to ‘superficial’ learning. Available online: https://www.telegraph.co.uk/news/
+
+uknews/12192892/UK-children-falling-behind-in-maths-due-to-superficial-learning.html (accessed on 4 January 2021).
+14. Silander, P. Digital Pedagogy; Center for Internet Excellence, University of Oulu: Oulu, Finland, 2015; pp. 9–26.
+15. Symeonidis, V.; Schwarz, J.F. Phenomenon-based teaching and learning through the pedagogical lenses of phenomenology: The
+
+recent curriculum reform in Finland. Forum Oświatowe 2016, 28, 31–47.
+16. Cogan, L.S.; Schmidt, W.H. Middle school math reform. Middle Matters 1999, 8, 2–3.
+17. Schmidt, W.H.; McKnight, C.C.; Houang, R.T.; Wang, H.; Wiley, D.E.; Cogan, L.S.; Wolfe, R.G. Why Schools Matter: A Cross-National
+
+Comparison of Curriculum and Learning. The Jossey-Bass Education Series; ERIC: London, UK, 2001.
+18. Greatbatch, D.; Tate, S. School Improvement Systems in High Performing Countries; Department for Education: London, UK, 2019.
+19. Jones, K.; Fujita, T. Interpretations of National Curricula: The case of geometry in textbooks from England and Japan. ZDM 2013,
+
+45, 671–683. [CrossRef]
+20. Thomas, J. A Review of Research on Project-Based Learning; The Autodesk Foundation: San Rafael, CA, USA, 2000.
+21. Shepard, N. The Probe Method: A Problem-Based Learning Model’s Effect on Critical Thinking Skills of Fourth- and Fifth-Grade Social
+
+Studies Students; North Carolina State University: Raleigh, NC, USA; ProQuest Dissertations Publishing: Morrisville, NC,
+USA, 1998.
+
+22. Walker, A.; Leary, H. A problem based learning meta analysis: Differences across problem types, implementation types, disciplines,
+and assessment levels. Interdiscip. J. Probl. Based Learn. 2009, 3, 6. [CrossRef]
+
+23. Boaler, J. Experiencing School Mathematics Teaching: Teaching Styles, Sex and Setting; Open University Press: Buckingham, UK, 1997.
+24. Scott, D.M.; Smith, C.; Chu, M.-W.; Friesen, S. Examining the efficacy of inquiry-based approaches to education. Alta. J. Educ. Res.
+
+2018, 64, 35–54.
+25. Adams, N.E. Bloom’s taxonomy of cognitive learning objectives. J. Med. Libr. Assoc. 2015, 103, 152. [CrossRef]
+26. Woodcock, N. State schools demand top GCSE grades to enter sixth form. Available online: https://www.thetimes.co.uk/article/
+
+state-schools-raise-the-bar-for-sixth-form-n0rrcj2sh# (accessed on 4 January 2021).
+27. UCAS. UCAS Undergraduate entry requirements. Available online: https://www.ucas.com/undergraduate/what-and-where-
+
+study/ucas-undergraduate-entry-requirements (accessed on 4 January 2021).
+28. Department for Education & Skills Funding Agency. Funding Guidance for Young People 2018 to 2019; Department for Education &
+
+Skills Funding Agency: London, UK, 2018.
+29. Curtis, P. Boys Overtake Girls in Maths GCSE as Coursework Dropped. Available online: https://www.theguardian.com/
+
+education/2009/aug/27/maths-gcse-coursework-dropped (accessed on 17 February 2021).
+30. Klenowski, V.; Wyatt-Smith, C. The impact of high stakes testing: The Australian story. Assess. Educ. 2012, 19, 65–79. [CrossRef]
+
+
+
+Educ. Sci. 2021, 11, 141 12 of 15
+
+31. Wearmouth, J. Testing, assessment and literacy learning in schools: A view from England. Point and Counterpoint. Curric.
+Perspect. 2008, 28, 77–81.
+
+32. Harlen, W.; Deakin Crick, R. Testing and motivation for learning. Assess. Educ. 2003, 10, 169–207. [CrossRef]
+33. Wenglinsky, H. Using Technology Wisely: The Keys to Success in Schools; Teachers College Press: New York, NY, USA, 2005.
+34. Scot, T.; Heinecke, W.; Callahan, C.; Urquhart, J. “Yes . . . But . . . ” The Unintended Effects of Accountability Policy on Technology
+
+Infusion and Innovation. In Proceedings of the Society for Information Technology & Teacher Education International Conference,
+Las Vegas, NV, USA, 3–7 March 2008; pp. 4313–4320.
+
+35. Singh, A.; Uijtdewilligen, L.; Twisk, J.W.; Van Mechelen, W.; Chinapaw, M.J. Physical activity and performance at school: A
+systematic review of the literature including a methodological quality assessment. Arch. Pediatrics Adolesc. Med. 2012, 166, 49–55.
+[CrossRef]
+
+36. Trudeau, F.; Shephard, R.J. Physical education, school physical activity, school sports and academic performance. Int. J. Behav.
+Nutr. Phys. Act. 2008, 5, 10. [CrossRef]
+
+37. Nelson, M.C.; Gordon-Larsen, P. Physical activity and sedentary behavior patterns are associated with selected adolescent health
+risk behaviors. Pediatrics 2006, 117, 1281–1290. [CrossRef]
+
+38. Amrein, A.L.; Berliner, D.C. The effects of high-stakes testing on student motivation and learning. Educ. Leadersh. 2003, 60, 32–38.
+39. Barksdale-Ladd, M.A.; Thomas, K.F. What’s at stake in high-stakes testing: Teachers and parents speak out. J. Teach. Educ. 2000,
+
+51, 384–397. [CrossRef]
+40. Landry, D.E. Teachers’(K-5) Perceptions of Student Behaviors during Standardized Testing. Thesis, Oklahoma State University,
+
+Stillwater, OK, USA, 2005.
+41. Triplett, C.F.; Barksdale, M.A. Third through sixth graders’ perceptions of high-stakes testing. J. Lit. Res. 2005, 37, 237–260.
+
+[CrossRef]
+42. Buck, S.; Ritter, G.W.; Jensen, N.C.; Rose, C.P. Teachers say the most interesting things—An alternative view of testing. Phi Delta
+
+Kappan 2010, 91, 50–54. [CrossRef]
+43. Watson, C.E.; Johanson, M.; Loder, M.; Dankiw, J. Effects of high-stakes testing on third through fifth grade students: Student
+
+voices and concerns for educational leaders. J. Organ. Learn. Leadersh. 2014, 12, 1–11.
+44. Richardson, F.C.; Suinn, R.M. The mathematics anxiety rating scale: Psychometric data. J. Couns. Psychol. 1972, 19, 551. [CrossRef]
+45. Bellinger, D.B.; DeCaro, M.S.; Ralston, P.A. Mindfulness, anxiety, and high-stakes mathematics performance in the laboratory and
+
+classroom. Conscious. Cogn. 2015, 37, 123–132. [CrossRef] [PubMed]
+46. Carey, E.; Hill, F.; Devine, A.; Szücs, D. The chicken or the egg? The direction of the relationship between mathematics anxiety
+
+and mathematics performance. Front. Psychol. 2016, 6, 1987. [CrossRef]
+47. Ashcraft, M.H.; Moore, A.M. Mathematics anxiety and the affective drop in performance. J. Psychoeduc. Assess. 2009, 27, 197–205.
+
+[CrossRef]
+48. Else-Quest, N.M.; Hyde, J.S.; Linn, M.C. Cross-national patterns of gender differences in mathematics: A meta-analysis. Psychol.
+
+Bull. 2010, 136, 103. [CrossRef] [PubMed]
+49. Reimer, D.; Sortkear, B.; Oskarsson, M.; Nilsen, T.; Rasmusson, M.; Nissinen, K. Northern Lights on TIMSS and PISA 2018; Nordisk
+
+Ministerråd: Copenhagen, Denmark, 2018.
+50. Weinstein, L.; Laverghetta, A. College student stress and satisfaction with life. Coll. Stud. J. 2009, 43.
+51. Jerrim, J. Nine Key Findings from PISA 2018; FFT Education Datalab: London, UK, 2019.
+52. OECD. Country Note. Programme for International Student Assessment (PISA) Results from PISA 2018. Finland; OECD: Paris,
+
+France, 2019.
+53. OECD. Country Note. Programme for International Student Assessment (PISA) Results from PISA 2018. United Kingdom; OECD: Paris,
+
+France, 2019.
+54. Antaramian, S. The importance of very high life satisfaction for students’ academic success. Cogent Educ. 2017, 4, 1307622.
+
+[CrossRef]
+55. Berger, S.; Freund, A.M. Fear of failure, disorganization, and subjective well-being in the context of preparing for an exam. Swiss
+
+J. Psychol. 2012. [CrossRef]
+56. Buzinski, S.G.; Clark, J.; Cohen, M.; Buck, B.; Roberts, S.P. Insidious assumptions: How pluralistic ignorance of studying behavior
+
+relates to exam performance. Teach. Psychol. 2018, 45, 333–339. [CrossRef]
+57. Putwain, D.W. Assessment and examination stress in Key Stage 4. Br. Educ. Res. J. 2009, 35, 391–411. [CrossRef]
+58. Beilock, S.L. Math performance in stressful situations. Curr. Dir. Psychol. Sci. 2008, 17, 339–343. [CrossRef]
+59. Mathematics Education Innovation. Coursework in Mathematics. A Discussion Paper; 2006. Available online: https://mei.org.
+
+uk/files/pdf/CourseworkMEI.pdf (accessed on 4 January 2021).
+60. Helm, T. Coursework for GCSE Maths to be Dropped. Available online: https://www.telegraph.co.uk/news/uknews/1530008/
+
+Coursework-for-GCSE-maths-to-be-dropped.html (accessed on 16 March 2021).
+61. Elwood, J. Undermining gender stereotypes: Examination and coursework performance in the UK at 16. Assess. Educ. 1995, 2,
+
+283–303. [CrossRef]
+62. Teodorczuk, A.; Fraser, J.; Rogers, G.D. Open book exams: A potential solution to the “full curriculum”? Med. Teach. 2018, 40,
+
+529–530. [CrossRef] [PubMed]
+
+
+
+Educ. Sci. 2021, 11, 141 13 of 15
+
+63. Gharib, A.; Phillips, W.; Mathew, N. Cheat Sheet or Open-Book? A Comparison of the Effects of Exam Types on Performance,
+Retention, and Anxiety. Online Submiss. 2012, 2, 469–478. [CrossRef]
+
+64. Block, R.M. A discussion of the effect of open-book and closed-book exams on student achievement in an introductory statistics
+course. Primus 2012, 22, 228–238. [CrossRef]
+
+65. Gharib, A.; Phillips, W. Test anxiety and performance on open book and cheat sheet exams in introductory psychology. IPEDR
+2012, 53, 1–4.
+
+66. Brightwell, R.; Daniel, J.-H.; Stewart, A. Evaluation: Is an open book examination easier? Biosci. Educ. 2004, 3, 1–10. [CrossRef]
+67. Murphy, R.; Machin, S. Improving the Impact of Teachers on Pupil Achievement in the Uk-INTERIM Findings; Sutton Trust: London,
+
+UK, 2011.
+68. Dierking, R.C.; Fox, R.F. “Changing the way I teach” building teacher knowledge, confidence, and autonomy. J. Teach. Educ. 2013,
+
+64, 129–144. [CrossRef]
+69. Rosenthal, R.; Jacobson, L. Pygmalion in the classroom. Urban Rev. 1968, 3, 16–20. [CrossRef]
+70. Friedrich, A.; Flunger, B.; Nagengast, B.; Jonkmann, K.; Trautwein, U. Pygmalion effects in the classroom: Teacher expectancy
+
+effects on students’ math achievement. Contemp. Educ. Psychol. 2015, 41, 1–12. [CrossRef]
+71. Rubie-Davies, C.M. Teacher expectations and student self-perceptions: Exploring relationships. Psychol. Sch. 2006, 43, 537–552.
+
+[CrossRef]
+72. Shapka, J.D.; Keating, D.P. Structure and Change in Self-Concept During Adolescence. Can. J. Behav. Sci. 2005, 37, 83. [CrossRef]
+73. Tiedemann, J. Parents’ gender stereotypes and teachers’ beliefs as predictors of children’s concept of their mathematical ability in
+
+elementary school. J. Educ. Psychol. 2000, 92, 144. [CrossRef]
+74. Szumski, G.; Karwowski, M. Exploring the Pygmalion effect: The role of teacher expectations, academic self-concept, and class
+
+context in students’ math achievement. Contemp. Educ. Psychol. 2019, 59, 101787. [CrossRef]
+75. Makarova, E.; Aeschlimann, B.; Herzog, W. The gender gap in STEM fields: The impact of the gender stereotype of math and
+
+science on secondary students’ career aspirations. Front. Educ. 2019, 10, 60. [CrossRef]
+76. Rattan, A.; Good, C.; Dweck, C.S. “It’s ok—Not everyone can be good at math”: Instructors with an entity theory comfort (and
+
+demotivate) students. J. Exp. Soc. Psychol. 2012, 48, 731–737. [CrossRef]
+77. Coe, R.; Aloisi, C.; Higgins, S.; Major, L.E. What Makes Great Teaching? Review of the Underpinning Research; The Sutton Trust:
+
+London, UK, 2014.
+78. Jerrim, J. England’s Schools Segregate by Ability More Than Almost Every Other Country in the World; FFT Education Datalab: London,
+
+UK, 2019.
+79. Wiliam, D.; Bartholomew, H. It’s not which school but which set you’re in that matters: The influence of ability grouping practices
+
+on student progress in mathematics. Br. Educ. Res. J. 2004, 30, 279–293. [CrossRef]
+80. Rubie-Davies, C.M.; Peterson, E.; Irving, E.; Widdowson, D.; Dixon, R. Expectations of achievement: Student teacher and parent
+
+perceptions. Res. Educ. 2010, 83, 36–53. [CrossRef]
+81. Deng, Z.; Gopinathan, S. PISA and high-performing education systems: Explaining Singapore’s education success. Comp. Educ.
+
+2016, 52, 449–472. [CrossRef]
+82. Ker, H. The impacts of student-, teacher-and school-level factors on mathematics achievement: An exploratory comparative
+
+investigation of Singaporean students and the USA students. Educ. Psychol. 2016, 36, 254–276. [CrossRef]
+83. Salili, F. Learning and motivation: An Asian perspective. Psychol. Dev. Soc. 1996, 8, 55–81. [CrossRef]
+84. Crehan, L. Cleverlands: The Secrets behind the Success of the World’s Education Superpowers; Random House: London, UK, 2017.
+85. Parsons, S.; Hallam, S. The impact of streaming on attainment at age seven: Evidence from the Millennium Cohort Study. Oxf.
+
+Rev. Educ. 2014, 40, 567–589. [CrossRef]
+86. Francis, B.; Archer, L.; Hodgen, J.; Pepper, D.; Taylor, B.; Travers, M.-C. Exploring the relative lack of impact of research on ‘ability
+
+grouping’in England: A discourse analytic account. Camb. J. Educ. 2017, 47, 1–17. [CrossRef]
+87. Ruthven, K. Ability stereotyping in mathematics. Educ. Stud. Math. 1987, 18, 243–253. [CrossRef]
+88. Warwick, I. How Should Schools Respond to Ofsted’s Renewed Focus on G&T? Optimus Education: Oldbury, England, 2013.
+89. Kollmayer, M.; Schober, B.; Spiel, C. Gender stereotypes in education: Development, consequences, and interventions. Eur. J. Dev.
+
+Psychol. 2018, 15, 361–377. [CrossRef]
+90. López-Iñesta, E.; Botella, C.; Rueda, S.; Forte, A.; Marzal, P. Towards breaking the gender gap in Science, Technology, Engineering
+
+and Mathematics. IEEE Rev. Iberoam. Tecnol. Aprendiz. 2020, 15, 233–241.
+91. Hoyle, E.; John, P.D. Professional Knowledge and Professional Practice; Cassell: London, UK, 1995.
+92. Little, D. Learning as dialogue: The dependence of learner autonomy on teacher autonomy. System 1995, 23, 175–181. [CrossRef]
+93. Machin, S.; Vernoit, J. Changing School Autonomy: Academy Schools and Their Introduction to England’s Education; Centre for the
+
+Economics of Education, LSE: London, UK, 2011.
+94. Adams, G.; Povey, H. “Now There’s Everything to Stop You”: Teacher autonomy then and now. In Sociopolitical Dimensions of
+
+Mathematics Education; Springer: Berlin/Heidelberg, Germany, 2018; pp. 209–230.
+95. Hargreaves, A. Four ages of professionalism and professional learning. Teach. Teach. 2000, 6, 151–182. [CrossRef]
+96. MacBeath, J. Future of Teaching Profession; Education International Brussels: Brussels, Belgium, 2012.
+97. Price Waterhouse Cooper. Teacher Workload Study, Report of a Review Commissioned by the DfES; Price Waterhouse Cooper: London,
+
+UK, 2001.
+
+
+
+Educ. Sci. 2021, 11, 141 14 of 15
+
+98. Sturman, L.; Lewis, K.; Morrison, J.; Scott, E.; Smith, P.; Styles, B.; Taggart, G.; Woodthorpe, A. General Teaching Council Survey of
+Teachers; National Foundation for Educational Research in England: London, UK, 2005.
+
+99. Department for Education. Factors Affecting Teacher Retention: Qualitative Investigation; Department for Education: London,
+UK, 2018.
+
+100. Foster, D. Teacher Recruitment and Retention in England; House of Commons Briefing Paper: London, UK, 2019.
+101. Pearson, L.C.; Moomaw, W. The relationship between teacher autonomy and stress, work satisfaction, empowerment, and
+
+professionalism. Educ. Res. Q. 2005, 29, 38–54.
+102. Rhodes, C.; Nevill, A.; Allan, J. Valuing and supporting teachers: A survey of teacher satisfaction, dissatisfaction, morale and
+
+retention in an English local education authority. Res. Educ. 2004, 71, 67–80. [CrossRef]
+103. Talbert, J.E.; McLaughlin, M.W. Teacher professionalism in local school contexts. Am. J. Educ. 1994, 102, 123–153. [CrossRef]
+104. Ingersoll, R.M. Teacher Professionalization and Teacher Commitment: A Multilevel Analysis. Statistical Analysis Report; US Department
+
+of Education, Office of Educational Research and Improvement: Washington, DC, USA, 1997.
+105. Santiago, P.; Levitas, A.; Radó, P.; Shewbridge, C. OECD Reviews of School Resources-Estonia; OECD: Paris, France, 2016.
+106. OECD. Education at a Glance 2008; OECD: Paris, France, 2008.
+107. OECD. PISA IN FOCUS. School Autonomy and Accountability: Are They Related to Student Performance? OECD: Paris, France, 2011.
+108. Butrymowicz, S. In Dutch Schools, More Time in School and More EDUCATOR control; The Hechinger Report: New York, NY,
+
+USA, 2015.
+109. Eyles, A.; Machin, S. The introduction of academy schools to England’s education. J. Eur. Econ. Assoc. 2019, 17, 1107–1146.
+
+[CrossRef]
+110. West, A.; Wolfe, D. Academies, autonomy, equality and democratic accountability: Reforming the fragmented publicly funded
+
+school system in England. Lond. Rev. Educ. 2019, 17, 70–86. [CrossRef]
+111. Cirin, J. Do Academies Make Use of Their Autonomy? Research Report; Department for Education: London, UK, 2014.
+112. Arbor. How Dixons Academies Trust Took Tips from Silicon Valley on Structuring Their MAT; Arbor Education: London, UK, 2018.
+113. Tickle, B.R.; Chang, M.; Kim, S. Administrative support and its mediating effect on US public school teachers. Teach. Teach. Educ.
+
+2011, 27, 342–349. [CrossRef]
+114. Worth, J.; Van den Brande, J. Teacher Autonomy: How Does It Relate to Job Satisfaction and Retention? Natl. Found. Educ.
+
+Res. 2020.
+115. Cordingley, P.; Bell, M.; Isham, C.; Evans, D.; Firth, A. What do specialists do in CPD programmes for which there is evidence of
+
+positive outcomes for pupils and teachers. Res. Evid. Educ. Libr. 2007, 4, 1–24.
+116. Glover, D.; Miller, D.; Averis, D.; Door, V. The evolution of an effective pedagogy for teachers using the interactive whiteboard
+
+in mathematics and modern languages: An empirical analysis from the secondary sector. Learn. Media Technol. 2007, 32, 5–20.
+[CrossRef]
+
+117. Sellen, P. Teacher Workload and Development in England’s Secondary Schools: Insights from TALIS; EPI: Cobham, UK, 2016.
+118. Pedder, D.; Storey, A.; Opfer, V.D. Schools and Continuing Professional Development (CPD) in England-State of the Nation Research
+
+Project; Cambridge University/The Open University: Oxford, UK, 2008.
+119. Centre for the Use of Research and Evidence in Education (CUREE). Evaluation of CPD providers in England 2010–2011. Report for
+
+School Leaders; Training and Development Agency for Schools: Cumbria, England, 2011.
+120. Chew, L.C. Teaching training and Continuing Professional Development: The Singapore Model. In Proceedings of the Proceeding
+
+of International Conference on Teaching Training and Education, Surakarta, Indonesia, 23–26 November 2016; pp. 165–171.
+121. Sälzer, C.; Prenzel, M. Looking Back at Five Rounds of PISA: Impacts on Teaching and Learning in Germany. Sol. Polje 2014, 25,
+
+53–72.
+122. Roback, P.; Chance, B.; Legler, J.; Moore, T. Applying Japanese lesson study principles to an upper-level undergraduate statistics
+
+course. J. Stat. Educ. 2006, 14. [CrossRef]
+123. Goulet, L.; Krentz, C.; Christiansen, H. Collaboration in education: The phenomenon and process of working together. Alta. J.
+
+Educ. Res. 2003, 49, 4.
+124. McArdle, K.; Coutts, N. Taking teachers’ continuous professional development (CPD) beyond reflection: Adding shared
+
+sense-making and collaborative engagement for professional renewal. Stud. Contin. Educ. 2010, 32, 201–215. [CrossRef]
+125. Imada, T. Cultural narratives of individualism and collectivism: A content analysis of textbook stories in the United States and
+
+Japan. J. Cross-Cult. Psychol. 2012, 43, 576–591. [CrossRef]
+126. Allen, R.; Benhenda, A.; Jerrim, J.; Sims, S. New evidence on teachers’ working hours in England. An empirical analysis of four
+
+datasets. Res. Pap. Educ. 2020, 35. [CrossRef]
+127. Clay, B.; Weston, D. No teacher thinks they have enough time for proper CPD. Here’s how schools can MAKE time. Times
+
+Education Supplement, 11 January 2018.
+128. Perrella, C.J. Exploring the Influence of an Early Talent Development Program on Teacher Perceptions of Giftedness in Culturally
+
+and Linguistically Diverse Students. Ph.D. Thesis, Northeastern University: Boston, MA, USA, 2017.
+129. Rubie-Davies, C.M.; Peterson, E.R.; Sibley, C.G.; Rosenthal, R. A teacher expectation intervention: Modelling the practices of high
+
+expectation teachers. Contemp. Educ. Psychol. 2015, 40, 72–85. [CrossRef]
+130. Weinstein, R.S.; Soule, C.R.; Collins, F.; Cone, J.; Mehlhorn, M.; Sintontacchi, K. Expectations and high school change: Teacher-
+
+researcher collaboration to prevent school failure. Am. J. Community Psychol. 1991, 19, 333–363.
+
+
+
+Educ. Sci. 2021, 11, 141 15 of 15
+
+131. Britzman, D.P. Practice Makes Practice: A Critical Study of Learning to Teach; Suny Press: Albany, NY, USA, 2012.
+132. Hargreaves, A. Educational change takes ages: Life, career and generational factors in teachers’ emotional responses to educational
+
+change. Teach. Teach. Educ. 2005, 21, 967–983. [CrossRef]
+133. Orbell, S.; Verplanken, B. The automatic component of habit in health behavior: Habit as cue-contingent automaticity. Health
+
+Psychol. 2010, 29, 374. [CrossRef]
+134. Hsin, A.; Xie, Y. Explaining Asian Americans’ academic advantage over whites. Proc. Natl. Acad. Sci. 2014, 111, 8416–8421.
+
+[CrossRef] [PubMed]
+135. Heine, S.J.; Kitayama, S.; Lehman, D.R.; Takata, T.; Ide, E.; Leung, C.; Matsumoto, H. Divergent consequences of success and
+
+failure in japan and north america: An investigation of self-improving motivations and malleable selves. J. Personal. Soc. Psychol.
+2001, 81, 599. [CrossRef]
+
+136. Ng, F.F.-Y.; Pomerantz, E.M.; Lam, S.-f. European American and Chinese parents’ responses to children’s success and failure:
+Implications for children’s responses. Dev. Psychol. 2007, 43, 1239. [CrossRef] [PubMed]
+
+137. Beaton, A.E.; Postlethwaite, T.N.; Ross, K.N.; Spearritt, D.; Wolf, R.M. The Benefits and Limitations of International Educational
+Achievement Studies. Trends in Education; ERIC: Wahsington, DC, USA, 1999.
+
+138. Wise, A. Behind Singapore’s PISA rankings success and why other countries may not want to join the race. The Conversation, 8
+December 2016.

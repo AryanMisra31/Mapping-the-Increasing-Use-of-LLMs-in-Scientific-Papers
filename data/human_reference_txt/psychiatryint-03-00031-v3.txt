@@ -1,0 +1,4042 @@
+Systematic Review
+
+Mindfulness Interventions for Attention Deficit Hyperactivity
+Disorder: A Systematic Review and Meta-Analysis
+Clara R. Kretschmer, Burcu Göz Tebrizcik and Eleanor J. Dommett *
+Department of Psychology, Institute of Psychiatry, Psychology and Neuroscience, King’s College London,
+London SE5 8AF, UK
+* Correspondence: eleanor.dommett@kcl.ac.uk
+
+Citation: Kretschmer, C.R.; Göz
+Tebrizcik, B.; Dommett, E.J.
+Mindfulness Interventions for
+Attention Deficit Hyperactivity
+Disorder: A Systematic Review and
+Meta-Analysis. Psychiatry Int. 2022, 3,
+363–399. https://doi.org/10.3390/
+psychiatryint3040031
+Academic Editor: Paolo Girardi
+Received: 23 September 2022
+
+Abstract: Attention Deficit Hyperactivity Disorder (ADHD) is a common neurodevelopmental
+condition impacting children and adults. Current treatments are limited and there is increasing
+interest in the use of mindfulness, which is growing in popularity. Previous systematic reviews have
+typically focused on specific ages, outcome measures or interventions. The current review aimed to
+take a more comprehensive approach. Title and abstract searches were performed in five databases
+for randomized and non-randomized controlled trials or pre-post studies with participants with an
+ADHD diagnosis or a score above a clinically relevant cut-off on a validated ADHD measure. Studies
+had to measure symptoms of ADHD, global or social functioning. Extraction of key information
+including participant status (i.e., diagnosis, scale scores, comorbidities, medication use), study design,
+and outcome measures was conducted. Effect sizes (Hedge’s g) were calculated and where a measure
+had been used in at least three studies with the same population, meta-analyses were considered.
+Twenty-nine studies were initially identified, with seven deemed poor quality and removed from
+further analysis leaving, 22 studies containing data from 1237 children and adults with ADHD
+along with data from 525 family members. The data indicate possible benefits of mindfulness on
+self-compassion, quality of life, wellbeing, depression, and anxiety. The findings also suggest that
+mindfulness may also improve ADHD symptoms, executive function, problematic behaviours, and
+emotional dysregulation, although results vary by age of patient and measures used. Parent stress
+and parenting style have received limited attention, highlighting the need for more studies in these
+areas. Whilst the data presented suggest that mindfulness may be beneficial, the evidence base is not
+as strong as the popularity of the approach. Many of the studies lacked blind assessment, adequate
+randomization, or suitable control conditions. As such high-quality controlled studies considering
+medication, other psychosocial interventions, use of active and in active controls and comorbidity as
+well as longer follow-up periods, are needed to confirm this.
+Keywords: meditation; executive function; emotional dysregulation; attention; hyperactivity
+
+Accepted: 8 November 2022
+Published: 7 December 2022
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+
+1. Introduction
+
+published maps and institutional affil-
+
+Attention Deficit Hyperactivity Disorder (ADHD) is the most common neurodevelopmental disorder, characterised by pervasive and age-inappropriate levels of inattention
+and/or hyperactivity and impulsivity [1]. It is estimated to affect 7% of children and 4%
+of adults [2,3]. Around 65% of children with ADHD continue to warrant a diagnosis in
+adulthood [4], but ADHD may also develop in adults [5]. Childhood ADHD is associated
+with difficult relationships [6], increased accidental injuries [7], poor school performance [8],
+and reduced quality of life [9]. In adolescence, it is linked to earlier and more frequent
+drug use [10], earlier sexual activity [11], and more frequent teenage pregnancies [12], as
+well as school refusal and repeating school years [13]. Adult ADHD is associated with an
+elevated risk of traffic accidents [14], unemployment [15], impaired social functioning [16],
+and mental health conditions such as depression and anxiety [17]. As such ADHD can be
+
+iations.
+
+Copyright: © 2022 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+
+Psychiatry Int. 2022, 3, 363–399. https://doi.org/10.3390/psychiatryint3040031
+
+https://www.mdpi.com/journal/psychiatryint
+
+Psychiatry Int. 2022, 3
+
+364
+
+a significant burden on individuals, their families and broader society, and it is perhaps
+unsurprising that it has a negative impact on quality of life [18].
+1.1. Drug Treatments for ADHD
+Current guidelines for managing ADHD propose different pharmacological and nonpharmacological approaches depending on the age of individuals [19]. For drug treatments,
+stimulants are the most effective for all ages and the first-line treatment for adults. They
+reduce symptoms in 80% of individuals [20–22], but are associated with considerable side
+effects [23]. Additionally, some individuals experience only a 30% symptom reduction
+leaving substantial functional impairment [24]. There are also concerns that medication
+may be abused [25–27]. In children, use of this medication is particularly controversial [28],
+with lower response rates than adults [29], high attrition [30] and uncertainty about the
+long-term effects [31]. Non-stimulant treatments are available, but they are less effective
+than stimulants [32] and side effects remain [23]. Furthermore, drug responsiveness is
+highly heterogenous making it difficult to identify optimal treatment, resulting in a process
+of trial and error [33].
+1.2. Non-Drug Treatments for ADHD
+For non-pharmacological treatments, NICE [19] proposes psychoeducation, behaviour
+therapy, parent training, social skills training, and cognitive behavioural therapy (CBT).
+Psychoeducation aims to help individuals better understand their symptoms and cope
+with the condition and has been found to reduce ADHD symptoms [34]. In the context of
+ADHD, behaviour therapy can teach caregivers and teachers how to manage the child’s
+behaviour by using rewards [35]. It may be distinct or integrated within wider parent
+training which teaches coping and behaviour-management strategies to parents to improve
+the child’s behaviour and the parent–child relationship [36]. A meta-analysis investigating
+parent outcomes of parent training and other behavioural interventions found modest
+effects with slight improvements in parenting self-concept and moderate effects for parent
+quality [37]. In social skills training, children participate in role-plays to learn how to
+behave and consider the perspective of others. A recent review concluded that social skills
+training as a standalone treatment can address ADHD-related social impairments although
+the long-term effects are unknown [38]. CBT may be used for both children and adults to
+address unhelpful ways of thinking. Meta-analyses suggest that CBT can reduce ADHD
+symptoms [39]. Despite the efficacy of the non-pharmacological approaches, they have
+limitations. Firstly, they typically require trained staff, with effectiveness of treatment
+dependent on the qualification, knowledge, and preparedness of the instructor. Such staff
+are in short supply, creating long waiting lists and unavailable services [40]. Secondly, these
+approaches often have inflexible scheduling and locations which can result in drop-out
+before or during treatment [41]. Thirdly, not all respond to these interventions, meaning an
+element of trial and error remains.
+1.3. Alternative Approaches
+Given the limitations of current treatments, it is unsurprising that alternative approaches are of interest [42–44], including mindfulness [45]. Mindfulness interventions
+are less dependent on the qualification and training of instructors, and easier to integrate
+into daily life than other non-pharmacological treatments [46]. Mindfulness can be defined
+as paying attention non-judgmentally to the present moment [47] and includes different
+meditation methods and physical practices such as Tai Chi [48]. Mindfulness-Based Stress
+Reduction (MBSR) was the first mindfulness training developed for clinical groups and
+is now used in several conditions including ADHD [49,50]. MBSR is an 8-week psychoeducational training programme with guided 2.5 h long mindfulness meditation sessions,
+and 45–60 min daily home practice. Individual sessions focus on different techniques
+including mindful breathing, body scanning and everyday mindfulness. Most mindfulness
+programs are similar in structure and length to this MBSR. Apart from the popularity of
+
+Psychiatry Int. 2022, 3
+
+365
+
+mindfulness, it is thought to directly target areas in which individuals with ADHD struggle,
+including attention, cognitive flexibility, self-control, working memory, problem-solving,
+and planning [51], as well as deficits in arousal regulation, response inhibition, emotion
+regulation, and motivation [52]. Therefore, careful consideration of the role mindfulness
+can plan in ADHD management is needed.
+Unsurprisingly, several systematic reviews have examined the effects of mindfulness
+in ADHD. Some have focused exclusively on children and adolescents [53–55] or children
+with their parents [56], whilst others have only looked at adults [57–59]. Even where multiple ages were considered, most have examined only core symptoms of ADHD or executive
+function rather than broader outcomes, despite the far-reaching impact of ADHD [60–65].
+The most comprehensive systematic review with meta-analysis to date, which was completed in June 2020, included a broader range of outcomes and adults and children with
+ADHD but excluded parent-based interventions [66]. Having a child with ADHD is often
+emotionally challenging for parents and caregivers [67]. The child’s behaviour can cause
+parents to become hostile or disengaged [68]. Rates of depression are also elevated among
+parents of children with ADHD [69], which is, in turn, associated with poorer outcomes for
+the child [70]. Therefore, the effectiveness of ADHD treatment in children may depend on
+parents, their psychiatric illnesses and parenting style [68], making parents a suitable target
+for interventions, something already reflected in NICE guidelines for treating ADHD. The
+aim of this review is to build on the work by Olivia et al. [66] by reviewing of the effects of
+mindfulness interventions on ADHD when administered to the individual, their parents
+or as a family-based approach, considering core symptoms as well as wider health and
+behavioural outcomes.
+2. Materials and Methods
+2.1. Protocol Registration
+The protocol for the review was registered on Prospero, an international prospective
+register for systematic reviews (CRD42021292110).
+2.2. Search Strategy
+Literature searches were performed on MEDLINE, Embase, PsycINFO, Web of Science
+and ERIC from the earliest possible dates to the 28 January 2021, when the last searches were
+completed. The PICO model was adopted for the search categories, with categories combined with AND: population (attention deficit disorder with hyperactivity OR (attention
+AND deficit AND disorder) OR ADHD OR AD/HD OR (hyperkinetic AND disorder)); intervention (meditation OR mindfulness OR contemplative practice OR mantra OR savasana
+OR mind–body therapy OR guided imagery OR relaxation OR therapeutic suggestion);
+comparison (experimental OR quasi-experimental OR observational OR correlational OR
+(random* OR randomized controlled trial OR random allocation)). Title and abstracts
+were searched.
+2.3. Eligibility Criteria
+To be eligible, studies had to include participants with an ADHD diagnosis or a score
+above a clinically relevant cut-off on a validated ADHD measure. All subtypes of the
+condition and age groups were included. Studies which included common comorbidities
+(including anxiety, depression, autism spectrum disorder or substance or conduct disorder)
+were included. Eligible studies had to employ a non-randomized or randomized controlled
+trial (RCT) design, or an observational approach including pre-post study designs. Within
+these, eligible comparator groups were (i) no intervention (ii) placebo (iii) treatment as usual.
+Outcome measures had to include at least one of the following (i) Cognitive or behavioural
+tests measuring core symptoms, e.g., attention measured with a continuous performance
+tests (ii) Scale measures of core symptoms, e.g., Connors Parent Rating Scale (iii) Global
+functioning/quality of life, measured through validated scales, e.g., Global Functioning
+Scale or (iv) Social functioning, measured through validated scales, e.g., Impairment Rating
+
+Psychiatry Int. 2022, 3, FOR PEER REVIEW
+
+4
+
+Psychiatry Int. 2022, 3
+
+366
+
+continuous performance tests (ii) Scale measures of core symptoms, e.g., Connors Parent
+Rating Scale (iii) Global functioning/quality of life, measured through validated scales,
+Scale. Additionally,
+allGlobal
+articles had
+to be in
+English.
+Systematic
+reviewsmeasured
+identified
+duringvalidated
+e.g.,
+Functioning
+Scale or
+(iv) Social
+functioning,
+through
+the search were excluded
+from the
+pool ofRating
+eligible
+studies, but
+subsequently
+searched
+scales, e.g.,
+Impairment
+Scale.
+Additionally, all
+articleshand
+had to be
+in English.
+Systematic
+reviews identified during the search were excluded from the pool of eligible
+to identify any additional
+studies.
+studies, but subsequently hand searched to identify any additional studies.
+
+2.4. Data Collection
+2.4. Data Collection
+All authors independently
+conducted literature searches and screening. After conAll
+authors
+independently
+conducted
+literature
+and screening.
+ducting searches and removing duplicates,
+all authors
+screened
+titlessearches
+and abstracts
+before After
+conducting searches and removing duplicates, all authors screened titles and abstracts
+retrieving the full text of relevant records including any systematic reviews. Full text
+before retrieving the full text of relevant records including any systematic reviews. Full
+screening used extraction of key information including participant status (i.e., diagnosis,
+text screening used extraction of key information including participant status (i.e.,
+scale scores, comorbidities,
+study design
+and outcome
+measures.
+diagnosis, medication
+scale scores, use),
+comorbidities,
+medication
+use), study
+design Hand
+and outcome
+searches of identified
+systematic
+reviews
+followed
+the
+same
+process
+of
+title
+and
+measures. Hand searches of identified systematic reviews followed theabstract
+same process of
+screening followed
+byand
+fullabstract
+text data
+extract.
+The PRISMA
+flow
+(Figure
+1) gives
+title
+screening
+followed
+by full text
+datadiagram
+extract. The
+PRISMA
+flow diagram
+more information on
+the 1) gives
+selection
+process.
+(Figure
+more
+information on the selection process.
+
+Figure 1. Prisma 2020 Flow Diagram for the review.
+
+Figure 1. Prisma 2020 Flow Diagram for the review.
+2.5. Quality Assessment
+2.5. Quality Assessment
+
+Quality assessment was completed using the appropriate tool for study design from
+Quality assessment
+was completed using the appropriate tool for study design from
+National Institute of Health [71]. For each design, all authors completed the bias
+National Institute of Health [71]. For each design, all authors completed the bias assessment
+assessment independently on all papers, with any discrepancies discussed and resolved.
+independently onPapers
+all papers,
+withdeemed
+any discrepancies
+and from
+resolved.
+that
+that were
+of poor qualitydiscussed
+were removed
+furtherPapers
+data analysis.
+were deemed of poor quality were removed from further data analysis.
+
+2.6. Data Analysis
+
+2.6. Data Analysis
+Descriptive statistics from the studies were used to calculate effect sizes. These were
+
+Descriptive statistics
+from the
+studies
+were
+usedfor
+to sample
+calculate
+effectand
+sizes.
+These in
+were
+expressed as
+Hedges’ g,
+which
+accounts
+variance
+variations
+sample size
+[41] g,
+using
+established
+guidelines
+interpreting
+magnitude
+of the
+size (0.2 =
+expressed as Hedges’
+which
+accounts
+for for
+sample
+variancethe
+and
+variations
+in effect
+sample
+0.5 =guidelines
+medium, and
+large) [72].
+insufficient
+data
+was size
+provided to
+size [41] using small,
+established
+for 0.8 =
+interpreting
+theWhere
+magnitude
+of the
+effect
+effect
+authors
+event of
+no was
+response,
+a summary of
+(0.2 = small, 0.5 =calculate
+medium,
+andsizes,
+0.8 =
+large)were
+[72].contacted.
+Where In the
+insufficient
+data
+provided
+the
+results
+in
+the
+paper
+is
+provided
+in
+places
+of
+effect
+size.
+Given
+the
+range
+to calculate effect sizes, authors were contacted. In the event of no response, a summaryin study
+of the results in the paper is provided in places of effect size. Given the range in study
+designs, effect sizes were calculated for participants with ADHD only (excluding data
+from additional non-ADHD groups where present) and in relation to the baseline data
+immediately prior to any intervention. If there were follow-up periods, effects for these
+time points were also in relation to the baseline. Where control conditions were included,
+effect sizes were calculated separately for these. Meta-analyses were conducted for mindfulness interventions where at least three studies had used the same measures in the same
+population, and heterogeneity was deemed as small (I2 = 25%) or moderate (I2 = 50%).
+
+Psychiatry Int. 2022, 3
+
+367
+
+Meta-analyses were run using the R-based platform meta-mar, previously employed in
+ADHD research [73], using a random effects model. This model assumes that there is
+certain variability between studies and that the study effect estimates show more variance
+than when drawn from a single population [74]. Publication bias was assessed for the
+studies included in the meta-analyses by generating and visually inspecting a funnel plot.
+Where more than ten studies were included Egger’s test of the intercept, which measures
+Funnel Plot asymmetry, was planned [75]. Where this was not possible due to a lower
+number of studies, alternative approaches such as Fail-safe N were not conducted due to
+criticisms of this approach, particularly for medical research [76] and as such assessment
+relied on visual inspection only.
+3. Results
+As shown in Figure 1 the initial search identified, after removal of duplicates, 288 records,
+of which 9 were systematic reviews. The systematic reviews were separately used for hand
+searches, requiring screening of a further 91 articles, of which 13 were included in the final
+data set. Of the other articles, 22 papers were sought for retrieval after title and abstract
+screening and 16 of these were included. This resulted in 29 studies for inclusion.
+3.1. Risk of Bias and Quality Assessment
+Quality was assessed using the Pre-Post Design Studies criteria for six studies (See
+Supplementary Table S1) [71]. All clearly stated the research question, used representative
+samples, valid measures, and largely appropriate statistics, but sample sizes were typically
+small, and data lost at the post-test time was not accounted for. There was also variation
+in practices around eligibility criteria with these not always clear, and a lack of detail
+about interventions. Furthermore, most studies relied on self-report only when individuals
+could not be blind to the intervention. Consequently, only one-third of studies were
+deemed good quality. The two studies deemed poor quality [77,78] were removed from the
+remaining analysis
+Non-Randomized (nRCTs) and Randomized Control Trials (RCTs) were reviewed using the Quality Assessment of Controlled Intervention Studies [71] (See
+Supplementary Tables S2 and S3, respectively). Of the nRCTs, one was identified as randomized, but randomization was inadequate [79]. In all nRCTs, the sample size was very
+small, and most studies relied only on self-report measures, with just two including some
+additional measures. Given the nature of the intervention, self-report measures are not
+blinded to the condition. Studies typically did not report baseline characteristics or acknowledged groups were different at baseline, although drop-out was low and comparable
+between conditions, where reported. In most cases, adherence was good, but all studies
+failed to report details of other treatments and ensure the sample size was sufficient for
+80% power. Finally, most of the nRCTs did not use an intention-to-treat analysis. As such,
+80% of these studies were deemed fair quality and one poor. The latter was therefore
+removed from further consideration [79]. The RCTs fared better in terms of overall quality,
+although it is notable that over one-third did not detail the method of randomization and
+only 44% concealed allocation. As with the other study designs, participants could not be
+blinded to the intervention type, and most did not have a blind assessment and did not
+report the sample size required for 80% power. Only 44% controlled for other treatments
+(both drug and non-drug). Despite this, in all but one study, the groups were comparable
+at baseline and the majority showed appropriate levels of drop-out and adherence, as
+well as use of valid and reliable measures. Intention-to-treat analysis was only used in
+around half of the studies. Consequently, 56% of RCTs were deemed good quality, with 22%
+fair and 22% poor. The four studies considered poor quality were removed from further
+analysis [80–83]. Following the removal of seven studies deemed to be poor quality (See
+Supplementary Table S4), 22 studies remained for analysis (See Table 1).
+
+Psychiatry Int. 2022, 3
+
+368
+
+Table 1. An overview of the key characteristics of the good and fair quality studies identified for this review. Of the 29 studies identified, seven were deemed poor
+quality and therefore were not retained for analysis purposes.
+
+Study
+
+Design
+
+Sample
+
+Bachmann et al.,
+2018 [84]
+
+RCT
+
+Adult
+patients
+
+Behbahani et al.,
+2018 [85]
+
+RCT
+
+Mothers of child
+patients
+
+Bueno et al.,
+2015 [86]
+
+P-P
+
+Adult
+patients
+& HC
+
+Edel et al.,
+2017 [87]
+
+nRCT
+
+Adult
+patients
+
+Gu et al.,
+2018 [88]
+
+RCT
+
+Under-graduates
+w/ADHD
+
+Haydicky et al.,
+2012 [89]
+
+nRCT
+
+Children w/ADHD
+and LD
+
+P-P
+
+Families with child
+patients
+
+Haydicky et al.,
+2015 [90]
+Hepark et al.,
+2019 [91]
+Hoxhaj et al.,
+2018 [92]
+
+RCT
+RCT
+
+Adult
+patients
+Adult
+patients
+
+Mindfulness
+Condition
+Mindfulness
+Meditation
+(MM) **
+Mindful
+Parenting
+training (MPT)
+Mindfulness
+Awareness
+Practice (MAP)
+Mindfulnessbased
+training
+Mindfulnessbased Cognitive
+Therapy (MCBT)
+MBCT and
+martial arts
+training
+
+Control
+Condition
+
+PE
+US control *
+
+ADHD Status
+
+DSM-IV;
+combined or
+inattentive
+Child—US
+ADHD
+diagnosis
+
+Medication
+Permitted
+(Y/N/NR)
+
+Other
+Therapy
+Permitted
+(Y/N/NR)
+
+Excluded
+Comorbidities
+
+Age range of
+ADHD Patients
+(Years) *
+
+Gender of
+ADHD Patients
+(M:F)
+
+Analysed
+Sample Size
+(Initial Sample)
+
+N (3 mths
+med-free)
+
+N
+
+SZ, BPD, SUD, ASD,
+SUI, SH, NEURO.
+
+18–65
+
+18:22
+
+40 (74)
+
+Y (risperi-done
+or Ritalin)
+
+NR
+
+DD, MOOD, PSY
+
+7–12
+
+37:19
+
+56 (60)
+
+US control *
+
+DSM-IV
+
+Y (Methylphenidate)
+
+NR
+
+NEURO, PSY, OCD,
+TS, DEP, ANX
+
+18–45
+
+ADHD 23:20
+HC 7:10
+
+ADHD 43 (48)
+HC 17 (20)
+
+Skills training
+
+DSM-IV
+
+Y
+
+NR
+
+DEP, BPD, PSY GAD
+or PD
+
+MBT 33.8
+ST 36.7
+
+55:36
+
+91
+
+WL
+
+DSM-5
+
+Y
+
+NR
+
+DEP, BPD, SUD, SUI,
+PSY, LD.
+
+19–24
+
+30:24
+
+54 (56)
+
+WL
+
+US ADHD
+diagnosis
+
+Y
+
+NR
+
+All except LD
+and ANX
+
+12–18
+
+28:0
+
+28
+
+MBCT
+(MyMind)
+
+N/A
+
+Child -US
+ADHD
+diagnosis
+
+NR
+
+NR
+
+MBCT
+
+WL
+
+DSM-IV
+
+Y
+
+N
+
+N
+
+MAP
+
+PE
+
+DSM-IV
+
+N
+
+TAU
+
+DSM-5
+
+N
+
+N
+
+ASD, BEH
+
+13–18
+
+13:5
+
+18 children,
+17 parents
+(20 children,
+18 mothers,
+6 fathers)
+
+SUD, PSY, PERS, LD,
+SUI, SH
+SZ, BPD, SUD, ASD,
+SUI, SH, NEURO
+
+18–65
+
+43:56
+
+83 (103)
+
+MAP 40.51
+PE 38.50
+
+39:42
+
+64 (81)
+
+7–12
+
+51:19
+
+55 (72)
+
+18+
+
+56:64
+
+100 (120)
+
+13–15
+
+0:30
+
+30
+
+Huguet et al.,
+2018 [93]
+
+RCT
+
+Child
+patients
+
+Mindfulness
+programme
+based on MBCT
+and stress relief
+
+Janssen et al.,
+2019 [94]
+
+RCT
+
+Adult
+patients
+
+MBCT ** + TAU
+
+TAU
+
+DSM-IV
+
+Y
+
+Y (TAU)
+
+Kiani et al.
+(2017) [95]
+
+RCT
+
+Child
+patients
+
+MM
+
+WL
+
+Elevated
+SNAP-IV scores
+
+N
+
+N
+
+Liu et al.,
+2021 [96]
+
+RCT
+
+Parents of child
+patients
+
+MPT
+
+TAU
+
+Child—DSM-IV
+
+Y
+
+Y
+
+None
+
+MPT 9.84
+TAU 10.27
+
+87:26
+
+113
+
+WL
+
+Child score
+exceeds SWAN
+cut off and 74%
+US
+ADHD diagnosis
+
+Y
+
+NR
+
+DD, ID, ASD
+
+5–7
+
+83:17
+
+100 children
+and parents
+
+Lo et al.,
+2020 [97]
+
+RCT
+
+Families with child
+patients
+
+Family-based
+mindfulness
+intervention
+(FBMI)
+
+ASD, PSY, BPD
+DEP w/PSY SUI,
+mania, PERS, SUD,
+ASD, tic
+disorder, LD.
+PSY,
+DEP, PERS,
+SUD, NEURO
+
+Psychiatry Int. 2022, 3
+
+369
+
+Table 1. Cont.
+
+Study
+
+Design
+
+Sample
+
+Mindfulness
+Condition
+
+Control
+Condition
+
+ADHD Status
+
+Medication
+Permitted
+(Y/N/NR)
+
+Other
+Therapy
+Permitted
+(Y/N/NR)
+
+Excluded
+Comorbidities
+
+Age range of
+ADHD Patients
+(Years) *
+
+Gender of
+ADHD Patients
+(M:F)
+
+Analysed
+Sample Size
+(Initial Sample)
+
+Meyer et al.,
+2021 [98]
+
+RCT
+
+Child
+patients
+
+Structured skills
+training group
+including
+mindfulness
+
+PE
+
+Existing ICD-10
+diagnosis with
+DSM-5
+study check
+
+Y
+
+N
+
+DEP, SUI, PSY, BPD,
+ID, brain injury,
+ASD, SUD
+
+15–18
+
+164:105
+
+164 (184)
+
+Mitchell et al.,
+2017 [99]
+
+RCT
+
+Adult
+patients
+
+MM **
+
+WL
+
+DSM-IV
+
+Y
+
+NR
+
+SUD, Axis I or II
+disorder, chronic
+medical problems,
+
+18–50
+
+8:12
+
+20 (22)
+
+Muratori et al.,
+2021 [100]
+
+RCT
+
+Child
+patients + parents
+
+Mindfulness
+training
+
+WL
+
+Child -US
+ADHD
+diagnosis + ODD
+
+N
+
+N
+
+ASD
+
+8–12
+
+50:0
+
+50 children,
+20 couples,
+30 mothers,
+3 fathers
+
+Rynczak
+2013 [101]
+
+nRCT
+
+Child
+patients
+
+WL
+
+DSM-IV-TR
+
+Y
+
+N
+
+PSY, SUI, SUD
+
+12–15
+
+8:4
+
+12
+
+Siebelink et al.,
+2021 [102]
+
+RCT
+
+Child
+patients + one parent
+
+TAU
+
+Child—DSM-IV
+or DSM-5
+
+Y
+
+No previous or
+current mindful. Therapy
+
+PSY, BPD,
+SUI, PTSD, SUD
+
+8–16
+
+72:31
+
+93 children and
+93 parents
+(103 children
+and 103 parents)
+
+van de
+Weijer-Bergsma
+et al., 2012 [103]
+
+P-P
+
+Child
+patients + parents
+
+N/A
+
+Child—DSM-IV
+
+Y
+
+NR
+
+Not stated
+
+11–15
+
+5:5
+
+10 children,
+10 mothers,
+9 fathers
+
+van der Oord
+et al., 2012 [104]
+
+nRCT
+
+Child
+patients + parents
+
+WL
+
+Child—DSM-IV
+
+Y
+
+N
+
+CD, ASD
+
+8–12
+
+16:6
+
+18 children
+(22 children
+21 mothers,
+1 father)
+
+Zhang et al.,
+2017 [105]
+
+P-P
+
+Child
+patients + one parent
+
+Mindfulness
+training
+Family
+mindfulnessbased
+intervention
+(MBI)
+Mindfulness
+training +
+Mindfulness
+Parent training
+Mindfulness
+training +
+Mindfulness
+Parent training
+Mindfulness
+training +
+Mindfulness
+Parent training
+
+N/A
+
+Child -US
+ADHD
+diagnosis
+
+Y
+
+N
+
+SUD, ASD, PERS,
+SUI, SH
+
+8–12
+
+8:3
+
+11 children,
+11 parents
+
+RCT = Randomized Control Trial, nRCT = Non-Randomised Controlled Trial, Pre-Post = Pre-post design; HC = Healthy Controls, TAU = Treatment As Usual, WL = Waitlist,
+PE = Psychoeducation, US = unspecified, Y = Yes, N = No, NR—Not reported ODD = Oppositional Defiant Disorder, SZ = Schizophrenia, BPD = Bipolar Disorder, Substance abuse
+or dependence = SUD, Autism = ASD, DEP = depression, ANX = anxiety, GAD = Generalised Anxiety Disorder, PD = Panic Disorder, LD = Learning disability, SUI = suicidality,
+SH = self-harm, NEURO = Neurological condition, DD = Developmental disorder, PSY = Psychosis, MOOD = Any major mood disorder, OCD = Obsessive Compulsivity Disorder,
+TS = Tourette’s syndrome, PTSD = Post traumatic stress disorder, PERS = personality disorders, ID = Intellectual disability, BEH = behavioural problems (unspecified), CD = Conduct
+Disorder, M = Male, F = Female, * Where age range was not reported, mean age was provided. ** Detailed descriptions of these interventions indicated they consisted of Mindfulness
+Awareness Practice alone or in combination with MBCT.
+
+Psychiatry Int. 2022, 3
+
+370
+
+3.2. Study Design
+The most common design was the RCT, which was used in 14 studies [84,85,88,91–102].
+nRCTs were used in four studies [86,90,103,105]. The rationale given for not randomizing
+varied, for example, where individuals were allocated based on their availability [101],
+individual needs assessment [87,89] or using a waitlist control for ethical reasons [89,104].
+Finally, four studies used pre-post designs [86,90,103,105].
+3.3. Participants
+Eight studies included adults [84,86–88,91,92,94,99] and six focused on children and
+adolescents [89,93,95,98,101]. Hereafter, to distinguish these we will refer to adult and child
+studies, where the latter refers to children and adolescents as many studies combined these
+age groups (see ages detailed in Table 1). Two parent studies were included where the
+intervention was designed for the parents of children with ADHD [85,96]. However, typically, studies involving parents also involved interventions for children and are therefore
+referred to as family studies [90,97,100,103–105]. In total, the studies included 1237 individuals with ADHD and 525 parents. Most studies identified diagnosis as according
+to DSM-III, IV or 5, or ICD-10, either received before or on entry to the study. However,
+seven studies did not specify the diagnostic manual [85,89,90,95,97,100,105]. In one of these
+studies, the Strengths and Weaknesses of ADHD Symptoms and Normal Behaviours Rating
+Scale (SWAN) was also used to verify eligibility [97]. Finally, one study did not require a
+diagnosis but did require participants have elevated ADHD symptoms on the Swanson,
+Nolan, and Pelham-fourth edition (SNAP-IV) scale [95]. In one study, all participants had
+co-morbid oppositional defiant disorder (ODD) [100] and in another they all had comorbid
+learning disabilities [89]. Most studies excluded participants with schizophrenia or psychosis, bipolar disorder, substance dependence, acute suicidality, or self-harm behaviour.
+However, exclusions were also made for autism spectrum disorder, depression, and anxiety
+in some studies. Only one study explicitly stated that no comorbidities were excluded [96]
+and one did not specify. One study used the Kiddie Schedule for Affective Disorders and
+Schizophrenia for school-age children present lifetime version (K-SAD-PL) to confirm the
+ADHD diagnosis and identify co-morbidities but only reported excluding those with ASD,
+bipolar disorder or psychosis [93]. The same study used the Social Communication Questionnaire to screen out children with ASD [93]. Finally, Siebelink et al. [102] used the ADHD
+Rating Scale IV to determine whether the parents may have ADHD. Most studies (n = 21) described medication status; five required participants to be medication-free [84,92,93,95,100],
+with most others requiring stable medication prior to and during the study. In contrast, only
+13 studies described details of non-medication treatment, with 11 of these not-permitting
+other treatments, whilst two did allow these [94,96]. The studies reviewed included samples
+from ten countries. The most represented countries were the Netherlands [91,94,102–104],
+followed by China [88,96,97,105] and Germany [84,87,92]. Studies had also been carried
+out in the USA [99,101], Canada [89,90], Iran [85,95], Brazil [86], Italy [100], Spain [93] and
+Sweden [98] suggesting a good geographical spread, at least across high-income countries.
+3.4. Intervention Approaches
+Interventions were typically labelled as meditation or mindfulness practice, mindfulnessbased training, or mindfulness-based cognitive therapy. There were some exceptions where
+mindfulness was combined with martial arts [89] or structured skills training including
+mindfulness [98]. Nineteen of the 22 studies included a control condition, but two of
+these did not specify what the control condition was [85,86]. Nine studies used a waitlist
+control [88,89,91,95,97,99–101,104]. Four specified a treatment-as-usual control [93,94,96,
+102]. Three used a psychoeducational control [84,92,98] and one used skills training [87]. In
+most studies, the mindfulness interventions consisted of eight weekly sessions around two
+hours long with additional home practice [84–86,90,92,93,95,96,99,104,105]. In some cases,
+these were supplemented with a booster session eight weeks after the final session in the
+initial block [102,103] or a silent day during the eight-week block [94]. There were some
+
+Psychiatry Int. 2022, 3
+
+371
+
+variations on this with shorter periods (4–7 weeks) [88,97,101] or those that were slightly
+longer [87,91,98,100]. One study had much longer intervention periods with 20-week
+approaches (1.5 h per week) [89]. In all cases, control conditions were matched for duration
+to the mindfulness condition.
+3.5. Outcome Measures
+Not all studies divided measures into primary and secondary outcomes, and as such
+we have also not made this distinction, and instead considered outcomes by study group.
+3.5.1. Adult Studies
+ADHD symptoms were most commonly measured using the investigator version of
+the Conners Adult ADHD Rating Scale, CAARS-INV [84,91,92,94], or the self-report version,
+CAARS-S [84,88,91,92,94]. Less frequently used were the Adult ADHD Self Report Scale,
+ASRS [86], and the Current ADHD Symptom Scale Self Report and Clinician rated [99].
+Two studies used non-standardized approaches with the Wender–Reimherr Interview, WRI,
+score combined with four novel items for ADHD symptoms (investigator rating) [87] and
+an EMA approach for ADHD symptoms and executive function, albeit alongside more
+standardized methods [99].
+Executive function was typically measured with the Behaviour Rating Inventory of
+Executive Function—Adult Self-Report version, BRIEF-ASR [91,94,99], but the Deficits in
+Executive Functioning Scale, DEFS, was also used [99]. One study measured the related
+construct of self-efficacy using the Generalised Self-Efficacy Scale, GSES [87] and another
+measured academic performance with GPA, as an outcome [88].
+Mental health scales were used in several studies including the Mental Health ContinuumShort Form, MHC-SF [94] and the Brief Symptom Inventory, BSI [92]. Symptoms of depression and anxiety were measured with more specific instruments including the Beck
+Depression Inventory, BDI [86,88,91,92], the Beck Anxiety Inventory, BAI [88], and the StateTrait Anxiety Inventory, STAI [86,91]. One study used the Positive and Negative Affect
+Schedule—expanded form, PANAS-X [86]. Emotional functioning was measured using
+the Self-Compassion Scale-Short Form, SCS-SF [94], Difficulties in Emotion Regulation
+Scale, DERS [99], Distress Tolerance Scale, DTS [99]. Quality of life was measured with the
+Outcomes Questionnaire, OQ 45.2 [91,94], the SF-36 and the Adult ADHD Quality of Life
+Questionnaire AAQoL [86]. Several scales were used to assess mindfulness including the
+Mindful Attention and Awareness Scale, MAAS [87,88], Kentucky Inventory of Mindfulness
+Skills, KIMS [91], Five Facet Mindfulness Questionnaire-Short Form, FFMQ-SF [92,94].
+Where objective laboratory tests were used with adults, the most used test was the
+Attention Network Test, ANT [86,88,99]. Other tests included Connor’s CPT [86] and Oneback letter task of working memory, which was used in conjunction with structural and
+functional MRI [84]. One study measured attendance and attrition along with homework
+completion to provide a measure of feasibility and acceptability [99].
+3.5.2. Child Studies
+Studies with children used similar scales and objective tests. Scale measures of ADHD
+were made with the Connors Parent Rating Scale, CPRS [101], Conners Wells Adolescent
+Self Report Scale (CASS-R-LF) [101], and Impact of ADHD Symptoms [98]. One study
+measured symptoms using the adolescent version of the Adult ADHD Self-Report Scale,
+ASRS-A, with both the parents and children providing ratings [98]. It is notable that
+Rynczak (2013) used both the CPRS and the CASS-R-LF but did not clearly differentiate
+the results. Executive function was measured with BRIEF [89] and the Cognitive Assessment System [101]. Objective tests included the CPT, Digital Span, Stroop and Tower of
+London [95], Trail Making Test, TMT [101].
+More general measures of behaviour were collected with the Child Behavior Checklist,
+CBCL [89,93,101], Child Sheehan Disability Scale, CSDS, Global Quality of Life scale, GQL,
+the Karolinska Sleep Questionnaire, KSQ [98], DERS [95], Youth Self-Report Scale, YSR [101].
+
+Psychiatry Int. 2022, 3
+
+372
+
+One study used the Hospital Anxiety and Depression Scale, HADS and also collected data
+on data on stress with the Pressure Activation Stress Scale, PAS [98]. This study was the
+only child study to measure mindfulness with the FFMQ [98].
+3.5.3. Family Studies
+As with the studies described above, scale measures were the most common approach within family studies. The most used measures of ADHD in children was the
+Connors Rating Scale, including parent and teacher versions [102] and SWAN [97,102].
+The Connors 3 screening scale was also used [90]. Executive function was measured with
+BRIEF [102,103,105]. Where objective measures of ADHD-related behaviours were collected, these focused almost exclusively on attention with Connors’ CPT and the Test of
+Everyday Attention for Children, TEA-Ch [105], Baseline Speed, Sustained Attention Dots,
+SAD, Sustained Attention Auditory, SAA [103], ANT [97] and Bells Test-Revised [100].
+Only one study included an objective measure of impulsivity using the Matching Familiar
+Figures Test, MFFT [100].
+As with the child studies, several studies employed general behavioural indices including the CBCL Eyberg Child Behavior Inventory, ECBI [105], YSR, and Teacher Report
+Form, TRF [103], the Disruptive Behavior Disorder Rating Scale, DBDRS [104], the Social Responsiveness Scale [102] the Strengths and Difficulties Questionnaire, SDQ, Avoidance and
+Fusion Questionnaire for Youth, AFQ-Y and Modified Overt Aggression Scale, MOAS [100].
+Scales related to depression, anxiety and general measures of mental health were also
+used. For example, the Revised Child Anxiety and Depression Scale—Youth and Parent
+Report RCADS was used in one study [90]. The Depression Anxiety Stress Scale was used in
+the parents in one case [102]. Another study used Flinders Fatigue Scale and the Subjective
+Happiness Scale [103]. Finally, one study measured wellbeing using KIDSCREEN and sleep
+problems using a standard clinical care scale [102]. Only three studies employed measures
+of mindfulness in children and two of these used the Child and Adolescent Mindfulness
+Measure, CAMM [100,102]. The final study used the MAAS [103].
+Parent measures focused on four areas. Firstly, parent stress was measured, most
+often with the Parenting Stress Index, PSI [97,103–105], but the Stress Index for Parents
+of Adolescents, SIPA, was also used [89]. One study used Heart Rate Variability as an
+indicator of stress [97]. Secondly, parenting style was measured with the Parenting Scale,
+PS [103–105] and the Interpersonal Mindfulness in Parenting scale, IM-P [97,102,105]. Related to this, mindfulness was collected in two studies using the MAAS [103,104]. Thirdly,
+ADHD-related measures were collected from parents using the ASRS [97] and the ADHDRS [104]. Fourthly, general mental health measures were also collected in a small number
+of studies including the Depression Anxiety Stress Scale, brooding subscale of Ruminative
+Response Scale, MHC-SF and SCS-SF [102]. The WHO Wellbeing Index was used in two
+studies [97,102]. Outside of these four main categories, one study used the MBI-TAC to
+assess treatment fidelity and another used two assessment tools completed by both child
+and parent; Family Assessment Device (FAD), Issues Checklist [89]. Executive function was
+measured in one study using BRIEF-Adult [102]. Emotional reactivity was also measured in
+one study using the Acceptance and Action Questionnaire (AAQ) [89]. Finally, it should be
+noted that Zhang et al. [105] also included qualitative data beyond the scope of this review.
+3.5.4. Parent Studies
+Liu et al. [96] measured stress with the Parenting Stress Index-short-form, PSI-SF,
+self-compassion using the SCS, and mental health using the Hamilton Depression Scale,
+HAMD, and the Hamilton Anxiety Scale, HAMA. They also examined general mindfulness
+using the FFMQ, and mindful parenting using the IM-P, Chinese version (IMP-C). The
+PSI-SF was also used by Behbahani et al. [85]. Measures of the child were also made using
+the CPRS and ADHD-RS [96] and SNAP-IV [85].
+
+Psychiatry Int. 2022, 3
+
+373
+
+3.6. The Effects of Mindfulness Interventions
+Given the vast number of measures reported here, some of which are described in
+text, Supplementary Table S5 provides a brief overview of consistently used measures not
+otherwise tabulated separately.
+3.6.1. ADHD Symptoms Scales
+As indicated above, several standardized measures of ADHD were used in all populations. Considering first adults with ADHD, the CAARS-INV was used in four studies.
+However, two versions were used; the long version with eight subscales [84,92] and a
+shorter screening version [91,94], preventing meta-analyses. Irrespective of this, all studies reported a reduction in scores after the mindfulness intervention, indicating symptom improvement. For the longer version, across all subscales, effect sizes range from
+−0.20 to −0.44 indicating a small-to-medium effect for Bachmann et al. [84] and −0.40 to
+−0.62 indicating slightly larger effects for Hoxhaj et al. [92]. However, in both cases, the
+control condition saw similar or larger effects for several subscales (g ≤ −0.89). These
+effects did reduce to negligible levels at an 8-month follow-up in one study, despite the
+mindfulness condition maintaining medium-to-large effects (−0.55 to −0.80) [92]. For
+the screener version, the total score reduced with a small-to-medium (g = −0.37) [94]
+or large effect (g = −0.94) after mindfulness [91]. Scores for inattention reduced with
+medium (g = −0.50) [94] and large effects (g = −0.83) [91]. For hyperactivity-impulsivity,
+Janssen et al. [94] reported a negligible effect size (g = −0.17) whilst the effect remained
+considerable for Hepark et al. [91] (g = −0.77). In both studies using this version, the
+control groups revealed negligible negative effects (g ≤ −0.14) except for attention in the
+work by Janssen et al. [94] which found a small effect of the control condition (g = −0.23).
+As with the CAARS-INV, multiple versions of the CAARS-SR were used with adults.
+Bachmann et al. [84] and Hoxhaj et al. [92] used the long version. The latter reported
+consistent findings across all subscales showing decreased scores with small-to-medium
+effect sizes immediately after the mindfulness intervention (−0.28 to −0.46) which were
+enhanced at the 3-month follow-up (−0.45 to −0.74). However, they also reported smallto-medium effects for seven of the eight subscales after the control condition (−0.33 to
+−0.60) which were also enhanced at follow-up and found for all eight subscales (−0.34 to
+−0.74). In contrast, Bachmann et al. [84] reported a reduction in scores for all subscales
+except the DSM hyperactivity-impulsivity (g = 0.05) and the total score (g = 0.30), the
+latter of which increased with a small-to-medium effect. Where negative effects were
+seen, the effect size was negligible in most measures, reaching a small effect only for selfconcept (g = −0.27). Furthermore, the control condition resulted in a decrease in all scale
+items with a small-to-medium effect (−0.35 to −0.58). The remaining studies used the
+screener version with Hepark et al. [91] and Janssen et al. [94] reporting raw scores for
+inattention, hyperactivity-impulsivity, and the total, and Gu et al. [88] reporting t-scores
+for the same measures. Given that three studies used different measures (i.e., raw and
+t-scores), a meta-analysis was not possible. Following the mindfulness intervention all
+studies reported a reduction in inattention (g = −0.64 [91], g = −0.48 [94], g = −1.90 [88]),
+hyperactivity-impulsivity (g = −0.55 [91], g = −0.35 [94], g = −1.27 [88]) and total scores
+(g = −0.72 [91], g = −0.48 [94], g = −1.68 [88]). Furthermore, the effects remained at the
+three-month follow-up in Gu et al. [88] (inattention g = −1.86, hyperactivity-impulsivity
+g = −1.58, total g = −1.36). Examination of effect sizes for the control condition indicate
+negligible effects for inattention (g = −0.12 [91], g = −0.17 [94]) in two studies but a medium
+effect in the third, albeit still considerably smaller than the effect in the mindfulness condition (g = −0.50 [88]). Similarly, negligible effects were seen for hyperactivity-impulsivity
+in two studies (g = −0.12 [94], g = −0.16 [88]) whilst the third reached a small effect
+(g = −0.21 [91]). For the total score the studies showed a negligible effect (g = −0.19 [94]) or
+small effects (g = −0.23 [88], g = −0.21 [91]) The effects of the control condition remained
+similar at follow-up (inattention g = −0.52, hyperactivity-impulsivity g = −0.14, total
+g = −0.19 [88]).
+
+Psychiatry Int. 2022, 3
+
+374
+
+Apart from CAARS, several other measures were used in adults. The ASRS was with
+adults [86] and in one family study with the parents of those with ADHD [97]. When used
+with adults with ADHD, Beuno et al. [86] found a decrease in scores in the mindfulness
+group for both inattention (g = −1.62) and hyperactivity-impulsivity subscales (g = −0.61).
+Reductions, albeit with much smaller effect sizes, were also seen in their control intervention
+both inattention (g = −0.22) and hyperactivity-impulsivity (g = −0.18). Lo et al. [97] found
+negligible effects on all ASRS items after their mindfulness and control interventions
+(g < 0.065) in the parents of those with ADHD. However, as might be expected for a nonclinical group their scores at baseline were much lower making a reduction less likely. As
+well as the ASRS, the ADHD-RS was used in the parents of children with ADHD in a family
+study [104]. Data from this study was insufficient to calculate Hedges’ g but the authors
+reported an effect size of −0.36 and −0.48 for reductions in inattention and hyperactivityimpulsivity in the parents. They do not specify the type of effect size and there is no
+control condition. Self-report and clinician-rated versions of the Current ADHD Symptom
+Scale, which produce scores of inattention, hyperactivity-impulsivity and functioning were
+used by Mitchell et al. [99]. They reported decreases in all scores after the mindfulness
+intervention with effect sizes substantial for all self-report (−1.82 to −2.87) and the clinicianrated items (−1.65 to −1.90). Effects were smaller in the control intervention with only
+self-report (g = −0.29) and clinician-rated (g = −0.26) scores for inattention reaching the
+threshold of a small effect size (all others g < −0.12). This study also employed a novel
+EMA measure of inattentive and hyperactive-impulsive symptoms. Using this measure
+participants reported a reduction in scores for both symptom types (attention g = −0.44;
+hyperactivity-impulsivity g = −0.59) immediately after the mindfulness intervention, in
+contrast to slight increases after the control intervention, albeit with only attention meeting
+the threshold for a small effect (attention g = 0.35; hyperactivity-impulsivity g = 0.15).
+The final study examining ADHD outcomes in adults with the condition used the WRI in
+combination with four novel items [87]. The authors used the total score, which combines
+the seven subscales of the WRI as their outcome. They reported reductions in all subscales
+with small-to-medium effects (−0.22 to −0.58) and a medium effect size for the total score
+(g = −0.55). However, they also reported an overall medium effect for the total score in the
+control condition (g = −0.50) with two subscales exceeding the threshold for a small effect
+size (inattention g = −0.50, impulsivity g = −0.27).
+The most used scale for studies involving children with ADHD was the CPRS which
+was used in child [101], family [102], and parent studies [96]. The diversity in population
+and reporting approaches prevented meta-analyses. Rynczak [101] reported five outcomes
+(albeit overlapping with CASS-R-LF as indicated in Outcome Measures): Connors’ Hyperactivity Scale, Connors DSM HI, Connors Cognitive attention, Connors DSM IA, and
+Connors DSM Total. Cognitive attention showed a small-medium effect (g = −0.45) for
+the mindfulness condition but a negligible effect in the control (g = 0.02). All other measures in the mindfulness condition showed medium-to-large effect sizes (hyperactivity
+g = 0.60, DSM HI g = −0.68, DSM IA g = −0.54, Total g = −0.68). The control condition
+found negligible effects (hyperactivity g = 0.13, DSM HI g = −0.03, DSM IA g = −0.07,
+Total g = 0.13). Sieberlink et al. [102] showed a reduction in most scores immediately
+after the mindfulness intervention with effect sizes ranging from negligible to medium-tolarge (inattention g = −0.43, hyperactivity-impulsivity g = −0.29, oppositional behaviour
+g = 0.08, shy anxious g = −0.62, social problems g = −0.12, emotional lability g = −0.20).
+These effects were partially retained at the two-month follow-up (inattention g = −0.68,
+hyperactivity-impulsivity g = −0.36, oppositional behaviour g = 0.11, shy anxious
+g = −0.56, social problems g = −0.06, emotional lability g = −0.36) and the six-month
+follow-up (inattention g = −0.48, hyperactivity-impulsivity g = −0.34, oppositional behaviour g = −0.09, shy anxious g = −0.36, social problems g = −0.09, emotional lability
+g = −0.24). For the control condition, the largest effect size failed to meet the threshold
+for a small effect (inattention g = −0.19) and most fell someway below this (g < 0.14).
+However, at the two-month follow-up effects sizes in the control had increased in magni-
+
+Psychiatry Int. 2022, 3
+
+375
+
+tude (inattention g = −0.33, hyperactivity-impulsivity g = −0.40, oppositional behaviour
+g = 0.16, shy anxious g = −0.23, social problems g = −0.03, emotional lability g = −0.33). A
+similar pattern remained at six months (inattention g = −0.48, hyperactivity-impulsivity
+g = −0.34, oppositional behaviour g = 0.09, shy anxious g = −0.36, social problems
+g = −0.09, emotional lability g = −0.24). The teacher-rated version of the same scale showed
+minimal effects immediately after the mindfulness intervention (inattention
+g = −0.19, hyperactivity-impulsivity g = −0.08, oppositional behaviour g = 0.03, shy
+anxious g = −0.09, social problems g = −0.05, emotional lability g = −0.14) and at two
+months (inattention g = −0.15, hyperactivity-impulsivity g = −0.12, oppositional behaviour
+g = 0.06, shy anxious g = −0.17, social problems g = −0.07, emotional lability g = 0.00).
+Similarly, there was little evidence of an effect in the control condition immediately (inattention g = −0.10, hyperactivity-impulsivity g = −0.08, oppositional behaviour g = −0.03,
+shy anxious g = 0.03, social problems g = 0.00, emotional lability g = −0.12) or at followup (inattention g = −0.39, hyperactivity-impulsivity g = −0.17, oppositional behaviour
+g = −0.06, shy anxious g = −0.06, social problems g = −0.07, emotional lability
+g = −0.04). Interestingly, when the parents engaged in the mindfulness intervention but not
+the children, CPRS still showed small effects for conduct (g = −0.29), hyperactivity index
+(g = −0.29), and learning problems (g = −0.23) but not somatic problems (g = 0.04), although
+the control condition also reported a small effect for conduct (g = −0.22) [96].
+Whilst the CPRS was the most frequently used in children, several other instruments
+were employed. Lui et al. [96] used the ADHD-RS, providing subscales for inattention,
+hyperactivity, impulsivity, and a total score. Following the mindfulness intervention only
+inattention showed a reduction meeting the threshold for a small effect (g = −0.26) with the
+others falling below this (total g = −0.18, hyperactivity g = −0.07, impulsivity g = −0.02).
+Similar or larger effects were seen for the control condition (attention g = −0.22, hyperactivity g = −0.14, impulsivity g = −0.27, total g = −0.26) suggesting no specific benefit of
+mindfulness. The Connors 3 screening tool was also used with parent and self-report versions [90]. With the parent version, all scores decreased immediately after the mindfulness
+intervention with a range of effect sizes (inattention g = −0.78, hyperactivity/impulsivity
+g = −0.42, conduct disorder g = −0.68, oppositional defiant disorder g = −0.48, learning
+g = −0.54, executive function g = −0.34, peer relations g = −0.48). These effects were
+enhanced at the six-week follow-up (inattention g = −0.81, hyperactivity/impulsivity
+g = −0.62, conduct disorder g = −1.08, oppositional defiant disorder g = −0.99, learning
+g = −0.76, executive function g = −0.54, peer relations g = −0.44). The self-report version
+showed much smaller effects, many failing to reach the threshold for a small effect (inattention g = 0.15, hyperactivity/impulsivity g = −0.11, conduct disorder g = 0.07, oppositional
+defiant disorder g = 0.30, learning g = 0.29, family relations g = −0.15), which were further
+reduced at follow-up (inattention g = 0.02, hyperactivity/impulsivity g = −0.04, conduct
+disorder g = −0.31, oppositional defiant disorder g = 0.10, learning g = 0.28, family relations g = −0.24). Meyer et al. [98] used the ASRS-A rated by both parents and children.
+Two weeks after the intervention adolescent ratings showed negligible effects for both
+the mindfulness (g = −0.09) and control (g = 0.05) groups. However, at the six-month
+follow-up, the effects of the mindfulness intervention had increased (g = −0.22) whilst
+the control remained negligible (g = 0.05). Parent ratings found small-to-medium effects
+of the mindfulness intervention at two weeks (g = −0.34) and six months (g = −0.46).
+However, they also found some effects of the control at six months (2 weeks g = −0.13,
+six months g = −0.26). The same study looked at the impact of symptoms and found
+a negligible effect of mindfulness at two weeks (g = −0.12) and six months (g = −0.13),
+albeit one that was larger than the control (two weeks g = 0.00, six months (g = −0.02).
+Muratori et al. [100] used the SDQ-hyperactivity and found a large effect size after the
+mindfulness intervention (g = −0.80) but not the control (g = 0.00). SNAP-IV was used
+to measure children’s ADHD when only parents had received the intervention [85]. This
+work also found effects of mindfulness post-intervention albeit with a slightly reduced
+magnitude (attention g = −0.82, hyperactivity g = −0.28, combined g = −0.58) although the
+
+Psychiatry Int. 2022, 3
+
+376
+
+effects were enhanced at the 8-week follow-up (attention g = −1.02, hyperactivity g = −0.35,
+combined g = −0.72). Importantly, negligible effects were found after the control condition
+(attention g = 0.10, hyperactivity g = 0.10, combined g = 0.10) although these also enhanced
+at follow-up (attention g = 0.30, hyperactivity g = 0.39, combined g = 0.38) resulting in
+an increase in scores. SWAN was used in two family studies [97,102]. In the work by
+Sieberlink et al. [102] both parent and teacher ratings were available for inattention and
+hyperactivity-impulsivity. For inattention, both parents and teachers reported a similar size
+effect with a reduction in scores immediately after the mindfulness intervention (parents
+g = −0.36, teachers g = −0.27). However, for hyperactivity-impulsivity, only parents
+reported a meaningful change (g = −0.32), with teachers showing a negligible effect
+(g = −0.12). For both parent and teacher ratings effect sizes in the control intervention
+failed to reach the threshold for a small effect (parent: inattention g = −0.06, hyperactivityimpulsivity g = −0.18; teachers inattention g = −0.17) hyperactivity-impulsivity g = −0.10).
+Lo et al. [97] reported medium-to-large effect sizes for inattention (g = −0.59), hyperactivityimpulsivity (g = −0.58) and total score (g = −0.62). In contrast to this, results in the control condition indicated negligible effects (inattention g = 0.02, hyperactivity-impulsivity
+g = −0.08, total g = −0.09). Finally, the DBDRS inattention, hyperactivity and ODD subscales using both parent and teacher ratings were reported as showing a reduction in inattention on teacher ratings and inattention and hyperactivity-impulsivity in parent ratings
+in one study, although insufficient information was provided to calculate effect sizes [104].
+In summary, based on different scales used, there is some evidence suggesting that
+mindfulness reduces ADHD symptoms in adults with the condition, particularly for inattention. However, the lack of control conditions in some studies, combined with the
+comparable effects to the mindfulness intervention seen in some control conditions, where
+included, and the use of self-report, makes it hard to determine how specific these effects
+are to mindfulness. As with the measures in adults, there is limited evidence for mindfulness impacting ADHD in children. Whilst several measures did indicate a reduction
+in symptoms, there was variation in effects according to scale and who was responding, with parents often reporting larger effects than children themselves or their teachers.
+Furthermore, effects are also seen in control conditions.
+3.6.2. Executive Function Scales
+Three studies used BRIEF-ASR to measure executive function in adults [91,94,99].
+Reporting approaches varied but all three included a total score. Heterogeneity of the
+studies was too high (I2 = 76.7%) to conduct a reliable meta-analysis and as such individual
+effect sizes are reported. All studies found a decrease in total score after the mindfulness
+intervention with small (g = −0.26) [94] or large (g = −1.04 [91]; g = −1.13 [99]) effect sizes.
+All individual subscales also showed reductions (−0.41 to −1.21). In all three studies a
+control intervention was used. The total score changes after the control condition varied
+from negligible (g = −0.07 [94]) to a small positive effect (g = 0.20 [99]) or a small negative
+effect (g = −0.24 [91]). Most subscales saw negligible effects in the control condition. BRIEF
+was also used to measure executive function in children as part of child [89] and family
+studies [102,103,105]. As with adult studies, there was variety in the variables were reported. For example, Haydicky et al. [89] reported findings for behavioural regulation and
+monitoring only. They found a large effect decrease following the mindfulness intervention
+(behavioural regulation g = −0.71, monitoring g = −1.00) in contrast to negligible effects
+in the control (behavioural regulation g = −0.04, monitoring g = 0.01). Zhang et al. [105]
+provided ten subscales along with the total and reported negligible effects for the total
+(g = −0.02) and seven subscales (g < −0.15) with three reaching small effect sizes (shifting
+g = 0.22; initiation g = 0.29; organisation g = 0.22). They had no control condition. From
+the family studies, Sieberlink et al. [102] collected data about the child’s self-control from
+parents and teachers. Initially both groups reported a small-to-medium effects (parents
+g = −0.35, teachers g = −0.29) in contrast to the control condition (parents g = −0.16, teachers g = 0.01). The two-month follow-up revealed effects had increased for the mindfulness
+
+Psychiatry Int. 2022, 3
+
+377
+
+condition in parent ratings but not teacher ratings (parents g = −0.56, teachers g = −0.17).
+For the control condition, both effects increased (parents g = −0.33, teachers g = −0.28).
+The final follow-up at six months only included parent ratings and showed both conditions
+had a similar effect (mindfulness g = −0.39, control g = −0.36). The same study reported
+on parent’s self-control and found an initial negligible effect of mindfulness (g = −0.16),
+which increased at the two- (g = −0.24) and six-month (g = −0.36) follow-up. There was
+no effect of the control condition (immediately g = 0.05, two-month g = −0.11, six-month
+g = −0.09). Van de Weijer-Bergsma et al. [103] provided scores for behavioural regulation
+and metacognition, from mothers, fathers, and teachers. For behavioural regulation parent
+score changes were negligible (mother g = 0.15, father g = −0.11), although at follow-up the
+effects on father ratings were larger (g = −0.60). For teachers there were small-to-medium
+(g = 0.44) effects initially, with no follow-up data collected. For metacognition, immediate
+effects were very varied (mothers g = 0.24, fathers g = −0.92, teachers g = −0.23). Follow-up
+revealed negligible effects for mothers (g = 0.03) and large effects for fathers (g = −1.68).
+In addition to BRIEF, DEFS was used in adults with both self-report and clinicianreport versions [99]. The total score for both versions decreased after the mindfulness
+intervention (g = −1.72, self-report; g = −3.11, clinician rated). All subscales also saw
+decreases with medium or large effect sizes. In contrast, total scores decreased in the control
+condition but to a lesser extent (g = −0.24, self-report; g = −0.20, clinician rated) with all
+changes in subscales being negligible or small-to-medium. Aside from specific executive
+function instruments, several related constructs were measured. Edel et al. [87] used
+measured self-efficacy in adults and reported similar increases following the mindfulness
+intervention (g = 0.28) and the control (g = 0.26). Gu et al. [88] measured GPA and found
+negligible effects immediately (g = −0.08) and at follow-up (g = −0.08) for the mindfulness
+condition. Similarly negligible effects were found after the control, albeit in the opposite
+direction (immediately g = 0.09; follow-up g = 0.17). Finally, Rynczak [101] provided
+data from CAS and showed large effect sizes after the mindfulness intervention (planning
+g = 0.66; attention g = 0.95) in contrast to the control condition (planning g = 0.39; attention
+g = 0.12). Based on these measures of executive function and related constructs, there may
+be some improvement in executive functioning following mindfulness interventions, but
+the variety in instruments used and reporting approaches, along with the lack of control
+conditions in several studies, means efficacy cannot be determined with any certainty.
+In summary, much like the scale measures of ADHD symptoms, measures of executive
+function are fraught with inconsistencies. The most consistent findings come from the
+BRIEF- ASR in adults which indicates some improvement after mindfulness practice, which
+is much smaller or negligible in control conditions. Work in children is highly variable,
+both in reporting approaches and who is doing the reporting, and no real consistencies
+have emerged yet.
+3.6.3. Emotional Dysregulation Scales
+Emotional difficulties were measured using DERS in adult [99] and child studies [95].
+In the adult study, the total score showed a large negative effect (g = −1.34) with all
+subscales showing large effects, except emotional awareness (g = −0.42), indicative of
+overall reduced emotional difficulties. In contrast, the control condition elicited a small
+effect on the total (g = −0.20) and a wide range of effects on the individual subscales
+(−0.42 to 0.20). Similar effects were found in children [95], with a large negative effect
+for the total (g = −2.71) and subscales producing small to large effects, except emotional
+awareness (g = 0.02). Smaller effects were typically found in the control condition, except
+for awareness (g = 0.30), access to emotional regulation (g = −0.69) and clarity (g = 0.32)
+where effects were slightly larger in this condition [95]. In addition to DERS, the DTS was
+used by Mitchell et al. [99] who reported a decrease in the score with a large effect size in
+the mindfulness condition (g = 1.00) in contrast to the control (g = 0.15). As with executive
+function, the results indicate mindfulness could be beneficial to emotional regulation in
+
+Psychiatry Int. 2022, 3
+
+the mindfulness condition (g = 1.00) in contrast to the control (g = 0.15). As with executiv
+function, the results indicate mindfulness could be beneficial to emotional regulation in
+those with ADHD, but lack consistency in reporting and some effects within the contro
+condition mean further research is needed in this area.
+378
+
+3.6.4. Objective Measures of ADHD-Related Behaviours
+
+Thewith
+mostADHD,
+used but
+objective
+test was in
+the
+ANT which
+waseffects
+usedwithin
+in adult
+studies, and a
+those
+lack consistency
+reporting
+and some
+the control
+family
+studymean
+using
+a child
+version
+of the
+task.
+All studies collecting data from adult
+condition
+further
+research
+is needed
+in this
+area.
+
+reported response times for Alerting, Orienting and Conflict, however, heterogeneity wa
+3.6.4. Objective Measures of ADHD-Related Behaviours
+deemed
+too high for meta-analyses for alerting (I2 = 82.6%) and orienting (I2 = 62.7%). Fo
+The
+most
+used objective
+was
+the negative
+ANT which
+used[88])
+in adult
+studies,
+a along
+alerting both
+positive
+(g = 0.29test
+[86])
+and
+(g was
+= −1.11
+effects
+wereand
+noted
+family study using a child version of the task. All studies collecting data from adults
+with negligible effects (g = −0.10 [99]) after the mindfulness intervention. Gu et al. [88
+reported response times for Alerting, Orienting and Conflict, however, heterogeneity was
+included
+three-month
+follow-upfor
+where
+they
+larger
+effects
+= −1.03).
+deemeda too
+high for meta-analyses
+alerting
+(I2 =reported
+82.6%) and
+orienting
+(I2 =(g
+62.7%).
+For Wher
+control
+conditions
+were
+present,
+mixed
+effects
+were
+withnoted
+Beuno
+et al. [86
+alerting both
+positive
+(g = 0.29
+[86]) and
+negative
+(g = −
+1.11also
+[88])found
+effects were
+along
+with a
+negligible
+effects
+−0.10
+after the
+mindfulness
+intervention.
+Gu (g
+et =
+al. [88]
+reporting
+similar
+effect(g =
+size
+and[99])
+direction
+to the
+mindfulness
+condition
+0.30), whils
+included
+a three-month
+follow-up
+where
+they[88,99]).
+reported The
+larger effects
+(g = −1.03).
+Wherefor Gu e
+others
+reported
+negligible
+effects (g
+= −0.08
+three-month
+follow-up
+control
+were present,
+mixed
+effects
+werecondition
+also found(gwith
+Beuno
+et al. effects
+[86]
+al. [88]
+alsoconditions
+found a negligible
+effect
+in the
+control
+= 0.15).
+Varied
+were
+reporting a similar effect size and direction to the mindfulness condition (g = 0.30), whilst
+found
+for orienting after the mindfulness intervention (immediate g = −0.85, three-month
+others reported negligible effects (g = −0.08 [88,99]). The three-month follow-up for
+follow-up
+= −0.80
+[88]; agnegligible
+= −0.15 [99];
+0.09
+[86]).
+In the control
+no studie
+Gu et al.g[88]
+also found
+effectgin=the
+control
+condition
+(g = 0.15).condition,
+Varied effects
+reported
+an for
+effect
+size above
+themindfulness
+threshold for
+a small effect
+(gg<= −
+0.16).
+Conflict wa
+were found
+orienting
+after the
+intervention
+(immediate
+0.85, threemonth
+follow-up
+g
+=
+−
+0.80
+[88];
+g
+=
+−
+0.15
+[99];
+g
+=
+0.09
+[86]).
+In
+the
+control
+condition,
+deemed suitable for a meta-analysis. Results demonstrated that small-mediumno
+effect siz
+reported
+effect0.31)
+size above
+the threshold
+for a small effect
+(g < 0.16).
+(g =studies
+−0.33, 95%
+CI =an
+−0.96,
+without
+between-studies
+heterogeneity
+(I2 =Conflict
+0.0%, Q = 1.29
+deemed suitable for a meta-analysis. Results demonstrated that small-medium effect
+p = was
+0.525)
+(see Figure 2). Given the small number of studies Egger’s test was not possible
+size (g = −0.33, 95% CI = −0.96, 0.31) without between-studies heterogeneity (I2 = 0.0%,
+Visual
+of (see
+the Figure
+Funnel2).Plot
+suggests
+that
+thereofmay
+be Egger’s
+some reporting
+bias [106
+Q = inspection
+1.29, p = 0.525)
+Given
+the small
+number
+studies
+test was not
+(Supplementary
+S1).of the Funnel Plot suggests that there may be some reporting
+possible.
+VisualFigure
+inspection
+bias [106] (Supplementary Figure S1).
+
+Figure 2. Random effects meta-analysis conflict measures in the Attentional Network Test (ANT),
+
+Figure
+2. Random
+effectsattention
+meta-analysis
+conflict
+measures
+in the Attentional
+Test (ANT)
+indicative
+of executive
+improvements
+after
+the mindfulness
+intervention. Network
+Experimental
+indicative
+executive
+attention
+improvements
+after the
+mindfulness
+intervention.
+refers toof
+after
+the mindfulness
+intervention,
+whilst control
+provides
+baseline data
+[86,88,91,92].Experimenta
+refers to after the mindfulness intervention, whilst control provides baseline data [86,88,91,92].
+The studies all used a control condition, one reported negligible effect on conflict
+(immediately
+g =one
+−0.07
+[88]), whilst
+the remaining
+The studiesg =all−0.10,
+usedthree-month
+a control follow-up
+condition,
+reported
+negligible
+effect two
+on conflic
+noted
+sizable
+effects
+(g
+=
+−
+0.63
+[86];
+g
+=
+−
+0.35
+[99]).
+These
+effect
+sizes
+are
+very
+similar
+(immediately g = −0.10, three-month follow-up g = −0.07 [88]), whilst the remaining two
+to that found in the mindfulness condition, indicating the effects seen on the ANT task
+noted
+sizable effects (g = −0.63 [86]; g = −0.35 [99]). These effect sizes are very similar to
+conflict are unlikely to be specific to mindfulness. Aside from the three core measures all
+thatstudies
+foundreported,
+in the other
+mindfulness
+condition,
+indicating
+the effects
+seen
+onare
+theseen
+ANT task
+ANT measures
+are summarized
+in Table
+2. Similar
+effects
+conflict
+are measures
+unlikely in
+tothe
+be specific
+to and
+mindfulness.
+Aside for
+fromBeuno
+the et
+three
+corebut in
+measures al
+for most
+mindfulness
+control conditions
+al. [86]
+Gu et al.
+[88] only
+negligible
+are seen
+control in
+condition.
+studies
+reported,
+other
+ANT effects
+measures
+arein the
+summarized
+Table 2. Similar effects are seen
+The only study using a child ANT reported negligible effects of mindfulness on
+alerting (g = 0.06), orienting (g = 0.06) and total accuracy (g = 0.07) but a small effect on
+overall reaction time (g = −0.20) and a small-to-medium effect on conflict (g = −0.41) [97].
+The same study reported negligible effects in the control condition for conflict (g = 0.06),
+orienting (g = 0.09), alerting (g = 0.17), and overall response time (g = −0.13) but did a
+small-to-medium effect for accuracy (g = 0.36).
+After the ANT, the CPT was also a popular test used in adult [86], child [95] and family
+studies [105]. Although the family study used CPT measures in children, the different
+populations across the three studies meant that a meta-analysis was not appropriate. A
+summary of the measures and effect sizes is shown in Table 3. Note that Zhang et al. [105]
+had no control condition. All three studies measured commission and omission errors.
+
+Psychiatry Int. 2022, 3
+
+379
+
+For commission errors, all found medium or large effect decreases, indicating improved
+performance in the mindfulness condition, in contrast to negligible or smaller effects in the
+control. For omission errors, effects varied with increases and decreases and larger effects
+seen in the control condition. Other measures also varied considerably and often showed
+little difference from the control condition.
+Table 2. Effect sizes for additional Attention Network Test (ANT) variables in adult studies.
+Study
+
+Beuno et al., 2015
+(Adult Study) [86]
+
+Gu et al., 2018 (Adult
+Study) [88]
+
+Measure
+
+Mindfulness (g)
+
+Control (g)
+
+Hit Reaction Time (RT)
+Accuracy
+Omission
+Hit RT standard error (SE)
+Variability of SE
+Hit RT Block change
+Hit SE block change
+Alerting error score (ES)
+Immediate
+Follow-up
+Orienting ES
+Immediate
+Follow-up
+Conflict ES
+Immediate
+Follow-up
+
+−0.36
+0.61
+−0.68
+−0.45
+−0.31
+−0.71
+−0.55
+
+−0.35
+0.37
+−0.70
+−0.88
+−0.46
+0.54
+−0.52
+
+−1.04
+−1.15
+
+0.10
+−0.11
+
+−1.12
+−1.16
+
+−0.09
+−0.09
+
+−0.29
+−0.45
+
+−0.12
+−0.11
+
+Table 3. Effect sizes for different measures within the Continuous Performance Task (CPT) collected in
+adults and children with ADHD. RT = Reaction Time, SE = Standard Error, ISI = Interstimulus Interval.
+Study
+
+Beuno et al., 2015
+(Adult Study) Connor’s
+CPT II [86]
+
+Kiani et al., 2017 (Child
+Study) Unspecified
+CPT [95]
+
+Zhang et al., 2017
+(Family Study)
+Connor’s CPT III [105]
+
+Study/Measure
+
+Mindfulness (g)
+
+Control (g)
+
+Commission Errors
+Omission Errors
+Hit RT
+Hit RT SE
+Variability of SE
+D prime
+HIT RT block change
+HIT SE block change
+Hit RT ISI Change
+Hit SE ISI Change
+Response style
+Perseverations
+Commission Errors
+Omission Errors
+Correct Responses
+Commission Errors
+Omission Errors
+Hit RT
+Hit RT Standard Deviation
+Variability
+D Prime
+HIT RT block change
+Hit RT ISI Change
+
+−0.54
+−0.08
+0.14
+−0.07
+0.08
+0.07
+−0.16
+0.23
+0.09
+0.11
+−0.22
+0.39
+−0.51
+−0.21
+0.36
+−2.19
+0.41
+−0.05
+0.20
+0.12
+−0.70
+−0.27
+0.12
+
+0.04
+−0.15
+0.01
+0.13
+0.12
+−0.15
+0.03
+−0.17
+0.24
+0.39
+−0.23
+0.20
+−0.28
+−0.30
+0.32
+
+Apart from the measures already described, which were used by more than one study,
+several measures were unique to individual studies and the effects sizes from these are
+shown in Table 4.
+
+Psychiatry Int. 2022, 3
+
+380
+
+Table 4. The effect sizes from the results of other tests relating to attention and executive function
+used in single studies.
+Study
+Bachman et al., 2018 (Adult Study) [84]
+
+Kiani et al., 2017 (Child Study) [95]
+
+Muratori et al., 2021 (Family Study) [100]
+
+Rynczak, 2013 [101]
+
+Measure
+1-Back Letter Test of WM *
+Reaction Time
+Number of Correct Answers
+Tower of London Task
+Planning
+Digital Span Test
+Backward span
+Forward span
+Total
+Stroop Inhibition
+Bells-Test Revised
+Speed
+Accuracy
+MFFT
+Speed
+Accuracy
+Trail Making Task
+Trail A
+Trail B
+Baseline Speed
+
+Sustained Attention Dots Task
+Speed
+
+Misses
+
+Van de Weijer-Bergsma et al., 2012 (Child
+Study) ** [103]
+
+False Alarms
+
+Sustained Auditory Task
+Speed
+
+Misses
+
+False Alarms
+
+Zhang et al., 2017 (Family Study) [105]
+
+TEA-Ch
+Sky Search
+No. correctly identified targets
+Time per target
+Attention score
+Score!
+Creature Counting
+Total correct
+Timing score
+Sky Search DT
+Map Mission
+
+Mindfulness (g)
+
+Control (g)
+
+−0.55
+0.57
+
+−0.54
+0.49
+
+0.59
+
+0.43
+
+0.44
+−0.07
+0.21
+−0.65
+
+0.23
+0.19
+0.24
+−0.11
+
+0.41
+1.03
+
+0.32
+0.02
+
+−0.30
+−0.29
+
+−0.33
+−0.72
+
+−0.81
+−0.39
+0.23
+0.06
+0.25
+
+−0.04
+−0.08
+
+−0.86
+−0.27
+−0.09
+−0.34
+−0.80
+−0.41
+0.00
+−0.33
+−0.11
+0.09
+0.01
+0.03
+−0.22
+−0.81
+−0.34
+−0.46
+−0.65
+−0.77
+
+−0.83
+−1.46
+−1.3
+−0.73
+0.78
+−0.75
+−0.16
+1.22
+
+Psychiatry Int. 2022, 3
+
+381
+
+Table 4. Cont.
+Study
+
+Measure
+
+Mindfulness (g)
+
+Walk, Do Not Walk
+Opposite Worlds
+Same World Total
+Opposite World Total
+Code Transmission
+
+0.43
+
+Control (g)
+
+0.15
+−0.15
+−0.23
+
+* This study examining working memory (WM) combined the task with fMRI. Whilst effect sizes could not be
+calculated from the data, the authors reported greater activation in the mindfulness condition in the inferior
+parietal lobule, posterior insula and precuneus. ** Study had immediate effect, 8-week and 16-week follow-ups.
+Effect sizes are given in chronological order. There was no control condition.
+
+As revealed in Table 4, effects varied considerably between tasks, which is not surprising given neurodivergent populations may show greater variation within functions [107].
+However, in many cases, similar effects were seen in control conditions. Based on the
+data presented, it can be argued that whilst some specific measures appear to show beneficial changes following mindfulness, e.g., the commission errors in the CPT, others show
+comparable effects to control conditions.
+3.6.5. Wider Health Outcomes
+Quality of Life
+Quality of life was measured in four studies in individuals with ADHD. Three studies
+collected data in adults, with two using the OQ [91,94] and one using SF−36 [92]. One study
+collected data in children using the GQL [98]. Studies using the OQ reported negligible
+(g = −0.15 [94]) or small effects (g = −0.32 [91]) of mindfulness with the direction of effect
+suggesting improved quality of life on this measure, whilst both studies found negligible
+effects of the control condition (g = −0.12 [91], g = −0.09 [94]. Hoxhaj et al. [92] used the
+SF−36 and provided 10 subscale scores with effect sizes ranging from g = 0.11 to 0.41 with
+similar effect sizes at follow-up, although it is noteworthy that the control condition had
+similar effects. The only study to examine quality of life in children revealed negligible
+effects of the mindfulness and control interventions at all post intervention time points
+(g < 0.11) [98]. Finally, one study provided an ADHD-specific measure of quality of life,
+using the AAQoL [86]. Focusing only on the participants with ADHD within this study,
+the results showed an increase in quality of life after the intervention (g = 1.45) in contrast
+to the control condition (g = 0.11). Individual subscales also showed sizable effects (0.74 to
+1.84) which were much reduced in the control condition (−0.16 to 0.26). Collectively these
+data suggests that mindfulness interventions may have a positive impact on quality of life
+in adults with ADHD, but that further research is needed.
+Depression and Anxiety
+Depression and anxiety were measured in several studies, either separately or using combined inventories. Considering the individual measures, the most used measure of depression was the BDI which was used in all the studies assessing adults with
+ADHD [86,88,91,92]. In all cases, there was a reduction in score after the mindfulness
+intervention, suggesting reduced depression, with effect sizes ranging −0.34 to −0.71.
+Similar effect sizes remained in the studies with follow-up assessment [88,92]. After checking heterogeneity, a meta-analysis was conducted on these four studies and showed a
+small-medium effect size (g = −0.43, 95% CI = −0.70, −0.17) without between-studies
+heterogeneity (I2 = 0.0%, Q = 1.33, p = 0.722) (Figure 3). However, the Funnel Plot did
+indicate that reporting bias could be an issue (Supplementary Figure S2).
+
+Psychiatry Int. 2022, 3
+
+suggesting reduced depression, with effect sizes ranging −0.34 to −0.71. Similar effect
+remained in the studies with follow-up assessment [88,92]. After checking heterogen
+a meta-analysis was conducted on these four studies and showed a small-medium e
+size (g = −0.43, 95% CI = −0.70, −0.17) without between-studies heterogeneity (I2 = 0.0
+= 1.33, p = 0.722) (Figure 3). However, the Funnel Plot did indicate that reporting bias c
+382
+be an issue (Supplementary Figure S2).
+
+Figure 3. Random effects meta-analysis for Beck Depression Inventory (BDI) scores. Experimental
+Figure 3. Random effects meta-analysis for Beck Depression Inventory (BDI) scores. Experim
+refers to after the mindfulness intervention, whilst control provides baseline data [86,88,91,92].
+refers to after the mindfulness intervention, whilst control provides baseline data [86,88,91,92
+
+All studies included a control condition. Three of these found negligible effect sizes
+All studies included
+control
+condition.although
+Three ofGu
+these
+found
+immediately post intervention
+(−0.04 toa −
+0.15) [86,88,91],
+et al.
+[88] negligible
+showed effect
+immediately
+post
+intervention
+(−0.04
+to
+−0.15)
+[86,88,91],
+although
+Gu
+et al. [88] show
+a small effect size in the control condition (g = −0.20) by their three-month follow-up.
+small
+effect
+size
+in
+the
+control
+condition
+(g
+=
+−0.20)
+by
+their
+three-month
+follow-up. Ho
+Hoxhaj et al. [92] found a medium effect size of their control condition (g = −0.44) immediet
+al.
+[92]
+found
+a
+medium
+effect
+size
+of
+their
+control
+condition
+(g
+=
+−0.44)
+ately after the intervention and at their eight-month follow-up (g = −0.49). Apart from the immedi
+after
+the used
+intervention
+and at
+their of
+eight-month
+follow-up
+−0.49).
+BDI, three other
+studies
+specific
+measures
+depression. The
+effect(g =
+sizes
+are Apart
+summa-from the
+three
+other after
+studies
+specific measures
+of all
+depression.
+effect
+are summa
+rized in Table 5.
+Notably
+theused
+mindfulness
+intervention,
+studies The
+showed
+a sizes
+reduction
+in
+Table
+5.
+Notably
+after
+the
+mindfulness
+intervention,
+all
+studies
+showed
+in depression with at least a small effect size, if not immediately, then at follow-up. Thea reducti
+with
+least
+small
+effect size,
+if notinimmediately,
+threshold for depression
+a small effect
+wasatnot
+metaby
+the control
+condition
+any study. then at follow-up
+threshold for a small effect was not met by the control condition in any study.
+
+Table 5. The effect sizes from measures of depression used in single studies.
+
+from measures of depression
+used(g)
+in singleControl
+studies. (g)
+StudyTable 5. The effect sizes
+Measure
+Mindfulness
+
+Lui et al., 2021 (Parent
+Study
+Measure
+Mindfulness (g) Contro
+Hamilton Depression Scale
+−0.47
+−0.18
+Study) [96]
+Hamilton Depression
+Lui2012
+et al., 2021 (Parent Study) [96]
+−0.47
+−0.1
+Sieberlink et al.,
+Brooding in response
+−
+0.08
+−0.09
+Scale
+(Parent measure in
+sadness
+0.08
+Sieberlink et al.,to2012
+(Parent
+Brooding−in0.24
+response to
+−0.08
+−0.0
+Family Study) * [102]
+
+measure
+* [102]
+sadness
+* Study had immediate
+effect in
+andFamily
+6-monthStudy)
+follow-up.
+Effect sizes are given
+in chronological order. −0.24
+
+0.08
+
+* Study had immediate effect and 6-month follow-up. Effect sizes are given in chronological o
+
+Anxiety-specific measures were collected in adults with ADHD using the STAI [86,91].
+This measure showed a decrease following the mindfulness with medium (g = −0.52 [91])
+to medium-to-large effect (g = −0.70 [86]. For Beuno et al. [86] the effects of the control
+condition were negligible (g = −0.06) whilst for Hepark et al. [91] they reached a small effect
+(g = −0.28). Apart from STAI, all other measures of anxiety were only used by individual
+studies and are summarized in Table 6. As can be seen from the table, both studies showed
+a decrease in anxiety after mindfulness. In contrast, only one reached a small effect after
+the control.
+Table 6. The effect sizes from measures of anxiety used in single studies.
+Study
+
+Study/Measure
+
+Mindfulness (g)
+
+Control (g)
+
+Gu et al., 2018 [88] *
+
+BAI
+
+−0.89
+−0.88
+
+0.15
+−0.03
+
+Lui et al., 2021 (Parent
+Study) [96]
+
+Hamilton Anxiety Scale
+
+−0.39
+
+−0.26
+
+* Study had immediate effect and 3-month follow-up. Effect sizes are given in chronological order.
+
+Three studies used combined measures of depression and anxiety. Firstly, the RCADS
+was used with both parent and youth reporting versions included in one study [90].This
+study reported findings for the depression, anxiety and internalising subscales only. For
+all youth reported versions effects sizes were negligible (g < −0.18) immediately after the
+intervention but increased at the 16-week follow-up (−0.45 to −0.47). For parent ratings,
+anxiety and internalising effects were initially negligible (g < −0.15) whilst depression was
+small-to-medium (g = −0.31) but all increased at the follow-up (−0.51 to −0.58). Secondly,
+Siebelink et al. [102] used the Depression Anxiety Stress Scale in the parent as part of
+their family study and reported a negligible effect immediately after the mindfulness
+
+Psychiatry Int. 2022, 3
+
+383
+
+intervention (g = −0.08), although this grew to a small effect at the six-month follow-up
+(g = −0.23), suggesting some improvement. This contrasts with the control condition which
+saw negligible effects at both time points (g = 0.08 and g = 0.09). Finally, Meyer et al. [98]
+used the HADS measure in children and reported negligible effects of their mindfulness
+(g = −0.07) and control (g = −0.02) interventions two weeks post intervention (their first
+time point after the intervention). At the six-month follow-up, these had increased slightly
+but remained negligible (mindfulness g = −0.19; control condition g = −0.07). In summary,
+across a range of different measures, mindfulness interventions were shown to reduce
+experiences of depression and anxiety in adults with ADHD. There is less convincing
+evidence of an effect on children.
+Stress
+One study measured stress in children using the PAS and found negligible effects in
+both the control and mindfulness condition immediately after (control g = 0.06, mindfulness
+g = 0.04) and at the six-month follow-up (control g = −0.08, mindfulness g = −0.04) [98].
+The remaining measures of stress were made in parents, most often with the PSI, as part of
+family [97,103–105] and parent studies [85,96]. Despite common use of the PSI, the number
+of scale items varied with two studies using a 25-item version and reporting medium effect
+sizes [103,104]. Van de Weijer-Bergsma et al. [103] found medium effects for both mothers
+(g = 0.45) and fathers (g = −0.66) albeit in opposite directions. However, by the follow-up
+at eight weeks both showed a decrease (mothers g = −0.40; father g = −0.55). This study
+did not include a control condition. Van der Oord et al. [104] did not provide sufficient
+information to calculate effect size, but they reported a reduction in parenting stress with
+an effect size of −0.57. The four other studies used the 36-item scale and three provided
+subscales (parental distress, child parent interactions and difficult child). Heterogeneity
+of the studies was assessed (I2 = 72.9%) and deemed too high to conduct a reliable metaanalysis and therefore individual effect sizes are shown in Table 7. As indicated in Table 7,
+all studies showed at least a small effect for at least one of the subscales with a reduction
+in score in three of the studies. Three studies included control conditions which revealed
+smaller effects in all cases.
+Table 7. Parent Stress Index effect sizes for studies using the 36-item scale.
+Study
+
+Study/Measure
+
+Mindfulness (g)
+
+Control (g)
+
+Total Score
+
+−1.22
+−1.27
+−1.87
+−1.75
+−0.83
+−1.04
+
+−0.29
+−0.14
+−0.95
+−0.87
+0.17
+0.28
+
+−0.67
+
+0.18
+
+−0.82
+−0.82
+−0.15
+−0.12
+
+0.20
+0.04
+0.06
+0.04
+
+−0.26
+
+0.03
+
+Total Score
+
+−0.41
+
+0.03
+
+Total Score
+Parent Distress
+Parent–Child Interactions
+Child Problematic
+Characteristics
+
+0.16
+0.28
+0.18
+
+Parent Distress
+Behbahani et al., 2018
+(Parent Study) * [85]
+
+Parent–Child Interactions
+Child Problematic
+Characteristics
+
+Lo et al., 2020 (Family
+Study) [97]
+
+Lui et al., 2021 (Parent
+Study) [96]
+Zhang et al., 2017
+(Family Study) [105]
+
+Total Score
+Parent Distress
+Parent–Child Interactions
+Child Problematic
+Characteristics
+
+−0.02
+
+* Study had immediate effect and 8-week follow-up. Effect sizes are given in chronological order.
+
+Psychiatry Int. 2022, 3
+
+384
+
+Haydicky et al. [89] used the SIPA which provides data for five subscales. They found
+decreases in stress immediately after the mindfulness intervention with small-to-medium
+effect sizes for the adolescent domain (g = −0.36), parent domain (g = −0.30), parenting
+stress (g = −0.33) and life stressors (g = −0.35) but a negligible effect for the relationship
+domain (g = 0.01). These effects increased at the 16-week follow-up for four of the subscales
+(adolescent domain g = −0.64, parent domain g = −0.86, relationship domain g = −0.42,
+parent stress g = −0.88, life stress g = −0.14). There was no control condition. In addition
+to scale measures of stress, one study measured heart rate variability (HRV) in parents
+and explicitly identified it as a marker of stress but found no effects of mindfulness (high
+frequency HRV g = −0.00, low frequency HRV g = −0.01), although the control condition
+saw a small-medium effect size decrease in low frequency HRV (g = −0.43) with the high
+frequency remaining negligible (g = −0.01) [97]. In summary, scale measures typically
+showed a reduction in parental stress following mindfulness. Where this was not the
+case [103,105] sample sizes were very small (N~10). However, reductions, albeit smaller,
+were also often seen in control conditions. Furthermore, scale data was not supported
+by heart rate measures in the one study that collected these from parents [97]. The only
+measuring stress in individuals with ADHD indicated no effect on scales [98].
+General behaviour
+Several general behavioural inventories were used, predominantly in children with
+ADHD. The most used measure was the CBCL, which was used in child [89,93,101] and
+family studies [97,103]. Reporting approaches varied considerably with some studies giving
+a total [97,101], whilst others gave individual specific subscales [97,103], or combined
+subscales [89,93]. Perhaps unsurprisingly given the range of approaches, calculated effect
+sizes varied considerably (Table 8). For studies reporting the total score, the effect size
+immediately after the mindfulness intervention ranged from small-to-medium [97] to
+large [101], but in both cases the control intervention elicited negligible effects. The only
+subscale reported consistently was externalising [89,97,103] with the study by Van de WeijerBergsma et al. [103] including measures from both parents of the same child separately, and
+the work by Haydicky et al. [89] distinguishing between children with different ADHD
+subtypes. The variation in approaches makes a meta-analysis inappropriate but in most
+cases mindfulness interventions reduced externalising scores; the only exception to this
+was the reports from mothers (g = 0.18) where an increase was seen [103]. It is notable that
+some small-medium effect sizes were seen in control conditions but generally the control
+conditions were associated with smaller effects. Effect sizes for other subscales or reported
+combinations also varied from negligible to large, with most reporting a decrease in scores
+and most showing a reduced effect size relative to the mindfulness intervention.
+The YSR, derived from the CBCL, was used in one child [101] and one family
+study [103]. In both cases different subscale detail was reported with Van den WeijerBergsma et al. [103] including attention, externalising and internalising immediately after
+the intervention and at 8- and 16-week follow-ups. They reported an immediate effect
+on attention (g = −0.46) which increased at 8- (g = −0.89) and 16-weeks (g = −0.94).
+In contrast, there were negligible effects on externalising (g = 0.11) and internalising
+(g = −0.09) immediately after the intervention although these increased at 8 weeks (externalising g = −0.46; internalising g = −0.20) and 16 weeks (externalising g = −0.75;
+internalising g = −0.75). Rynczak [101] reported only the attention scores immediately
+after the intervention in both a mindfulness and control condition. She found a decrease
+similar to that reported by Van den Weijer-Bergsma et al. [103] in the mindfulness condition
+(g = −0.39) but noted a larger effect in the control condition (g = −0.60). Alongside the
+parent and child reported scales, Van den Weijer-Bergsma et al. [103], also used the teacher
+report form to give another measure of attention (g = −0.30), externalising (g = −0.18) and
+internalising (g = −0.19), albeit only at one time point post intervention.
+
+Psychiatry Int. 2022, 3
+
+385
+
+Table 8. Child Behaviour Check List (CBCL) effect sizes in child and family studies.
+Study
+
+Haydicky et al., 2012
+(Child Study) * [89]
+
+Huguet et al., 2019
+(Child Study) [93]
+
+Lo et al., 2020 (Family
+Study) [97]
+
+Measure
+
+Mindfulness (g)
+
+Control (g)
+
+Externalising
+Social Problems
+Rule Breaking
+ADHD Problems
+Oppositional Defiant
+Conduct
+AAA (anxiety/depression,
+aggression and attention)
+Total
+Anxiety
+Withdrawal/Depressed
+Somatic
+Attention
+Aggression
+Internalising
+Externalising
+
+−0.54
+−0.68
+−0.59
+−0.19
+−0.83
+−0.64
+
+−0.38
+−0.40
+−0.12
+−0.44
+−0.01
+−0.24
+
+−0.51
+
+−0.07
+
+−0.37
+−0.28
+−0.19
+−0.31
+−0.49
+−0.32
+−0.31
+−0.29
+
+−0.04
+−0.04
+−0.08
+0.00
+−0.05
+−0.09
+−0.04
+−0.10
+
+Total
+
+−1.72
+
+0.00
+
+Attention (mother rating)
+
+−0.09
+−0.29
+−0.58
+−1.43
+0.18
+−0.13
+−0.19
+−0.29
+−0.10
+0.01
+−0.42
+−0.43
+
+Rynczak, 2013 (Child
+Study) [101]
+
+Attention (father rating)
+Van den
+Weijer-Bergsma et al.,
+2012 (Family Study) ** [103]
+
+Externalising (mother rating)
+Externalising (father rating)
+Internalising (mother rating)
+Internalising (father rating)
+
+* Study provided data for whole cohort and split into inattention and hyperactivity-impulsive subtypes. Data
+shown here is for whole cohort, but similar effects are seen in split analysis. ** This study included a follow-up at
+8-weeks. Effects sizes are presented chronologically.
+
+Several other instruments were used in individual studies, summarized in Table 9. Examination of Table 10 reveals that most scale measures decreased after the mindfulness intervention
+but with small effects that were, in many cases, similar to the control conditions.
+In summary, several behavioural inventories have been used and most demonstrate a
+reduction in score after the mindfulness intervention. However, there is a broad range of
+effects and, where control conditions are present, these often also show reductions making it
+difficult to conclude that mindfulness improves behaviour as measured by these inventories.
+Table 9. Effect sizes for general behavioural measures employed in individual studies.
+Study
+
+Meyer et al., 2019 (Child
+Study) * [98]
+
+Muratori et al., 2021
+(Family Study) [100]
+
+Measure
+Child Sheehan Disability Scale
+Functional impairment (parent rated)
+Functional impairment (child rated)
+Strengths & Difficulties Questionnaire
+Conduct
+Avoidance and Fusion Questionnaire for
+Youth
+Modified Overt Aggression Scale
+
+Mindfulness (g)
+
+Control (g)
+
+−0.27
+−0.20
+−0.18
+−0.30
+
+−0.09
+−0.05
+−0.22
+−0.14
+
+−0.19
+
+−0.44
+
+−0.65
+
+0.13
+
+−1.12
+
+−0.91
+
+Psychiatry Int. 2022, 3
+
+386
+
+Table 9. Cont.
+Study
+
+Measure
+
+Mindfulness (g)
+
+Control (g)
+
+−0.24
+−0.17
+−0.01
+−0.28
+−0.21
+−0.24
+−0.08
+−0.04
+−0.17
+−0.31
+−0.22
+−0.21
+−0.05
+0.08
+−0.12
+0.01
+−0.27
+−0.15
+−0.20
+−0.19
+−0.30
+−0.11
+−0.18
+−0.33
+
+−0.13
+−0.17
+−0.36
+−0.43
+−0.11
+−0.31
+−0.25
+−0.32
+−0.32
+−0.39
+−0.21
+−0.42
+−0.24
+−0.27
+−0.26
+−0.21
+−0.36
+−0.40
+−0.34
+−0.41
+−0.29
+−0.34
+−0.22
+−0.31
+
+BSI
+Somatization
+Obsession/Compulsion
+Interpersonal
+Depression
+Anxiety
+Hoxhaj et al., 2018 (Adult
+Study) ** [92]
+
+Hostility
+Phobic anxiety
+Paranoia
+Psychoticism
+Global Severity Index
+Positive symptom distress index
+Positive symptom total
+
+Zhang et al., 2017 (Family
+Study) [105]
+
+Eyberg Child Behavior Inventory
+Intensity
+Problem
+
+−0.34
+−0.24
+
+* This study included a follow-up at 6 months. ** This study included a follow-up at 8 months. Effects sizes are
+presented chronologically.
+
+Table 10. Effect sizes for the Five Facet Mindfulness Questionnaire which was used in two studies.
+Study
+
+Measure
+
+Mindfulness (g)
+
+Control (g)
+
+Description
+
+0.15
+0.15
+0.52
+0.40
+0.18
+0.48
+
+0.14
+0.24
+0.01
+0.00
+0.40
+0.39
+
+0.19
+
+0.18
+
+0.29
+
+0.15
+
+0.64
+
+0.05
+
+0.46
+0.14
+0.52
+−0.01
+
+0.19
+−0.07
+−0.05
+−0.06
+
+−0.01
+
+0.18
+
+0.47
+
+−0.29
+
+Observation
+Hoxhaj et al., 2018
+(Adult Study) * [92]
+
+Acting with awareness
+Non judging of inner
+experience
+Non reactivity to inner
+experience
+
+Lui et al., 2021 (Parent
+Study) [96]
+
+Description
+Observation
+Acting with awareness
+Non judging of inner
+experience
+Non reactivity to inner
+experience
+
+* This study had an 8-month follow-up. Effect sizes are shown in chronological order.
+
+Psychiatry Int. 2022, 3
+
+387
+
+Self-compassion
+Self-compassion was measured in three studies but with different populations, preventing a meta-analysis. Janssen et al. [94] used SCS-SF in adults with ADHD and found
+an increase in score after the mindfulness intervention (g = 0.35) but not after the control
+(g = −0.04). Self-compassion was also measured in parents [96,102]. Siebelink et al. [102]
+also used the SCS-SF, giving a total score only, and noted a small-to-medium effect post
+intervention (g = 0.28) which increased at the six-month follow-up (g = 0.46). This contrasts
+to their control condition of CAU which had a negligible effect size at both time points.
+Lui et al. [96] used the full SCS, providing total and subscale data. The total score increased
+after the mindfulness intervention with a small-to-medium effect size (g = 0.43) in contrast
+to negligible effects in the control condition (g = −0.10). Examination of six subscales
+revealed that five increased after the mindfulness intervention with small-to-medium effect
+(0.32 to 0.45), whilst one did not reach the threshold for a small effect (self-judgement
+g = 0.18). No subscale achieved a small effect in the control condition (−0.03 to −0.17). In
+summary, across all three studies, there is evidence to suggest that mindfulness increases
+self-compassion compared to control interventions.
+Wellbeing
+Measures of wellbeing were collected in three studies using the KIDSCREEN for
+children with ADHD [102] and the WHO Wellbeing Index for parents as part of family
+studies [97,102]. The MHC-SF was used as a measure of positive mental health in adults
+with ADHD [94] and parents as part of a family study [102]. The only study to measure
+wellbeing in children reported a small-to-medium effect size (g = 0.32) after the mindfulness
+intervention compared to a negligible effect after the control condition (g = −0.12) [102].
+Studies with parents taking part in family studies found small-to-medium effects of the
+mindfulness intervention using the WHO−5 (g = 0.35 [102]; 0.41 [97]) and the MHC-SF
+(g = 0.28 [102]). Slightly smaller effects were seen in adult patients as measured by the
+MHC-SF (g = 0.22 [94]). In all cases, control conditions produced negligible effects and
+effects remained similar at later follow-up times where these were used [102]. One study
+used the Subjective Happiness Scale in children as part of a family study [103]. They
+reported no significant effects, but a small-to-medium effect was found immediately post
+mindfulness (g = −0.43) and at the 8-week follow-up (g = −0.41), dropping to below the
+threshold for a small effect at 16 weeks (g = −0.18). Collectively, these results suggest that
+wellbeing could be improved following mindfulness but that no conclusions can be made
+about happiness specifically.
+Sleep
+Sleep was measured in two studies in children using the standard clinical care
+scale [102] or Karolinska Sleep Questionnaire [98]. Sieberlink et al. [102] reported the
+proportion of children experiencing difficulties falling asleep reduced significantly in the
+mindfulness condition relative to the control immediately post-treatment, but not at followup. They found no differences. Given the proportion/percentage reporting, no effect
+sizes were calculated. Finally, Meyer et al. [98] found negligible effects of mindfulness
+post-intervention (g = 0.12) and at the six-month follow-up (g = 0.10) with similar negligible
+effect in the control condition (post intervention g = −0.13, six months g = −0.03). Related
+to sleep, fatigue was measured in children with ADHD and revealed negligible effects at
+all time points [103].
+Social skills
+Social skills were assessed in one family study [102] using the Social Responsiveness
+Scale to assess Autism Symptoms. This study demonstrated a small-to-medium effect
+size immediately after the mindfulness intervention (g = −0.27) in contrast to a negligible
+effect after the control intervention (g = −0.03), although at the six-month follow-up these
+had started to converge (mindfulness g = −0.22, control g = −0.16).
+
+Psychiatry Int. 2022, 3
+
+388
+
+Parenting Style
+A subset of family studies measured parenting style using the parenting scale or
+PS [103–105]. Van der Oord et al. [104] did not provide sufficient data for effect sizes to be
+calculated but indicated that over-reactivity decreased after the mindfulness intervention with
+an effect size of −0.85. This partially aligns with the work of Van de Weijer-Bergsma et al. [103],
+who found a reduction in over-reactivity for mothers (g = −1.00) but an increase for fathers
+(g = 0.82), although by the 8-week follow-up both parents showed decreased reactivity
+(mothers g = −0.61, fathers g = −0.29). In contrast, Zhang et al. [105] reported a negligible
+effect of mindfulness on this measure (g = 0.11). They also found a negligible effect for
+verbosity (g = −0.07) but a small effect for laxness (g = −0.27)
+Family Functioning
+Finally, Haydicky et al. [90] used the used the FAD and IC to examine family relations.
+General family functioning from the FAD was rated by both parents and children as part
+of this study. Immediately following the mindfulness intervention, parents reported a
+decrease in general functioning score, indicating improved functioning (g = −0.35), whilst
+the children reported a negligible effect (g = −0.09). However, by the six-week followup both groups noted score reductions with small effects (parents g = −0.29, children
+g = −0.24). The IC was used to measure number of conflicts and intensity of conflict, again
+with parent and child ratings. Parents reported a reduction in number (g = −0.38) and
+intensity of conflicts (g = −0.22) immediately and these effects were enhanced at followup (number g = −0.69, intensity g = −0.70). In contrast, children rated the immediate
+impact on the number of conflicts to have a negligible effect (g = −0.02) and the intensity
+to have increased (g = 0.48). At follow-up, the negligible effect had increased slightly
+(g = −0.16) and the intensity effect reduced (g = 0.27). AAQ was used to examine acceptance. Immediately post intervention there were negligible effects (parents g = 0.05, child
+g = −0.07) but by the follow-up both groups showed small-to-medium effects (parents
+g = −0.38, children g = −0.43) indicating greater acceptance.
+3.6.6. Mindfulness Practice
+Four studies used the FFMQ to measure mindfulness; two adult studies, one child
+study [98] and one parent study [96]. There was considerable variation in reporting.
+For example, even within the adult studies, one gave all five subscales [92] and one
+only gave a total [94]. The total score provided by Janssen et al. [94] showed a small-tomedium effect (g = 0.34), in contrast to a negligible effect in the control group (g = −0.06).
+Hoxhaj et al. [92] provided all subscale data and included an 8-month follow-up. As shown
+in Table 10, the authors found three of the five subscales showed at least a small effect
+immediately post mindfulness and, at follow-up, this increased to four measures. In
+contrast, the control group showed only one non-negligible effect initially and two at
+follow-up. Based on these results in adults with ADHD, it can be argued that measures
+of mindfulness do increase after a mindfulness intervention, although some elements can
+also be impacted positively by control conditions. Table 10 also shows the results from the
+parent study [96] using this measure, which reported very little effect of the intervention.
+The only subscale to show an effect not found in the control condition was the observation
+subscale. The only study conducted in children using this measure provided a total score
+only and found negligible effects of the mindfulness intervention and control condition two
+weeks afterwards (mindfulness g = −0.01, control g = 0.04) and at a six-month follow-up
+(mindfulness g = −0.01, control g = 0.00) [98].
+Five studies measured mindful parenting with the IM-P. Of these, three provided
+total scores and included a control condition [96,97,102] and a fourth provided a total
+but did not have a control [90], whilst the fifth gave subscales but lacked a control [105].
+However, although all were based on the same original scale, the studies used different
+versions with a 23-item [96], 31-item [97], 10-item [90] and unspecified number [102,105]
+in use, preventing a meta-analysis. The results are summarized in Table 11. Two studies
+
+Psychiatry Int. 2022, 3
+
+389
+
+found substantial increases, that were maintained at follow-up [90,102], one of which had a
+control condition demonstrating negligible effects. One study, without a control, revealed
+some decreases in in mindfulness. The remaining two studies show little effect of the
+mindfulness intervention on the IM-P scores. These data, combined with the FFMQ data
+from Lui et al. [96] indicate that the interventions are not reliably impacting on mindfulness
+in parents.
+Table 11. Effect sizes for measures of mindfulness in parenting (IM-P).
+Study
+Haydicky et al., 2015
+(Child Study) * [90]
+Lo et al., 2020 (Family
+Study) [97]
+Sieberlink et al., 2021
+(Family Study) ** [102]
+Lui et al., 2021 (Parent
+Study) [96]
+
+Zhang et al., 2017 (Family
+Study) [105]
+
+Measure
+
+Mindfulness (g)
+
+Total
+
+0.73
+1.03
+
+Total
+
+0.02
+
+0.02
+
+Total
+
+0.51
+0.46
+0.53
+0.08
+−0.11
+
+0.03
+0.10
+0.12
+−0.09
+−0.97
+
+0.17
+
+−0.22
+
+−0.05
+
+−0.18
+
+Total
+Compassion for child
+Emotional Awareness
+in parenting
+Listening with
+full attention
+Compassion for child
+Emotional Awareness of
+the self
+Emotional Awareness of
+the child
+Emotional non-reactivity in
+parenting
+Listening with
+full attention
+
+Control (g)
+
+0.06
+
+−0.31
+−0.09
+−0.11
+−0.35
+
+* This study had a 6-week follow-up. ** This study included a 2- and 6-month follow-up. Follow-up data are
+shown in chronological order.
+
+After the FFMQ and IM-P, the most used measure of mindfulness was the MAAS,
+for which data was collected in adult [87,88], and family studies [103,104], where in the
+latter it was used to collect data from child and parents [103] or just parents [104]. These
+different populations prevented a meta-analysis and therefore individual effect sizes are
+described. The adult studies reported medium (g = 0.57) [87] and large (g = 1.16) [88] effect
+sizes with an increase in mindfulness after the intervention. Notably, Edel et al. [87] also
+found a small effect of the control condition (g = 0.30), although there was no effect of
+the control in Gu et al. [88] (g = 0.09). In contrast to the effects of mindfulness in adults,
+the child study reported a negligible effect initially (g = 0.09) and at the 8-week follow-up
+(g = −0.06) but a medium effect at 16-weeks (g = 0.51) [103]. The same study collected data
+from mothers and fathers of the same children separately. Immediately post-intervention,
+they found that mothers showed increased mindfulness (g = 0.32) but this effect was lost at
+follow-up (g = 0.08). Interestingly, data from fathers indicates a negligible effect initially
+(g = −0.18) which becomes a small effect at follow-up (g = −0.26) and indicates a reduction
+in mindfulness. Van der Oord et al. [104] used MAAS in parents and reported increased
+mindfulness awareness with an effect size of 0.28 but do not give data to allow calculation
+of Hedge’s g. Neither study using MAAS in parents had a control condition.
+One adult study used KIMS to measure mindfulness and reported increases in all
+subscales after the mindfulness intervention with effects ranging from small to large
+(observation g = 0.45, description g = 0.23, acting with awareness g = 0.84, accepting without
+judgement g = 0.34 [91]). For the control condition, Hepark et al. [91] found negligible
+effect sizes for observation, acting with awareness, and accepting without judgment but
+did find a small effect size for description (g = 0.22). Two studies, both in children, used
+
+Psychiatry Int. 2022, 3
+
+390
+
+CAAM to assess mindfulness [100,102]. Both found negligible effects of the mindfulness
+and control interventions (mindfulness g = 0.06 and control g = 0.01 [100]; mindfulness
+g = −0.15 and control g = 0.15 [102]). Sieberlink et al. [102] conducted two- and six-month
+follow-up measures and found varying effects (two months mindfulness g = 0.17, control
+g = 0.31; six months mindfulness g = −0.48, control g = 0.35).
+Overall, only a small number of studies assessed mindfulness after interventions. Five
+different scales were used, but often with differing item numbers or reporting details. In
+general, interventions aimed at increasing mindfulness did increase scores on these measures but not consistently across studies and populations. For example, studies employing
+the MAAS reported medium and large effect sizes in adults, negligible effects in children
+and small-to-medium, opposing effects in parents.
+3.6.7. Intervention Feasibility and Satisfaction
+Feasibility was only measured by adherence or completion rates in one study. Mitchell
+et al. found that all completed the intervention in the experimental group with 2/11 leaving
+the control group. Attendance was at 7.2/8.0 sessions and homework completion was rate
+3.9 on a scale of 1–5. Scores were also high for satisfaction (scale 1–7, 5.91 ± 1.14), learning
+more about ADHD (scale 1–4, 3.27 ± 0.91), content relevance (scale 1–4, 3.55 ± 0.93),
+understandable (scale 1–4, 3.82 ± 0.41), confidence in applying (scale 1–4, 3.36 ± 0.41) and
+recommending to others (scale 1–4, 3.64 ± 0.92) [99]. The family study by Lo et al. [97]
+also measured satisfaction and found 93% were satisfied and 96% felt that the intervention
+had helped in management of stress and emotions. Implementation fidelity was rated at
+4.2/6.0, adherence at 4.5/5.0 and 4.67/5.0 for competence.
+4. Discussion
+After the removal of poor-quality studies, a total of 22 studies incorporating data
+relating to 1237 participants with ADHD and 525 parents were identified for inclusion in
+this review drawing samples from 10 different countries. The most common study design
+was the RCT, followed by pre-post designs and then nRCTs. Adults and children with
+ADHD were the focus of a similar number of studies, with each constituting around one
+third of those included. The remaining studies were family or parent-only studies. In most
+cases, participants with ADHD had received a diagnosis of ADHD using ICD or DSM but
+several studies failed to specify the manual, and one assumed ADHD from elevated SNAPIV scores. Most studies included participants with common co-morbidities, but psychosis,
+bipolar, substance dependence, suicidality and self-harm were exclusion criteria in many
+of the studies. As might be expected, most allowed medication to be taken alongside
+the mindfulness intervention provided use was stable, but very few provided details of
+medication (e.g., stimulant, non-stimulant, formulation, or dose) and did not indicate if
+these were matched across conditions or stratified randomization was used. Mindfulness
+interventions typically followed the Kabat-Zinn [49] approach with the intervention over
+around 8 weeks, although one deviated from this using mindful martial arts albeit with
+a small sample (<30) [89]. The most common control condition was a waitlist control,
+followed by treatment-as-usual and psychoeducation before more bespoke approaches
+were taken. Despite 22 studies being included and several constructs being common across
+these, meta-analyses were limited by different versions of scales or tasks and different
+populations. Even where these were consistent, heterogeneity was often high limiting
+opportunities for meta-analysis, meaning that individual effect sizes were considered in
+many cases.
+As expected from previous systematic reviews, most studies focused on ADHD symptoms [53–58,60–62,64]. The common outcome measures were scale measures such as
+CAARS, ASRS and CPRS, although some novel measures were deployed [99]. Despite measures being used in multiple studies, data were not suitable for meta-analyses. However,
+looking across studies and measures, evidence suggests a reduction in ADHD symptoms
+in adults with ADHD, with a small-to-medium effect size. Furthermore, the effects are
+
+Psychiatry Int. 2022, 3
+
+391
+
+slightly larger for inattention, in contrast to impulsivity-hyperactivity, aligning with previous studies [66]. Along with improvements in the mindfulness condition, several studies
+saw improvements in the control condition. Examination of the type of control suggests
+active controls such as psychoeducation [84,92], or treatment as usual [94] were more likely
+to result in an effect. Few studies had substantial follow-ups but there was some indication
+that these control interventions saw a reduction in effect at follow-up, whilst the effects of
+mindfulness held firm [92]. Waitlist controls typically saw negligible effects. Some studies
+used measures of ADHD symptomology in parents [97,104] with results indicating either
+negligible or reduced effects—although it is notable that the latter was only found in a
+study where effect size could not be calculated in the current review. The lack of effects on
+parents is unsurprising given they did not have high levels of symptomology initially, as
+would be expected for a non-clinical group. As with adults, child measures also indicated a
+reduction in ADHD symptomology. The effect sizes varied with scales and who responded,
+with parents typically showing larger effect sizes than children self-report data as has been
+found previously [54,108]. Interestingly, improvements in children were also seen when
+only parents engaged in mindfulness training as part of a parent study [96]. The latter is
+perhaps unsurprising given the critical influence parents can have over the ADHD-related
+behaviours in children [68].
+Objective tests were also used, albeit less frequently, and responses varied, likely due
+to variations in test-specifics and control conditions. For example, the ANT test, used in
+both children and adults, found both positive and negative effects and effects in the control
+condition that were comparable to the mindfulness condition for alerting and orienting,
+where a meta-analysis was not viable. A meta-analysis on conflict monitoring, indicative of
+executive control, did indicate improvement after mindfulness but studies also showed
+improvements in control conditions suggesting the effects were not specific. The type of
+control did not seem to impact here because, whilst one study did not specify [86], two using
+a waitlist found both negligible [88] and small-to-medium [99] effects. Data from the CPT
+task was slightly more consistent indicating a decrease in commission errors, suggesting a
+reduction in motor impulsivity, which was not also found in the control condition.
+Executive function was frequently considered, using measures such as BRIEF, in both
+children and adults with ADHD. Adult measures with BRIEF showed a reduction in all
+total scores reported, with small to large effect sizes following mindfulness interventions.
+However, small effects—in both directions—were found in the control interventions. In
+both cases, waitlist controls were used [91,99] meaning that this is unlikely to arise because
+of a specific process in the controls. Results from DEFS mirrored the data from BRIEF
+with adults and supported improvement in executive functioning after mindfulness but
+also smaller effects in the control condition. Studies in children, with various measures,
+including BRIEF and CAS, consistently showed improvements in executive functioning,
+although most studies lacked a control condition. Where a control was used, small effects
+were also found for the waitlist control [101] and a TAU control at follow-up but not
+immediately after the intervention [102]. There were also slight differences in the effect
+sizes when using parent and teacher ratings as has been noted previously [109]. When
+data was collected separately from both parents, results varied. Previous research has
+suggested that some constructs, including attention, can result in different ratings from
+mothers and fathers which could underpin this [109]. Other measures relating to executive
+functioning included self-efficacy and GPA, neither of which showed mindfulness-specific
+effects. Most reported a negligible effect size indicating that mindfulness did not impact
+these constructs. Objective tests of executive functions such as the Digit Span and Stroop
+revealed variable effects, with some small effects found in the control condition even
+when this was a waitlist [95]. In summary, the limited number of studies with adequate
+control conditions and follow-up periods mean it is not possible to firmly conclude that
+mindfulness benefits executive function, but the evidence to date indicates that it may have
+some beneficial effects, in line with previous meta-analyses [54,58].
+
+Psychiatry Int. 2022, 3
+
+392
+
+Emotional difficulties were examined in two of studies. However, both showed
+an improvement in emotional dysfunction after mindfulness with large effect sizes, in
+contrast to the control conditions which typically showed a small effect size, and therefore
+also resulted in some improvement, even though in both cases individuals were in a
+waitlist control [95,99]. Subscale examination suggests all areas showed substantial effects,
+except emotional awareness. These results indicate that when the individual with ADHD
+undergoes mindfulness training, there can be improvements in emotional functioning, in
+line with a previous systematic review [59].
+Several studies measured wider health outcomes. Quality of life was measured in
+several studies in adults with ADHD but the variation in scales used prevent a metaanalysis. However, data from the outcome questionnaire indicated that for adults, quality
+of life can be improved following mindfulness, in the absence of improvements in control
+conditions, irrespective of whether they are waitlist or TAU [91,94]. One other study using
+a different measure still found some improvements with mindfulness but also saw effects
+in their active control (psychoeducation) [92]. This suggests that an active psychosocial
+intervention could improve the quality of life in adults with ADHD. An ADHD-specific
+quality of life measure also showed mindfulness-specific improvements in adults, but no
+effects on quality of life were found in children. This partially aligns with Oliva et al. (2021)
+who found improvements in quality of life, albeit with a larger effect.
+After ADHD symptoms and executive function, one of the most common measures,
+particularly in adults was that of depression and anxiety, either separately, or in combination, as has been reported previously [66]. Meta-analyses of BDI results indicate that
+mindfulness reduces depression symptoms in adults. However, positive effects were also
+found in one study where the control condition was psychoeducation [92] as opposed
+to a waitlist control. This might indicate that the effects are not specific to mindfulness,
+although this seems unlikely because studies using other measures of depression saw only
+negligible effects in the control conditions. Although the results of the meta-analysis may
+be subject to reporting bias, the reduction in depressive symptoms seen across studies in
+this review does align with previous systematic reviews focused on adults [58,59]. Reductions were also found in anxiety in adults, although fewer studies had examined this,
+which also aligns with previous work [66]. Combined measures of anxiety and depression
+were more common in children but provided little evidence of an impact of mindfulness
+with negligible effect sizes in many cases. Furthermore, given that most studies accepted
+individuals with depression and anxiety, it is unclear what of these potential benefits relate
+to comorbidity.
+There is little data examining stress in individuals with ADHD (child or adult), meaning it is not possible to make any firm conclusion about this outcome. Rather the focus to
+date has largely been on parents, as found in a previous systematic review [54]. Parent
+stress did decrease in all studies after mindfulness, although for the single study that differentiated between mothers and fathers, the latter saw an initial increase in stress [103]. Four
+of the studies that considered parent stress included control conditions, although one did
+not report details to allow effect size calculations [104]. Of the remaining three, negligible
+effects were seen for all control conditions that could be classed as inactive (waitlist or
+TAU) [96,97]. One study did see an effect of the control condition but does not detail exactly
+what this involved, making it impossible to determine if this could have explained the
+result [85]. These results align with that of a previous review [54]. Objective measures of
+stress in the form of heart rate indicated no effects of mindfulness although given this is a
+proxy measure rather than a direct measure of stress, this is perhaps unsurprising.
+General behavioural inventories were employed to assess problem behaviours in
+several studies with the most popular being the CBCL and the externalising subscale which
+showed a reduction in all cases, indicating improved behaviour, albeit ranging from small
+to large effect sizes. However, whilst most studies found negligible effects of the control
+when it consisted of a waitlist or TAU [93,97,101], one study did see a similar effect in the
+experimental and waitlist control [89]. Similar results were found for the related YSR with
+
+Psychiatry Int. 2022, 3
+
+393
+
+reductions in the parent, teacher and youth-rated versions after mindfulness but also some
+effects in the control condition for one study [101]. This pattern of similar reductions in
+the control condition was common for other inventories used and the number of studies,
+along with variation in the control conditions, means that it is not possible to make firm
+conclusions about the effect of mindfulness on problematic behaviours.
+Self-compassion was measured in three studies, with different populations, but in
+all cases showed an increase after the mindfulness intervention, which was not present
+in the control condition, suggesting the effects were specific to the intervention. This
+aligns with one previous systematic review that considered self-compassion [58]. Wellbeing
+was measured in children and adults with ADHD as well as parents in family studies.
+Different measures prevented a meta-analysis, but all results showed improvements in
+wellbeing after mindfulness, which were not found in control conditions. This aligns with a
+previous systematic in children [54] suggesting these benefits may apply across the lifespan
+in ADHD. Happiness was only examined in one study, and effects indicated a decrease in
+happiness [103]. Several studies examined sleep using different instruments with evidence
+revealing largely negligible effects. Parenting style was measured in three studies, focusing
+on over-reactivity, and finding very varied results with decreases, increases and negligible
+effects. Furthermore, two of the studies lacked control conditions and the third did not
+provide sufficient information to calculate hedge’s g. As such from the available data it
+is not possible to draw any conclusions. Some improvements in family functioning were
+noted by Haydicky et al. (2015), but there were differences in the effect sizes for child and
+parent ratings and for perceptions of conflicts.
+In terms of mindfulness itself, few studies measured this to see whether the intervention had increased mindfulness in individuals with ADHD or their parents. As is the case
+for several other measures, whilst there is some evidence of increased mindfulness in those
+with ADHD following the intervention, these effects are often mirrored in more active
+control conditions, and in several cases, negligible effects are found throughout. Data from
+parents is similarly variable. Furthermore, variety in effectiveness does not coincide with
+specific characteristics (e.g., duration) of the mindfulness programme. The ineffectiveness
+of some interventions to increase mindfulness may contribute to the range of effects seen in
+outcome measures. Few studies examined the acceptability and feasibility of mindfulness
+intervention, but those that did showed promising results with most engaging well and
+showing good levels of satisfaction, including in the home practice, although adults did
+twice as much as children in this regard.
+To our knowledge, this is the most comprehensive systematic review of mindfulness
+in ADHD, including a broad range of study designs, participants, and outcome measures.
+However, there are some limitations to the current study. Firstly, the overall quality of the
+studies is low, which aligns with previous systematic reviews, but does limit the conclusions
+that can be made. Secondly, even where multiple studies have used the same measures in
+the same population, heterogeneity was often high, which combined with relatively small
+samples, renders a meta-analysis unreliable. Thirdly, even where meta-analyses could be
+conducted, the low number of studies within the analysis made assessment of publication
+bias through statistical testing unreliable and as such, we had to rely on visual inspection
+of the Funnel Plot. The asymmetry observed could be explained by publication bias, but it
+is possible this is caused by other factors. Related to this, the overall number of studies is
+small. Of the 22, one study does not provide sufficient information to calculate effect sizes,
+meaning the usable pool of data to calculate effect sizes was 21 studies. Fourthly, whilst
+every effort was made to identify and retrieve all appropriate records, it is possible that
+some, for example dissertations (such as [110], rather than publications were not identified
+in our databases. Therefore, future work should include a greater range of sources to
+identify relevant outputs. Certainly, Oliva et al. [66] located two more papers than the
+present search using different databases. Finally, and related to the difference between
+the current review and the previous one, it is also noteworthy that this previous review
+included interventions that would not have met our criteria (e.g., ACT-group training [111].
+
+Psychiatry Int. 2022, 3
+
+394
+
+This raises an additional limitation which is that interventions may include differing
+amounts of mindfulness and may not even be referred to as mindfulness. Going forward,
+it will be important to clearly identify different practices from varying reporting.
+5. Conclusions
+In summary, the results of this systematic review suggest that mindfulness may reduce ADHD symptoms, emotional difficulties and problem behaviours. There is also an
+indication that mindfulness can improve executive function, quality of life, wellbeing, and
+self-compassion. However, in all cases, effects were often more prominent in adults than
+children and variation in methods and controls limits generalization. As such further
+high-quality studies are needed to confirm this. These studies must differentiate between
+mindfulness and other forms of psychosocial treatment, through careful use of active and
+inactive control conditions. There was slightly more convincing evidence that mindfulness
+could reduce depression and anxiety symptoms, although most studies showing this were
+conducted in adults, with child data more doubtful. The benefits of mindfulness for depression and anxiety are perhaps unsurprising given this has been identified as a promising
+treatment for these conditions [112]. However, the inclusion of these conditions as comorbidities also clouds the findings. Parental stress has been measured in a small subset of
+studies to date and results are promising but may not be specific to mindfulness and future
+studies will need to compare results from active and inactive controls. Similarly, there is
+insufficient data to date to determine whether there are beneficial effects on parenting style
+and family relations, two aspects thought to be important for children with ADHD [68]. An
+interesting observation is that very few of the studies measured mindfulness to determine
+the effectiveness of the intervention and as such, it is not clear whether these interventions
+are achieving their goals.
+In addition to identifying the impact of mindfulness, or lack of it, on a broad range of
+outcome measures, this review has demonstrated that there is a lack of high-quality research
+studies in this area. Pre-post designs were particularly weak but there were also limitations
+of RCTs and nRCTs. In line with previous reviews, we have identified a need for more highquality studies in this area using randomized designs [55,62–64,86] with greater statistical
+power [54,56]. We have also identified a need to include both active and inactive controls,
+as well as measure mindfulness across all conditions to ascertain whether the mindfulness
+interventions increase mindfulness more than, for example, psychoeducational practices,
+something which is not possible to determine from some existing studies. Furthermore,
+where parents are included in the intervention or in providing ratings of their children, it
+would be helpful to consider ratings from both parents, where possible, given that ratings
+from mothers and fathers can vary [109]. Additionally, given that parents cannot be blind
+to the child’s intervention in many cases and certainly if they are also receiving training
+either in a parent or family trial. Future studies should also consider using teacher or
+investigator ratings, as well as standardized objective tests of core symptoms and related
+behaviours. This aligns with a previous systematic review which noted a paucity of
+neuropsychological data for these studies [60,62]. Better characterization of medication
+and details of comorbidities would also be beneficial, and the latter has been previously
+identified as important [56]. Finally, whilst some studies included follow-up data collection,
+with the longest follow-up participants for 8 months, the majority did not and therefore
+future studies should include follow-up data collection.
+Supplementary Materials: The following supporting information can be downloaded at: https:
+//www.mdpi.com/article/10.3390/psychiatryint3040031/s1, Figure S1: Funnel Plot for conflict
+measures of the Attention Network Test (ANT) for the studies in the meta-analysis, Figure S2: Funnel
+Plot for Beck Depression Inventory (BDI) measures for studies in the meta-analysis. Table S1: Quality
+assessment of pre-post designs, Table S2: Quality assessment of non-randomized designs, Table S3:
+Quality assessment of randomized designs. Table S4: An overview of the study characteristics of
+poor-quality studies removed from further analysis. Table S5: An overview of the most consistently
+
+Psychiatry Int. 2022, 3
+
+395
+
+applied measures, not otherwise separately tabulated. Effect sizes (g) refer to those immediately after
+any intervention.
+Author Contributions: Conceptualization, C.R.K. and E.J.D.; methodology, C.R.K., B.G.T. and E.J.D.;
+formal analysis, C.R.K., B.G.T. and E.J.D.; writing—original draft preparation, C.R.K. and E.J.D.;
+writing—review and editing, C.R.K., B.G.T. and E.J.D. All authors have read and agreed to the
+published version of the manuscript.
+Funding: B.G.T. was supported by a PhD grant from the Ministry of Education of the Turkish Republic.
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: Not applicable.
+Acknowledgments: The authors would like to thank Anne-Laure Le Cunff and Larisa M. Dinu for
+their advice on the meta-analysis.
+Conflicts of Interest: The authors declare no conflict of interest.
+
+References
+1.
+2.
+3.
+4.
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+11.
+12.
+13.
+
+14.
+15.
+
+16.
+
+American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, 5th ed.; American Psychiatric Association:
+Arlington, VA, USA, 2013.
+Polanczyk, G.V.; Willcutt, E.G.; Salum, G.A.; Kieling, C.; Rohde, L.A. ADHD prevalence estimates across three decades: An
+updated systematic review and meta-regression analysis. Int. J. Epidemiol. 2014, 43, 434–442. [CrossRef] [PubMed]
+Thomas, R.; Sanders, S.; Doust, J.; Beller, E.; Glasziou, P. Prevalence of Attention-Deficit/Hyperactivity Disorder: A Systematic
+Review and Meta-analysis. Pediatrics 2015, 135, e994–e1001. [CrossRef] [PubMed]
+Faraone, S.V.; Biederman, J.; Mick, E. The age-dependent decline of attention deficit hyperactivity disorder: A meta-analysis of
+follow-up studies. Psychol. Med. 2005, 36, 159–165. [CrossRef] [PubMed]
+Moffitt, T.E.; Houts, R.; Asherson, P.; Belsky, D.W.; Corcoran, D.L.; Hammerle, M.; Harrington, H.; Hogan, S.; Meier, M.H.;
+Polanczyk, G.V.; et al. Is Adult ADHD a Childhood-Onset Neurodevelopmental Disorder? Evidence From a Four-Decade
+Longitudinal Cohort Study. Am. J. Psychiatry 2015, 172, 967–977. [CrossRef] [PubMed]
+Humphreys, K.L.; Katz, S.J.; Lee, S.S.; Hammen, C.; Brennan, P.A.; Najman, J.M. The association of ADHD and depression:
+Mediation by peer problems and parent–child difficulties in two complementary samples. J. Abnorm. Psychol. 2013, 122, 854–867.
+[CrossRef]
+Ruiz-Goikoetxea, M.; Cortese, S.; Aznarez-Sanado, M.; Magallon, S.; Alvarez-Zallo, N.; Luis, E.O.; de Castro-Manglano, P.;
+Soutullo, C.; Arrondo, G. Risk of unintentional injuries in children and adolescents with ADHD and the impact of ADHD
+medications: A systematic review and meta-analysis. Neurosci. Biobehav. Rev. 2018, 84, 63–71. [CrossRef]
+Jangmo, A.; Stålhandske, A.; Chang, Z.; Chen, Q.; Almqvist, C.; Feldman, I.; Bulik, C.M.; Lichtenstein, P.; D’Onofrio, B.; KujaHalkola, R. Attention-deficit/hyperactivity disorder, school performance, and effect of medication. J. Am. Acad. Child Adolesc.
+Psychiatry 2019, 58, 423–432. [CrossRef]
+Danckaerts, M.; Sonuga-Barke, E.J.S.; Banaschewski, T.; Buitelaar, J.; Döpfner, M.; Hollis, C.; Santosh, P.; Rothenberger, A.;
+Sergeant, J.; Steinhausen, H.-C.; et al. The quality of life of children with attention deficit/hyperactivity disorder: A systematic
+review. Eur. Child Adolesc. Psychiatry 2009, 19, 83–105. [CrossRef]
+Burke, J.D.; Loeber, R.; Lahey, B.B. Which aspects of ADHD are associated with tobacco use in early adolescence? J. Child Psychol.
+Psychiatry Allied. 2001, 42, 493–502. [CrossRef]
+Sarver, D.E.; McCart, M.R.; Sheidow, A.J.; Letourneau, E.J. ADHD and risky sexual behavior in adolescents: Conduct problems
+and substance use as mediators of risk. J. Child Psychol. Psychiatry 2014, 55, 1345–1353. [CrossRef]
+Hua, M.-H.; Huang, K.-L.; Hsu, J.-W.; Bai, Y.-M.; Su, T.-P.; Tsai, S.-J.; Li, C.-T.; Lin, W.-C.; Chen, T.-J.; Chen, M.-H. Early Pregnancy
+Risk Among Adolescents With ADHD: A Nationwide Longitudinal Study. J. Atten. Disord. 2020, 25, 1199–1206. [CrossRef]
+McClemont, A.J.; Morton, H.E.; Gillis, J.M.; Romanczyk, R.G. Brief Report: Predictors of School Refusal Due to Bullying
+in Children with Autism Spectrum Disorder and Attention-Deficit/Hyperactivity Disorder. J. Autism Dev. Disord. 2020,
+51, 1781–1788. [CrossRef]
+Vaa, T. ADHD and relative risk of accidents in road traffic: A meta-analysis. Accid. Anal. Prev. 2014, 62, 415–425. [CrossRef]
+Li, L.; Chang, Z.; Sun, J.; Jangmo, A.; Zhang, L.; Andersson, L.M.; Werner-Kiechle, T.; Ahnemark, E.; D’Onofrio, B.M.; Larsson, H.
+Association Between Pharmacological Treatment of Attention-Deficit/Hyperactivity Disorder and Long-term Unemployment
+Among Working-Age Individuals in Sweden. JAMA Netw. Open 2022, 5, e226815. [CrossRef]
+Humphreys, K.L.; Galán, C.A.; Tottenham, N.; Lee, S.S. Impaired Social Decision-Making Mediates the Association Between
+ADHD and Social Problems. J. Abnorm. Child Psychol. 2015, 44, 1023–1032. [CrossRef]
+
+Psychiatry Int. 2022, 3
+
+17.
+
+18.
+19.
+20.
+21.
+
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+
+33.
+
+34.
+
+35.
+36.
+37.
+
+38.
+39.
+40.
+
+41.
+42.
+
+396
+
+Michielsen, M.; Comijs, H.C.; Semeijn, E.J.; Beekman, A.T.; Deeg, D.J.; Kooij, J.S. The comorbidity of anxiety and depressive
+symptoms in older adults with attention-deficit/hyperactivity disorder: A longitudinal study. J. Affect. Disord. 2013, 148, 220–227.
+[CrossRef]
+Tistarelli, N.; Fagnani, C.; Troianiello, M.; Stazi, M.A.; Adriani, W. The nature and nurture of ADHD and its comorbidities: A
+narrative review on twin studies. Neurosci. Biobehav. Rev. 2019, 109, 63–77. [CrossRef]
+NICE. Attention Deficit Hyperactivity Disorder: Diagnosis and Management. Available online: https://www.nice.org.uk/
+guidance/ng87 (accessed on 22 June 2022).
+Barkley, R.A.; DuPaul, G.J.; McMurray, M.B. Attention Deficit Disorder With and Without Hyperactivity: Clinical Response to
+Three Dose Levels of Methylphenidate. Pediatrics 1991, 87, 519–531. [CrossRef]
+Dittmann, R.W.; Cardo, E.; Nagy, P.; Anderson, C.S.; Adeyi, B.; Caballero, B.; Hodgkins, P.; Civil, R.; Coghill, D. Treatment
+Response and Remission in a Double-Blind, Randomized, Head-to-Head Study of Lisdexamfetamine Dimesylate and Atomoxetine
+in Children and Adolescents with Attention-Deficit Hyperactivity Disorder. CNS Drugs 2014, 28, 1059–1069. [CrossRef]
+Milich, R.; Balentine, A.C.; Lynam, D.R. ADHD combined type and ADHD predominantly inattentive type are distinct and
+unrelated disorders. Clin. Psychol. Sci. Pract. 2001, 8, 463–488. [CrossRef]
+Mariani, J.J.; Levin, F.R. Treatment Strategies for Co-Occurring ADHD and Substance Use Disorders. Am. J. Addict. 2007, 16, 45–56.
+[CrossRef] [PubMed]
+Aadil, M.; Cosme, R.M.; Chernaik, J. Mindfulness-Based Cognitive Behavioral Therapy as an Adjunct Treatment of Attention
+Deficit Hyperactivity Disorder in Young Adults: A Literature Review. Cureus 2017, 9, e1269. [CrossRef] [PubMed]
+Laviola, G.; Adriani, W.; Terranova, M.; Gerra, G. Psychobiological risk factors for vulnerability to psychostimulants in human
+adolescents and animal models. Neurosci. Biobehav. Rev. 1999, 23, 993–1010. [CrossRef] [PubMed]
+Schenk, S.; Davidson, E.S. Stimulant preexposure sensitizes rats and humans to the rewarding effects of cocaine. NIDA Res.
+Monogr. 1998, 169, 56–82. [PubMed]
+Darredeau, C.; Barrett, S.P.; Jardin, B.; Pihl, R.O. Patterns and predictors of medication compliance, diversion, and misuse in adult
+prescribed methylphenidate users. Hum. Psychopharmacol. Clin. Exp. 2007, 22, 529–536. [CrossRef] [PubMed]
+Doggett, A.M. ADHD and drug therapy: Is it still a valid treatment? J. Child Health Care. 2004, 8, 69–81. [CrossRef]
+Childress, A.C.; Sallee, F.R. Attention-Deficit/Hyperactivity Disorder with Inadequate Response to Stimulants: Approaches to
+Management. CNS Drugs 2014, 28, 121–129. [CrossRef]
+Brinkman, W.B.; Simon, J.O.; Epstein, J.N. Reasons Why Children and Adolescents With Attention-Deficit/Hyperactivity Disorder
+Stop and Restart Taking Medicine. Acad. Pediatr. 2018, 18, 273–280. [CrossRef]
+Swanson, J.M. Debate: Are Stimulant Medications for Attention-Deficit/Hyperactivity Disorder Effective in the Long Term?
+(Against). J. Am. Acad. Child Adolesc. Psychiatry 2019, 58, 936–938. [CrossRef]
+Dittmann, R.W.; Cardo, E.; Nagy, P.; Anderson, C.S.; Bloomfield, R.; Caballero, B.; Higgins, N.; Hodgkins, P.; Lyne, A.; Civil, R.;
+et al. Efficacy and Safety of Lisdexamfetamine Dimesylate and Atomoxetine in the Treatment of Attention-Deficit/Hyperactivity
+Disorder: A Head-to-Head, Randomized, Double-Blind, Phase IIIb Study. CNS Drugs 2013, 27, 1081–1092. [CrossRef]
+Cortese, S.; Adamo, N.; Del Giovane, C.; Mohr-Jensen, C.; Hayes, A.J.; Carucci, S.; Atkinson, L.Z.; Tessari, L.; Banaschewski, T.;
+Coghill, D.; et al. Comparative efficacy and tolerability of medications for attention-deficit hyperactivity disorder in children,
+adolescents, and adults: A systematic review and network meta-analysis. Lancet Psychiatry 2018, 5, 727–738. [CrossRef]
+Vidal, R.; Bosch, R.; Nogueira, M.; Gómez-Barros, N.; Valero, S.; Palomar, G.; Corrales, M.; Richarte, V.; Mena, B.; Casas, M.; et al.
+Psychoeducation for Adults with Attention Deficit Hyperactivity Disorder vs. Cognitive Behavioral Group Therapy. J. Nerv.
+Ment. Dis. 2013, 201, 894–900. [CrossRef]
+Buitelaar, J.K.; Kooij, J.J. Attention deficit hyperactivity disorder (ADHD): Etiology, diagnosis and treatment. Ned. Tijdschr. Voor
+Geneeskd. 2000, 144, 1716–1723.
+Dalrymple, R.A.; Maxwell, L.M.; Russell, S.; Duthie, J. NICE guideline review: Attention deficit hyperactivity disorder: Diagnosis
+and management (NG87). Arch. Dis. Child. Educ. Pract. Ed. 2019, 105, 289–293. [CrossRef]
+Daley, D.; Van der Oord, S.; Ferrin, M.; Danckaerts, M.; Doepfner, M.; Cortese, S.; Sonuga-Barke, E.J.; Group, E.A.G. Behavioral
+interventions in attention-deficit/hyperactivity disorder: A meta-analysis of randomized controlled trials across multiple outcome
+domains. J. Am. Acad. Child Adolesc. Psychiatry 2014, 53, 835–847. [CrossRef]
+Willis, D.; Siceloff, E.R.; Morse, M.; Neger, E.; Flory, K. Stand-Alone Social Skills Training for Youth with ADHD: A Systematic
+Review. Clin. Child Fam. Psychol. Rev. 2019, 22, 348–366. [CrossRef]
+Young, Z.; Moghaddam, N.; Tickle, A. The Efficacy of Cognitive Behavioral Therapy for Adults With ADHD: A Systematic
+Review and Meta-Analysis of Randomized Controlled Trials. J. Atten. Disord. 2016, 24, 875–888. [CrossRef]
+Young, S.; Asherson, P.; Lloyd, T.; Absoud, M.; Arif, M.; Colley, W.A.; Cortese, S.; Cubbin, S.; Doyle, N.; Morua, S.D.; et al. Failure
+of Healthcare Provision for Attention-Deficit/Hyperactivity Disorder in the United Kingdom: A Consensus Statement. Front.
+Psychiatry 2021, 12, 324. [CrossRef]
+Cheung, K.K.; Wong, I.C.; Ip, P.; Chan, P.K.; Lin, C.H.; Wong, L.Y.; Chan, E.W. Experiences of adolescents and young adults with
+ADHD in Hong Kong: Treatment services and clinical management. BMC Psychiatry 2015, 15, 95. [CrossRef]
+Cochrane, W.G.; Dinu, L.M.; Kika, N.B.; Dommett, E.J. Attitudes and preferences toward exercise interventions in adults with
+attention deficit hyperactivity disorder: A survey study. Int. J. Ment. Health 2022, 51, 267–285. [CrossRef]
+
+Psychiatry Int. 2022, 3
+
+43.
+44.
+45.
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+
+54.
+55.
+56.
+57.
+58.
+59.
+
+60.
+61.
+62.
+63.
+64.
+65.
+66.
+
+67.
+68.
+
+69.
+70.
+71.
+
+397
+
+Dinu, L.M.; Phattharakulnij, N.; Dommett, E.J. Tryptophan modulation in individuals with attention deficit hyperactivity disorder:
+A systematic review. J. Neural Transm. 2022, 129, 361–377. [CrossRef] [PubMed]
+Xu, G.; Strathearn, L.; Liu, B.; Yang, B.; Bao, W. Twenty-Year Trends in Diagnosed Attention-Deficit/Hyperactivity Disorder
+Among US Children and Adolescents, 1997–2016. JAMA Netw. Open 2018, 1, e181471. [CrossRef]
+Househam, A.M.; Solanto, M.V. Mindfulness as an Intervention for ADHD. ADHD Rep. 2016, 24, 1–13. [CrossRef]
+Roberts, L.R.; Neece, C.L. Feasibility of Mindfulness-based Stress Reduction Intervention for Parents of Children with Developmental Delays. Issues Ment. Health Nurs. 2015, 36, 592–602. [CrossRef] [PubMed]
+Kabat-Zinn, J. Mindfulness Meditation in Everyday Life; Hyperion: New York, NY, USA, 1994.
+Roychowdhury, D. Moving Mindfully: The Role of Mindfulness Practice in Physical Activity and Health Behaviours. J. Funct.
+Morphol. Kinesiol. 2021, 6, 19. [CrossRef]
+Kabat-Zinn, J. Full Catastrophe Living; Delta: New York, NY, USA, 1990.
+Niazi, A.K.; Niazi, S.K. Mindfulness-based stress reduction: A non-pharmacological approach for chronic illnesses. N. Am. J. Med.
+Sci. 2011, 3, 20–23. [CrossRef]
+Seidman, L.J. Neuropsychological functioning in people with ADHD across the lifespan. Clin. Psychol. Rev. 2006, 26, 466–485.
+[CrossRef]
+Nigg, J.T.; Casey, B.J. An integrative theory of attention-deficit/ hyperactivity disorder based on the cognitive and affective
+neurosciences. Dev. Psychopathol. 2005, 17, 785–806. [CrossRef]
+Barranco-Ruiz, Y.; Etxabe, B.E.; Ramírez-Vélez, R.; Villa-González, E. Interventions Based on Mind–Body Therapies for the
+Improvement of Attention-Deficit/Hyperactivity Disorder Symptoms in Youth: A Systematic Review. Medicina 2019, 55, 325.
+[CrossRef]
+Evans, S.; Ling, M.; Hill, B.; Rinehart, N.; Austin, D.; Sciberras, E. Systematic review of meditation-based interventions for
+children with ADHD. Eur. Child Adolesc. Psychiatry 2017, 27, 9–27. [CrossRef]
+Chimiklis, A.L.; Dahl, V.; Spears, A.P.; Goss, K.; Fogarty, K.; Chacko, A. Yoga, Mindfulness, and Meditation Interventions for
+Youth with ADHD: Systematic Review and Meta-Analysis. J. Child Fam. Stud. 2018, 27, 3155–3168. [CrossRef]
+Tercelli, I.; Ferreira, N. A systematic review of mindfulness based interventions for children and young people with ADHD and
+their parents. Glob. Psychiatry 2019, 2, 79–95. [CrossRef]
+Nimmo-Smith, V.; Merwood, A.; Hank, D.; Brandling, J.; Greenwood, R.; Skinner, L.; Law, S.; Patel, V.; Rai, D. Nonpharmacological interventions for adult ADHD: A systematic review. Psychol. Med. 2020, 50, 529–541. [CrossRef]
+Poissant, H.; Mendrek, A.; Talbot, N.; Khoury, B.; Nolan, J. Behavioral and Cognitive Impacts of Mindfulness-Based Interventions
+on Adults with Attention-Deficit Hyperactivity Disorder: A Systematic Review. Behav. Neurol. 2019, 2019, 1–16. [CrossRef]
+López-Pinar, C.; Martínez-Sanchís, S.; Carbonell-Vayá, E.; Sánchez-Meca, J.; Fenollar-Cortés, J. Efficacy of Nonpharmacological
+Treatments on Comorbid Internalizing Symptoms of Adults with Attention-Deficit/Hyperactivity Disorder: A Meta-Analytic
+Review. J. Atten. Disord. 2019, 24, 456–478. [CrossRef]
+Zhang, J.; Díaz-Román, A.; Cortese, S. Meditation-based therapies for attention-deficit/hyperactivity disorder in children,
+adolescents and adults: A systematic review and meta-analysis. Évid. Based Ment. Health 2018, 21, 87–94. [CrossRef]
+Krisanaprakornkit, T.; Ngamjarus, C.; Witoonchart, C.; Piyavhatkul, N. Meditation therapies for attention-deficit/hyperactivity
+disorder (ADHD). Cochrane Database Syst. Rev. 2010, CD006507. [CrossRef]
+Mak, C.; Whittingham, K.; Cunnington, R.; Boyd, R.N. Efficacy of Mindfulness-Based Interventions for Attention and Executive
+Function in Children and Adolescents—A Systematic Review. Mindfulness 2017, 9, 59–78. [CrossRef]
+Cairncross, M.; Miller, C.J. The Effectiveness of Mindfulness-Based Therapies for ADHD: A Meta-Analytic Review. J. Atten.
+Disord. 2016, 24, 627–643. [CrossRef]
+Lee, C.S.; Ma, M.-T.; Ho, H.-Y.; Tsang, K.-K.; Zheng, Y.-Y.; Wu, Z.-Y. The Effectiveness of Mindfulness-Based Intervention in
+Attention on Individuals with ADHD: A Systematic Review. Hong Kong J. Occup. Ther. 2017, 30, 33–41. [CrossRef]
+Xue, J.; Zhang, Y.; Huang, Y. A meta-analytic investigation of the impact of mindfulness-based interventions on ADHD symptoms.
+Medicine 2019, 98, e15957. [CrossRef]
+Oliva, F.; Malandrone, F.; di Girolamo, G.; Mirabella, S.; Colombi, N.; Carletto, S.; Ostacoli, L. The efficacy of mindfulness-based
+interventions in attention-deficit/hyperactivity disorder beyond core symptoms: A systematic review, meta-analysis, and
+meta-regression. J. Affect. Disord. 2021, 292, 475–486. [CrossRef]
+Laugesen, B.; Groenkjaer, M. Parenting experiences of living with a child with attention deficit hyperactivity disorder: A
+systematic review of qualitative evidence. JBI Evid. Synth. 2015, 13, 169–234. [CrossRef]
+Marceau, K.; Laurent, H.K.; Neiderhiser, J.M.; Reiss, D.; Shaw, D.S.; Natsuaki, M.N.; Fisher, P.A.; Leve, L.D. Combined influences
+of genes, prenatal environment, cortisol, and parenting on the development of children’s internalizing versus externalizing
+problems. Behav. Gen. 2015, 45, 268–282. [CrossRef]
+Deault, L.C. A Systematic Review of Parenting in Relation to the Development of Comorbidities and Functional Impairments in
+Children with Attention-Deficit/Hyperactivity Disorder (ADHD). Child Psychiatry Hum. Dev. 2009, 41, 168–192. [CrossRef]
+Agha, S.S.; Zammit, S.; Thapar, A.; Langley, K. Maternal psychopathology and offspring clinical outcome: A four-year follow-up
+of boys with ADHD. Eur. Child Adolesc. Psychiatry 2016, 26, 253–262. [CrossRef]
+National Heart, Lung, and Blood Institute (NHLBI) Quality Assessment Tool for Observational Cohort and Cross-Sectional Studies.
+Available online: https://www.nhlbi.nih.gov/health-topics/study-quality-assessment-tools (accessed on 23 February 2022).
+
+Psychiatry Int. 2022, 3
+
+72.
+73.
+74.
+75.
+76.
+
+77.
+
+78.
+79.
+80.
+81.
+82.
+
+83.
+84.
+
+85.
+
+86.
+87.
+88.
+89.
+90.
+91.
+
+92.
+
+93.
+
+94.
+
+95.
+
+96.
+
+398
+
+Cohen, J. Statistical Power Analysis for the Behavioral Sciences; Routledge Academic: New York, NY, USA, 1988.
+Beheshti, A.; Chavanon, M.-L.; Christiansen, H. Emotion dysregulation in adults with attention deficit hyperactivity disorder: A
+meta-analysis. BMC Psychiatry 2020, 20, 120. [CrossRef] [PubMed]
+Schwarzer, G.; Carpenter, J.R.; Rücker, G. Fixed Effect and Random Effects Meta-Analysis. In Meta-Analysis with R. Use R!
+Springer: Cham, Germany, 2015; pp. 21–53. [CrossRef]
+Egger, M.; Smith, G.D.; Schneider, M.; Minder, C. Bias in meta-analysis detected by a simple, graphical test. BMJ 1997, 315, 629–634.
+[CrossRef] [PubMed]
+Higgins, J.P.T.; Thomas, J.; Chandler, J.; Cumpston, M.; Li, T.; Page, M.J.; Welch, V.A. (Eds.) Cochrane Handbook for Systematic
+Reviews of Interventions Version 6.3 (Updated February 2022). Cochrane, 2022. Available online: www.training.cochrane.org/
+handbook (accessed on 7 October 2022).
+Sibalis, A.; Milligan, K.; Pun, C.; McKeough, T.; Schmidt, L.A.; Segalowitz, S.J. An EEG Investigation of the Attention-Related
+Impact of Mindfulness Training in Youth with ADHD: Outcomes and Methodological Considerations. J. Atten. Disord. 2017,
+23, 733–743. [CrossRef] [PubMed]
+Zylowska, L.; Ackerman, D.L.; Yang, M.H.; Futrell, J.L.; Horton, N.L.; Hale, T.S.; Pataki, C.; Smalley, S.L. Mindfulness meditation
+training in adults and adolescents with ADHD: A feasibility study. J. Atten. Disord. 2008, 11, 737–746. [CrossRef] [PubMed]
+Converse, A.K.; Barrett, B.P.; Chewning, B.A.; Wayne, P.M. Tai Chi training for attention deficit hyperactivity disorder: A
+feasibility trial in college students. Complement. Ther. Med. 2020, 53, 102538. [CrossRef]
+Gershy, N.; Meehan, K.B.; Omer, H.; Papouchis, N.; Sapir, I.S. Randomized Clinical Trial of Mindfulness Skills Augmentation in
+Parent Training. Child Care Q. 2017, 46, 783–803. [CrossRef]
+Kratter, J. The Use of Meditation in the Treatment of Attention Deficit Disorder with Hyperactivity; St. John’s University: New York, NY,
+USA, 1983.
+Schoenberg, P.L.; Hepark, S.; Kan, C.C.; Barendregt, H.P.; Buitelaar, J.K.; Speckens, A.E. Effects of mindfulness-based cognitive
+therapy on neurophysiological correlates of performance monitoring in adult attention-deficit/hyperactivity disorder. Clin.
+Neurophysiol. 2014, 125, 1407–1416. [CrossRef]
+Sidhu, P. The Efficacy of Mindfulness Meditation in Increasing the Attention Span in Children with ADHD. Ph.D. Thesis, Pacifica
+Graduate Institute, Carpinteria, CA, USA, 2015.
+Bachmann, K.; Lam, A.P.; Sörös, P.; Kanat, M.; Hoxhaj, E.; Matthies, S.; Feige, B.; Müller, H.; Özyurt, J.; Thiel, C.M.; et al. Effects of
+mindfulness and psychoeducation on working memory in adult ADHD: A randomised, controlled fMRI study. Behav. Res. Ther.
+2018, 106, 47–56. [CrossRef]
+Behbahani, M.; Zargar, F.; Assarian, F.; Akbari, H. Effects of Mindful Parenting Training on Clinical Symptoms in Children with
+Attention Deficit Hyperactivity Disorder and Parenting Stress: Randomized Controlled Trial. Iran. J. Med. Sci. 2018, 43, 596–604.
+[CrossRef]
+Bueno, V.F.; Kozasa, E.H.; Da Silva, M.A.; Alves, T.M.; Louzã, M.R.; Pompéia, S. Mindfulness Meditation Improves Mood, Quality
+of Life, and Attention in Adults with Attention Deficit Hyperactivity Disorder. BioMed Res. Int. 2015, 2015, 1–14. [CrossRef]
+Edel, M.-A.; Hölter, T.; Wassink, K.; Juckel, G. A comparison of mindfulness-based group training and skills group training in
+adults with ADHD: An open study. J. Atten. Disord. 2017, 21, 533–539. [CrossRef]
+Gu, Y.; Xu, G.; Zhu, Y. A Randomized Controlled Trial of Mindfulness-Based Cognitive Therapy for College Students With ADHD.
+J. Atten. Disord. 2016, 22, 388–399. [CrossRef]
+Haydicky, J.; Wiener, J.; Badali, P.; Milligan, K.; Ducharme, J.M. Evaluation of a Mindfulness-based Intervention for Adolescents
+with Learning Disabilities and Co-occurring ADHD and Anxiety. Mindfulness 2012, 3, 151–164. [CrossRef]
+Haydicky, J.; Shecter, C.; Wiener, J.; Ducharme, J.M. Evaluation of MBCT for Adolescents with ADHD and Their Parents: Impact
+on Individual and Family Functioning. J. Child Fam. Stud. 2015, 24, 76–94. [CrossRef]
+Hepark, S.; Janssen, L.; De Vries, A.; Schoenberg, P.L.A.; Donders, R.; Kan, C.C.; Speckens, A.E.M. The Efficacy of Adapted MBCT
+on Core Symptoms and Executive Functioning in Adults With ADHD: A Preliminary Randomized Controlled Trial. J. Atten.
+Disord. 2015, 23, 351–362. [CrossRef] [PubMed]
+Hoxhaj, E.; Sadohara, C.; Borel, P.; D’Amelio, R.; Sobanski, E.; Müller, H.; Feige, B.; Matthies, S.; Philipsen, A. Mindfulness
+vs psychoeducation in adult ADHD: A randomized controlled trial. Eur. Arch. Psychiatry Clin. Neurosci. 2018, 268, 321–335.
+[CrossRef] [PubMed]
+Huguet, A.; Eguren, J.I.; Miguel-Ruiz, D.; Vallés, X.V.; Alda, J.A. Deficient Emotional Self-Regulation in Children with Attention
+Deficit Hyperactivity Disorder: Mindfulness as a Useful Treatment Modality. J. Dev. Behav. Pediatr. 2019, 40, 425–431. [CrossRef]
+[PubMed]
+Janssen, L.; Kan, C.C.; Carpentier, P.J.; Sizoo, B.; Hepark, S.; Schellekens, M.P.; Donders, A.R.T.; Buitelaar, J.K.; Speckens, A.E.
+Mindfulness-based cognitive therapy v. treatment as usual in adults with ADHD: A multicentre, single-blind, randomised
+controlled trial. Psychol. Med. 2018, 49, 55–65. [CrossRef] [PubMed]
+Kiani, B.; Hadianfard, H.; Mitchell, J.T. The impact of mindfulness meditation training on executive functions and emotion
+dysregulation in an Iranian sample of female adolescents with elevated attention-deficit/hyperactivity disorder symptoms. Aust.
+J. Psychol. 2017, 69, 273–282. [CrossRef]
+Liu, P.; Qiu, S.; Lo, H.H.M.; Song, X.; Qian, Q. Applying the Mindful Parenting Program Among Chinese Parents of Children
+with ADHD: A Randomized Control Trial. Mindfulness 2021, 12, 1473–1489. [CrossRef]
+
+Psychiatry Int. 2022, 3
+
+97.
+
+399
+
+Lo, H.H.M.; Wong, S.W.L.; Wong, J.Y.H.; Yeung, J.W.K.; Snel, E.; Wong, S.Y.S. The Effects of Family-Based Mindfulness Intervention
+on ADHD Symptomology in Young Children and Their Parents: A Randomized Control Trial. J. Atten. Disord. 2017, 24, 667–680.
+[CrossRef]
+98. Meyer, J.; Ramklint, M.; Hallerbäck, M.U.; Lööf, M.; Isaksson, J. Evaluation of a structured skills training group for adolescents
+with attention deficit/hyperactivity disorder (ADHD)–study protocol of a randomised controlled trial. BMC Psychiatry 2019,
+19, 171. [CrossRef]
+99. Mitchell, J.T.; McIntyre, E.M.; English, J.S.; Dennis, M.F.; Beckham, J.C.; Kollins, S.H. A Pilot Trial of Mindfulness Meditation
+Training for ADHD in Adulthood: Impact on Core Symptoms, Executive Functioning, and Emotion Dysregulation. J. Atten.
+Disord. 2013, 21, 1105–1120. [CrossRef]
+100. Muratori, P.; Conversano, C.; Levantini, V.; Masi, G.; Milone, A.; Villani, S.; Bögels, S.; Gemignani, A. Exploring the Efficacy of a
+Mindfulness Program for Boys With Attention-Deficit Hyperactivity Disorder and Oppositional Defiant Disorder. J. Atten. Disord.
+2020, 25, 1544–1553. [CrossRef]
+101. Rynczak, D. Effectiveness of Mindfulness in Reducing Impulsivity in Youth with Attention-Deficit/Hyperactivity Disorder. Ph.D.
+Thesis, The Chicago School of Professional Psychology, Chicago, IL, USA, 2011.
+102. Siebelink, N.M.; Bögels, S.M.; Speckens, A.E.M.; Dammers, J.T.; Wolfers, T.; Buitelaar, J.K.; Greven, C.U. A randomised controlled
+trial (MindChamp) of a mindfulness-based intervention for children with ADHD and their parents. J. Child Psychol. Psychiatry
+2021, 63, 165–177. [CrossRef]
+103. Van de Weijer-Bergsma, E.; Formsma, A.R.; de Bruin, E.I.; Bögels, S.M. The effectiveness of mindfulness training on behavioral
+problems and attentional functioning in adolescents with ADHD. J. Child Fam. Stud. 2012, 21, 775–787. [CrossRef]
+104. Van der Oord, S.; Bögels, S.M.; Peijnenburg, D. The effectiveness of mindfulness training for children with ADHD and mindful
+parenting for their parents. J. Child Fam. Stud. 2012, 21, 139–147. [CrossRef]
+105. Zhang, D.; Chan, S.K.C.; Lo, H.H.M.; Chan, C.Y.H.; Chan, J.C.Y.; Ting, K.T.; Gao, T.T.; Lai, K.Y.C.; Bögels, S.M.; Wong, S.Y.S.
+Mindfulness-Based Intervention for Chinese Children with ADHD and Their Parents: A Pilot Mixed-Method Study. Mindfulness
+2016, 8, 859–872. [CrossRef]
+106. Sterne, J.A.C.; Sutton, A.J.; Ioannidis, J.P.A.; Terrin, N.; Jones, D.R.; Lau, J.; Carpenter, J.; Rücker, G.; Harbord, R.M.; Schmid, C.H.;
+et al. Recommendations for examining and interpreting funnel plot asymmetry in meta-analyses of randomised controlled trials.
+BMJ 2011, 343, d4002. [CrossRef]
+107. Doyle, N. Neurodiversity at work: A biopsychosocial model and the impact on working adults. Br. Med. Bull. 2020, 135, 108–125.
+[CrossRef]
+108. Waschbusch, D.A.; Pelham, W.E.; Waxmonsky, J.; Johnston, C. Are There Placebo Effects in the Medication Treatment of Children
+with Attention-Deficit Hyperactivity Disorder? J. Dev. Behav. Pediatr. 2009, 30, 158–168. [CrossRef]
+109. Mayfield, A.R.; Parke, E.M.; Barchard, K.A.; Zenisek, R.P.; Thaler, N.S.; Etcoff, L.M.; Allen, D.N. Equivalence of mother and father
+ratings of ADHD in children. Child Neuropsychol. 2016, 24, 166–183. [CrossRef]
+110. Meppelink, R. Childhood ADHD: Meditation or Medication? University of Amsterdam: Amsterdam, The Netherlands, 2019.
+111. Vanzin, L.; Crippa, A.; Mauri, V.; Valli, A.; Mauri, M.; Molteni, M.; Nobile, M. Does ACT-Group Training Improve Cognitive
+Domain in Children with Attention Deficit Hyperactivity Disorder? A Single-Arm, Open-Label Study. Behav. Chang. 2020,
+37, 1–12. [CrossRef]
+112. Hofmann, S.G.; Sawyer, A.T.; Witt, A.A.; Oh, D. The effect of mindfulness-based therapy on anxiety and depression: A metaanalytic review. J. Consult. Clin. Psychol. 2010, 78, 169–183. [CrossRef]
+
+

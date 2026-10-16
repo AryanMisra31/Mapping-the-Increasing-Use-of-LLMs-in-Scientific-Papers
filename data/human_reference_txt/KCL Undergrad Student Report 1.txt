@@ -1,0 +1,1578 @@
+“I am concerned about
+young people’s mental
+health and that they have
+less hope for their future”
+Practitioners’ emerging concerns for
+young people between June 2019
+to November 2021
+June 2022
+
+In collaboration with
+
+1
+
+Contents
+Executive summary................................................................................................ 3
+Overview.................................................................................................................... 3
+About the research.................................................................................................. 3
+Research questions................................................................................................. 3
+Methods. .................................................................................................................... 4
+Key findings............................................................................................................... 4
+Introduction to the report. ................................................................................... 6
+Overview.................................................................................................................... 6
+About the research.................................................................................................. 6
+Rationale and objectives........................................................................................ 7
+Limitations and considerations. ........................................................................... 7
+Methodology............................................................................................................ 9
+Overview of the respondents and the data analysed.................................... 9
+Overview of the analysis methods......................................................................11
+Findings.....................................................................................................................12
+1. Government cuts and financial difficulties ................................................13
+1.1 Government cuts.............................................................................................13
+1.2 Financial difficulties. .....................................................................................14
+1.3 Impact of the COVID-19 pandemic. ..........................................................15
+1.4 Housing. ...........................................................................................................16
+2. Social issues: online exploitation and family conflict. ............................ 17
+2.1 Exposure to the dangers of the internet.................................................. 17
+2.2 Safety and cohesion in the home. ............................................................18
+3. Individual issues: mental health and uncertainty. ...................................19
+3.1. Increasing mental health issues. ..............................................................19
+3.2 Uncertainty and hopelessness.................................................................20
+3.3 Education. .......................................................................................................21
+Summary of findings, context, and calls to action.....................................23
+
+Authors:
+
+Amber Inman,
+Shengyang Chen,
+Eleonora Contini,
+Amy Orben,
+Rogier Kievit,
+Zara Kulbayeva,
+Mariam Shah,
+Ayla Pollmann,
+Delia Fuhrmann,
+Kathryn Bates
+Barnardo’s contact: Amy Woodworth
+amy.woodworth@barnardos.org.uk
+
+2
+
+Overview of findings. ...........................................................................................23
+Putting findings into context..............................................................................23
+1. Increasing mental health issues and insufficient support....................23
+2. Poverty, financial instability, and inequality............................................25
+3. Victimisation and exploitation online........................................................25
+4. Safety and cohesion in the home..............................................................26
+5. Transition between services pre- and post-18. ......................................26
+Calls to action. .......................................................................................................27
+• Addressing poverty and inequality as adverse experiences...............28
+• Preventing exploitation and victimization. ................................................28
+• Fostering safety and cohesion in the home. ............................................29
+• Supporting transitions between services pre- and post-18..................29
+References..............................................................................................................32
+
+Executive summary
+Overview
+About the research
+This report is the result of a collaborative project between Barnardo’s
+Charity and the Development and Environment Research Group at
+King’s College London (KCL). Our aims for this report were to:
+
+• Outline the key issues that young people have faced between
+
+June 2019 and November 2021, according to Barnardo’s support
+practitioners.
+• Examine how practitioner views align with our current understanding
+of adolescent development in research.
+• Outline a call to action based on practitioner views and current
+research with respect to the next steps for researchers and
+policymakers.
+A large body of research has shown that experiencing adversity during
+early childhood is associated with poorer physical and mental health
+in later life1,2. This research has informed policy and practice aimed at
+preventing long-term negative impacts. Youth, defined as the period of
+life between 10-24 years3, is characterised as another sensitive period
+of development after early childhood; one in which young people’s
+development can be especially vulnerable to adverse experiences4,5.
+However, the predominant research focus on the early years (birth
+to three years) has meant comparatively little attention is paid to the
+adolescent experience.
+To determine when and how to best intervene and support young
+people, we need to understand the types of adversities young people
+face. Supporting healthy development requires a lifespan approach
+to ensure that no young person is left behind. As support practitioners
+work directly with young people and their families, reporting on their
+views of emerging and pertinent issues in young people’s lives can help
+us provide the appropriate support.
+We have analysed practitioners’ responses to questions about
+emerging issues and the main concerns for young people from
+Barnardo’s Quarterly Practitioner Survey over 10 waves from July 2019
+to November 2021.
+Research questions
+Our research questions were:
+• What are practitioners’ views on the key issues that young
+people face?
+• How have the key issues that young people face changed
+between June 2019 and November 2021?
+
+3
+
+Methods
+We analysed responses to the following questions:
+Q1) “Are there any new issues you are seeing emerging, or
+new things you are hearing from children, young people, or
+families over the past few months?”
+Q2) “What is your biggest concern now for children, young
+people, and families?”.
+Practitioners provided text responses to these questions. We adopted
+a reflexive thematic analysis approach6 to analysing this qualitative
+data. This allowed us to generate themes from the data itself, rather
+than searching for predefined themes. Our team of analysts first coded
+the responses to identify all issues reported and then grouped these
+responses into broader conceptual themes and subthemes. We then
+analysed all waves to identify which issues were more prominent at
+which time points and what new issues emerged over time.
+Key findings
+The practitioner perspectives were conceptualised under three main
+themes: structural, social, and individual issues.
+Structural issues raised by practitioners primarily concerned the impact
+of government cuts to services impacting services’ ability to support
+young people. Increasing financial instability and inequality were also
+mentioned. Access to statutory support services was reported as limited
+and reserved for the most critical cases. The impact of the COVID-19
+pandemic was also discussed regarding both its impact on service
+delivery and concerns that, as we emerge from the COVID-19 pandemic,
+referrals are at an all-time high.
+Safety and cohesion in the home, as well as online exploitation, were
+conceptualised as the main social issues. Practitioners reported an
+increase in family conflict and violence throughout the pandemic.
+There were also concerns that increased social media and internet use
+exposed vulnerable young people to grooming, sexual exploitation, and
+the risk of being recruited into crime.
+Individual issues encompassed mental health, uncertainty, and
+educational issues. Practitioners throughout all waves referred to a
+‘mental health crisis’ among young people, worsened by the anxiety,
+social isolation, and uncertainty imposed by the COVID-19 pandemic.
+Educational issues primarily concerned the impact of educational
+disruption imposed by the pandemic, contributing to uncertainty among
+young people about their prospects. Practitioners also considered
+the unique issues faced by those with additional needs, such as
+developmental disorders, particularly in transitions to and from face-toface teaching.
+Lessons and implications
+Thresholds for support across all sectors should be lowered and
+preventative support should be prioritized to ensure fewer young
+people reach crisis point. Practitioners consistently reported concern
+that thresholds for support were too high so that young people only
+received support when they reached crisis point. They also felt that the
+increase in mental health issues reported was at least partly dependent
+on the cuts to preventative services.
+4
+
+Poverty and inequality should be tackled, and structural changes
+are needed to support young people and their families. Practitioners
+expressed that young people’s financial, social, and mental health
+issues are exacerbated by financial instability and inequality.
+Young people should not be discharged from child services without
+the appropriate transition support in place. Practitioners reported
+concern that disruption and instability at age 18 are contributing to
+an increased risk of criminal involvement, homelessness, and poorer
+prospects. Practitioners feel that young people face a ‘cliff-edge’ at 18
+years of age.
+We need to support young people in harnessing the positives of
+online communication while reducing exposure to risk. Social media
+and the internet are central components of young people’s lives. This
+has become even more apparent since the COVID-19 pandemic, during
+which reliance on technology for social contact increased. However,
+practitioners are concerned that the risk of online exploitation of
+vulnerable young people has also increased.
+Key considerations for future research
+Consider how practitioner views of prominent issues align with those
+of young people themselves. Understanding practitioner views is
+informative, especially concerning issues that young people are less
+likely to report (e.g., criminal activity or substance abuse). However, it is
+vital to understand the perspectives of young people as well to get a
+comprehensive picture of the issues they are facing.
+Understand the impact of social isolation and loneliness on mental
+health. The impact of social isolation during COVID-19 lockdowns was
+referenced frequently by practitioners, mostly in the context of their
+concerns about mental health, social development, and progression
+in education. Empirical research is needed to determine how social
+isolation and loneliness impact vulnerable young people.
+Developing effective preventions and interventions for adversity
+in adolescence. Practitioners expressed concern that young people
+were not supported until they reached crisis point. They also felt that
+the reduced stigma around awareness of mental health issues is not
+met with the necessary support when young people come forward.
+Research is needed to determine how to best support young people.
+
+5
+
+Introduction to the report
+Overview
+This report analyses data from Barnardo’s Quarterly Practitioner
+Survey (QPS) to assess what social, educational, and mental health
+support practitioners view as the most important issues facing
+young people today, and how issues have changed between June
+2019 and November 2021.
+We will introduce the structure of the report, explain our methods
+and analysis approach, outline the main findings from practitioner
+perspectives in the context of developmental research, and finally
+present a call to action to identify the next steps for policymakers and
+stakeholders.
+About the research
+The research presented here is a result of a collaboration between
+Barnardo’s and the Development and Environment Research Group at
+King’s College London (KCL).
+Barnardo’s Quarterly Practitioner Survey is open to all staff who
+work directly with children, young people, and/or their families. It is
+administered online via Survey Monkey and respondents remain
+anonymous.
+The purpose of the survey is to systematically capture insight from
+Barnardo’s practitioners, with the aim to track long-term issues over
+quarterly surveys, as well as emerging and topical issues in each wave
+of the survey. In each wave of the survey, a section is dedicated to
+capturing ‘Emerging Vulnerabilities’ and additional questions are asked
+each wave depending on Barnardo’s corporate needs and priorities.
+The research presented here was funded by the Economic and Social
+Research Council Secondary Data Analysis Initiative as part of the
+Windows of Vulnerability project (ES/T015861/1: Windows of vulnerability:
+Sensitive periods for social adversity in adolescence).
+The three main objectives of the Windows of Vulnerability project are to:
+1. Identify different types of social adversity impacting adolescents
+2. Characterize windows of vulnerability to social adversity
+in adolescence
+3. Investigate developmental cascades after social adversity
+in adolescence
+The research presented in this report addresses the first objective
+of the larger ESRC-funded work – to identify different types of social
+adversity impacting adolescence. To this end, Barnardo’s shared their
+QPS data with KCL (see Methodology for further details). The QPS data
+was then analysed by the KCL team to systematize practitioners’ views
+of what types of social adversity matter most to young people.
+Insights from this research will be used to:
+• Guide and set priorities for the Windows of Vulnerability quantitative
+analyses of large-scale cohort data to understand how different types
+of social adversity affect mental health and cognition in young people,
+in line with the Windows of Vulnerability objectives 1-3.
+
+6
+
+• Inform practitioners to help guide their practice and support young
+people who experience social adversity.
+• Inform key stakeholders in local and national government.
+Rationale and objectives
+Research has shown that adverse experiences during early
+childhood can affect children’s development and have a lasting
+impact on their mental health and wellbeing7,8. Evidence has shown
+that early childhood (birth to three years) forms a window of vulnerability,
+or sensitive period, for adversity9. Research into childhood adversity
+has contributed to effective policy and interventions designed to
+protect young children from adversity and improve their wellbeing10,11.
+Inadvertently, the focus on early childhood has also left another
+formative period of life largely neglected: adolescence.
+During adolescence, young people pivot towards their peers and
+become less dependent on parents and carers12. These social
+changes coincide with brain structure and cognitive development13.
+Adolescents can be particularly vulnerable to adverse social
+experiences such as being bullied or excluded4,5, leading to emerging
+theories of a second sensitive period of development after
+childhood4.
+To systematically test these theories, we first need to understand
+what adversities matter to young people. We can then use these
+insights into adversities to design studies to test these theories of
+development in large-scale, longitudinal datasets. This will provide
+opportunities to inform adversity prevention, detection, and
+intervention efforts.
+To understand what types of adversities impact young peoples’ lives,
+we analysed QPS data on social, educational, and mental health
+support practitioners’ views of what types of adversity matter most to
+young people.
+Our two main research questions were:
+1. What are practitioners’ views on the key issues that young
+people face?
+2. How have the key issues that young people face changed
+between June 2019 and November 2021?
+Limitations and considerations
+The following challenges and limitations to this research should be
+considered when reading the report:
+Respondents’ identity was not tracked over time. The data does
+not allow tracking participants over time, so we are unable to clearly
+separate individual differences from trends over time.
+Concerns may not be representative of the sector at large.
+The most common sectors that practitioners worked in were care
+leaver support and support of looked-after young people, as well as
+early years and family support. These groups may be more likely to
+comment on issues facing looked-after children and care leavers, than
+practitioners working in other sectors. Changes over time may therefore
+
+7
+
+be a more reliable indicator of what the most important issues are than
+the absolute frequency of mentions. Similarly, there is limited information
+about respondent demographics (e.g., age, gender, ethnicity), which
+could put concerns into context.
+Respondents’ concerns may not match the priorities of young people.
+The concerns of adults for young people do not always match the
+concerns of young people themselves. Practitioners’ views on concerns
+are particularly useful on issues that young people themselves are
+unlikely to comment on (including criminal exploitation). Barnardo’s have
+recently published a report on young people’s perspectives14. It will be
+important for future research to systematically assess whether young
+people share practitioners’ concerns and if not, why not. We note that for
+instance, racial marginalization has found little mention in the QPS, which
+is surprising given the contemporary backdrop of the Black Lives Matter
+Movement. Similarly, LGBTQIA+ issues and sexual harassment and
+violence have found little mention. Young people themselves may reveal
+different views on these issues when asked directly.
+Contextual factors may have influenced responses. Concerns changed
+over time, at least in part, to reflect contextual factors such as the
+COVID-19 pandemic and changes in government policies. What mattered
+to practitioners in 2019 may not matter to them as much now. However,
+decision-makers may be well advised to take all issues into consideration,
+given the likely long-term impact on young people’s wellbeing.
+
+8
+
+Methodology
+Overview of the respondents and the data analysed
+For this report, data from Barnardo’s Quarterly Practitioner Survey
+were analysed. Data were collected in 10 waves between June
+2019 and November 2021. The survey was sent out to practitioners
+working with Barnardo’s and the total number of responses was 529.
+Data was collected via Survey Monkey. In the instructions for the survey,
+Barnardo’s highlights that it canvasses opinions on the ‘issues facing
+children and young people’. Barnardo’s states that it will use the data
+to ‘look out for national trends and highlight emerging vulnerabilities
+to local decision makers.’ The number of open questions varied per
+wave; the April 2020 wave contained the most questions at 32, and the
+average number of questions across the 10 waves analysed was 19. The
+Emerging Vulnerabilities questions, which were analysed here, were
+always at the beginning of the survey. Participants were able to opt-out
+of responding to individual questions.
+We analysed responses to the following three questions:
+1. Are there any new issues you are seeing emerging or new things
+you are hearing from children, young people, or families, over the
+last few months?
+2. What is your one biggest concern now for children, young
+people, and families?
+3. Which groups of children, young people and families do you think
+are most affected by the concern you raised above?
+Responses to the third question were used to select data about young
+people’s experiences. Responses that mentioned ‘young people’, ‘YP’
+‘youth’, ‘teen(s)’, ‘teenager(s)’ ‘adolescent(s)’ or ‘adolescence’, ‘care
+leaver(s)’ and ‘NEET’ were selected. This resulted in 60-138 responses
+per wave being selected for further analysis (see Table 1 for details).
+Practitioners worked in a variety of sectors, with care leaver and earlyyears support being the most represented sectors (Table 2).
+
+9
+
+Table 1. Timing of waves and number of respondents analysed
+per wave.
+Wave
+
+Time of data collection
+
+Number of respondents
+
+1
+
+June/July 2019
+
+111
+
+2
+
+September/October 2019
+
+63
+
+3
+
+January 2020
+
+88
+
+4
+
+April 2020
+
+138
+
+5
+
+June/July 2020
+
+110
+
+6
+
+October 2020
+
+71
+
+7
+
+January 2021
+
+64
+
+8
+
+April 2021
+
+75
+
+9
+
+July 2021
+
+68
+
+10
+
+October/November 2021
+
+60
+
+Table 2. Respondents’ sectors.
+Respondents’ sector
+
+Average frequency
+across waves
+
+Care leavers/Accommodation support
+
+16.4%
+
+Early support (e.g., children’s centres,
+parenting programmes)
+
+12.6%
+
+Family support services (e.g., CAPI, young
+carers)
+
+11.8%
+
+Looked after children
+
+11.4%
+
+Mental health
+
+8.8%
+
+Child abuse and exploitation (e.g., missing,
+trafficking)
+
+8.6%
+
+Other (e.g., education, youth work,
+outreach) *
+
+29%
+
+Note* Low-frequency categories were collapsed to prevent statistical disclosure.
+
+10
+
+Overview of the analysis methods
+We analysed the survey data using reflexive thematic analysis.
+Reflexive thematic analysis is a qualitative data analysis approach used
+to identify patterns and shared meaning in the data15 (Figure 1).
+Figure 1. Stages of a thematic analysis. Adapted from Braun
+& Clarke (2006).
+
+Familiarisation
+with the data
+
+Generating
+codes
+
+Defining and
+reviewing
+themes
+
+In the first instance, we familiarised ourselves with the data and
+generated codes. For this step, we used NVivo 12 version 20.6.216.
+The aim of this step is to meaningfully categorise the data by giving
+labels, or codes, to individual responses (e.g., poverty, mental health,
+school pressures).
+In the next step, we organised individual codes into themes and
+subthemes that represented the recurrent and overarching issues
+raised by practitioners. In some cases, a dozen codes were clustered
+into a theme, whereas some individual codes formed individual themes
+or subthemes. Codes were often hierarchical, such that themes (e.g.,
+mental health) and subthemes (e.g., increasing wait times for mental
+health support) were identified. Based on these themes, analysts
+produced a narrative-style interpretation of each wave, supported
+with quotes directly from the data. This was then analysed by a senior
+member of the team to conceptualise how the key issues changed over
+time from July 2019 to November 2021.
+We adopted a reflexive thematic analysis approach6. This approach
+emphasises the importance of the analyst’s active role in conceptualising
+the data. It encourages flexibility, regular reflection, and transparency. It
+acknowledges that themes do not passively exist in the data ready to be
+retrieved but are actively constructed by the analysts.
+
+11
+
+Findings
+Figure 2. Themes and subthemes identified in the analysis.
+
+Financial
+difficulties
+
+Unemployment
+Financial instability and poverty
+Recent financial cuts by the government
+
+Structural
+issues
+
+Long waiting times for social services
+Insufficient and limited funding available for services
+Lack of
+governmental Community services lacking
+funding
+Lack of support for additional needs
+Universal credit and welfare reform
+Care system lacking
+Social media
+and the
+internet
+
+Social
+issues
+
+Familial
+issues
+
+Criminality
+and Drugs
+
+(Cyber-)Bullying
+Online exploitation
+Conflict and violence in families increasing
+Financial struggles
+Parental mental health issues
+Selling and/or consuming drugs
+Criminal exploitations
+Gangs/county lines
+Increase and earlier prevalence of mental health issues
+
+Individual
+issues
+
+Mental Health
+
+Decrease of preventative and treatment services
+Hopelessness and missing perspective
+Educational issues
+
+12
+
+1. Structural issues: Government cuts and financial difficulties
+
+Structural issues
+
+40
+
+35
+
+30
+
+Percentage %
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+June/July
+2019
+
+Sept/Oct
+2019
+
+January
+2020
+
+April
+2020
+
+June/July
+2020
+
+October
+2020
+
+January
+2021
+
+April
+2021
+
+July
+2021
+
+Oct/Nov
+2021
+
+Wave of data collection
+Care system lacking
+
+Difficulty accessing support services
+
+Financial difficulties
+
+Government cuts to support services
+
+Figure 3. Changes in the frequency of reference to structural issues over time.
+1.1. Government cuts
+Practitioners described limited access to statutory support services
+and that access is reserved for the most critical cases. Throughout
+2019, over a third of practitioner responses discussed such cuts/
+underfunding of services, with frequent reference to early support
+services. Practitioners stressed that the limited funding available is
+directed towards only the young people that are at immediate risk of
+harm. In their view, this lack of early intervention has led more young
+people to present with critical issues which may have been prevented if
+they had received appropriate support sooner.
+“Reduction in funding, de-commissioned services, and increased
+administration tasks have led to significant reduction in face-toface direct work and ongoing crisis management work, rather than
+proactive/preventive work being delivered”
+(Wave 1: June-July 2019)
+Cuts to council-run youth services are reported as contributing to
+increased referrals to specialist support services. Practitioners felt
+that the widespread closure of youth clubs and community centres
+had reduced the options available for young people to reach out for
+
+13
+
+information and advice. These services have seen funding reduced by
+more than two-thirds in real terms since 201017.
+“Over the last year or so I have had parents crying out for after
+school clubs and respite care. They all are saying that there is
+nowhere for their young people to go and all the clubs they used to
+go to have closed due to funding.”
+(Wave 2: September/October 2019)
+Where services have not been directly cut, practitioners reported
+that funding has not increased in line with demand. This is most
+pronounced in the mental health care system. Practitioners reported
+that many services are ill-equipped to tackle rising referrals and young
+people face increasingly long wait times to receive the support they
+need. Practitioners felt that while societal awareness and acceptance of
+mental health issues has increased, the services designed to support
+young people with such issues are not meeting demand. In each wave
+of survey data, there was mention that only the most extreme cases
+are meeting eligibility criteria for support from Child and Adolescent
+Mental Health Services (CAMHS), leaving those with subthreshold
+mental health concerns unsupported until reaching ‘crisis point’.
+“Increasingly seeing and hearing about young people with mental
+health problems which don’t meet the criteria for having input from
+CAMHS, but that do require some sort of intervention and there
+aren’t adequate services available to help the young people at the
+right time.”
+(Wave 2: September/October 2019)
+1.2. Financial difficulties
+Welfare reform, coupled with the rising cost of living, has meant more
+families and young people are experiencing financial difficulties,
+according to practitioners. Practitioners felt that the introduction of
+Universal Credit had affected the income of those who rely on meanstested benefits, expressing concern for the rising numbers of young
+people whom they fear will grow up in poverty because of these
+reforms. In late 2021, practitioners raised concerns about the impact the
+removal of the £20 Universal Credit uplift will have on young people
+who are already struggling.
+“On-going issues with young people accessing appropriate money
+to live, in particular Universal Credit is increasing need for food bank
+referrals and emergency payments”
+(Wave 4: April 2020)
+Practitioners reported that the COVID-19 pandemic has been a factor
+in exposing the extent of financial difficulties that existed prior to the
+pandemic. Financial strains on families are reported to worsen during
+times of increased material need, such as over the Christmas periods
+or during the school holidays. Practitioners felt that the increased
+financial burden of stay-at-home measures over much of 2020/21 had a
+disproportionate effect on the poorest families and young people.
+“Poverty and inadequate housing have been [laid] bare by COVID-19”
+(Wave 6: October 2020)
+14
+
+Over the pandemic, young people’s financial situations worsened,
+according to practitioners. Practitioners were concerned that
+young people are facing scarce employment opportunities and are
+feeling hopeless about their prospects of achieving financial stability.
+Practitioners also reported that more emergency payments were
+required in Spring/Summer 2020.
+“We have been providing more emergency payments to cover things
+like rent, electricity and food due to COVID-19 restrictions.”
+(Wave 5: June/July 2020)
+1.3. Impact of the COVID-19 pandemic
+Restrictions introduced to limit the spread of COVID-19 are reported
+to have financially overstretched the statutory sector. Many services
+were reported to either have closed in Spring 2020 or had their access
+restricted to limit viral transmission. Throughout 2021, after the easing
+of restrictions, practitioners felt that there was a backlog of referrals and
+increased wait times, particularly for mental health services.
+“Access to mental health and well-being support is vastly reduced,
+partner agency waiting lists have been closed due to capacity and
+there aren’t enough sources of support for children and young people.”
+(Wave 9: July 2021)
+The abrupt cessation of face-to-face support isolated many young
+people from receiving the help they needed, practitioners said.
+Practitioners reported that for months, young people without stable
+access to digital technology found themselves unable to receive the
+support for which they were eligible. Others were unable to express
+their issues in a digital format, as they felt uncomfortable or unsafe doing
+so at home. For those who could access services, practitioners reported
+a deterioration in the quality of support, whereby young people
+struggled to fully engage with online sessions. Practitioners also worry
+that safeguarding issues might have been missed when home visits
+were suspended alongside schools being closed for much of 2020.
+“Lack of face-to-face contact has resulted in a deterioration in quality
+of remote contact and willingness from the young people to engage.”
+(Wave 7: January 2021)
+Practitioners reported that COVID-19 pandemic restrictions also
+contributed to delays or cancellations of support, which
+disproportionately affected care-experienced young people.
+According to practitioner reports, hosts were unable to take placements
+and family visits were suspended during the pandemic restrictions.
+Practitioners outlined that this left young people in ‘limbo’ and drew out
+living arrangements that were supposed to be temporary.
+“The impact of COVID-19 - Care leavers are finding it more
+challenging to contact the social work teams, to have their issues
+addressed; social workers are saying that they are only dealing with
+“emergency cases”; placement and housing moves on hold; short
+breaks for children with disabilities/IV visits for children in care have
+stopped/happening remotely”
+(Wave 4: April 2020)
+15
+
+Practitioners were concerned about the abrupt transition between
+services pre- and post-18. This theme spanned and united several other
+themes identified in our analysis, including mental health provisions,
+support for care leavers, and prevention of criminal exploitation.
+Practitioners felt that vulnerable young people frequently face a cliffedge at 18, at which point they have “nowhere to go” due to either being
+discharged by child mental health services or experiencing delayed
+transitions into the adult system.
+“Lack of support upon turning 18.”
+(Wave 8: April 2021)
+“Many of my care leavers are finding themselves having to leave
+foster care/supporting lodgings as soon as they turn 18 after often
+being promised they can stay by the carers.”
+(Wave 3: January 2020)
+1.4. Housing
+Housing provisions are deemed insufficient by practitioners.
+Practitioners report that there is not enough support to help young
+people find suitable and secure accommodation. In their view, the lack
+of housing support is principally affecting care leavers, who are more
+commonly becoming homeless after turning 18.
+The lack of housing support for care leavers is mentioned throughout
+all waves, but practitioner concerns about the availability of housing for
+wider groups of young people became more prevalent in the latter of
+2021. Towards the end of 2021, practitioners suggested rising prices
+and the continuing insufficient provision of social housing have left more
+young people without stable accommodation. Practitioners felt that longterm solutions must be considered to address this issue.
+“Housing shortage in social sector. Inability for 16-25yr olds to get
+tenancies due to age.”
+(Wave 10: October/November 2021)
+“Housing shortage which is causing numerous ‘sticking plaster’
+responses that only increase future risks for our care leavers
+becoming chronic homeless”
+(Wave 10: October/November 2021)
+
+16
+
+2. Social issues: online exploitation and family conflict
+
+Social issues
+20
+
+Percentage %
+
+15
+
+10
+
+5
+
+0
+
+June/July
+2019
+
+Sept/Oct
+2019
+
+January
+2020
+
+April
+2020
+
+June/July
+2020
+
+October
+2020
+
+January
+2021
+
+April
+2021
+
+July
+2021
+
+Oct/Nov
+2021
+
+Wave of data collection
+Criminal exploitation
+
+Family difficulties and conflict
+
+Online exploitation and bullying
+
+Figure 4. Changes in the frequency of reference to social issues over time.
+2.1. Exposure to the dangers of the internet
+As internet use increases, practitioners were concerned that the risk
+of exposure to criminality and exploitation also increases. Over 20%
+of responses between June 2019 and January 2020 expressed this
+concern. Specifically, they were worried that young people’s increased
+use of social media has worsened the risk of exploitation by providing
+a new platform for criminal recruitment. This was mainly in reference to
+gang culture and county lines operations. There was also concern that
+young people are increasingly falling victim to grooming and sexual
+exploitation on the internet.
+“Technology has changed the landscape for children and their
+families. Online bullying, trolling and sexual exploitation have
+significantly impacted [young people].”
+(Wave 1: June/July 2019)
+Practitioners were worried about social media use and young
+people’s reliance on technology. Practitioners reported a rise in social
+media use and increasing reliance on technology both before and
+during the COVID-19 pandemic. This was said to bring with it dangers
+to young people, through exploitation, bullying, or detriment to selfesteem and wellbeing.
+17
+
+“The internet now forms a large part of our daily lives and the
+media’s portrayal of what is important and what successful like looks
+like, is not achievable for most of the population.”
+(Wave 1: June/July 2019)
+On the other hand, practitioners were also concerned that those
+without access to digital technology also suffered during the
+COVID-19 pandemic. School, support services, and social contact all
+moved rapidly online from March 2020. Practitioners reported that
+this meant many without access to technology at home struggled
+with engagement with online support, school classes and educational
+resources.
+“With COVID-19, [there is a] lack of equipment to enable our young
+people to access learning from home.”
+(Wave 4: April 2020)
+2.2. Safety and cohesion in the home
+Family tensions and conflicts were reported to have intensified in the
+COVID-19 pandemic. Around 15% of practitioner responses between
+April 2020 to November 2021 referred to concerns of family conflict.
+Practitioners voiced concern that many young people were trapped
+in homes with serious conflict due to lockdowns and school closures.
+Practitioners expressed that some young people were living in close
+quarters with parents or carers on the verge of separation but having to
+live together, as well as increasing domestic violence. In the extremes,
+it was reported that young people became homeless to escape the
+dangerous situation in their homes. Practitioners felt not enough was
+done to protect young people from domestic abuse.
+“Overcrowding at home during lockdown, missing people they can’t
+see, missing school, parents who were about to separate now still
+living together due to lockdown.”
+(Wave 4: April 2020)
+“A number of young people… have been made homeless due to
+parental domestic abuse”
+(Wave 8: April 2021)
+Parents and carers were struggling with their own mental health and
+the strain of the pandemic, practitioners said. The increased care
+demand, financial burden, and managing home education was reported
+to be taking their toll on families. Parental and carer mental health issues
+were thought to be impacting young people in the home.
+“The impact lockdown has had on children, young people and parent’s
+mental health and their access to support during this difficult time.”
+(Wave 5: June/July 2020)
+
+18
+
+3. Individual issues: mental health and uncertainty
+
+Individual issues
+70
+
+60
+
+Percentage %
+
+50
+40
+30
+
+20
+
+10
+
+0
+
+June/July
+2019
+
+Sept/Oct
+2019
+
+January
+2020
+
+April
+2020
+
+June/July
+2020
+
+October
+2020
+
+January
+2021
+
+April
+2021
+
+July
+2021
+
+Oct/Nov
+2021
+
+Wave of data collection
+Educational issues
+
+Mental health issues
+
+Uncertainty and hopelessness
+
+Figure 5. Changes in the frequency of references to individual issues over time.
+3.1. Increasing mental health issues
+The most prominent message from practitioners throughout all
+waves is that young people are facing a mental health crisis. Around
+20% of practitioners refer to mental health concerns between June/July
+2019 and January 2020, and this increases and remains high at around
+40-70% from April 2020 through November 2021. Practitioners reported
+in multiple waves that serious issues are becoming more prevalent,
+including rising cases of eating disorders, obsessive-compulsive
+disorder, and suicidality. They felt that these needs were not met with
+sufficient specialist support.
+“More young people struggling with their mental health, impacting
+on a whole host of other areas - schooling, sense of self-worth, body
+image, self-harm, eating disorders”
+(Wave 1: June/July 2019)
+“Self-harm rates and eating disorders rates seem to be going up
+rapidly. CAMHS routinely say this is trauma and not mental health …
+and turn down support which puts a lot of pressure on us.”
+(Wave 10: October/November 2021)
+
+19
+
+Practitioners were concerned that the prevalence of anxiety
+increased throughout the pandemic. From the beginning of the
+COVID-19 pandemic, low mood, and a general decline in well-being are
+reported but an escalation of anxiety in young people was the focus of
+practitioners’ concern.
+“The fact that so many children are feeling anxious, vulnerable and
+isolated due to COVID-19 and the restrictions is worrying.”
+(Wave 8: April 2021)
+The instability and disruption caused by the pandemic was reported
+to have disproportionately impacted young people with additional
+needs. Pre-pandemic, practitioners reported that there was not enough
+specialist support for young people with complex needs, such as
+autism and attention-deficit/hyperactivity disorder (ADHD). Following the
+introduction of restrictions in March 2020, practitioners were concerned
+that young people with learning difficulties, ADHD, and autism were
+struggling to adjust to the routine changes and online learning.
+Difficulties were reported again in Autumn 2020 when young people
+were required to transition back to school.
+“The young and those with learning difficulties struggling to make
+sense of what’s going on and some YP [young people] with autism
+missing routines and struggling to cope/find useful things to do,
+finding it more difficult to project positively in the future.”
+(Wave 5: June/July 2020)
+“Transitions back into school for children with SEN [special educational
+needs], undiagnosed SEN and wellbeing difficulties are very tricky due
+to COVID-19, putting additional strain on families and schools.”
+(Wave 8: April 2021)
+3.2. Uncertainty and hopelessness
+Practitioners report that many young people are worried about
+missed education, job prospects, and financial difficulties. Although
+there were concerns in the first waves of data in 2019, practitioners
+report that uncertainty and instability were exacerbated by the
+pandemic. They said that many young people are worried about the
+effects of their disrupted education, lack of employment opportunities,
+and reductions in financial support. Practitioners felt young people are
+not supported and they emphasise that young people have a voice and
+should be listened to.
+“[There is] a great fear and concern about their future prospects,
+jobs, education, training.”
+(Wave 5: June/July 2020)
+“Mental health and needing to be more aware of the impact of loss
+of jobs for the family, loss of freedom with guidelines and school
+environment dramatically changed. Our children need a voice
+through all of this too.”
+(Wave 9: July 2021)
+Practitioners were concerned that young people are burdened with a
+heightened sense of responsibility. It was reported that young people
+20
+
+are not only worried about their own prospects, but they agonized
+over how their families, and society more broadly, would cope. Young
+people were reported to be concerned about the environmental
+crisis, the political climate, and the impact of Brexit, which practitioners
+attributed to young people’s increased feelings of stress and
+hopelessness. Practitioners’ views throughout the pandemic were
+that young people were fearful of contracting COVID-19 and family
+members dying from COVID-19, which reportedly further isolated them
+from friends and school.
+“Young people are talking about the likely impact of Brexit and
+environmental issues, about how their parents are going to cope in
+the future”
+(Wave 3: January 2020)
+“A fear of going out in case of catching/spreading COVID-19 is
+impacting on schoolwork and social connections”
+(Wave 7: January 2021)
+Young people feel hopeless, according to practitioners. This
+impression from practitioners is far greater within the 2021 waves as
+we emerged from most pandemic restrictions. Practitioners felt that
+young people were lacking motivation and their hope for the future
+was dwindling. Young people are reported to have little confidence
+in themselves and their prospects, given the scant job opportunities,
+limited housing, and lack of financial support. The themes uncertainty
+and hopelessness were consistently identified in 10-15% of responses
+throughout all waves of data.
+“That children, young people, and families will literally die either
+through lack of resources or suicide. What hope would an 18-yearold have if they have no home, their family can’t afford to keep them,
+they can’t afford to feed themselves? What sort of future do they
+imagine they will have?”
+(Wave 1: June/July 2019)
+3.3. Education
+Practitioners are concerned there is too much pressure on young
+people at school. Before the pandemic, practitioners felt that the
+prominent issues in education were pressure for young people to
+succeed in school and a lack of awareness and support from schools for
+increasing mental health issues.
+“Education has become very challenging for some young people
+(focus on assessments increasing)”
+(Wave 1: July 2019)
+From Spring 2020, practitioner responses were populated by
+concerns about how much education has been disrupted by the
+pandemic. By Autumn 2020, concern arose about the variable quality
+of education young people received at home, and how educational
+inequalities have widened. Variable access to technology during remote
+learning and a general disengagement from education were mentioned
+frequently by practitioners. Following the disruption of the pandemic,
+practitioners were worried that young people have been put under too
+much pressure to ‘catch up’.
+21
+
+“Lack of access to meaningful education, disengagement from
+education”
+(Wave 5: June/July 2020)
+“[Young people are] Feeling anxious and overwhelmed by school
+exams and impact to future education”
+(Wave 8: April 2021)
+Transitions back to school were reported to be more difficult for
+some groups of young people. Practitioners noted that many young
+people seemed to struggle with returning to school and adapting to
+new rules and regulations in Autumn 2020. Practitioners were worried
+that this was particularly difficult for refugees and non-native English
+speakers, who have already suffered educational disruption from fleeing
+their home countries and limited English language practice.
+“Parent’s concerns over their child’s missed education during COVID
+especially as their children were already behind as they had missed
+so much education during the Syrian War and flight from the countries.
+Children fear they will not be able to speak to their peers again as they
+have not been practising their English”
+(Wave 5: June/July 2020)
+“A lot of young people are struggling with going back to school and the
+new rules and regulations in place.”
+(Wave 6: October 2020)
+
+22
+
+Summary of Findings, Context, and
+Call to Action
+Overview of findings
+The aim of this research was to capture practitioners’ perspectives
+on the key issues that impact young people most and to find out how
+these issues have changed over time between June 2019-November
+2021. This report aims to inform our understanding of the key issues
+young people have faced in recent years, to examine how psychological
+research into adversities aligns with practitioner perspectives, and to
+identify priorities for research and practice.
+We adopted a reflexive thematic analysis approach, where we
+generated themes from the practitioner responses to the QPS survey.
+The issues outlined in detail above can be summarised as five key
+issues that practitioners were concerned about (Textbox 1).
+Textbox 1. Five key issues facing young people that practitioners
+were concerned about:
+1. Increasing mental health issues and insufficient support
+2. Poverty, financial instability, and inequality
+3. Exploitation and victimization
+4. Safety and cohesion in the home
+5. Transition between services pre- and post-18
+The remainder of this section takes each key issue in turn, summarises
+the practitioners’ perspectives on that theme, and considers this in the
+context of the research. This resulted in the proposed call to action
+highlighted in the following section titled “Call to action”.
+Putting findings into context
+1. Increasing mental health issues and insufficient support
+1.1. Practitioner perspectives
+• The rise in young people’s mental health issues is highlighted
+throughout the surveys. However, practitioners increasingly
+emphasised mental health concerns since the start of the COVID-19
+pandemic.
+• New serious mental health issues are reportedly on the rise and young
+people with additional needs were reported to have struggled in
+lockdown.
+• Practitioners were concerned about an increase in young people
+coming forward with serious mental health issues, while at the same
+time, support was perceived as insufficient and more difficult to access
+since the pandemic.
+The surveys offer perspectives on potential reasons for the rise in
+mental health issues:
+• Lack of prevention work.
+• Social isolation during the pandemic.
+• Fears of infecting others.
+• Uncertainty about the impact of the COVID-19 pandemic on prospects.
+23
+
+1.2. Putting the findings into context
+Practitioners’ concerns about young people’s mental health
+are shared by the scientific community18 and by young people
+themselves19. They tally with calls, of, e.g., the World Health Organisation
+(WHO) to step up support for mental health, in the face of rising
+prevalence since the pandemic, particularly of anxiety issues20. The
+report specifically highlighted that young people are amongst the worst
+affected group.
+In line with practitioners’ views, research shows that youth is a key
+period of vulnerability for mental health across the lifespan. Mental
+health issues often emerge in youth, a prominent finding in research
+even before the pandemic21,22. Mental health issues are also common in
+youth. At least one in five young people aged 9-17 years currently has
+a mental health disorder23. There is some evidence that young people,
+compared to other age groups, are particularly vulnerable to social
+stress, rejection, and isolation and that such experiences can impact
+mental health outcomes4,5. This may, in part, explain the increased
+prevalence of mental health issues in youth since the start of the
+COVID-19 pandemic. It is estimated that anxiety and depression have
+doubled in young people throughout the pandemic24.
+Practitioners reported that the disruption of young people’s daily
+routines particularly affected young people with additional needs
+(such as autism and ADHD); however, studies show that not
+attending school was a welcome change for some autistic young
+people. Research has found that young people with diagnoses of ADHD
+have experienced worse ADHD symptoms and increased mental health
+issues throughout the COVID-19 pandemic25. There is also evidence of
+greater remote learning difficulties in children with ADHD compared to
+typically developing peers26. The initial disruption to routine was also
+difficult to handle for some autistic young people and their families27.
+However, reports show that the opportunity to create their own routines
+and remove some of the demanding parts of the school day positively
+impacted autistic young people’s well-being. Having greater control over
+their day and working together with practitioners and parents meant that
+autistic young people felt their needs were being met28.
+Practitioners’ responses also highlight their priorities for future
+research in mental health. Their responses highlight a need to better
+understand the rise in eating disorders, their causes, prevention,
+and treatment, with a focus on listening to young people’s voices.
+Practitioners’ responses also underline the need to develop evidencebased preventions and interventions tailored to the needs of young
+people. Interventions for loneliness, for instance, have mainly been
+developed for and rolled out to the elderly with little tailored support
+available for young people.
+Scientific evidence supports the view that mental health issues in
+youth intersect with other issues facing some groups in society
+(females, males, minoritized youths, etc.). Scientific reports show that
+females and older adolescents have been particularly affected by the
+rise in mental health issues, perhaps because they were at greater risk
+of internalizing disorders, even before the pandemic6,19. Screening and
+support tailored for these groups are therefore important. At the same
+time, suicide is a particular risk for males, making it the second most
+
+24
+
+common cause of death in this group23. Social expectations placed
+on men mean that they may be less likely to disclose or seek help for
+suicidal thoughts or behaviours, compared to women29. Supporting
+young men in seeking help and support is, therefore, a key priority.
+Emerging evidence suggests that marginalisation (e.g., of LGBTQIA+ and
+young people from communities experiencing racial inequality because
+of their race/ethnicity) confers a heightened risk of mental health disorders30.
+Again, these groups may need additional support.
+2. Poverty, financial instability, and inequality
+2.1. Practitioners’ perspectives
+• Cuts to support services and a lack of government funding are
+reported as prominent issues prior to the pandemic. Practitioners
+report that this has not improved since.
+• Practitioners raised concerns about rising poverty levels, financial
+instability, and widening inequality.
+• Practitioners reported that the disruption to education has impacted
+young people’s learning, social development, and future employment
+prospects.
+• The care system was reported to be insufficiently supporting young
+people, particularly care leavers.
+2.2. Putting the findings into context
+Evidence shows that financial instability and inequality negatively
+impact adolescent development and mental health. Young people
+are especially vulnerable to poverty and socioeconomic disadvantages
+during adolescence31. During the COVID-19 pandemic, the inequality in
+income between the rich and poor has further increased32, which will likely
+exacerbate the burden on young people’s mental health in the future.
+In the current literature, poverty is not classified as an adverse child
+experience (ACE), which is surprising given what we know about
+how poverty predicts lifespan outcomes. ACEs include traumatic
+experiences such as physical abuse that occur before eighteen33.
+These approaches consider poverty as a root cause but often not as
+an adverse experience. This is a concern because current policies are
+often built on the ACEs approach34. Neglecting to consider poverty
+within the ACEs does not address the structural impact of poverty and
+shifts responsibility onto parents and families.
+Due to the COVID-19 pandemic, the educational gap has further
+widened35. Young people growing up in poverty were already less
+likely to succeed in education36,37, even before the pandemic. Since
+educational achievement is related to later life opportunities, including
+employment, income, and (mental) health outcomes, there is a
+substantial risk of individuals falling into a cycle of poverty.
+3. Victimisation and exploitation online
+3.1. Practitioner perspectives
+• The concern of online exploitation and victimisation was more
+prominent prior to the pandemic.
+• There was less focus on peer victimisation and the focus of concern
+was more on how young people might be exposed to sexual
+exploitation and online abuse.
+
+25
+
+3.2. Putting findings into context
+Practitioners’ focus on online exploitation is not aligned with much
+of the public and scientific debate, which is mainly focused on
+peer victimization online38. While online bullying has come under
+increasing public scrutiny, the scientific evidence on the harmful effects
+of social media is mixed39. Firstly, much of the literature has focused
+on linking technology use to mental health and the findings vary from
+one individual to another40. Research initially produced some findings
+associating social media usage with adverse outcomes like poorer
+mental health, however, later robust analytic approaches highlight that
+the effects are usually too small to be considered practically important41.
+This dovetails with young people’s views, who generally view social
+media positively and have, particularly during the pandemic, reported
+it to be a source of connection to communities and peers42. There is
+therefore a mismatch between the concerns of parents and the public
+on the one hand, and young people and practitioners on the other
+hand. Moreover, there is a lack of research examining how exploitation
+via social media might impact mental health. As the practitioner survey
+highlights, online harms do exist for young people but are likely to be
+mainly perpetrated by adults, rather than peers.
+4. Safety and cohesion in the home
+4.1. Practitioner perspectives
+• Practitioners were concerned that vulnerable adolescents were
+trapped in homes with increasing conflict during COVID-19 restrictions.
+• Instability in parent and carer mental health was thought to have
+adversely impacted young people.
+4.2. Putting findings into context
+Family conflicts, such as anger and criticism, are associated with
+behavioural43 and relationship problems52, and mental health issues45
+in adolescents. On the other hand, family cohesion refers to the extent
+to which family members are committed, helpful, and supportive towards
+each other46,47. A cohesive family environment during adolescence can
+protect against mental health issues and improve future outcomes47-49.
+Practitioner calls for community services to support families are
+therefore supported by the evidence demonstrating the importance of
+family relationships in adolescent development.
+Fraught relationships between parents with mental health issues
+and their children can contribute to later deterioration in the young
+person’s mental health50. Appropriate support for parents and carers is
+therefore needed.
+5. The transition between services pre- and post-18
+5.1. Practitioner perspectives
+• Practitioners were concerned about the abrupt transition, or lack of
+transition, between services pre-18 and post-18.
+• Practitioners highlighted that support services are needed to make
+provisions for young people aged 18 and over, especially those in the
+care system.
+
+26
+
+5.2. Putting findings into context
+Although young people are legally adults at 18 years of age, they still
+face many of the same vulnerabilities and opportunities as young
+people under the age of 18. From a scientific perspective, we now, in
+line with WHO guidance, view anyone between 10-24 years as a young
+person51. There is emerging evidence that this time of life is a sensitive
+period of development, during which the environment has a heightened
+impact on lifespan outcomes4,5. Some of these sensitivities may even
+be higher later, as compared to earlier in development, as we saw in
+the pandemic, where older adolescents were particularly vulnerable
+to mental illness20. Sensitive periods can create opportunities and
+vulnerabilities for development. It is therefore recommended that
+support is maintained from 18 to 24 years and tapered down, rather
+than a sudden cessation.
+Systematic research investigating how the abrupt transition between
+services at 18 years impacts young people is needed. Practitioner
+views also highlighted that support is needed for not only mental
+health provision but also prevention of criminal exploitation to protect
+vulnerable young people.
+Call to action
+Analysis of practitioners’ perspectives in the context of adolescent
+development research has raised some urgent issues that must be
+addressed by stakeholders and policymakers if we are to improve
+the livelihoods of the next generation (Textbox 2). In addition, it raises
+questions and action points for future research (Textboxes 3 and 4).
+
+27
+
+Textbox 2. Summary of call to action
+1. Providing appropriate mental health support to prevent young
+people reaching crisis point
+2. Addressing poverty and inequality as adverse experiences
+3. Preventing exploitation and victimization
+4. Fostering safety and cohesion in the home
+5. Supporting transitions between services pre- and post-18
+Providing better mental health support
+• Resources should be directed to both preventative and treatment
+services to ensure that more young people receive timely mental
+health support.
+• Increasing awareness of mental health issues should be met with the
+necessary funding for mental health support.
+• Thresholds for support should be lowered to ensure fewer young
+people reach crisis point, with a renewed emphasis on early
+intervention.
+• Introduction of the existing Family Hub programme in every community
+to promote wellbeing, provide support to children, young people, and
+their families, and reduce disparities in outcomes through targeted
+support to those who need it most.
+• Increasing the reach of Mental Health Support Teams to 100% of
+schools would promote well-being and reduce disparities in mental
+health and wellbeing outcomes.
+Addressing poverty and inequality as an adverse experience
+• Poverty needs to be addressed as an adverse experience in itself, as
+well as a possible cause of other adverse experiences during youth.
+• Poverty and financial inequality have been prominent concerns
+all along but have increased significantly during the pandemic.
+Universal credit, welfare reforms, and the pandemic have reportedly
+increased the risk for families to fall into poverty, and a reallocation of
+governmental financial support is required.
+Preventing exploitation and victimization
+• We need to understand better how different groups of young people,
+e.g., marginalized groups and those with learning difficulties, are
+exposed to dangers online.
+• Protective measures for young people vulnerable to online
+exploitation are needed.
+• Social media and the internet are a central component of young
+people’s lives; we need to support young people in harnessing the
+positives of online communication and reducing exposure to risk.
+• Greater regulation of the internet is required to keep children and
+young people safe. This could include measures such as age
+verification, and technology companies taking a ‘safety by design’
+approach.
+• Children and young people who are abused or exploited online
+should receive the same level of support as those children who are
+harmed offline.
+
+28
+
+Fostering safety and cohesion in the home
+• Reinstatement of community support services is needed to ensure
+parents, carers, and families can provide a cohesive and stable
+environment for young people.
+• Specialised support is needed for families with young people
+experiencing severe mental health issues and young people with
+additional needs.
+• The further rollout of Family Hubs can also provide early help and
+support for families.
+• Looked after children experience a particularly high level of instability,
+often with frequent placement and school moves and changes in
+social worker. The care system needs to do more to provide stability,
+e.g., reduce the number of moves or changes a looked-after child
+makes throughout their time in care.
+Supporting transitions between services pre- and post-18
+• Young people should not be discharged from child services without
+the appropriate transition support in place.
+• More services for children and young people should extend to age 25,
+allowing more time for young people to transition to adult services at a
+time that’s right for them.
+
+29
+
+Textbox 3. Recommendations for future research with practitioners
+and young people:
+1. Explore causes and solutions via in-depth interviews with
+practitioners.
+2. Collect systematic quantitative survey data on practitioner
+agreement with issues identified in this report.
+3. Triangulate practitioner concerns with the concerns of young
+people themselves.
+4. Collect data on the impact of marginalization on young people.
+5. Supporting transitions between services pre- and post-18
+Textbox 4. Recommendations for future research into adversity in
+adolescence
+1. Understanding the impact of social isolation and loneliness on
+mental health.
+2. Investigating the impact of poverty as an underlying factor
+contributing to adversities, as well as the impact it can have as an
+adverse experience in itself
+3. Systematizing the adult-peer interactions and harms online, as
+well as peer-to-peer interaction and harms.
+4. Investigating the role of families, parental and carer relationships
+in adolescence, as well as peer relationships.
+5. Exploring the impact of transitions across the lifespan.
+6. Developing effective preventions and interventions for adversity
+in adolescence.
+
+30
+
+31
+
+References
+1. Gee, D. G. Early Adversity and Development: Parsing Heterogeneity and Identifying Pathways of Risk and
+Resilience. Am. J. Psychiatry 178, 998–1013 (2021).
+2. Nelson, C. A., Bhutta, Z. A., Harris, N. B., Danese, A. & Samara, M. Adversity in childhood is linked to mental and
+physical health throughout life. BMJ 371, m3048 (2020).
+3. Kinghorn, A., Shanaube, K., Toska, E., Cluver, L. & Bekker, L.-G. Defining adolescence: priorities from a global health
+perspective. Lancet Child Adolesc. Health 2, e10 (2018).
+4. Fuhrmann, D., Knoll, L. J. & Blakemore, S. J. Adolescence as a sensitive period of brain development. Trends Cogn.
+Sci. (2015) doi:10.1016/j.tics.2015.07.008.
+5. Andersen, S. L. & Teicher, M. H. Stress, sensitive periods and maturational events in adolescent depression. Trends
+Neurosci. 31, 183–191 (2008).
+6. Braun, V. & Clarke, V. Reflecting on reflexive thematic analysis. Qual. Res. Sport Exerc. Health 11, 589–597 (2019).
+7. Hughes, K. et al. The effect of multiple adverse childhood experiences on health: a systematic review and metaanalysis. Lancet Public Health 2, e356–e366 (2017).
+8. Felitti, V. J. et al. Relationship of Childhood Abuse and Household Dysfunction to Many of the Leading Causes of
+Death in Adults: The Adverse Childhood Experiences (ACE) Study. Am. J. Prev. Med. 14, 245–258 (1998).
+9. Thomas, M. S. C. & Johnson, M. H. New advances in understanding sensitive periods in brain development. Curr.
+Dir. Psychol. Sci. 17, 1–5 (2008).
+10. Purewal Boparai, S. K. et al. Ameliorating the biological impacts of childhood adversity: A review of intervention
+programs. Child Abuse Negl. 81, 82–105 (2018).
+11. Innocenti, U. O. of R.-. Adolescent wellbeing. UNICEF-IRC https://www.unicef-irc.org/research/adolescent-wellbeing/.
+12. Albert, D., Chein, J. & Steinberg, L. The teenage brain: Peer influences on adolescent decision making. Curr. Dir.
+Psychol. Sci. 22, 114–120 (2013).
+13. Andrews, J. L., Ahmed, S. P. & Blakemore, S.-J. Navigating the Social Environment in Adolescence: The Role of
+Social Brain Development. Adolesc. Brain Dev. Psychopathol. 89, 109–118 (2021).
+14. Amy Woodworth. Your Voice Matters. https://www.barnardos.org.uk/get-involved/campaign-with-us (2022).
+15. Braun, V. & Clarke, V. Using thematic analysis in psychology. Qual. Res. Psychol. 3, 77–101 (2006).
+16. QSR International Play Ltd. NVivo. (2020).
+17. YMCA. Out of Service. https://www.ymca.org.uk/wp-content/uploads/2020/01/YMCA-Out-of-Service-report.pdf
+(2020).
+18. Loades, M. E. et al. Rapid Systematic Review: The Impact of Social Isolation and Loneliness on the Mental Health
+of Children and Adolescents in the Context of COVID-19. J. Am. Acad. Child Adolesc. Psychiatry 59, 1218-1239.e3
+(2020).
+19. Scott, S. R. et al. “I Hate This”: A Qualitative Analysis of Adolescents’ Self-Reported Challenges During the COVID-19
+Pandemic. J. Adolesc. Health Off. Publ. Soc. Adolesc. Med. 68, 262–269 (2021).
+20. COVID-19 pandemic triggers 25% increase in prevalence of anxiety and depression worldwide. https://www.who.
+int/news/item/02-03-2022-covid-19-pandemic-triggers-25-increase-in-prevalence-of-anxiety-and-depressionworldwide.
+21. Kessler, R. C. et al. Lifetime prevalence and age-of-onset distributions of DSM-IV disorders in the National
+Comorbidity Survey Replication. Arch. Gen. Psychiatry 62, 593–602 (2005).
+22. Kessler, R. C. et al. Age of onset of mental disorders: A review of recent literature. Curr. Opin. Psychiatry 20,
+359–364 (2007).
+23. Mental Health Disorders in Adolescents. https://www.acog.org/en/clinical/clinical-guidance/committee-opinion/
+articles/2017/07/mental-health-disorders-in-adolescents.
+24. Racine, N. et al. Global Prevalence of Depressive and Anxiety Symptoms in Children and Adolescents During
+COVID-19: A Meta-analysis. JAMA Pediatr. 175, 1142–1150 (2021).
+25. Behrmann, J. T., Blaabjerg, J., Jordansen, J. & Jensen de López, K. M. Systematic Review: Investigating the Impact of
+COVID-19 on Mental Health Outcomes of Individuals With ADHD. J. Atten. Disord. 26, 959–975 (2022).
+32
+
+26. Remote Learning During COVID-19: Examining School Practices, Service Continuation, and Difficulties for
+Adolescents With and Without Attention-Deficit/Hyperactivity Disorder - ScienceDirect. https://www.sciencedirect.
+com/science/article/pii/S1054139X20305231.
+27. Alonso-Esteban, Y., López-Ramón, M. F., Moreno-Campos, V., Navarro-Pardo, E. & Alcantud-Marín, F. A Systematic
+Review on the Impact of the Social Confinement on People with Autism Spectrum Disorder and Their Caregivers
+during the COVID-19 Pandemic. Brain Sci. 11, 1389 (2021).
+28. Pavlopoulou, G., Wood, R. & Papadopoulos, C. Impact of Covid-19 on the experiences of parents and family carers
+of autistic children and young people in the UK. UCL Institute of Education: London, UK. https://www.ucl.ac.uk/ioe/
+(2020).
+29. Gender and suicide. Samaritans https://www.samaritans.org/about-samaritans/research-policy/gender-and-suicide/.
+30. Hope, D. A. Mitigating the Mental Health Impact of Marginalization and Discrimination. Cogn. Behav. Pract. (2022)
+doi:10.1016/j.cbpra.2022.03.001.
+31. Dashiff, C., DiMicco, W., Myers, B. & Sheppard, K. Poverty and Adolescent Mental Health. J. Child Adolesc.
+Psychiatr. Nurs. 22, 23–32 (2009).
+32. Xu, X., Warwick, R., McNally, S., Cribb, J. & Blundell, R. Inequalities in education, skills, and incomes in the UK:
+The implications of the COVID-19 pandemic. https://ifs.org.uk/publications/15380 (2021) doi:10.1920/BN.IFS.2021.
+BN0321.
+33. Walsh, D., McCartney, G., Smith, M. & Armour, G. Relationship between childhood socioeconomic position and
+adverse childhood experiences (ACEs): a systematic review. J. Epidemiol. Community Health 73, 1087–1093 (2019).
+34. Edwards, R., Gillies, V. & White, S. Introduction: Adverse Childhood Experiences (ACES) – Implications and
+Challenges. Soc. Policy Soc. 18, 411–414 (2019).
+35. Covid-19 and Disadvantage gaps in England 2020. Education Policy Institute https://epi.org.uk/publications-andresearch/disadvantage-gaps-in-england/.
+36. Boardman, J. D. & Saint Onge, J. M. Neighborhoods and Adolescent Development. Child. Youth Environ. 15,
+138–164 (2005).
+37. Nieuwenhuis, J., Kleinepier, T. & van Ham, M. The Role of Exposure to Neighborhood and School Poverty in
+Understanding Educational Attainment. J. Youth Adolesc. 50, 872–892 (2021).
+38. Hamm, M. P. et al. Prevalence and Effect of Cyberbullying on Children and Young People: A Scoping Review of
+Social Media Studies. JAMA Pediatr. 169, 770–777 (2015).
+39. Keles, B., McCrae, N. & Grealish, A. A systematic review: the influence of social media on depression, anxiety and
+psychological distress in adolescents. Int. J. Adolesc. Youth 25, 79–93 (2020).
+40. Beyens, I., Pouwels, J. L., van Driel, I. I., Keijsers, L. & Valkenburg, P. M. The effect of social media on well-being
+differs from adolescent to adolescent. Sci. Rep. 10, 10763 (2020).
+41. Orben, A. & Przybylski, A. K. The association between adolescent well-being and digital technology use. Nat. Hum.
+Behav. (2019) doi:10.1038/s41562-018-0506-1.
+42. Anderson, M. & Jiang, J. 1. Teens and their experiences on social media. Pew Research Center: Internet, Science &
+Tech https://www.pewresearch.org/internet/2018/11/28/teens-and-their-experiences-on-social-media/ (2018).
+43. Fosco, G. M., Caruthers, A. S. & Dishion, T. J. A Six-Year Predictive Test of Adolescent Family Relationship Quality
+and Effortful Control Pathways to Emerging Adult Social and Emotional Health.
+J. Fam. Psychol. JFP J. Div. Fam. Psychol. Am. Psychol. Assoc. Div. 43 26, 565–575 (2012).
+44. Andrews, J. A., Foster, S. L., Capaldi, D. & Hops, H. Adolescent and family predictors of physical aggression,
+communication, and satisfaction in young adult couples: a prospective analysis.
+J. Consult. Clin. Psychol. 68, 195–208 (2000).
+45. Cummings, E. M., Koss, K. J. & Davies, P. T. Prospective Relations between Family Conflict and Adolescent
+Maladjustment: Security in the Family System as a Mediating Process. J. Abnorm. Child Psychol. 43, 503–515
+(2015).
+46. Moos, R. H. & Moos, B. S. A Typology of Family Social Environments. Fam. Process 15, 357–371 (1976).
+47. Fosco, G. M. & Lydon-Staley, D. M. Implications of Family Cohesion and Conflict for Adolescent Mood and WellBeing: Examining Within- and Between-Family Processes on a Daily Timescale. Fam. Process 59, 1672–1689
+(2020).
+
+33
+
+48. Goodrum, N. M. et al. Longitudinal Relations among Adolescent Risk Behavior, Family Cohesion, Violence
+Exposure, and Mental Health in a National Sample. J. Abnorm. Child Psychol. 48, 1455–1469 (2020).
+49. Augustine, D. A., Koss, K. J., Smith, E. P. & Kogan, S. M. The influence of family cohesion on self-regulation and
+anxiety problems among African American emerging adults. PLOS ONE 17, e0261687 (2022).
+50. Van Loon, L. M. A., Van de Ven, M. O. M., Van Doesum, K. T. M., Witteman, C. L. M. & Hosman, C. M. H. The Relation
+Between Parental Mental Illness and Adolescent Mental Health: The Role of Family Factors. J. Child Fam. Stud. 23,
+1201–1214 (2014).
+51. Adolescent and young adult health. https://www.who.int/news-room/fact-sheets/detail/adolescents-health-risks-andsolution
+
+34
+
+Contact:
+Dr Kathryn Bates
+King’s College London
+Email: kathryn.2.bates@kcl.ac.uk
+
+35
+
+In collaboration with
+
+www.barnardos.org.uk
+© Barnardo’s, 2022 All rights reserved
+No part of this document, including images, may be reproduced or stored
+on an authorised retrieval system, or transmitted in any form or by any
+means, without prior permission of the publisher.
+All images are posed by models and names have been changed to protect
+identities.
+36
+
+Barnardo’s Registered Charity Nos.216250 and SC037605 23572H22
+
+

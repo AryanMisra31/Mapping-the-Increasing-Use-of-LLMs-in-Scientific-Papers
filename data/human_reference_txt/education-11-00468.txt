@@ -1,0 +1,1687 @@
+education
+sciences
+Article
+
+Student Learning Approaches: Beyond Assessment Type to
+Feedback and Student Choice
+Alice Clack and Eleanor J. Dommett *
+Department of Psychology, Institute of Psychiatry, Psychology and Neuroscience, King’s College London,
+London SE5 8AF, UK; alice.clack@kcl.ac.uk
+* Correspondence: Eleanor.dommett@kcl.ac.uk; Tel.: +44-207-848-6928
+
+
+
+Citation: Clack, A.; Dommett, E.J.
+Student Learning Approaches:
+Beyond Assessment Type to Feedback
+and Student Choice. Educ. Sci. 2021,
+11, 468. https://doi.org/
+10.3390/educsci11090468
+
+Abstract: Student Approaches to Learning (SAL) have been the focus of much research, typically
+linking different approaches, e.g., surface and deep, to different assessment types. However, much
+of the previous research has not considered the different conditions under which different types
+of assessment occur and the different types of feedback they typically attract. In the current study, UK
+university students were allocated to one of two assessment conditions (Multiple Choice Questions
+(MCQs) or short essay). Half of the participants were then given the choice of receiving a grade
+or written feedback, whilst the other half were randomly allocated to one of the two feedback
+types. Participants were required to learn specific material and complete an assessment. Study time,
+assessment time, grade and notetaking approaches were analysed along with SAL, measured using
+the Study Process Questionnaire. Results indicated that participants performed better when they
+completed MCQs and expected to receive written feedback. There were no significant differences
+in feedback preferences between the two assessment types. There was no relationship between
+assessment, feedback type and SAL, however, interaction effects suggest that where students have
+a choice, those who choose written feedback exhibit deeper learning. This study is the first to
+demonstrate, albeit in an artificial learning activity, that the type of feedback students expect to
+receive may impact on their outcomes and the SAL in advance of receiving the feedback. Furthermore,
+the relationship between feedback and SAL may be moderated by student choice. Whilst further
+research is needed, this study indicates that the relationship between assessment, feedback and
+choice is complex.
+Keywords: learning approaches; Study Process Questionnaire (SPQ); feedback; student choice
+
+Academic Editor: Mike Joy
+Received: 16 July 2021
+Accepted: 23 August 2021
+Published: 26 August 2021
+
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional affiliations.
+
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+
+1. Introduction
+Teaching practice within Higher Education (HE) has seen remarkably little change
+over long periods of time. Despite this, or perhaps because of it, there has been an increasing drive for evidence-based practice within the sector. This drive is likely caused
+by a range of factors including a need to justify public funding and to provide support
+for institutional policies and approaches [1], particularly in the face of increased student
+fees. One area which is now firmly embedded within the research narrative, having
+emerged in the 1970s [2], is student approaches to learning (SAL), which can be defined
+as the way students go about their learning in a specific situation [3]. These approaches
+may also be referred to as patterns of learning [4] or dispositions to learning [1] and are
+thought to be more flexible in HE students than in lower levels of education [5], which
+makes them particularly relevant to this educational sector. SAL can be distinguished
+from learning styles because they take into account the effects of previous experiences and
+contextual factors [6]. They can be conceptualized in a range of ways but are typically
+dichotomized into surface and deep approaches, with the former relying on rote learning
+and memorization and the latter requiring understanding of meaning and significance.
+Each approach incorporates a strategy and motive component, and whilst a student may
+
+4.0/).
+
+Educ. Sci. 2021, 11, 468. https://doi.org/10.3390/educsci11090468
+
+https://www.mdpi.com/journal/education
+
+Educ. Sci. 2021, 11, 468
+
+2 of 14
+
+tend to adopt one approach over another, they will be influenced by the situation or context [7]. Some researchers argue that deep learning is essential for success in HE because
+studying at this level requires knowledge synthesis that can only be obtained with this
+approach [8]. Moreover, it is suggested that this is now more important than ever before
+because societal functioning demands more than a basic knowledge and understanding
+of a domain of study [9]. Early studies supported the idea that success in HE was related
+to SAL by looking at the associations between SAL, study motivations, strategies and performance [10–12] with many, but not all, studies showing that deeper learning approaches
+were associated with better performance, a finding that continues to be supported in some
+later work [13]. Other studies looked beyond the individual student and started to explore
+the impact of the teaching environment on SAL and showed links between teaching strategy and SAL [14]. Research has also demonstrated associations between SAL and feedback,
+including mixed results regarding the impact of formative feedback [9] and the fact that
+students with different SAL may value differing components of written feedback [15]. It is
+within this rich research context that it was established that one of the most salient factors
+impacting on a student’s choice of approach is the method of assessment [16,17]
+1.1. Student Approaches to Learning and Assessment
+Research into the relationship between SAL and assessment stems from the ‘Backwash Effect’ which, building on early research, recognizes that assessment can influence
+the SAL [18,19]. This research has focused almost exclusively on two specific types of assessment, which students often encounter in their studies: multiple choice question (MCQ)
+examinations and essay assignments [20]. Within this research, it is well-documented that
+students associate MCQ examinations with superficial cognitive processing and adopt
+a surface learning approach for these assessments [21–23], although this relationship may
+vary according to whether the MCQs are factual or applied [24], the academic ability
+of the students [22], the academic discipline and gender [20]. By contrast, research suggests
+that students believe that essay assignments require a higher level of cognitive processing and that these are associated with a deeper learning approach [25]. A key difference
+between the two types of assessment on which research has focused is that MCQs are typically completed under exam conditions, whilst essays are part of coursework assignments
+without time pressures, and this may have confounded previous research [20]. There is
+limited research into essays as part of examinations, but what does exist suggests a that
+if a relationship is found between specific approaches and assessment types, it is likely
+be to complex. For example, a relationship in which quantity and quality of answers
+may be differentially linked to a deep learning approach which impacts on the relationship between SAL and performance [26]. In addition to the varying conditions under
+which assessments are typically taken for MCQs and essays, a second factor that normally
+varies is the type of feedback received. Given that the provision of appropriate and timely
+feedback is thought to promote deep learning [27], this should be considered carefully.
+MCQ examinations are typically computer-marked and so feedback consists of a single
+grade, whilst essays may be accompanied by extensive written comments meaning that
+the differences in feedback could be as important as the assessment types they relate to.
+1.2. Student Feedback Preferences
+Feedback can be defined as information provided by an agent (e.g., teacher) regarding
+performance or understanding [28]. The provision of high-quality feedback is a key
+component of teaching and learning at all levels, including in HE [29], and it is thought
+to be one of the most influential (top 5–10) factors determining achievement [28] and
+a significant tool to enhance student abilities [30–32]. Indeed, it is an area of focus in several
+national metrics to assess teaching quality (e.g., National Student Satisfaction Survey,
+Teaching Excellence Framework). Despite the focus on feedback, delivering high quality
+feedback that can be acted on by students is a complex task [33], and students regularly
+complain that the feedback they receive is not useful or timely [34]. One of the challenges
+
+Educ. Sci. 2021, 11, 468
+
+3 of 14
+
+of feedback is ensuring that students have suitable feedback literacy to allow them to
+decode the feedback [35], which is likely to involve several processes including appreciating
+the feedback, making judgements and managing affect, all prior to taking action [33].
+Even with strong interest in feedback, it is only relatively recently that student perceptions and preferences for feedback, rather than assessment, have been subject to scrutiny.
+Within the existing research there is clear evidence that students value feedback and understand its place in improved learning outcomes [27,36–38]. Perhaps unsurprisingly, there is
+a general preference for unambiguous feedback which was not overly negative [39], as well
+as feedback which is personalized [40]. In terms of specific comparisons between grade
+and written feedback, research has found that students preferred brief written comments,
+stating that written summaries were most useful [41]. Although the researchers found that
+there was still some value placed on just receiving a grade, written feedback was deemed
+desirable to help understand the grade received and how to improve it in the future.
+A recent qualitative study which actually required students to evaluate pieces of written
+feedback, rather than just reflect on their own experiences, found that features of highly
+valued feedback included receiving specific rather than general praise and feedback that
+was clear, error-free and forward-orientated [42]. In terms of academic performance, it has
+been shown that that students who received detailed feedback had the highest academic
+performance in their next essay compared to students that received just a grade or both
+a grade and praise [43]. Despite preferences for feedback approaches emerging from the literature, there is little linking between the type of assignment and preferred feedback—the
+two are often considered in isolation. It is likely that feedback preferences for MCQs,
+for example, differ from essays, although this has not previously been researched.
+Alongside research into feedback preferences, there is also a burgeoning body of research linking feedback to SAL. For example, it has been suggested that the provision
+of appropriate and timely [27] or continuous [44] feedback can promote deep learning.
+However, others have found that additional feedback did not impact learning approach
+in student teachers and that formative feedback in undergraduate criminology students
+led students to take a more surface approach [45], a finding which may relate to perceived workload [9].
+Given that the research into SAL and assessment types indicates that there is an impact
+of type of assessment on the approach students adopt when preparing for the assessment,
+and that there is research showing that feedback also relates to SAL, it is possible that SAL
+may be affected by the type of feedback expected, as well as whether that is the preferred
+type for that assignment. Irrespective of the exact relationship, a key concern is how
+students use feedback and how this may be impacted by SAL [46], making it important to
+explore further the relationship between assessment, feedback and SAL.
+1.3. The Present Study
+The over-arching aim of this study is to further explore how SAL relate to assessment.
+Specifically, we have four aims in the present study. Firstly, we seek to provide clarity on
+whether SAL differs for MCQ and short essay questions when both are completed under
+the same conditions, in this case, with a time restriction. Secondly, we aim to evaluate
+whether the type of feedback expected (grade or written) influences SAL. Thirdly, we will
+identify feedback preferences for MCQ and short essay questions. Finally, we will examine
+the effect of student choice of feedback on SAL.
+2. Materials and Methods
+2.1. Participants
+The data for this study were collected from full-time undergraduate students studying
+at a single university in the UK. All participants were over 18 years old and could be
+studying in any academic discipline (N = 63, female = 52). A priori power calculations
+(α = 0.05, power > 0.8) were conducted to establish the required sample size using G-Power.
+Effect sizes for assessment type and feedback preferences been previously been found to be
+
+Educ. Sci. 2021, 11, 468
+
+4 of 14
+
+medium–large [25] and large, respectively [41]. There are no previous studies investigating
+student choice in a comparable way to the present study. Therefore, based on a large effect
+size, power calculations were carried out and indicated a total sample of 52 would be
+appropriate. Given the 8 groupings, we aimed to recruit 64 participants in total.
+Recruitment was conducted via a fortnightly university e-newsletter and through
+poster advertisement across the campuses and residences. Participants interested in completing the study were asked to contact us via email, after which they were provided
+with further details of the study and their eligibility to participate was confirmed. Participants were excluded on the grounds of having a learning disability such as dyslexia
+because previous research indicates this can alter SAL [47]. Eligible participants were
+allocated a time slot to participate in the study, which took approximately 45 min. Written
+informed consent was obtained from participants in person on arrival for testing. Ethical
+approval for the study was gained in advance from the Institutional Ethics Committee
+MRSU-19/20-14578. Participants received a GBP 7 Amazon voucher honorarium.
+2.2. Study Design
+This study used a 2 × 2 × 2 factorial design with three between-participant independent variables or factors: Factor 1: Assessment Type (MCQ, short essay question);
+Factor 2: Feedback Choice (Choice, No Choice); Factor 3: Feedback Type (Grade, Written).
+Participants were randomized into conditions for Factor 1 and Factor 2 on arrival according
+to a pre-prepared spreadsheet using a Latin Square approach. Those in the ‘No Choice’ condition for Factor 2 were then further randomized into a Feedback Type condition. For each
+participant, several dependent variables were collected (as detailed in ‘Procedure’): (a) Performance as a grade out of 10, (b) Learning time if completed before 15 min, (c) Assessment
+time if completed before 15 min, (d) SAL and (e) notetaking approach.
+2.3. Procedure
+All testing took place in the Psychology Department Test Laboratories which contained a single computer using the standard operating system of the university (i.e., one
+that students would be familiar with), a desk and chair for use by the participant and a separate desk and chair for the experimenter. On arrival for testing, participants were given
+a unique ID to enter the online data collection system (Gorilla, UK) after consent was obtained. Participants were first asked to answer three demographic questions (Gender, Age,
+Faculty or Academic Discipline). After completing these questions, on-screen and verbal
+instructions informed the participant that they had 15 min to watch a 6-min video entitled
+‘Why do we dream’ (https://youtu.be/7GGzc3 × 9WJU, accessed on 28 October 2019)
+and learn the material from the video for subsequent assessment. They were advised that
+they may pause the video at any time and replay the video if they wished, and they could
+use the pen and paper provided to make notes during this period, although these notes
+would be collected in prior to the assessment. We opted to use videoed teaching material to
+ensure that all participants received the exact same material delivered at the same pace and
+level. Furthermore, the use of video in learning is increasing significantly in HE, with tools
+such as lecture capture being used frequently by students, both in place of, and as well as,
+attending live lectures [48]. Participants in the Choice Condition were asked what type
+of feedback they would like to receive at this stage. When participants were ready to begin
+the learning period, they pressed ‘Start’ and the video would play. To help participants
+keep track of time, a timer displayed on the screen for the final two minutes. Participants
+could tell the experimenter if they thought they had learnt enough prior to using the full
+15 min, and the experimenter would note this time and progress to the next stage. Note
+that all participants knew what Assessment Type and Feedback Type they were going to
+receive prior to learning.
+At the end of the learning period, all notes were collected and participants received
+further on-screen and verbal instructions explaining that they had a further 15 min to complete
+a short test. If they were completing MCQs, they were asked to select only one answer
+
+Educ. Sci. 2021, 11, 468
+
+5 of 14
+
+for each of the 10 questions, with each question worth one mark. If they were completing
+short essay questions, they were advised that they had to answer two questions worth
+5 marks each where a portion of the marks was allocated to writing in appropriate academic
+style. When the participant indicated they were ready to begin, the experimenter provided
+the question sheet and began the 15-min timer. As with the learning period, if the participant
+felt they had completed their test to the best of their abilities prior to the end of the period,
+they could hand in their test sheet and the time at which this was done was recorded.
+A verbal two-minute warning was given for the end of the 15-min period. After completion
+of the assessment, the experimenter marked the assessment according to a pre-specified
+marking guidance and provided either a grade out of 10 or written feedback. The written
+feedback for MCQs related to content only (e.g., Excellent understanding of the content
+of the video), whilst the written feedback for short essay questions included comments on
+content (e.g., coherent description of the two views on why we dream and good level of detail,
+e.g., of two points about each view), style of writing (e.g., Mostly written in continuous prose
+but with some errors) and accuracy or quality of writing (e.g., Writing does not always flow
+logically, with some punctuation, grammar or spelling issues).
+Finally, participants returned to the online data collection system to complete the revised two factor version of the Study Process Questionnaire (R-SPQ- 2F) considering their
+learning in the test session. This 20-item scale includes 10 items measuring a deep approach
+(e.g., ‘I find most new topics interesting and often spend extra time trying to obtain more
+information about them’) and 10 measuring a surface approach (‘I find I can get by in most
+assessments by memorizing key sections rather than trying to understand them.) (1 = never
+or only rarely true of me, 5 = always or almost always true of me) [49]. A range of different
+conceptual frameworks and measures (mostly self-report) are available for measuring SAL,
+with a recent systematic review showing that the most commonly used is Biggs’ Study
+Process Questionnaire, followed by Entwistle’s framework [50]. Interestingly, consistency
+of findings between studies is lacking even where the same conceptual framework has
+been used. One possible reason for this is the breadth of the context studied. Early studies
+(e.g., [16]) focused on SAL within specific tasks whilst much of the later research has
+consider SAL over longer period [50] even though it is generally accepted that approaches
+to learning are context specific [51,52]. Furthermore, different measurement instruments
+were designed to employed at different levels of context as well. In the present study,
+which could be described as a task or course, rather than general SAL across activities, we
+opted to use the Study Process Questionnaire (R-SPQ-2F) because it has been used in much
+of the previous research allowing for comparison and, most importantly, it was designed
+to measure at course level [3].
+2.4. Data Processing
+Demographic data was used only to characterize the sample. The only processing required here was to allocate students to one of two areas based on their discipline
+(a) health/science-related or (b) non-health/science-related. Whilst this may seem to be
+an over-simplification, a similar structure exists within the university, and therefore this is
+a logical approach for this context.
+The grade- and time-dependent variables were either calculated as indicated above
+or noted down during the procedure and required no further processing before analysis.
+The R-SPQ- 2F scale scores were combined to give specific scores. Ten items were summed
+to provide an overall measure of Deep Learning (DL, α = 0.66), and the remaining ten
+have a measure of Surface Learning (SL, α = 0.76). Subscale scores were also calculated
+for Deep Strategy (DS, α = 0.55), Deep Motive (DM, α = 0.54), Surface Motive (SM, α = 0.77)
+and Surface Strategy (SS, α = 0.68). The internal reliability scores (Cronbach’s alpha)
+were deemed minimally acceptable if they fell within the 0.65 and 0.70 range and were
+considered respectable if they fell between 0.70 and 0.80 [33]. The overall DL and SL were
+therefore considered to be reliable, as were the scores for SM and SS. The scores for DM
+and DS fell short of this, but these scores were lower in the original scale development
+
+Educ. Sci. 2021, 11, 468
+
+6 of 14
+
+work [32] and the inter-item correlations met the optimal level (0.2 to 0.4), indicating that
+these scales are acceptable [34,35].
+For the notetaking analysis, a content analysis was adapted from a previous study
+exploring notetaking in students, which examined notes according to criteria including
+volume of notes, use of diagrams and complexity of notes, e.g., linear structure as simple
+vs. embedded structure and conceptual links for complex [36]. Using these criteria, ratings
+were given to each set of notes corresponding to Low (1), Medium (2) and High (3).
+3. Results
+3.1. Sample Characterisation and Feedback Preferences
+Sixty-three participants took part in the study and the majority were female (N = 52,
+83%). The overall student population at this university is female-dominated (66%), although the participant sample may have still over-represented females. However, chisquare analysis showed that there were no significant gender differences in the conditions
+for each of the three factors (Assessment type: χ2 (1) = 1.110, p = 0.292; Feedback type:
+χ2 (1) = 0.256, p = 0.613; Student choice: χ2 (1) = 0.879, p = 0.348). The mean (SD) age
+of participants was 19.95 (2.05) years as may be expected for a student population, and this
+did not differ according to the conditions of the three factors as assessed by independent
+sample t-tests (Assessment type: t (61) = 1.008, p = 0.317; Feedback type: t (61) = 0.944,
+p = 0.195; Student choice: t (61) = 0.534, p = 0.595). In terms of discipline, the majority
+fell into health/science-related disciplines (N = 48, 76%). This is perhaps not surprising
+given that the university includes a very large medical school. In any event, the chi-square
+analysis revealed that there were no significant discipline differences in the conditions
+for each factor (Assessment type: χ2 (1) = 0.134, p = 0.714; Feedback type: χ2 (1) = 0.007,
+p = 0.933; Student choice: χ2 (1) = 2.401, p = 0.121).
+Table 1 provides a summary of the participants in the different conditions of the three
+independent variables or factors. This table indicates that where choice was permitted
+in feedback, 7/15 participants selected written feedback for MCQs in contrast to 8/15
+requiring just a grade, indicating no real preference for either type of feedback in this
+type of assessment. By contrast, for short essay questions, the majority (11/16) requested
+written feedback, indicating a stronger preference. However, chi-square analysis showed
+no significant difference in preferences between the two types of assessment (χ2 (1) = 2.03,
+p = 0.285).
+Table 1. Sample sizes in the different conditions.
+Assessment Type (N)
+
+Feedback Choice (N)
+
+Feedback Type (N)
+
+MCQ (31)
+
+Yes (15)
+
+Written (7)
+Grade (8)
+Written (8)
+Grade (8)
+Written (11)
+Grade (5)
+Written (8)
+Grade (8)
+
+No (16)
+Short essay (32)
+
+Yes (16)
+No (16)
+
+Table 2 provides an overview of the notetaking approaches taken by participants in
+this study and suggests a range of approaches was found. How these relate to outcomes
+and SAL is considered in the next section.
+
+Assessment Type (N)
+
+Educ. Sci. 2021, 11, 468
+
+Feedback Choice (N)
+
+Feedback Type (N)
+Grade (8)
+
+Table 2 provides an overview of the notetaking approaches taken by participants in
+7 of 14
+this study and suggests a range of approaches was found. How these relate to outcomes
+and SAL is considered in the next section.
+Table
+Table2.2. Notetaking
+Notetakingcategorization
+categorizationfor
+forparticipants.
+participants.Numbers
+Numbersindicate
+indicateparticipants
+participantstaking
+takingspecific
+specific
+approach.
+approach.
+
+Volume of notes
+Volume of notes
+Use of diagrams
+Use of diagrams
+Level
+ofofdetail
+Level
+detail
+
+Low
+Low
+31
+31
+57
+57
+3535
+
+Moderate
+26
+26
+6
+6
+24
+24
+
+Moderate
+
+High
+High
+6
+6
+0
+0
+44
+
+3.2.
+3.2.Outcome
+OutcomeMeasures
+Measures
+Although
+aim
+of of
+thethe
+study
+waswas
+to examine
+the impact
+of changes
+in assessAlthoughthe
+themain
+main
+aim
+study
+to examine
+the impact
+of changes
+in asment
+and
+feedback
+on
+SAL,
+we
+also
+collected
+data
+on
+performance
+and
+time
+taken
+for
+sessment and feedback on SAL, we also collected data on performance and time taken
+learning
+and and
+assessment
+andand
+therefore
+conducted
+analyses
+for learning
+assessment
+therefore
+conducted
+analysesononthese.
+these. AA univariate
+univariate
+ANOVA
+with
+grade
+as
+the
+dependent
+variable
+revealed
+significant
+main
+ANOVA with grade as the dependent variable revealed significant maineffects.
+effects.Firstly,
+Firstly,
+there
+main
+effect
+of Assessment
+TypeType
+(F (1,(F55)
+4.0, =
+p =4.0,
+0.05),
+higher
+therewas
+wasa significant
+a significant
+main
+effect
+of Assessment
+(1,= 55)
+p =with
+0.05),
+with
+grades
+the MCQ
+= 8.94,
+= 1.24)
+than
+thethan
+short
+(M = 8.41,
+=
+higherin
+grades
+in the(M
+MCQ
+(M SD
+= 8.94,
+SD =
+1.24)
+theessay
+shortquestions
+essay questions
+(M =SD
+8.41,
+1.29)
+Secondly,
+there was
+a was
+significant
+effect
+of effect
+Feedback
+(F (1,Type
+55)
+SD =(Figure
+1.29) 1A).
+(Figure 1A).
+Secondly,
+there
+a main
+significant
+main
+of Type
+Feedback
+=(F7.21,
+with
+those with
+expecting
+receive to
+written
+feedback
+(M =
+9.00, SD
+(1, p
+55)= =0.01),
+7.21, p
+= 0.01),
+thosetoexpecting
+receive
+written
+feedback
+(M==1.06)
+9.00,
+outperforming
+those who expected
+to receive
+a grade
+(M =a8.30,
+SD(M
+= 1.42)
+(Figure
+SD = 1.06) outperforming
+those who
+expected
+to receive
+grade
+= 8.30,
+SD = 1B).
+1.42)
+There
+was
+no
+significant
+effect
+of
+Feedback
+Choice
+(F
+(1,
+55)
+=
+0.189,
+p
+=
+0.665).
+There
+were
+(Figure 1B). There was no significant effect of Feedback Choice (F (1, 55) = 0.189, p = 0.665).
+no
+significant
+There
+were nointeractions.
+significant interactions.
+
+Figure 1. There were significant differences between the grade achieved according to both Assessment
+Figure 1. There were significant differences between the grade achieved according to both AssessType
+(A) and
+Type Type
+(B). * (B).
+p < 0.05.
+ment Type
+(A)Feedback
+and Feedback
+* p < 0.05.
+
+A univariate analysis of the study time revealed no significant main effects, but
+A univariate analysis of the study time revealed no significant main effects, but there
+there was a single significant interaction: Assessment Type x Feedback Type x Feedback
+was a single significant interaction: Assessment Type x Feedback Type x Feedback Choice
+Choice (F (1, 55) = 5.27), p = 0.026). Figure 2 indicates that the opposite pattern is found
+(F (1, 55) = 5.27), p = 0.026). Figure 2 indicates that the opposite pattern is found when there
+when there is choice over feedback in contrast to when there is not. However, restricted
+is choice over feedback in contrast to when there is not. However, restricted ANOVAs,
+ANOVAs, restricting by choice, assessment type and feedback type, indicate that there
+restricting by choice, assessment type and feedback type, indicate that there are no signifare no significant two-way interactions, meaning that no firm conclusions can be made
+icant two-way interactions, meaning that no firm conclusions can be made about this comabout this complex effect. Finally, a univariate analysis of assessment time revealed
+plex effect. Finally, a univariate analysis of assessment time revealed a significant main
+a significant main effect of Assessment Type (F (1, 55) = 190.28, p < 0.001) with MCQs
+(M = 2.07 min, SD = 0.86) being completed much quicker than short essay questions
+(M = 9.70 min, SD = 2.80), as might be expected. There were no other significant main
+effects or interactions.
+
+Educ. Sci. 2021, 11, x FOR PEER REVIEW
+
+8 of 14
+
+effect of Assessment Type (F (1, 55) = 190.28, p < 0.001) with MCQs (M = 2.07 min, SD =
+8 of 14
+0.86) being completed much quicker than short essay questions (M = 9.70 min, SD = 2.80),
+as might be expected. There were no other significant main effects or interactions.
+
+Educ. Sci. 2021, 11, 468
+
+Figure 2. There was a significant Assessment Type x Feedback Type x Choice interaction. The exact
+Figure 2. There was a significant Assessment Type x Feedback Type x Choice interaction. The exact
+basisofofthis
+thisisisunclear,
+unclear,but
+butopposite
+oppositepatterns
+patternsare
+arefound
+foundfor
+forthe
+theAssessment
+AssessmentType
+TypexxFeedback
+FeedbackType
+Type
+basis
+interactions
+when
+participants
+are
+separated
+into
+those
+with
+Choice
+(A)
+versus
+No
+Choice
+(B).
+interactions when participants are separated into those with Choice (A) versus No Choice (B).
+
+Tocheck
+checkfor
+forany
+anyrelationship
+relationshipbetween
+betweenSAL
+SALand
+andoutcome
+outcome
+measures,
+conducted
+To
+measures,
+wewe
+conducted
+a
+a correlation analysis for the six measures from the R-SPQ- 2F (DL, SL, DS, DM, SS,
+correlation analysis for the six measures from the R-SPQ- 2F (DL, SL, DS, DM, SS, SM) and
+SM) and grade, study time and assessment time (Table 3). As might be expected, there
+grade, study time and assessment time (Table 3). As might be expected, there was a sigwas a significant positive correlation between study time and grade. Similarly, there
+nificant positive correlation between study time and grade. Similarly, there were signifiwere significant correlations between the items with the R-SPQ-2F, as would be expected,
+cant correlations between the items with the R-SPQ-2F, as would be expected, i.e., signifi.e., significant positive correlations between measures of the same kind and negative
+icant positive correlations between measures of the same kind and negative correlations
+correlations between opposing measures (i.e., deep vs. surface). There were no significant
+between opposing measures (i.e., deep vs. surface). There were no significant correlations
+correlations between any SAL and outcome measure. We also examined whether the type
+between any SAL and outcome measure. We also examined whether the type of notes
+of notes made impacted on grade and times taken, because it might be expected that
+made impacted on grade and times taken, because it might be expected that higher level
+higher level notes are indicative of a deeper approach. One-way ANOVAs revealed no
+notes are indicative of a deeper approach. One-way ANOVAs revealed no effect of voleffect of volume of notes, use of diagrams or complexity of notes on any of the measures
+ume
+of notes, use of diagrams or complexity of notes on any of the measures (Volume:
+(Volume: Grade F (2) = 0.225, p = 0.799, Study time F (2) = 0.145, p = 0.866, Assessment
+Grade
+(2)==0.399,
+0.225,pp==0.672;
+0.799,Detail:
+Study Grade
+time FF(2)
+time
+(2) =
+time FF(2)
+(2)==0.145,
+0.175,pp==0.866,
+0.902,Assessment
+Study time F
+(2) =F 0.000,
+0.399,
+p
+=
+0.672;
+Detail:
+Grade
+F
+(2)
+=
+0.175,
+p
+=
+0.902,
+Study
+time
+F
+(2)
+=
+0.000,
+p
+=
+1.000,
+p = 1.000, Assessment time F (2) = 0.091, p = 0.913; Diagram use: Grade F (1) = 1.815,
+Assessment
+time Ftime
+(2) =F0.091,
+= 0.913;
+use: Grade time
+F (1) F
+= 1.815,
+p = 0.183,
+p = 0.183, Study
+(1) = p0.040,
+p =Diagram
+0.841, Assessment
+(1) = 0.086,
+p = Study
+0.770).
+time
+F
+(1)
+=
+0.040,
+p
+=
+0.841,
+Assessment
+time
+F
+(1)
+=
+0.086,
+p
+=
+0.770).
+Finally,
+we
+examined
+Finally, we examined the relationship between the SAL measures and the notetaking,
+the
+relationship
+between
+the SAL
+measures and
+the notetaking,
+using
+multivariate
+analyusing
+multivariate
+analysis.
+No significant
+differences
+in any of
+the SAL
+measures
+were
+sis.
+No for the
+significant
+differences
+in any of
+of the
+the SAL
+measures
+were of
+found for
+the (p >
+different
+found
+different
+classifications
+volume or
+complexity
+notetaking
+0.05).
+classifications
+of
+the
+volume
+or
+complexity
+of
+notetaking
+(p
+>
+0.05).
+However,
+there
+was
+a
+However, there was a significant difference for diagram use and DS (F (1, 56) = 4.00,
+significant
+difference
+for
+diagram
+use
+and
+DS
+(F
+(1,
+56)
+=
+4.00,
+p
+=
+0.05),
+with
+moderate
+use
+p = 0.05), with moderate use of diagrams associated with a higher DS score (M = 17.50,
+ofSDdiagrams
+associatedtowith
+higher DS
+(Mdiagrams
+= 17.50, SD
+= 1.22)
+= 1.22) compared
+thosea making
+lowscore
+use of
+(M =
+14.32,compared
+SD = 3.52).to those
+making low use of diagrams (M = 14.32, SD = 3.52).
+Table 3. Correlation between outcome measures and R-SPQ-2F measures * p < 0.05, ** p < 0.01.
+Table 3. Correlation between outcome measures and R-SPQ-2F measures * p < 0.05, ** p < 0.01.
+Scale Range
+1. Grade
+2. Study Time
+Time
+1. 3.Assessment
+Grade
+4. Deep Learning
+2. 5.Study
+Time
+Surface
+Learning
+6. Deep MotiveTime
+3.Assessment
+7. Deep Strategy
+4. 8.Deep
+Learning
+Surface
+Motive
+9. Surface Strategy
+
+Scale
+1–10
+0–15
+Range
+0–15
+1–10
+10–50
+0–15
+10–50
+5–25
+0–15
+5–25
+10–50
+5–25
+5–25
+
+Mean (SD)
+
+1
+
+8.67 (1.28)
+Mean
+(SD)
+12.67 (2.84)
+5.96 (4.37)
+8.67
+(1.28)
+29.87 (5.80)
+12.67
+(2.84)
+25.25 (7.22)
+15.25 (4.37)
+(3.47)
+5.96
+14.62 (3.49)
+29.87
+(5.80)
+12.05 (4.58)
+13.84 (4.29)
+
+2
+
+0.296 *
+−0.162
+0.025
+−0.296
+0.061 *
+0.045
+−0.162
+0.004
+0.025
+−0.019
+−0.124
+
+1
+
+3
+
+2
+
+4
+
+3
+
+4
+
+0.160
+0.050
+−0.141
+−0.126 −0.054 −0.603 **
+0.037
+0.160 −0.106 0.832 **
+0.045
+−0.129
+0.835 **
+−0.050
+0.154 −−0.141
+0.041 −0.555 **
+0.049
+−0.047 −0.423 **
+
+5
+
+6
+
+7
+
+8
+
+5
+
+6
+
+7
+
+8
+
+−0.583 **
+−0.567 **
+0.828 **
+0.801 **
+
+0.390 **
+0.578 **
+−0.415 **
+
+−0.348 **
+−0.415 **
+
+0.327 **
+
+5. Surface Learning
+6. Deep Motive
+7. Deep Strategy
+8. Surface Motive
+Educ. Sci.Strategy
+2021, 11, 468
+9. Surface
+
+10–50
+5–25
+5–25
+5–25
+5–25
+
+25.25 (7.22)
+15.25 (3.47)
+14.62 (3.49)
+12.05 (4.58)
+13.84 (4.29)
+
+−0.061 −0.126 −0.054 −0.603 **
+0.045 0.037 −0.106 0.832 ** −0.583 **
+0.004 0.045 −0.129 0.835 ** −0.567 ** 0.390 **
+−0.019 −0.154 −0.041 −0.555 ** 0.828 ** 0.578 ** −0.348 **
+9 of 14**
+−0.124 0.049 −0.047 −0.423 ** 0.801 ** −0.415 ** −0.415 ** 0.327
+
+3.3. Student Learning Approach: Assessment, Feedback and Choice
+3.3.The
+Student
+Learning
+Approach:
+Assessment,
+Feedback
+Choice
+main aim
+of the
+present
+study was
+to and
+establish
+how SAL relates to assessment
+
+and The
+feedback
+type,
+including
+when
+choice
+feedback is
+permitted.
+thisand
+quesmain
+aim of the
+present
+study
+was of
+to establish
+how SAL
+relatesTo
+toanswer
+assessment
+feedback
+type,
+when
+choice of
+feedback
+permitted.
+answer his
+question,
+tion,
+we used
+a including
+multivariate
+analysis
+with the
+six is
+R-SPQ-2F
+as To
+dependent
+variables
+and
+wethree
+used a
+multivariate analysis
+six R-SPQ-2F
+dependent
+variables
+andasour
+three
+our
+independent
+variableswith the
+(Assessment
+Type, as
+Feedback
+Type,
+Choice)
+fixed
+facindependent
+variables
+(Assessment
+Type,
+Feedback
+Type,
+Choice)
+as
+fixed
+factors.
+There
+tors. There were no significant main effects of any factors on any of the SAL measures
+were no significant
+main
+anyone
+factors
+on any of
+the SAL measures
+(Supplementary
+(Supplementary
+Table
+S1).effects
+Thereofwas
+significant
+interaction
+for Feedback
+x Choice for
+Table
+S1).
+There
+was
+one
+significant
+interaction
+for
+Feedback
+x
+Choice
+for
+Deep Strategy (F(1, 55) = 5.469, p = 0.023, Figure 3). Independent sampleDeep
+t-testsStrategy
+revealed
+(F(1, 55) = 5.469, p = 0.023, Figure 3). Independent sample t-tests revealed no significant
+no significant difference in Deep Strategy between those with choice and without when
+difference in Deep Strategy between those with choice and without when participants
+participants received grade feedback (t(28) = 0.61, p = 0.550). However, there was a signifreceived grade feedback (t(28) = 0.61, p = 0.550). However, there was a significant difference
+icant difference between choice groups when written feedback was received (t(31) = 2.92,
+between choice groups when written feedback was received (t(31) = 2.92, p = 0.007),
+p =with
+0.007),
+with
+in thegroup
+Choice
+groupahaving
+deeper strategy
+(M SD
+= 15.89,
+SD than
+= 3.08)
+those
+in those
+the Choice
+having
+deeperastrategy
+(M = 15.89,
+= 3.08)
+than
+those
+in
+the
+No
+Choice
+group
+(M
+=
+12.53,
+SD
+=
+3.52).
+This
+result
+indicates
+that
+when
+those in the No Choice group (M = 12.53, SD = 3.52). This result indicates that when
+students
+they receive,
+receive,those
+thoseselecting
+selectingwritten
+written
+feedback
+take
+studentscan
+canselect
+selecthe
+thetype
+typeof
+offeedback
+feedback they
+feedback
+take
+a deeper
+approach.
+a deeper approach.
+
+Figure 3. There was no difference in deep learning strategy for participants with no choice. However,
+
+Figure
+Thereover
+wasFeedback
+no difference
+in given,
+deep learning
+strategy
+for feedback
+participants
+with
+no choice.
+Howwhere3.choice
+Type was
+those selective
+written
+showed
+a deeper
+strategy.
+ever, where choice over Feedback Type was given, those selective written feedback showed a deeper
+4.
+Discussion
+strategy.
+
+4.1. The Relationship between Assessment Type and Learning Approach
+
+4. Discussion
+The first aim of this study was to provide clarity on whether SAL differs for MCQ and
+short
+questions
+when both
+are completed
+under
+the same
+conditions, in this case with
+4.1.
+Theessay
+Relationship
+between
+Assessment
+Type and
+Learning
+Approach
+a time restriction. The results of this study suggest that there is no difference in the SAL
+The first aim of this study was to provide clarity on whether SAL differs for MCQ
+between these two assessment types when they are both completed in the same conditions.
+and short essay questions when both are completed under the same conditions, in this
+This indicates that previous studies may have been, at least in part, confounded by the difcase with a time restriction. The results of this study suggest that there is no difference in
+ferent conditions under which these assessments are typically completed [20]. The results
+the
+between
+these
+assessment
+when
+they are
+bothdespite
+completed
+the same
+ofSAL
+the present
+study
+aretwo
+in line
+with sometypes
+previous
+research
+[20,22]
+manyinfindings
+conditions.
+This
+indicates
+that
+previous
+studies
+may
+have
+been,
+at
+least
+in
+part,
+conshowing, for example, that MCQs are associated with a surface approach [21,23,25]. Alfounded
+different it is
+conditions
+undertowhich
+these
+assessments
+are atypically
+comthough by
+not the
+unprecedented,
+still helpful
+consider
+why we
+did not find
+relationship
+pleted
+[20].the
+The
+results
+present
+study
+line is
+with
+some
+previous
+research
+[20,22]
+between
+SAL
+and of the
+assessment
+type.
+Oneare in
+possibility
+that
+it is not
+the nature
+of the asdespite
+many
+showing,
+MCQs meaning
+are associated
+withana essay
+surface
+sessment
+thatfindings
+determines
+the SALfor
+butexample,
+rather thethat
+conditions,
+that whilst
+under coursework
+a deeper
+approach,
+one to
+under
+exam why
+condi-we
+approach
+[21,23,25].conditions
+Although may
+not encourage
+unprecedented,
+it is still
+helpful
+consider
+tions simply does not. Secondly, it is possible that the nature of the assessment contributes
+to the learning approach adopted but that it is not the only impacting factor, such that
+effects may not always been seen. Certainly, evidence suggests that factors such as student
+intention, motivation and self-regulation may also be important [18], all of which may
+be impacted by the artificial nature of the task in the current study. Thirdly, the artificial
+
+Educ. Sci. 2021, 11, 468
+
+10 of 14
+
+nature of the task here may have meant that students did not have enough information and
+study time to take a deep approach to their learning even if they wanted to, irrespective
+of the assessment type. Based on the total surface and deep scores in the present study
+being similar, this is plausible. Given the nature of the study, which rather than being
+hypothetical required students to learn new information in the testing period, the amount
+covered was small. Although deep learning does not necessarily require large amounts
+of learning, the features of deep learning, such as synthesis of ideas, may mean that it was
+not plausible in the current study.
+4.2. Feedback Preferences and the Impact of Expected Feedback on Learning Approach
+The remaining aims of the study were to evaluate whether the type of feedback expected (grade or written) influences SAL, identify feedback preferences for MCQs and short
+essay questions and examining the effect of student choice of feedback on SAL. The present
+study demonstrated no impact of expected feedback on SAL, although participants performed better when they expected written feedback. A positive relationship between
+good feedback and outcome has been previously reported [43,53], however, in previous
+studies, the feedback has been used to improve the performance. By contrast, in the present
+study, this was prospective, i.e., they knew which feedback to expect rather than having
+benefitted from the feedback. One possibility is that students simply made more effort
+when they thought they would receive written feedback because they perceive this to be
+a higher quality of feedback [41]. Certainly previous work has demonstrated a significant
+positive correlation between quality of feedback and student effort [54]. However, if more
+effort had been made, we might have expected to see this in the SAL measures or changes
+in the note-taking strategies, which was not the case. We did, however, find a significant
+Choice x Feedback interaction for deep strategy, which suggested that when students can
+select the type of feedback they receive, those selecting written feedback did take a deeper
+approach. The basis for this finding is unclear, but there may be several explanations
+for it. Firstly, students could be playing the ‘examination game’ in which they consider
+factors such as how something will be marked before they study for it and conclude that
+written feedback will require greater depth [55]. However, if this were the case, we would
+expect to find a main effect of feedback type on SAL which we did not. Secondly, the act
+of asking for written feedback could help foster deep learning; research has found that
+students report that learning how to ask for feedback (but not a grade) can help them focus
+on a deeper approach [56]. One way to examine this would have been to ask a subset
+of students to select their choice only after they have learnt the material, not before, as we
+did in the present study.
+We also found no significant differences in feedback preferences for the two types
+of assessment, although twice as many students opted for written feedback as opposed to
+a grade on the essay questions. The lack of significance here could result from a lack of statistical power. However, it may also be because they were not required to act on the feedback
+given, that is, the artificial design meant they would not have to continue learning this
+material or build on the work with further assessment. Future research should consider
+exploring why students make specific choices about feedback, rather than just asking
+them to make a choice. Finally, we did not find a significant main effect of choice on any
+of the measures related to SAL. We did, as discussed above, find a significant interaction
+with feedback type for deep strategy. These results suggest that student choice may impact
+on learning approach, warranting further investigation. This is particularly pertinent given
+the emphasis on student choice in the sector in recent years, which has resulted in a drive
+towards a wider curriculum which allows for greater student choice [57,58], including
+choice over assessment format [59].
+
+Educ. Sci. 2021, 11, 468
+
+11 of 14
+
+4.3. Evaluation of the Present Study and Future Research
+The current research took an innovative approach of creating a learning and assessment opportunity with novel information rather than asking students to report on
+previous experiences or comment on hypothetical approaches and feedback. This allowed
+us to employ a robust factorial design to address the study aims. Furthermore, the aims
+of the research were novel, seeking to address gaps in the literature surrounding the impact
+of feedback type and student choices whilst building on existing research into assessment
+types. In addition, by ensuring comparable content and conditions for the different types
+of assessment, we also overcame possible confounding variables in this type of research [20].
+The inclusion of participants from all faculties was a strength of the design because much
+of the previous research tends to focus solely on scientific disciplines [60,61]. However, it
+must be noted that even in the present study, the majority of students still came from health
+related faculties, and the sample sizes meant that we could not differentiate between discipline effects, which may be important [20]. Furthermore, given that learning approaches
+are context dependent, the use of a specific task may have impacted the approach taken
+and a range of tasks should be considered in future. Finally, the use of videoed teaching
+material in the present study could be considered a strength given the increased reliance
+on tools such as lecture capture and students highly positive perceptions of these tools,
+meaning that many students consider videoed lectures a key learning resource [48]. Moreover, the rapid switch to online learning in response to the COVID-19 pandemic means
+that the use of video makes this all the more relevant to the current HE context.
+Despite the strengths in the design of this study, there are some limitations. For example, whilst the sample size exceeded the total sample calculated to identify large effect sizes,
+which may be expected for assessment and feedback preference, it was slightly smaller
+than we aimed for (63 rather than 64) and may not be sufficiently powered to detect smaller
+effect sizes. This is particularly pertinent for Student Choice where there is no suitable
+research to glean effect sizes from. Therefore, future studies should consider powering
+for smaller effect sizes. Additionally, the sample was biased towards females. Although
+the university where data collection occurred does have more females than males, this
+difference is not as large as in the sample for the present study, meaning results may not
+generalize to other populations.
+Furthermore, although our design meant that we did not have to rely on retrospective
+or hypothetical analysis of feedback and approaches, it was still a simulated learning
+experience which participants self-selected to participate in and which was conducted
+over a limited period of time (the equivalent of one lesson) and, as such, it is possible that
+findings may not generalize to real-world assessment that carries weighting in a student’s
+degree result. For example, the impact of feedback is known to be dependent on student
+feedback literacy with the most useful feedback considered to be fluid and interactive [30],
+and the process of improvement is dependent on students active and ongoing engagement
+with feedback [62], which was not the case here. Future research should be conducted
+within real learning situations. A further weakness in the study may arise from how participants were able to interact with the learning material. Although the use of video could
+be considered a strength, it also did not allow for dialogue with the teacher. Additionally,
+students could not skip the video or move forwards or backwards, but they could pause
+it and replay it in its entirety, which most participants did. This limited interaction could
+have affected the way the participant learned the content of the video and may not be
+representative of how they study in general for real examinations or assessments. Future
+research should consider how to test these factors, in a real-life learning situation. Finally,
+this study used the study process questionnaire to examine learning approaches, which
+carries with it some limitations. Whilst the reliability of the R-SPQ-2F in the present study
+aligned with its original development, arguably the DS and DM scores were not reliable,
+meaning that the results for these scales should be interpreted with caution. This is unlikely
+to be due to the relatively small sample size because research suggests a minimum sample
+of 50 to obtain appropriate alpha values [63]. Furthermore, alpha is only one measure
+
+Educ. Sci. 2021, 11, 468
+
+12 of 14
+
+of reliability and inter-item correlation did show acceptable levels here. Despite this, future
+studies should consider whether alternative instruments might be used if alpha does not
+meet minimal acceptable levels. Additionally, this instrument, whilst commonly used
+and suited for the context chosen, is only one way of measuring SAL and assumes a dichotomous view of learning (i.e., surface or deep). However, other conceptualizations
+and instruments could give different findings. For example, the learning patterns model
+assumes greater complexity and identifies three main processing strategies (deep, stepwise
+and concrete) [4]. It should also be noted that we only measured SAL and not other factors
+known to be related to this such as organisation and motivation [18].
+Acknowledging the strengths and limitations of the current study, it can be concluded
+that this study is the first to demonstrate, albeit in an artificial learning activity, that the type
+of feedback that students expect to receive may impact on their outcomes and the SAL in
+advance of receiving the feedback. Furthermore, the relationship between feedback and
+SAL may be moderated by student choice. Whilst further research is needed to replicate
+and extend these findings to a broader population, this study indicates that the relationship
+between assessment, feedback and choice is complex. Given that one of the core aims of HE
+remains to promote deep learning, this research suggests extending the tool kit available
+to teachers to promote this approach, beyond type of assessment and provision of quality
+feedback to include student choice of feedback.
+Supplementary Materials: The following are available online at https://www.mdpi.com/article/10.3
+390/educsci11090468/s1, Table S1: Analyses of the effects of Assessment, Feedback, and Choice on SAL.
+Author Contributions: Conceptualization, A.C. and E.J.D.; Data collection, A.C.; Data Analysis, A.C.
+and E.J.D.; Writing—review and editing, E.J.D. All authors have read and agreed to the published
+version of the manuscript.
+Funding: This research received no external funding.
+Institutional Review Board Statement: The study was conducted according to the guidelines
+of the Declaration of Helsinki, and approved by the Institutional Review Board (or Ethics Committee)
+of King’s College London (Reference MRSU-19/20-14578 and date of approval 08.10.19).
+Informed Consent Statement: Informed consent was obtained from all subjects involved in the study.
+Data Availability Statement: Data is available on reasonable request from the corresponding author.
+Conflicts of Interest: The authors declare no conflict of interest.
+
+References
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+
+Entwistle, N.; McCune, V. The conceptual bases of study strategy inventories. Educ. Psychol. Rev. 2004, 16, 325–345. [CrossRef]
+Beattie, V., IV; Collins, B.; McInnes, B. Deep and surface learning: A simple or simplistic dichotomy? J. Account. Educ. 1997, 6,
+1–12. [CrossRef]
+Biggs, J.B. Student Approaches to Learning and Studying; Council for Educational Research: Hawthorn, VIC, Australia, 1987.
+Vermunt, J.D.; Donche, V. A learning patterns perspective on student learning in higher education: State of the art and moving
+forward. Educ. Psychol. Rev. 2017, 29, 269–299. [CrossRef]
+Song, Y.; Vermunt, J.D. A comparative study of learning patterns of secondary school, high school and college students.
+Stud. Educ. Eval. 2021, 68, 100958. [CrossRef]
+Coffield, F.; Moseley, D.; Hall, E.; Ecclestone, K.; Coffield, F.; Moseley, D.; Hall, E.; Ecclestone, K. Learning Styles and Pedagogy in
+Post-16 Learning: A Systematic and Critical Review; Learning & Skills Research Centre: London, UK, 2004.
+Baeten, M.; Kyndt, E.; Struyven, K.; Dochy, F. Using student-centred learning environments to stimulate deep approaches to
+learning: Factors encouraging or discouraging their effectiveness. Educ. Res. Rev. 2010, 5, 243–260. [CrossRef]
+Chotitham, S.; Wongwanich, S.; Wiratchai, N. Deep learning and its effects on achievement. Procedia Soc. Behav. Sci. 2014, 116,
+3313–3316. [CrossRef]
+Gijbels, D.; Dochy, F. Students’ assessment preferences and approaches to learning: Can formative assessment make a difference?
+Educ. Stud. 2006, 32, 399–409. [CrossRef]
+Biggs, J.B. Individual differences in study processes and the quality of learning outcomes. High. Educ. 1979, 8, 381–394. [CrossRef]
+Biggs, J.B. Faculty patterns in study behaviour. Aust. J. Psychol. 1970, 22, 161–174. [CrossRef]
+Entwistle, N.J.; Entwistle, D. The relationships between personality, study methods and academic performance. Br. J. Educ. Psychol.
+1970, 40, 132–143. [CrossRef]
+
+Educ. Sci. 2021, 11, 468
+
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+
+13 of 14
+
+Phan, H.P. Relations between goals, self-efficacy, critical thinking and deep processing strategies: A path analysis. Educ. Psychol.
+2009, 29, 777–799. [CrossRef]
+Hall, M.; Ramsay, A.; Raven, J. Changing the learning environment to promote deep learning approaches in first-year accounting
+students. J. Account. Educ. 2004, 13, 489–505. [CrossRef]
+Winstone, N.E.; Nash, R.A.; Rowntree, J.; Menezes, R. What do students want most from written feedback information?
+Distinguishing necessities from luxuries using a budgeting methodology. Assess. Eval. High. Educ. 2016, 41, 1237–1253. [CrossRef]
+Marton, F.; Säaljö, R. On qualitative differences in learning—Ii Outcome as a function of the learner’s conception of the task. Br. J.
+Educ. Psychol. 1976, 46, 115–127. [CrossRef]
+Trigwell, K.; Prosser, M. Improving the quality of student learning: The influence of learning context and student approaches to
+learning on learning outcomes. High. Educ. 1991, 22, 251–266. [CrossRef]
+Asikainen, H.; Parpala, A.; Virtanen, V.; Lindblom-Ylänne, S. The relationship between student learning process, study success
+and the nature of assessment: A qualitative study. Stud. Educ. Eval. 2013, 39, 211–217. [CrossRef]
+Biggs, J. Enhancing teaching through constructive alignment. High. Educ. 1996, 32, 347–364. [CrossRef]
+Smith, S.N.; Miller, R.J. Learning approaches: Examination type, discipline of study, and gender. Educ. Psychol. 2005, 25, 43–53.
+[CrossRef]
+Newble, D.I.; Jaeger, K. The effect of assessments and examinations on the learning of medical students. Med. Educ. 1983, 17,
+165–171. [CrossRef] [PubMed]
+Scouller, K.M.; Prosser, M. Students’ experiences in studying for multiple choice question examinations. Stud. Educ. Eval. 1994,
+19, 267–279. [CrossRef]
+Thomas, P.; Bain, J. Contextual dependence of learning approaches. Hum. Learn. 1984, 3, 230–242.
+Yonker, J.E. The relationship of deep and surface study approaches on factual and applied test-bank multiple-choice question
+performance. Assess. Eval. High. Educ. 2011, 36, 673–686. [CrossRef]
+Scouller, K. The influence of assessment method on students’ learning approaches: Multiple choice question examination versus
+assignment essay. High. Educ. 1998, 35, 453–472. [CrossRef]
+Minbashian, A.; Huon, G.F.; Bird, K.D. Approaches to studying and academic performance in short-essay exams. High. Educ.
+2004, 47, 161–176. [CrossRef]
+Rowe, A.D.; Wood, L.N. Student perceptions and preferences for feedback. Asian Soc. Sci. 2008, 4, 78–88.
+Hattie, J.; Timperley, H. The power of feedback. Rev. Educ. Res. 2007, 77, 81–112. [CrossRef]
+Ramsden, P. Learning to Teach in Higher Education; Routledge: New York, NY, USA, 2003.
+Carless, D. From teacher transmission of information to student feedback literacy: Activating the learner role in feedback
+processes. Act. Learn. High. Educ. 2020, 1469787420945845. [CrossRef]
+Kluger, A.N.; DeNisi, A. The effects of feedback interventions on performance: A historical review, a meta-analysis, and
+a preliminary feedback intervention theory. Psychol. Bull. 1996, 119, 254. [CrossRef]
+Wisniewski, B.; Zierer, K.; Hattie, J. The power of feedback revisited: A meta-analysis of educational feedback research.
+Front. Psychol. 2020, 10, 3087. [CrossRef]
+Carless, D.; Boud, D. The development of student feedback literacy: Enabling uptake of feedback. Assess. Eval. High. Educ. 2018,
+43, 1315–1325. [CrossRef]
+Forsythe, A.; Johnson, S. Thanks, but no-thanks for the feedback. Assess. Eval. High. Educ. 2017, 42, 850–859. [CrossRef]
+Sadler, D.R. Beyond feedback: Developing student capability in complex appraisal. Assess. Eval. High. Educ. 2010, 35, 535–550.
+[CrossRef]
+Higgins, R.; Hartley, P.; Skelton, A. The conscientious consumer: Reconsidering the role of assessment feedback in student
+learning. Stud. Educ. Eval. 2002, 27, 53–64. [CrossRef]
+Hyland, F. ESL writers and feedback: Giving more autonomy to students. Lang. Teach. Res. 2000, 4, 33–54. [CrossRef]
+Weaver, M.R. Do students value feedback? Student perceptions of tutors’ written responses. Assess. Eval. High. Educ. 2006, 31,
+379–394. [CrossRef]
+Price, M.; Handley, K.; Millar, J.; O’donovan, B. Feedback: All that effort, but what is the effect? Assess. Eval. High. Educ. 2010, 35,
+277–289. [CrossRef]
+Mulliner, E.; Tucker, M. Feedback on feedback practice: Perceptions of students and academics. Assess. Eval. High. Educ. 2017, 42,
+266–288. [CrossRef]
+Ferguson, P. Student perceptions of quality feedback in teacher education. Assess. Eval. High. Educ. 2011, 36, 51–62. [CrossRef]
+Austen, L.; Malone, C. What students’ want in written feedback: Praise, clarity and precise individual commentary. Pract. Res.
+High. Educ. 2018, 11, 47–58.
+Lipnevich, A.A.; Smith, J.K. Response to assessment feedback: The effects of grades, praise, and source of information. ETS Res.
+Rep. Ser. 2008, 2008, i–57. [CrossRef]
+Almeida, P.A.; Teixeira-Dias, J.J.; Martinho, M.; Balasooriya, C.D. The interplay between students’ perceptions of context and
+approaches to learning. Res. Pap. Educ. 2011, 26, 149–169. [CrossRef]
+Gijbels, D.; Coertjens, L.; Vanthournout, G.; Struyf, E.; Van Petegem, P. Changing students’ approaches to learning: A two-year
+study within a university teacher training course. Educ. Stud. 2009, 35, 503–513. [CrossRef]
+
+Educ. Sci. 2021, 11, 468
+
+46.
+47.
+48.
+49.
+50.
+
+51.
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+61.
+62.
+63.
+
+14 of 14
+
+Evans, C.; Cools, E.; Charlesworth, Z.M. Learning in higher education–how cognitive and learning styles matter. Teach. High. Educ.
+2010, 15, 467–478. [CrossRef]
+Polychroni, F.; Koukoura, K.; Anagnostou, I. Academic self-concept, reading attitudes and approaches to learning of children
+with dyslexia: Do they differ from their peers? Eur. J. Spec. Needs Educ. 2006, 21, 415–430. [CrossRef]
+Dommett, E.J.; Gardner, B.; van Tilburg, W. Staff and students perception of lecture capture. Internet High. Educ. 2020, 46, 100732.
+[CrossRef]
+Biggs, J.; Kember, D.; Leung, D.Y. The revised two-factor study process questionnaire: R-SPQ-2F. Br. J. Educ. Psychol. 2001, 71,
+133–149. [CrossRef]
+Asikainen, H.; Gijbels, D. Do students develop towards more deep approaches to learning during studies? A systematic review
+on the development of students’ deep and surface approaches to learning in higher education. Educ. Psychol. Rev. 2017, 29,
+205–234. [CrossRef]
+Biggs, J.B. Teaching for Quality Learning at University: What the Student Does; McGraw-Hill Education (UK): London, UK, 2011.
+Entwistle, N.; Ramsden, P. Understanding Student Learning (Routledge Revivals); Routledge: London, UK, 2015.
+Bitchener, J. Evidence in support of written corrective feedback. J. Second Lang. Writ. 2008, 17, 102–118. [CrossRef]
+Wu, Q.; Jessop, T. Formative assessment: Missing in action in both research-intensive and teaching focused universities?
+Assess. Eval. High. Educ. 2018, 43, 1019–1031. [CrossRef]
+Entwistle, N.J.; Entwistle, A. Contrasting forms of understanding for degree examinations: The student experience and its
+implications. High. Educ. 1991, 22, 205–227. [CrossRef]
+Filius, R.M.; de Kleijn, R.A.; Uijl, S.G.; Prins, F.; van Rijen, H.V.; Grobbee, D.E. Promoting deep learning through online feedback
+in SPOCs. Frontline Learn. Res. 2018, 6, 92. [CrossRef]
+Smith, J. Learning styles: Fashion fad or lever for change? The application of learning style theory to inclusive curriculum
+delivery. Innov. Educ. Teach. Int. 2002, 39, 63–70. [CrossRef]
+Knight, P.T. Complexity and curriculum: A process approach to curriculum-making. Teach. High. Educ. 2001, 6, 369–381.
+[CrossRef]
+Irwin, B.; Hepplestone, S. Examining increased flexibility in assessment formats. Assess. Eval High. Educ. 2012, 37, 773–785.
+[CrossRef]
+Reid, W.A.; Duvall, E.; Evans, P. Relationship between assessment results and approaches to learning and studying in year two
+medical students. Med. Educ. 2007, 41, 754–762. [CrossRef]
+Leung, S.F.; Mok, E.; Wong, D. The impact of assessment methods on the learning of nursing students. Nurse Educ. Today 2008, 28,
+711–719. [CrossRef]
+Carless, D. Feedback loops and the longer-term: Towards feedback spirals. Assess. Eval. High. Educ. 2019, 44, 705–714. [CrossRef]
+Javali, S.B.; Gudaganavar, N.V.; Raj, S.M. Effect of varying sample size in estimation of coefficients of internal consistency. Webmed
+Central 2011, 2, 1–15.
+
+

@@ -1,0 +1,967 @@
+﻿343
+
+British Journal of Health Psychology (2021), 26, 343–359
+© 2020 The British Psychological Society
+
+www.wileyonlinelibrary.com
+
+Do preparatory behaviours predict alcohol
+consumption among UK university students?
+
+Richard Cooke1, Olivia Bailey2, Janine Jennings2, Chun Yuen2 and
+Benjamin Gardner*2
+1Department of Psychology, Liverpool Centre for Alcohol Research, University of
+Liverpool, UK
+
+2Department of Psychology, King’s College London, UK
+
+Objective. This study explored whether the frequency and habitual nature of
+engagement in three behaviours that may serve as preparation for alcohol consumption
+on a night out with friends – that is, contacting friends to arrange a night out, buying
+alcohol, drinking alone at home before going out – predicted consumption on such nights.
+
+Design. Prospective correlational design.
+
+Methods. One hundred and twenty UK university students (68 female, 50 male, two
+non-binary, mean age = 20.78 years, SD = 1.52) completed a survey comprising
+intentions, habits, and frequency and habit for the three preparatory behaviours. One
+week later, a second survey measured the number of nights out with friends on which
+alcohol was drunk (i.e., drinking frequency) and the number on which four or more
+alcoholic drinks were consumed (i.e, excessive drinking). Regression models were run to
+predict drinking frequency and excessive drinking.
+
+Results. Drinking frequency was predicted only by frequency of contacting friends
+(B = .28, SE = .12, p = .02), and habitually drinking alone before going out (B = .20,
+SE = .09, p = .03). Excessive drinking was only predicted by alcohol consumption habit
+(B = .67, SE = .23, p = .003).
+
+Conclusions. Preceding actionsmay influence the frequency of alcohol consumptionon
+nights out, independently of intentions and habits relating to alcohol consumption.While
+interventions to reduce consumption quantity in a single sessionmight focus on disrupting
+the habits that sustain drinking episodes, efforts to reduce alcohol consumption
+frequency on nights out might focus on disrupting behaviours that precede alcohol
+consumption.
+
+*Correspondence should be addressed to Benjamin Gardner, Department of Psychology, Institute of Psychiatry, Psychology and
+Neuroscience, Guy’s Campus, King’s College London, London, SE1 1UL, UK (email: benjamin.gardner@kcl.ac.uk).
+
+DOI:10.1111/bjhp.12489
+
+
+
+344 Richard Cooke et al.
+
+Statement of contribution
+What is already known on this subject?
+ Attempts to understand university students’ alcohol consumption have tended to focus on cognitions
+
+towards alcohol consumption, such as intentions and habits
+ Some behaviours may reliably precede evening alcohol consumption
+ Accounting for these behaviours has the potential to enhance predictive models of alcohol
+
+consumption
+
+What does this study add?
+ The frequency with which students drink alcohol on nights out with friends may be reduced by
+
+disrupting performance of behaviours that serve as reliable precursors to alcohol consumption
+ Attempts to reduce excessive drinking, however, might seek to disrupt the habitual way alcohol is
+
+drunk within consumption episodes
+
+Background
+More than 88,000 people die from alcohol-related causes in the USA annually (Centres for
+Disease Control & Prevention, 2020). Frequent drinking increases the risk of developing
+negative health conditions, such as cancer, coronary heart disease, and liver cirrhosis
+(World Health Organization, 2018). Additionally, excessive drinking (i.e., women
+drinking four or more glasses, or men drinking five or more glasses, during a single
+episode; NIAAA, 2004) has been linked to short-term negative outcomes, like blackouts,
+drink driving, unsafe sex, and vomiting (Department of Health, 2016). University students
+drinkmore frequently and excessively than their peers (Davoren,Demant, Shiely, &Perry,
+2016). UK university students engage more in excessive drinking than do students from
+other European countries (Cooke et al., 2019).
+
+Developing effective interventions to reduce university students’ alcohol consump-
+tion requires identification of reliable predictors of consumption patterns. Existing
+interventions have typically followed the Reasoned Action Approach, which portrays
+individuals’ consumption as the outcome of deliberative decision-making (Cameron et al.,
+2015; Epton et al., 2014; Norman et al., 2018; Norman, Webb, & Millings, 2019). Several
+models used to predict alcohol consumption adopt a Reasoned Action Approach (Ajzen,
+1991; Cox & Klinger, 1988; Oei & Moraskwa, 2004). For example, Ajzen’s (1991) Theory
+of Planned Behaviour (TPB) proposes that intentions to act are the proximal determinant
+of behaviour. Intentions result from weighing the pros and cons of drinking (attitudes),
+perceptions of social approval for drinking (subjective norms), and perceptions of
+behavioural control over drinking (PBC). Evidence supports the claim that intentions
+predict consumption prospectively (Barratt & Cooke, 2018; Cooke, Sniehotta, & Schuz,
+2007; Norman & Conner, 2006; Norman, Conner, & Stride, 2012) and a recent meta-
+analysis noted a large-sized correlation between intentions and prospective consumption
+(Cooke, Dahdah, Norman, & French, 2016).
+
+The Reasoned Action Approach neglects the potential for behaviour to proceed
+automatically (Bargh, 1994). Dual process models propose that action can arise from two
+information processing systems (e.g., Strack & Deutsch, 2004). The reflective system is
+deliberative and akin to the Reasoned Action Approach: Upon encountering a context
+demanding action, we reflect on the utility of available options and contextual demands
+and forms an intention to act. Cognitive effort is required to translate intentions into
+
+ 20448287, 2021, 2, Downloaded from https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12489 by <Shibboleth>-member@warwick.ac.uk, Wiley Online Library on [16/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+
+Preparatory behaviours and alcohol consumption 345
+
+action. The impulsive system, however, generates action non-consciously: Encountering
+contexts activates non-conscious associations, which in turn trigger impulses to act,
+without deliberation. Unless inhibited by stronger, competing impulses, these impulses
+trigger action rapidly, efficiently, and automatically, potentially without awareness,
+control, or intention. The impulsive system is constantly active, so is the default system for
+behaviour regulation; people only engage the deliberative systemwhere they possess the
+required cognitive resources. For example, when people are stressed, distracted, or lack
+willpower, they are more likely to act in line with associations than conscious intentions
+(Neal, Wood, & Drolet, 2013).
+
+The predictive utility of the Reasoned Action Approach can be enhanced by
+considering impulsive processes, like habit, as additional determinants of consump-
+tion (Gardner, de Bruijn, de Bruijn, & Lally, 2012; Murray & Mullan, 2019; Norman,
+2011). Habit is a process whereby encountering a context automatically activates
+impulses to act, based on learned context-action associations (Gardner, 2015). Habit
+forms through repeatedly performing an action in a given setting (Lally, van Jaarsveld,
+Potts, & Wardle, 2010), such as drinking alcohol with friends in the same bar or pub
+on multiple occasions. Performance reinforces context-action associations, such that
+the associated action becomes more mentally accessible in memory (Danner, Aarts, &
+de Vries, 2008; Neal et al., 2013), and context cues acquire the potential to
+automatically instigate associated actions (Bargh, 1994; Gardner, Phillips, & Judah,
+2016; Neal, Wood, Labrecque, & Lally, 2012). Although they typically form through
+repetition of intended actions, habits can continue to direct behaviour even where
+conscious intentions shift (Gardner, Lally, & Rebar, 2020; Landis, Triandis, &
+Adamopoulos, 1978). For example, a student who forms habits supporting an initially
+desired goal of excessive drinking may continue to drink to excess even when their
+conscious motivation erodes.
+
+Systems-based approaches argue that all behaviours are located within a complex
+network of behaviours, such that enactment of one behaviour may activate enactment
+of another (Michie, Atkins, & West, 2014). From this perspective, Reasoned Action
+Approach models can be developed beyond augmentation with habit by additionally
+considering behaviours that precede alcohol consumption, like contacting friends
+about going out later, buying alcohol, or drinking at home before going out. For
+example, individuals who more frequently contact friends prior to a drinking night
+might be expected to drink more frequently, because contacting friends provides
+support for consumption by identifying others who share the same goal. Buying
+alcohol in advance of a night out can also promote consumption: Groefsema, Luijten,
+Engels, and Kuntsche (2019) found that drinkers who start drinking earlier (i.e., pre-
+drinking, Caudwell & Hagger, 2014) increase their drinking rate compared with
+drinkers who start drinking later. In sum, greater frequency of engaging in
+preparatory actions may act as a precursor to greater frequency and quantity of
+alcohol consumption. If correct, alcohol reduction might be achieved by targeting the
+behaviours that precede consumption, rather than targeting consumption behaviour
+directly (Michie et al., 2014). This makes it important to establish whether
+preparatory behaviour performance frequency adds to prediction of consumption
+over and above Reasoned Action Approach and habitual variables.
+
+Beyond the frequencyof performance of preparatory behaviours, it is also possible that
+such behaviours can become habitual themselves. With university students living
+together in shared accommodation, it is easy to imagine how such habits could develop;
+for example, students may contact their friends in advance of nights out in consistent
+
+ 20448287, 2021, 2, Downloaded from https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12489 by <Shibboleth>-member@warwick.ac.uk, Wiley Online Library on [16/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+
+346 Richard Cooke et al.
+
+settings, so developing associations between settings andbehaviours that give rise to habit
+formation (Lally et al., 2010). Habit has been found to predict future behaviour when
+controlling for past behaviour frequency, suggesting that the habitual nature of a
+behaviour can influence future performance independently of prior frequency (Allom,
+Mullan, & Sebastian, 2013, Study 2). Whereas behaviour frequency assesses whether an
+action is undertaken, habit captures the manner in which it is initiated, which may
+enhance prediction. For example, people who habitually opt to drink alcohol may
+perhaps find it harder to halt a drinking session, such that stronger alcohol consumption
+habit may contribute to excessive drinking. Likewise, people who habitually initiate
+preparatory actions may engage in those actions in a way that enhances the likelihood or
+quantity of later alcohol consumption. People who unthinkingly drink at home prior to a
+night out, for example, may be more likely than non-habitual drinkers to consume more
+alcohol in preparation for the night, which in turn can enhance the likelihood both of
+going on a night out and of drinking excessively during the night (Pedersen & LaBrie,
+2007).
+
+The present study
+Understanding the determinants of behaviour can aid the development of behaviour
+change initiatives, and interventions focusing on actions that reliably precede a target
+behaviour have thepotential to bring about change in target behaviours (Kaushal, Rhodes,
+Spence, & Meldrum, 2017; see too Gardner, Rebar, & Lally, 2019). The present study was
+undertaken to investigatewhether preparatory behaviours, and habit for performing such
+behaviours, augment prediction of drinking frequency and excessive drinking on nights
+out, over and above the impact of alcohol consumption intentions and habit. Past
+literature supports two opposing predictions. Proponents of the Reasoned Action
+Approach would argue that cognitions towards a target action should encapsulate any
+impact of preparatory actions (Ajzen, 2002); if a person engages in a preparatory
+behaviour observed to consistently precede alcohol consumption, this action should
+make alcohol consumption more desirable or favourable in some way, so influencing
+attitudinal, normative, or control beliefs towards consumption. Alcohol intentions should
+therefore mediate effects of preparatory actions on alcohol consumption, such that
+frequency and habit for preparatory actions should have no influence above and beyond
+alcohol intentions. Conversely, because people do not always fully consider the features
+of available options when forming intentions (Bagozzi, Baumgartner, & Yi, 1989; Sheeran
+& Conner, 2019), a model augmented with measures of cognitions towards related
+behaviours might have greater predictive utility (Gardner & Abraham, 2010). Assessing
+engagement in and habit for preparatory behaviours might therefore be expected to
+enhance explanation of alcohol consumptionwhen controlling for alcohol intentions and
+habits.
+
+Method
+Elicitation study
+Preparatory behaviours were selected on the basis of an elicitation study with a sample of
+15 students aged 18–25 years who did not complete the main study. They were asked to
+identify specific actions they reliably carry out before going drinking on a night out with
+friends, that serve as preparation for going out. Three distinct behaviours were identified:
+
+ 20448287, 2021, 2, Downloaded from https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12489 by <Shibboleth>-member@warwick.ac.uk, Wiley Online Library on [16/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+
+Preparatory behaviours and alcohol consumption 347
+
+contacting friends to arrange a night out; buying alcohol to drink at home before going
+out; and drinking alcohol alone at home before going out.
+
+Main study
+
+Participants, design, and procedure
+Ethical approval was granted by the host university (MRSU-19/20-14776). A prospective
+design was used. UK university students were invited to complete two online
+questionnaires. At baseline, measures were taken of demographics, alcohol consumption
+intentions and habit, and frequency and habit for each of the three presumed preparatory
+behaviours (contacting friends; buying alcohol; drinking alcohol alone at home). One
+week later, measures were taken of two alcohol consumption indices: the number of
+nights out with friends on which any alcohol was drunk (hereafter ‘drinking frequency’),
+and the number of such nights on which four or more alcoholic drinks were consumed
+(hereafter ‘excessive drinking’).
+
+Participant eligibility criteria were (1) drink alcohol at least occasionally, (2) aged
+18–25 years, and (3) UK university student. Participants were recruited by disseminating
+the studyURL on socialmedia (Facebook, Instagram), flyers posted around host university
+sites, and via an internal advertisement emailed to students at the host university.
+Participants provided their email address at baseline, allowing us to invite them to
+complete follow-up measures. Those who completed both questionnaires were entered
+into a prize draw towin one of two £25 (~$31) gift vouchers. Datawere collected between
+November 2019 and February 2020.We paused recruitment between 16 December 2019
+and 17 January 2020 to ensure that data collection did not fall over the holiday period,
+when alcohol consumption patterns may be higher than normal (Tremblay et al., 2010).
+
+One hundred and sixty-two UK university students completed the baseline question-
+naire. After removing six participants reportedly older than 25 years, our baseline sample
+comprised 156 participants (87 female, 66 male, three non-binary, mean age = 20.79,
+SD = 1.61). Thirty-six participants (23%) were lost to follow-up. Our final sample
+comprised 120 participants (68 female, 50 male, 2 non-binary; mean age = 20.78 years,
+SD = 1.52, range 18–24 years). Almost half (48%,N = 58)were in their third year of study
+(1st year N = 22; 2nd year N = 18; 4th year N = 22). Study completers did not differ to
+those lost to follow-up on any variable (all p’s> = .21).
+
+The final sample met power requirements: A priori power analysis using GPower 3.1,
+assuming a medium effect size for regression, with eight predictor variables, alpha set to
+.05 and power set to .8, indicated that 109 participants were needed.
+
+Measures
+All measures were self-reported. Alcohol consumption and preparatory behaviour
+frequency variables were reported numerically using free response. All other variables
+were measured using 1–7 Likert scales, with reverse scoring where necessary.
+
+Alcohol consumption. Participants answered three questions related to socializing and
+drinking alcohol on nights out: ‘In the last twoweeks, on howmany nights did you go out
+with your friends?’, ‘Of those nights that you went out with your friends in the last two
+weeks, on howmany did you drink alcohol?’ (drinking frequency), ‘Out of the nights that
+
+ 20448287, 2021, 2, Downloaded from https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12489 by <Shibboleth>-member@warwick.ac.uk, Wiley Online Library on [16/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+
+348 Richard Cooke et al.
+
+youwent out with your friends and drank alcohol in the last twoweeks, on howmany did
+you have four or more drinks?’ (excessive drinking)1.
+
+Alcohol consumption intentionswere assessed using three items (‘[I will/I intend to/I
+plan to] drink alcohol every time I go out on a night out with my friends in the next two
+weeks’2; Definitely False–Definitely True) that were internally consistent (McDonald’s
+omega = 0.83)3.
+
+Habit was measured using the 4-item Self-Reported Behavioural Automaticity Index
+(SRBAI) (Gardner, Abraham, Lally, & de Bruijn, 2012; Verplanken & Orbell, 2003).
+Participants were given a stem to assess habitual instigation of alcohol consumption and
+each preparatory behaviour (Gardner et al., 2016): ‘Deciding to [drink alcohol on a night
+out with friends/contact my friends to arrange to go on a night out/buy alcohol to drink at
+home before going on a night outwith friends/drink onmy own at home before going on a
+night out with friends] is something I do. . .’ (‘automatically’, ‘without being consciously
+aware’, ‘without thinking’, ‘before I realise I have done it’; Strongly Disagree–Strongly
+Agree). Reliable composite four-item measures were computed for each habit index
+(McDonald’s omega range: 0.69–0.78).
+
+Preparatory behaviour frequency. For each preparatory behaviour, participants
+completed a single item: ‘Of those nights that you went out with your friends, in the
+last two weeks, on how many did you [contact your friends/buy alcohol/drink alcohol at
+home on your own] before going out?’
+
+Data analysis
+Descriptive statistics and intercorrelations were computed in JASP 0.12.2. Bivariate
+correlations (rs) of .10, .30, and .50 were interpreted as small, medium, and large effects,
+respectively (Cohen, 1992).
+
+Stepwise multivariate regression analyses were run to model variation in drinking
+frequency and excessive drinking respectively, using eight predictors (alcohol consump-
+tion intentions and habit, and respective frequency and habit of each of contacting
+friends, buying alcohol, and drinking alcohol alone at home). For drinking frequency,
+which ranged from zero to five nights, we ran a hierarchical linear regression. For
+excessive drinking, which ranged from zero to three nights, we created a dummy variable
+(with zero representing zero episodes and one representing all other values) and ran a
+hierarchical logistic regression. For bothmodels, predictorswere entered in the following
+four steps: (1) alcohol intentions; (2) alcohol consumption habit; (3) preparatory
+behaviour (contacting friends, buying alcohol, drinking alone) frequency; and (4)
+preparatory behaviour (contacting friends, buying alcohol, drinking alone) habit.
+Regression analyses were computed in SPSS 25.
+
+1 A fourth alcohol consumption measure (‘When you went on nights out with your friends and drank alcohol in the last two weeks,
+what was the average amount of drinks you consumed each night?’) was administered but not analysed.
+2Due to human error, our intention items focused on the following two weeks, whereas behaviour was measured one week later,
+and so intention items violated the principle of compatibility (Ajzen & Fishbein, 1980). We do not, however, view this as
+problematic, because there is no reason to expect intentions relating to the coming two weeks to differ from those relating to the
+coming one week.
+3 Following Ajzen (1991), participants also completed measures of attitudes, subjective norms and PBC. Because attitudes and
+subjective norms are not proposed to directly predict behaviour, and PBC has been shown to have inconsistent effects on
+consumption, we only report intentions here.
+
+ 20448287, 2021, 2, Downloaded from https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12489 by <Shibboleth>-member@warwick.ac.uk, Wiley Online Library on [16/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+
+Preparatory behaviours and alcohol consumption 349
+
+Results
+Frequencies for behavioural and habit measures
+At both timepoints, the modal response for nights out was two. One night was the most
+common drinking frequency at baseline, while at follow-up, zero nights was the most
+frequent response. Zero was the most frequent response for excessive drinking at both
+timepoints. Most participants reported going out at both baseline (84.17%) and follow-up
+(75.00%), and drinking frequency was reported on at least one occasion for most
+participants at baseline (81.67%) and follow-up (66.67%). Also,most participants reported
+excessive drinking at least once at baseline (60%) and follow-up (53.33%). Our sample
+thus mainly comprised individuals who drank fairly infrequently during the study period.
+
+At baseline, modal responses for preparatory behaviours were one for contacting
+friends, and zero for buying alcohol and drinking alone: 72.50% of participants reported
+contacting friends at least once; 51.67% buying alcohol at least once; 25.67% of
+participants reported drinking alone before going out. At follow-up, the modal response
+for all three variables was zero though most participants (53.33%) reported contacting
+friends at least once. Preparatory behaviour performance appeared to decline over the
+two timepoints and contacting friendswasmore common thanbuying alcohol,whichwas
+more common than drinking alone before going out. Comprehensive behavioural
+frequency data are available in a Table S1.
+
+Descriptive statistics and intercorrelations
+On average, participants reported 1.20 drinking nights, and 0.83 excessive drinking
+episodes (Table 1). Average alcohol consumption habit scores were near the scale
+midpoint (M = 3.93). Scores for contacting friends habit (M = 3.32) appeared higher
+than those for buying alcohol habit (M = 3.06), which in turn, were higher than drinking
+alone habit (M = 2.28). Alcohol intentions were above-midpoint (M = 4.15), suggesting
+participants intended to drink alcohol in the study period.
+
+Drinking frequency had medium-sized correlations with alcohol intentions (r = .35),
+alcohol consumption habit (r = .34), and frequency of contacting friends (r = .30),while
+excessive drinking had medium-sized relationships with alcohol consumption habit
+(r = .42), alcohol intentions (r = .36), and buying alcohol habit (r = .32). Most
+correlations were however small, indicating no obvious multi-collinearity.
+
+Predicting drinking frequency
+Alcohol intentions accounted for 12% of the variance in drinking frequency at step 1
+(F = 16.27, p < .001; Table 2). Entry of alcohol consumption habit at step 2 did not
+increase explained variance ( 2
+
+R change = 0.03, F Change = 3.75, p = 0.06) and the
+model fit the data less well (F = 10.20, p < .001). Entry of contacting friends and buying
+alcohol frequency measures at step 3 did not improve the model fit ( 2
+
+R change = 0.04; F
+change = 2.10; p = .10). Entering the preparatory behaviour habit indices at step 4 did
+not improve model fit ( 2
+
+R change = 0.04; F change = 1.92; p = .13). In this model,
+around a quarter of variance in drinking frequency was accounted for ( 2
+
+R = .23,
+p < .001), with frequency of contacting friends (B = .28, SE = .12, p = .02) and drinking
+alone habit (B = .20, SE = .09, p = .03) the only significant predictors. In sum, higher
+drinking frequency was predicted by greater frequency of contacting friends and higher
+scores on the drinking alone habit.
+
+ 20448287, 2021, 2, Downloaded from https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12489 by <Shibboleth>-member@warwick.ac.uk, Wiley Online Library on [16/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+
+350 Richard Cooke et al.
+
+Table 1. Descriptive statistics and intercorrelations between study variables (N = 120)
+
+Variable 2. 3. 4. 5. 6. 7. 8. 9. 10. Mean SD
+
+1. Drinking frequency .86*** .35*** .34*** .30*** .20* .08 .25** .25** .26** 1.20 1.12
+2. Excessive drinking .36*** .42*** .22* .26** .14 .27** .32*** .25** 0.83 0.93
+3. Alcohol Intentions .62*** .41*** .37*** -.01 .26** .37*** .13 4.15 1.77
+4. Alcohol consumption habit .17 .23 .08 .33*** .66*** .36*** 3.93 1.60
+5. Contacting friend frequency .47*** .03 .23* .08 -.04 1.17 0.92
+6. Buying alcohol frequency .34*** .32*** .33*** .16 0.73 0.91
+7. Drinking alone frequency .16 .15 .27** 0.30 0.54
+8. Contacting friend habit .49*** .16 3.32 1.39
+9. Buying alcohol habit .53*** 3.06 1.55
+10. Drinking alone habit – 2.28 1.22
+*p < .05; **p < .01; ***p < 0.001.
+
+ 20448287, 2021, 2, Downloaded from https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12489 by <Shibboleth>-member@warwick.ac.uk, Wiley Online Library on [16/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+
+Preparatory behaviours and alcohol consumption 351
+
+Table 2. Prediction of drinking frequency: Hierarchical linear regression analysis (unstandardized
+regression coefficients) (N = 120)
+
+Step Variable entered Step 1 Step 2 Step 3 Step 4
+
+1 Alcohol intentions .22 (.06)*** .14 (.07) .08 (.07) .09 (.07)
+2 Alcohol consumption habit .15 (.08) .17 (.08)* .12 (.09)
+3 Contacting friend frequency .29 (.12)* .29 (.12)*
+
+Buying alcohol frequency −.07 (.13) −.08 (.13)
+Drinking alone frequency .16 (.19) .05 (.19)
+
+4 Contacting friend habit .10 (.08)
+Buying alcohol habit −.06 (.10)
+Drinking alone habit .20 (.09)*
+
+R2 .12 .15 .19 .23
+ΔR2 .03 .04 .04
+Model F 16.27*** 10.20*** 5.45*** 4.21***
+ΔModel F 3.75 2.10 1.92
+
+Note. Standard errors are reported in parentheses.
+*p < .05; **p < .01; ***p < 0.001.
+
+Predicting excessive drinking
+The model at step 1, consisting of alcohol intentions alone, was significantly predictive
+(chi-square = 12.85, p = .001; Table 3). Entering alcohol consumption habit at step 2
+improved the previous model (chi-square = 20.31, p < .001), with alcohol consumption
+habit the only predictor (B = .77, SE = .20, p < .001). Neither entry of preparatory
+behaviour frequency at step 3 (Chi-Square = 2.75, p = .43), nor preparatory behaviour
+habit at step 4 (Chi-Square = 1.10, p = .78), improved themodel. In bothmodels, alcohol
+consumptionhabitwas the only significant predictor (step 3:B = .76, SE = .20,p < .001;
+step 4: B = .67, SE = .23, p = .003). Overall, excessive drinking was predicted by higher
+alcohol consumption habit scores.
+
+Discussion
+The present study tested whether frequent or habitual engagement in three behaviours
+that serve as preparation for subsequent alcohol consumption – contacting friends to
+
+Table 3. Prediction of excessive drinking: Hierarchical logistic regression analysis (unstandardized
+regression coefficients) (N = 120)
+
+Step Variable entered Step 1 Step 2 Step 3 Step 4
+
+1 Alcohol intentions .39 (.12)** .04 (.16) .04 (.17) .06 (.18)
+2 Alcohol consumption habit .77 (.20)*** .76 (.20)*** .67 (.23)**
+3 Contacting friend frequency −.05 (.29) −.05 (.30)
+
+Buying alcohol frequency .20 (.32) .12 (.33)
+Drinking alone frequency .49 (.43) .42 (.44)
+
+4 Contacting friend habit .09 (.18)
+Buying alcohol habit .04 (.23)
+Drinking alone habit .13 (.23)
+
+Note. Standard errors are reported in parentheses.
+**p < .01; ***p < 0.001. All other p’s>.05
+
+ 20448287, 2021, 2, Downloaded from https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12489 by <Shibboleth>-member@warwick.ac.uk, Wiley Online Library on [16/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+
+352 Richard Cooke et al.
+
+arrange a night out, buying alcohol, and drinking alcohol at home before a night out –
+boosted prediction of UK university students’ alcohol consumption on nights out. The
+frequency with which any alcohol was drunk on nights out with friends (i.e., drinking
+frequency) was predicted by the frequency with which participants contacted friends
+prior to a night out, and the habit of drinking alone before going out. The number of such
+nights on which four or more drinks were consumed (i.e., excessive drinking), however,
+was only predicted by alcohol consumption habits. While preparatory behaviours
+contributed to prediction of only one of the two modelled outcomes, and explained only
+8% additional variance in that outcome, our findings suggest that targeting preparatory
+behaviours has the potential to enhance alcohol consumption reduction interventions.
+
+Drinking frequency
+Previous studies applying the Reasoned Action Approach have shown that alcohol
+intentions consistently predict UK university students’ alcohol consumption (Barratt &
+Cooke, 2018; Cooke et al., 2007; Norman & Conner, 2006; Norman et al., 2012), and
+that these effects remain even when accounting for the effects of alcohol consumption
+habit (Gardner, Abraham, et al., 2012; Norman, 2011). However, these studies did not
+include measures of preparatory behaviour frequency and habits as alternative
+determinants of consumption. Such studies have assumed, as proposed by Ajzen
+(1991, 2002), that preparatory behaviours, like other variables not part of the TPB,
+influence consumption only indirectly by rendering a target behaviour more or less
+attractive, more or less likely to gain social approval, or more easy or difficult to
+perform, so influencing attitudes, subjective norms or PBC affecting intentions. Results
+from the present study cast doubt on this assumption by showing that frequency of
+contacting friends to arrange a night out, and habitually drinking alone at home before
+going out, had direct effects on drinking frequency, while alcohol intentions and
+alcohol consumption habits did not.
+
+It is possible that our participants overlooked information relating to preparatory
+behaviours when formulating their intentions. People often make decisions regarding
+familiar actions based only on subsets of available information (Verplanken, Aarts, & van
+Knippenberg, 1997). This would explain not only that intentions did not mediate the
+relationship between preparatory behaviours and drinking frequency, but also that
+intentions did not predict alcohol consumption; intentions based on more extensive
+appraisals of available information more strongly predict later behaviour (Sheeran &
+Conner, 2019). Nonetheless, our findings point to the potential importance of accounting
+for cognitions towards and engagement in preparatory behaviours when modelling
+alcohol consumption frequency.
+
+Correlations point to possiblemechanisms bywhich preparatory behaviours co-occur
+to increase drinking frequency. Participants who contacted friends to arrange a night out
+were more likely to buy alcohol, and while there was no correlation between contacting
+friends and drinking alone before a night out, buying alcohol correlated positively with
+drinking alone. Taken together, these observations profile some participants as social
+drinkers (i.e., thosewho enjoy drinking alcohol, but also possess high drinking refusal self-
+efficacy; Morawska & Oei, 2005), for whom drinking alcohol is part of a broader episode
+characterized by approaching friends, buying alcohol and subsequently going out with
+friends. For this type of drinker, contacting friends likely triggers a subsequent sequence
+of socializing behaviours, in which alcohol plays a significant role. Drinking alone is often
+portrayed as a sign of a more problematic drinker, differentiated from social drinkers by
+
+ 20448287, 2021, 2, Downloaded from https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12489 by <Shibboleth>-member@warwick.ac.uk, Wiley Online Library on [16/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+
+Preparatory behaviours and alcohol consumption 353
+
+enjoying drinking but also reporting low drinking refusal self-efficacy (Morawska & Oei,
+2005). Habit for drinking alone before going out directly predicted drinking frequency,
+suggesting that individuals for whom find drinking alone in preparation for a night out is
+automatic drink frequently. These findings point to the profile of the lone drinker, for
+whompreparing for a night out involves buying and consuming alcohol alone as opposed
+to social drinkers who buy alcohol before joining a drinking group. Alternatively, lone
+drinkers may perhaps be more likely to decide to go on a night out after consuming
+alcohol.
+
+The habitual nature of such sequences among our participants is cause for concern.
+Habitual actions proceed automatically, potentially outside of conscious awareness or
+control, and so alcohol consumption driven by habit may be harder to disrupt than
+consumption driven by socialmotives. Further research is needed to identify the interplay
+between preparatory behaviours, and whether and to what extent such interplay may
+vary across different profiles of student drinkers.
+
+Excessive drinking
+Alcohol consumption habit was the only variable to predict the number of nights out
+during which students drank excessively. This result, which echoes previous studies
+showing habit to play a core role in binge drinking (Gardner, de Bruijn, et al., 2012;
+Murray & Mullan, 2019; Norman, 2011), suggests that people who drink to excess do
+so because they are driven by habits that sustain consumption of alcohol drinks within
+a drinking episode. Commentators have discerned two manifestations of habit in
+behaviour (Gardner et al., 2016; Phillips & Gardner, 2016). ‘Habitual instigation’ refers
+to the habitual selection of action from available alternatives; for example, habitually
+opting to contact friends about a night out, rather than watch TV. The observed effect
+of alcohol consumption habit on excessive drinking frequency is, however, more likely
+to capture ‘habitual execution’, which pertains to performance, with habit aiding
+progression through the ‘smaller’ acts that together comprise a higher-order action.
+While we sought to measure the habitual instigation of alcohol consumption and
+preparatory actions, the wording of our measures (e.g., ‘deciding to drink alcohol on a
+night out with friends’) may potentially have captured habitual execution. Our findings
+may therefore reflect that, among our participants, finishing one drink acted as a trigger
+to habitually seek and consume further drinks, so increasing the alcohol consumption
+involved in the higher-order act of ‘going on a night out’. Impulses generated by habit
+are by definition difficult to inhibit, often being activated outside of awareness and
+control, and possibly without or despite intentions (Bargh, 1994; Triandis, 1977).
+Inhibiting impulses to continue drinking requires willpower and self-control (Muraven,
+Collins, & Neinhaus, 2002; Neal et al., 2013; Quinn, Pascoe, Wood, & Neal, 2010).
+Alcohol consumption facilitates automatic action (Vogel-Sprott, Easdon, Fillmore, Finn,
+& Justus, 2001), and so, ironically, it may become harder to resist alcohol consumption
+habits as more alcohol is consumed. Interventions to reduce excessive alcohol
+consumption might therefore focus on interrupting the habitual ‘flow’ of excessive
+drinking episodes.
+
+Implications and future directions
+Our findings have both theoretical and practical implications. From a theoretical
+standpoint, findings suggest that, while drinking frequency and excessive drinking were
+
+ 20448287, 2021, 2, Downloaded from https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12489 by <Shibboleth>-member@warwick.ac.uk, Wiley Online Library on [16/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+
+354 Richard Cooke et al.
+
+strongly positively correlated, they can be predicted by different psychological variables.
+This echoes previous research; for example, Baldwin, Oei, and Young (1993) showed that
+while drinking frequency was predicted by drinking refusal self-efficacy, drinking
+quantity was predicted by alcohol expectancies. Excessive drinking appears to be a
+function of alcohol consumption habits that develop over time, whereas drinking
+frequency is seemingly determined bymultiple routes that involve drinking alone or with
+others before a night out. More research on the influence of preparatory behaviours is
+needed to confirm our findings.
+
+From a practical standpoint, our results offer recommendations for intervention
+strategies to reduce alcohol consumption. Interventions that seek to encourage people to
+consider alternative courses of action should beplaced at or immediately prior to thepoint
+at which the key decision regarding such actions is made (Lewis & Eves, 2012). While the
+role of ‘pre-drinking’ prior to attending a subsequent alcohol consumption event is well-
+established (Pedersen & LaBrie, 2007), we identified specific actions, such as contacting
+friends to arrange a night out or drinking alone at home, that are performed in preparation
+for later consumption. The observed impact of preparatory behaviours on alcohol
+consumption in our data was modest; three presumed preparatory behaviours were
+considered, and eachwasmeasuredwith respect to performance frequency and habit, yet
+only two measures predicted consumption frequency, and none predicted excessive
+drinking. Nonetheless, interventions to reduce student drinking frequency might
+fruitfully target such preparatory actions. This is not to say that interventions must seek
+to prevent people from engaging in preparatory behaviours such as contacting friends.
+Rather, such behaviours may represent pivotal moments around which interventions
+might be built. Digital interventions might seek to target opportune moments, such as at
+times of day when students are likely to be forming decisions to engage in preparatory
+actions, or in locations associated with such actions. For instance, public health
+campaigns might be run on social media, which many students use to make contact with
+friends (Vorderer, Krömer, & Schneider, 2016).
+
+Interventions to reduce excessive drinking might focus on disrupting momentary
+habits that sustain and extend drinking episodes. Habit theory offers three distinct
+strategies for ‘breaking’ such ‘bad’ habits, which all require identification of cues to such
+responses (Gardner et al., 2020). Students might be encouraged to: avoid cues conducive
+to prolonged consumption;monitor cues and inhibit the translation of habit impulses into
+behaviour upon encountering such cues (via, e.g., reminding oneself not to act in
+triggering contexts; Quinn et al., 2010); or seek to consistently perform competing
+actions (e.g. consuming non-alcoholic drinks) in response to such cues, so as to form a
+new, stronger habit to displace habitual alcohol consumption. Further research is needed
+to identify the most effective of these strategies to disrupt habitually executed alcohol
+consumption episodes.
+
+Limitations
+Limitations must be acknowledged. Follow-up data were collected one week after
+baseline, so our results may not reflect patterns of prediction over longer timeframes. Our
+reliance on self-report data more broadly is problematic, because people often both strive
+for consistency in their reported behaviour and cognitions (Paulhus & Vazire, 2007), and
+under-report true alcohol consumption (Stockwell et al., 2004). Further work might test
+the robustness of findings using less subjective behavioural assessments. Our alcohol
+consumption intention and habit measures, which related only to drinking frequency,
+
+ 20448287, 2021, 2, Downloaded from https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12489 by <Shibboleth>-member@warwick.ac.uk, Wiley Online Library on [16/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+
+Preparatory behaviours and alcohol consumption 355
+
+lacked compatibility with the outcome variable when modelled as determinants of
+excessive drinking (Ajzen & Fishbein, 1977). This may explain the discrepancy between
+our results, whereby alcohol consumption intentions had no impact on excessive
+drinking when controlling for habit, and previous research, using compatible measures,
+which found both intentions and habit to influence excessive drinking (Gardner, de
+Bruijn, et al., 2012; Murray &Mullan, 2019; Norman, 2011). Replication using compatible
+measures iswarranted.Our study focused on only three potential preparatory behaviours,
+identified via a elicitation exercise among just 15 students. Yet,which behaviours aremost
+important in preparing for later alcohol consumption is likely to differ between
+individuals. Future research might identify a broader range of common preparatory
+behaviours, and the common sequences in which these occur, to inform optimally
+effective population-level interventions.
+
+Conclusion
+The frequency and habitual nature of engagement in behaviours that precede alcohol
+consumption on nights out with friends may improve prediction of the number of
+occasions on which alcohol is consumed. Our findings endorse a systems approach to
+understanding and changing alcohol consumption, based on identifying and targeting
+behaviours that increase the likelihood of later alcohol consumption. Future work should
+identify common preparatory behaviours that most reliably predict alcohol consumption,
+and the mechanisms via which they influence consumption.
+
+Acknowledgements
+This study received no external funding.
+
+Conflicts of interest
+All authors declare that they have no conflicts of interest.
+
+Author contributions
+Richard Cooke (Conceptualization; Data curation; Formal analysis; Methodology; Writing
+– original draft; Writing – review & editing) Olivia Bailey (Conceptualization; Formal
+analysis; Investigation; Methodology; Writing – review & editing) Janine Jennings
+(Conceptualization; Formal analysis; Investigation; Methodology; Writing – review &
+editing) Chun Yuen (Conceptualization; Formal analysis; Investigation; Methodology;
+Writing – review & editing) Benjamin Gardner (Conceptualization; Methodology; Project
+administration; Supervision; Writing – original draft; Writing – review & editing).
+
+Data availability statement
+The data that support the findings of this study are available on reasonable request from the
+corresponding author, BG.
+
+ 20448287, 2021, 2, Downloaded from https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12489 by <Shibboleth>-member@warwick.ac.uk, Wiley Online Library on [16/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+
+356 Richard Cooke et al.
+
+References
+Ajzen, I. (2002). Residual effects of past on later behavior: Habituation and reasoned action
+
+perspectives. Personality and Social Psychology Review, 6, 107–122. https://doi.org/10.1207/
+S15327957PSPR0602_02
+
+Ajzen, I. (1991). The theory of planned behavior. Organizational Behavior and Human Decision
+Processes, 50, 179–211. https://doi.org/10.1016/0749-5978(91)90020-T
+
+Allom, V., Mullan, B., & Sebastian, J. (2013). Closing the intention–behavior gap for sunscreen use
+and sun protection behaviours. Psychology and Health, 28, 477–494. https://doi.org/10.1080/
+08870446.2012.745935
+
+Bagozzi, R. P., Baumgartner, J., & Yi, Y. (1989). An investigation into the role of intentions as
+mediators of the attitude-behavior relationship. Journal of Economic Psychology, 10, 35–62.
+https://doi.org/10.1016/0167-4870(89)90056-1
+
+Baldwin, A. R., Oei, T. P. S., & Young, R. (1993). To drink or not to drink: The differential role of
+alcohol expectancies and drinking refusal self-efficacy in quantity and frequency of alcohol
+consumption. Cognitive Therapy and Research, 17, 511–530. https://doi.org/10.1007/
+BF01176076
+
+Bargh, J. A. (1994). The four horsemenof automaticity: Awareness, intention, efficiency, and control
+in social cognition. In R. S. Wyer Jr, & T. K. Srull (Eds.), Handbook of social cognition: Basic
+processes; applications (pp. 1–40). Mahwah, NJ: Lawrence Erlbaum Associates Inc.
+
+Barratt, J. M., & Cooke, R. (2018). Do gender and year of study affect the ability of the theory of
+planned behavior to predict binge-drinking intentions and episodes? Drugs: Education.
+Prevention and Policy, 25, 181–188. https://doi.org/10.1080/09687637.2016.1257564
+
+Cameron, D., Epton, T., Norman, P., Sheeran, P., Harris, P. R., Webb, T. L., . . . Shah, I. (2015). A
+theory-based online health behavior intervention for new university students (U@Uni:
+LifeGuide): results from a repeat randomized controlled trial. Trials, 16, 555. https://doi.org/
+10.1186/s13063-015-1092-4
+
+Caudwell, K. M., & Hagger, M. S. (2014). Pre-drinking and alcohol-related harm in undergraduates:
+The influence of explicit motives and implicit alcohol identity. Journal of Behavioural
+Medicine, 37, 1252–1262. https://doi.org/10.1007/s10865-014-9573-6
+
+Centres for Disease Control and Prevention. (2020). Alcohol and Public Health: Alcohol-Related
+Disease Impact (ARDI). https://nccd.cdc.gov/DPH_ARDI/default/default.aspx#:~:text=Alc
+ohol%2DRelated%20Disease%20Impact%20(ARDI)%20Application. Accessed October 25,
+2020.
+
+Cohen, J. (1992). A power primer. Psychological Bulletin, 112, 155–159. https://doi.org/10.1037/
+0033-2909.112.1.155
+
+Cooke, R., Beccaria, F., Demant, J., Fernandes-Jesus, M., Fleig, L., Negreiros, J., . . . de Visser, R.
+(2019). Patterns of alcohol consumption and alcohol-related harm among European university
+students. European Journal of Public Health, 29, 1125–1129. https://doi.org/10.1093/
+eurpub/ckz067
+
+Cooke, R., Dahdah, M., Norman, P., & French, D. P. (2016). How well does the theory of planned
+behavior predict alcohol consumption? A systematic review and meta-analysis. Health
+Psychology Review, 10, 148–167. https://doi.org/10.1080/17437199.2014.947547
+
+Cooke, R., Sniehotta, F., & Schuz, B. (2007). Predicting binge-drinking behavior using an extended
+TPB: Examining the impact of anticipated regret and descriptive norms. Alcohol and
+Alcoholism, 42, 84–91. https://doi.org/10.1093/alcalc/agl115
+
+Cox, W. M., & Klinger, E. (1988). A motivational model of alcohol use. Journal of Abnormal
+Psychology, 97, 168–180. https://doi.org/10.1037/0021-843X.97.2.168
+
+Danner, U. N., Aarts, H., & de Vries, N. K. (2008). Habit vs. intention in the prediction of future
+behavior: The role of frequency, context stability and mental accessibility of past behavior.
+British Journal of Social Psychology, 47, 245–265. https://doi.org/10.1348/
+014466607X230876
+
+ 20448287, 2021, 2, Downloaded from https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12489 by <Shibboleth>-member@warwick.ac.uk, Wiley Online Library on [16/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+
+Preparatory behaviours and alcohol consumption 357
+
+Davoren, M. P., Demant, J., Shiely, F., & Perry, I. J. (2016). Alcohol consumption among university
+students in Ireland and theUnitedKingdom from2002 to 2014: A systematic review.BMCPublic
+Health, 16, 173. https://doi.org/10.1186/s12889-016-2843-1
+
+Department of Health. (2016).UKChiefMedical Officers’ Alcohol Guidelines Review: Summary of
+the new proposed guidelines. https://assets.publishing.service.gov.uk/government/uploads/
+system/uploads/attachment_data/file/489795/summary.pdf. Accessed October 25, 2020.
+
+Epton, T., Norman, P., Dadzie, A.-S., Harris, P. R., Webb, T. L., Sheeran, P., . . . Shah, I. (2014). A
+theory-based online health behavior intervention for new university students (U@Uni): Results
+from a randomised controlled trial. BMC Public Health, 14, 563. https://doi.org/10.1186/1471-
+2458-14-563
+
+Gardner, B. (2015). A review and analysis of the use of ‘habit’ in understanding, predicting and
+influencing health-related behavior.Health Psychology Review, 9, 277–295. https://doi.org/10.
+1080/17437199.2013.876238
+
+Gardner, B., & Abraham, C. (2010). Going green? Modeling the impact of environmental concerns
+and perceptions of transportation alternatives on decisions to drive. Journal of Applied Social
+Psychology, 40, 831–849. https://doi.org/10.1111/j.1559-1816.2010.00600.x
+
+Gardner, B., Abraham, C., Lally, P., & de Bruijn, G.-J. (2012). Towards parsimony in habit
+measurement: Testing the convergent and predictive validity of an automaticity subscale of the
+Self-Report Habit Index. International Journal of Behavioural Nutrition and Physical
+Activity, 9, 102. https://doi.org/10.1186/1479-5868-9-102
+
+Gardner, B., de Bruijn, G.-J., & Lally, P. (2012). Habit, identity, and repetitive action: A prospective
+study of binge-drinking in UK students: Habit, identity, and repetitive action. British Journal of
+Health Psychology, 17, 565–581. https://doi.org/10.1111/j.2044-8287.2011.02056.x
+
+Gardner, B., Phillips, L. A., & Judah, G. (2016). Habitual instigation and habitual execution:
+Definition, measurement, and effects on behavior frequency. British Journal of Health
+Psychology, 21, 613–630. https://doi.org/10.1111/bjhp.12189
+
+Gardner, B., Lally, P., & Rebar, A. L. (2020). Does habit weaken the relationship between intention
+and behavior? Revisiting the habit-intention interaction hypothesis. Social and Personality
+Psychology Compass, 14, e12553, https://doi.org/10.1111/spc3.12553
+
+Gardner, B., Rebar, A. L., & Lally, P. (2019). Amatter of habit: Recognizing themultiple roles of habit
+in health behaviour. British Journal of Health Psychology, 24, 241–249. https://doi.org/10.
+1111/bjhp.12369
+
+Groefsema, M., Luijten, M., Engels, R., & Kuntsche, E. (2019). Young adults do not catch up missed
+drinks when starting later at night—An ecological momentary assessment study. Experimental
+and Clinical Psychopharmacology, 27, 160–165. https://doi.org/10.1037/pha0000236
+
+Kaushal, N., Rhodes, R. E., Spence, J. C., & Meldrum, J. T. (2017). Increasing physical activity
+through principles of habit formation in new Gym members: A randomized controlled trial.
+Annals of Behavioral Medicine, 51, 578–586. https://doi.org/10.1007/s12160-017-9881-5
+
+Lally, P., van Jaarsveld, C. H. M., Potts, H. W. W., & Wardle, J. (2010). How are habits formed:
+Modelling habit formation in the real world. European Journal of Social Psychology, 40,
+998–1009. https://doi.org/10.1002/ejsp.674
+
+Landis, D., Triandis, H. C., & Adamopoulos, J. (1978). Habit and behavioural intentions as predictors
+of social behavior. Journal of Social Psychology, 106, 227–237. https://doi.org/10.1080/
+00224545.1978.9924174
+
+Lewis, A., & Eves, F. (2012). Prompt before the choice is made: Effects of a stair-climbing
+intervention inuniversity buildings: Prompt before the choice ismade.British Journal ofHealth
+Psychology, 17, 631–643. https://doi.org/10.1111/j.2044-8287.2011.02060.x
+
+Michie, S., Atkins, L., & West, R. (2014). The behavior change wheel: A guide to designing
+interventions. London, UK: Silverback Publishing.
+
+Morawska, A., & Oei, T. P. S. (2005). Binge drinking in university students: A test of the cognitive
+model. Addictive Behaviors, 30, 203–218. https://doi.org/10.1016/j.addbeh.2004.05.011
+
+ 20448287, 2021, 2, Downloaded from https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12489 by <Shibboleth>-member@warwick.ac.uk, Wiley Online Library on [16/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+
+358 Richard Cooke et al.
+
+Muraven, M., Collins, R. L., & Neinhaus, K. (2002). Self-control and alcohol restraint: An initial
+application of the Self-Control Strength Model. Psychology of Addictive Behaviors, 16,
+113–120. https://doi.org/10.1037/0893-164X.16.2.113
+
+Murray, K. S., & Mullan, B. (2019). Can temporal self-regulation theory and “sensitivity to reward”
+predict binge drinking amongst university students in Australia? Addictive Behaviors, 99,
+106069. https://doi.org/10.1016/j.addbeh.2019.106069
+
+National Institute on Alcohol Abuse and Alcoholism (NIAAA) (2004). NIAAA approves definition of
+binge drinking. NIAAA Newsletter. 3, 3. https://pubs.niaaa.nih.gov/publications/Newsletter/
+winter2004/Newsletter_Number3.pdf. Accessed October 25, 2020.
+
+Neal, D. T., Wood, W., & Drolet, A. (2013). How do people adhere to goals when willpower is low?
+The profits (and pitfalls) of strong habits. Journal of Personality and Social Psychology, 104,
+959–975. https://doi.org/10.1037/a0032626
+
+Neal, D. T., Wood, W., Labrecque, J. S., & Lally, P. (2012). How do habits guide behavior? Perceived
+and actual triggers of habits in daily life. Journal of Experimental Social Psychology, 48,
+492–498. https://doi.org/10.1016/j.jesp.2011.10.011
+
+Norman, P. (2011). The theory of planned behavior and binge drinking among undergraduate
+students: Assessing the impact of habit strength.Addictive Behaviors, 36, 502–507. https://doi.
+org/10.1016/j.addbeh.2011.01.025
+
+Norman, P., Cameron, D., Epton, T., Webb, T. L., Harris, P. R., Millings, A., & Sheeran, P. (2018). A
+randomized controlled trial of a brief online intervention to reduce alcohol consumption in new
+university students: Combining self-affirmation, theory of planned behavior messages, and
+implementation intentions.British Journal ofHealth Psychology,23, 108–127. https://doi.org/
+10.1111/bjhp.12277
+
+Norman, P., & Conner, M. (2006). The theory of planned behavior and binge drinking: Assessing the
+moderating role of past behavior within the theory of planned behavior. British Journal of
+Health Psychology, 11, 55–70. https://doi.org/10.1348/135910705X43741
+
+Norman, P., Conner, M. T., & Stride, C. B. (2012). Reasons for binge drinking among undergraduate
+students: An application of behavioural reasoning theory: Reasons for binge drinking. British
+Journal of Health Psychology, 17, 682–698. https://doi.org/10.1111/j.2044-8287.2012.02065.x
+
+Norman, P., Webb, T. L., & Millings, A. (2019). Using the theory of planned behavior and
+implementation intentions to reduce binge drinking in newuniversity students.Psychology and
+Health., 34, 478–496. https://doi.org/10.1080/08870446.2018.1544369
+
+Oei, T. P. S., & Morawska, A. (2004). A cognitive model of binge drinking: The influence of alcohol
+expectancies and drinking refusal self-efficacy. Addictive Behaviors, 29, 159–179. https://doi.
+org/10.1016/S0306-4603(03)00076-5
+
+Paulhus, D. L., & Vazire, S. (2007). The Self-Report Method. In R. W. Robins, R. C. Fraley & R. F.
+Krueger (Eds.),Handbook of ResearchMethods in Personality Psychology (pp. 224–239). New
+York, NY: The Guilford Press.
+
+Pedersen, E. R., & LaBrie, J. W. (2007). Partying before the party: Examining prepartying behavior
+among college students. Journal of American College Health, 56, 237–245. https://doi.org/10.
+3200/JACH.56.3.237-246
+
+Phillips, L. A., & Gardner, B. (2016). Habitual exercise instigation (vs. execution) predicts healthy
+adults’ exercise frequency. Health Psychology, 35, 69–77. https://doi.org/10.1037/hea
+0000249
+
+Quinn, J. M., Pascoe, A., Wood, W., & Neal, D. T. (2010). Can’t control yourself? Monitor those bad
+habits. Personality and Social Psychology Bulletin, 36, 499–511. https://doi.org/10.1177/
+0146167209360665
+
+Sheeran, P., & Conner, M. (2019). Degree of reasoned action predicts increased intentional control
+and reduced habitual control over health behaviours. Social Science andMedicine, 228, 68–74.
+https://doi.org/10.1016/j.socscimed.2019.03.015
+
+Stockwell, T., Donath, S., Cooper-Stanbury, M., Chikritzhs, T., Catalano, P., & Mateo, C. (2004).
+Under-reporting of alcohol consumption in household surveys: A comparison of quantity-
+
+ 20448287, 2021, 2, Downloaded from https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12489 by <Shibboleth>-member@warwick.ac.uk, Wiley Online Library on [16/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+
+Preparatory behaviours and alcohol consumption 359
+
+frequency, graduated-frequency and recent recall. Addiction, 99, 1024–1033. https://doi.org/
+10.1111/j.1360-0443.2004.00815.x
+
+Strack, F., & Deutsch, R. (2004). Reflective and impulsive determinants of social behavior.
+Personality and Social Psychology Review, 8, 220–247. https://doi.org/10.1207/
+s15327957pspr0803_1
+
+Tremblay, P. F., Graham, K., Wells, S., Harris, R., Pulford, R., & Roberts, S. E. (2010). When do first-
+year college students drink most during the academic year? An internet-based study of daily and
+weekly drinking. Journal of American College Health, 58, 401–411. https://doi.org/10.1080/
+07448480903540465
+
+Triandis, H. C. (1977). Interpersonal behavior. Monterey, CA: Brooks/Cole Pub. Co.
+Verplanken, B., Aarts, H., & van Knippenberg, A. (1997). Habit, information acquisition, and the
+
+process of making travel mode choices. European Journal of Social Psychology, 27, 539–560.
+https://doi.org/10.1002/(SICI)1099-0992(199709/10)27:5<539:AID-EJSP831>3.0.CO;2-A
+
+Verplanken, B., & Orbell, S. (2003). Reflections on past behavior: A self-report index of habit
+strength1. Journal of Applied Social Psychology, 33, 1313–1330. https://doi.org/10.1111/j.
+1559-1816.2003.tb01951.x
+
+Vogel-Sprott, M., Easdon, C., Fillmore, M., Finn, P., & Justus, A. (2001). Alcohol and behavioural
+control: Cognitive and neural mechanisms. Alcoholism: Clinical and Experimental Research,
+25, 117–121. https://doi.org/10.1111/j.1530-0277.2001.tb02135.x
+
+Vorderer, P., Krömer, N., & Schneider, F. M. (2016). Permanently online – Permanently connected:
+Explorations into university students’ use of social media and mobile smart devices. Computers
+in Human Behavior, 63, 694–703. https://doi.org/10.1016/j.chb.2016.05.085
+
+World Health Organization (2018). Global status report on alcohol and health 2018. Geneva,
+Switzerland: World Health Organization.
+
+Received 3 August 2020; revised version received 9 October 2020
+
+Supporting Information
+The following supporting informationmay be found in the online edition of the article:
+
+Table S1. Frequencies for behavioural variables (N = 120)
+
+ 20448287, 2021, 2, Downloaded from https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12489 by <Shibboleth>-member@warwick.ac.uk, Wiley Online Library on [16/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

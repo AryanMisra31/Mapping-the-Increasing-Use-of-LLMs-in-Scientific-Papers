@@ -1,0 +1,949 @@
+International Journal of Mental Health and Addiction (2023) 21:1365–1377
+https://doi.org/10.1007/s11469-021-00662-4
+BRIEF REPORT
+
+Investigating the Relationship Between Attention-Deficit
+Hyperactivity Disorder, Obligatory Exercise and Exercise
+Addiction
+Priya Popat1 · Larisa M. Dinu1 · Oliver Runswick1 · James L. Findon1 ·
+Eleanor J. Dommett1
+Accepted: 22 September 2021 / Published online: 13 October 2021
+© The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2021
+
+Introduction
+Attention-deficit hyperactivity disorder (ADHD) affects around 5% of children and adults
+worldwide (Polanczyk et al., 2015; Simon et al., 2009) and is characterised by inattention,
+impulsivity and hyperactivity (American Psychiatric Association, 2000). Having ADHD
+incurs greater risk of learning, behavioural and emotional problems, poorer educational
+outcomes, lower occupational status and relationship problems (Faraone et al., 2000).
+Psychostimulants (e.g. amphetamine and methylphenidate) are the most effective treatments available for all ages and the first line treatment for adults. They reduce symptoms
+in around 80% of patients (Barkley et al., 1991; Dittmann et al., 2014; Milich et al., 2001).
+However, whilst they can be effective, many experience residual symptoms (Dittmann
+et al., 2014) or significant side effects (Mariani et al., 2007), and there are concerns that
+the drugs may be abused (Darredeau et al., 2007; Laviola et al., 1999; Schenk & Davidson, 1998). Non-stimulant treatments exist, but the response rate is lower (Dittmann et al.,
+2014), and many still experience side effects (Mariani et al., 2007).
+Given the limitations of the available medications, other therapeutic approaches are
+being considered. Exercise has been shown to improve symptoms and cognitive functioning in children with ADHD (Chang et al., 2012; Jensen & Kenny, 2004; Piepmeier et al.,
+2015) and may also be beneficial for adults (Abramovitch et al., 2013). Exercise within the
+context of ADHD has been the focus of several systematic reviews and meta-analyses in
+recent years, all of which have found exercise to offer some functional improvement (Cerrillo-Urbina et al., 2015; Neudecker et al., 2019; Suarez-Manzano et al., 2018; Vysniauske
+et al., 2016). The exact mechanism by which exercise might alleviate ADHD symptoms
+is unknown, but both exercise and psychostimulants act on dopamine and BDNF suggesting there may be shared mechanisms (Archer & Kostrzewa, 2012; Ji et al., 2014; Kim
+et al., 2011; Kuczenski & Segal, 1997, 2002; Powers, 2000). As indicated above, one of
+the concerns about psychostimulant medication is its risk of abuse. Indeed ADHD is often
+
+* Eleanor J. Dommett
+eleanor.dommett@kcl.ac.uk
+1
+
+Department of Psychology, Institute of Psychiatry, Psychology and Neuroscience,
+London SE5 8AF, UK
+
+13
+
+Vol.:(0123456789)
+
+1366
+
+International Journal of Mental Health and Addiction (2023) 21:1365–1377
+
+associated with addictions, including behavioural addictions (Starcevic & Khazaal, 2017),
+and therefore, the likelihood of addiction should be considered when examining any new
+treatment.
+Whilst the concept of exercise addiction is controversial and it is not classified as a disorder in the DSM or ICD, it has been argued to be an addiction (Berczik et al., 2012) which
+means that it is important to consider whether it is safe and appropriate for people with
+ADHD. No research to date has examined whether there is an association between exercise addiction and ADHD (Karaca et al., 2017), despite associations with other behavioural
+addictions (Starcevic & Khazaal, 2017). The purpose of this study is to (1) assess whether
+those with ADHD exercise differently to those without, (2) examine whether exercise patterns relate to symptoms and treatment, and (3) establish whether problematic exercise is
+more common in those with ADHD. Specifically we hypothesized that (a) there would
+be differences in exercise habits between those with ADHD and without, which would
+be impacted by symptoms and treatment status and (b) those with ADHD would be more
+likely to exhibit problematic exercise.
+
+Methods
+Participants
+The study included participants with and without ADHD. The inclusion criteria for all participants were that they must be residing in the UK and aged 16–55 years old. Those with
+ADHD were also required to have a formal diagnosis of ADHD from a healthcare professional and score on Adult ADHD Self- Report Scale screener (ASRS-1.1) of 13 or more,
+whilst those without ADHD had to have a score of 14 or less (Kessler et al., 2005, 2007)
+(see below for scale details). If participants were taking medication for ADHD, they were
+required to have an adherence of 70% or more (see the “Measures” section). There were no
+exclusion criteria. All participants were recruited through advertisements on social media
+and the university’s website. Interested participants were directed to an online information
+sheet and consent form from which, if they gave consent, they could access a fully anonymous online survey, hosted in Qualtrics, which took approximately 20 min to complete.
+Those completing the survey had the option of entering an email address (stored separately
+to data) to be entered into a prize draw for shopping vouchers.
+
+Measures
+The survey first assessed demographic variables. Specifically, participants were asked to
+indicate (i) gender, choosing from ‘male’, ‘female’, ‘I use another term’ with text entry for
+details and ‘prefer not to say’; (ii) ethnicity, choosing from 14 different options in addition to options of ‘other’ and ‘prefer not to say’; (iii) age; (iv) education level by indicating the number of years in post-compulsory education, with an example given to assist
+participants, (v) employment status selecting from ‘full time’, ‘part time’, ‘education’ or
+‘other’, and (vi) disability status indicating whether they have any physical, learning, mental, sensory or other disabilities excluding ADHD. Participants were then asked to indicate whether they had a formal diagnosis of ADHD. Participants reporting a diagnosis of
+ADHD detailed medication and adherence by indicating the number of tablets prescribed
+and taken in the last 14 days from which a percentage adherence could be calculated
+
+13
+
+International Journal of Mental Health and Addiction (2023) 21:1365–1377
+
+1367
+
+(Safren et al., 2007). The remaining sections of the survey consisted of the following standardised and well-validated measures.
+
+Adult ADHD Self‑Report Scale (ASRS v1.1)
+This scale, developed with the World Health Organisation, consists of the first six items
+of the ADHD ASRS Symptom Checklist. It is a well-validated 6-item measure of ADHD
+traits, which has been found to be useful in identifying ADHD in adults, having a positive
+predictive value of 0.94 and a negative predictive value 0.24 (Kessler et al., 2005, 2007).
+Critically for the current study, which included participants without ADHD, this scale has
+also been shown to be reliable in individuals without ADHD (Silverstein et al., 2018) The
+six items are rated on a 5-point Likert scale (0 = never, 4 = very often), such that a higher
+score indicates greater ADHD traits. This scoring gives a maximum score of 24, with a
+cut-off score of 12 for clinical populations and 14 for the general population. Cronbach’s
+alpha revealed very good internal consistency for the full six items (α = .88), the inattention trait score (ITS, items 1–4, α = .87) and the hyperactivity-trait score (HTS items 5–6,
+α = .75).
+
+Godin Leisure‑Time Exercise Questionnaire (GL‑TEQ)
+To assess typical activity levels in all participants, the Godin Leisure-Time Exercise
+Questionnaire (GL-TEQ) (Godin, 2011) was used. This requires participants to indicate
+how much they engaged in strenuous, moderate and mild exercise over a normal 7-day
+period. Examples of each type of exercise are provided as part of the standard question
+wording. Participants are required to indicate the number of 15-min periods of exercise for
+each intensity level they complete within a typical 7-day period. For example, if someone
+typically runs for 60 min per week, they indicate 4 in the strenuous exercise question. A
+‘leisure score index’ is calculated by summing the weighted values ((9 × Strenuous) + (5
+× Moderate) + (3 × Light)), such that a higher score indicates greater levels of activity
+and participants are categorised as ‘active’ (LSI ≥ 24) or ‘insufficiently active’ (LSI ≤ 23)
+based on this index (Godin, 2011).
+
+Obligatory Exercise Questionnaire (OEQ)
+The Obligatory Exercise Questionnaire (OEQ) was used to measure participants attitudes
+and activities related to exercise (Thompson & Pasman, 1991). This scale consists of 20
+items rated on a 4-point Likert scale (1 = never, 4 = always). All items are worded such
+that higher scores indicated a stronger sense of obligation except two items which are
+reverse scored to achieve this. The items can be summed to give an overall score (Steffen
+& Brehm, 1999) or considered in terms of three subscales, consisting of 11 items measuring fixation (e.g. ‘Sometimes, I find that my mind wanders to thoughts about exercising’),
+frequency (e.g. ‘I exercise more than three days per week’) and commitment (Ackard et al.,
+2002). Cronbach’s alpha revealed good internal consistency for the total OEQ (α = .87)
+and two subscales (α = .70 for 5-item fixation subscale, α = .85 for 3-item frequency subscale). We did not use the 3-item commitment (e.g. “I may miss a day of exercise for no
+good reason” reverse-scored) subscale due to poor internal consistency (α = .40). Scores
+on the OEQ can be used to categorise obligatory exercisers, where a score of 50 or greater
+
+13
+
+1368
+
+International Journal of Mental Health and Addiction (2023) 21:1365–1377
+
+is used as a cut-off for this, representing the halfway point between the minimum (20) and
+maximum (100) score (Pasman & Thompson, 1988).
+
+Exercise Dependence Scale (EDS)
+Exercise addiction was measured using two scales, the first of which was the Exercise
+Dependence Scale (EDS). This scale operationalises exercise dependence, aligning with
+the DSM-5 criteria (Hausenblas & Downs, 2001). It consists of 21 items rated on a 6-point
+Likert scale (1 = never, 6 = always). These 21 items can be summed and considered as a
+whole or divided into seven subscales corresponding to tolerance, withdrawal, intention
+effect (exercising more than intended), lack of control, time spent exercising, reduction in
+other activities and continuance despite problems. Higher scores indicate greater exercise
+dependency, and there are also established cut-off criteria to distinguish individuals who
+are deemed at risk of exercise dependence, symptomatic non-dependent or asymptomatic
+non-dependent. To be considered at risk individuals must score in the at-risk range (i.e.,
+an average score of 5–6) on three of the seven factors. A score of 3–4 on average on a
+minimum of three factors (or 5–6 on some factors but fail to meet the criteria for the at-risk
+group) results in a categorisation of symptomatic non-dependent, and an average 1 to 2 on
+at least three factors results in asymptomatic non-dependent (Lindwall & Palmeira, 2009).
+Cronbach’s alpha showed good internal consistency for whole scale (α = .95) and all subscales (α > .75).
+
+Exercise Addiction Inventory (EAI)
+Secondly, the Exercise Addiction Inventory (EAI) was used because it has excellent concurrent validity when used alongside the OEQ and the EDS (Terry, Szabo, & Griffiths,
+2004). This consists of 6 items rated on a 5-point Likert scale (1 = strongly disagree, 5
+= strongly agree), where a higher score indicates greater risk of addiction. With a maximum score of 30, the cut-off score for participants considered “at-risk” is a score of 24
+and above, which represents individuals with scores in the top 15% of the total scale score
+(Terry et al., 2004). Cronbach’s alpha revealed good internal consistency (α = .80).
+
+Data processing and analysis
+Prior to analysis, participants were excluded if they (a) did not meet the inclusion criteria
+(n = 4), (b) did not complete the survey (n = 136), (c) reported no ADHD diagnosis but
+had an ASRS score >12 indicative of ADHD (n = 78) or reported a diagnosis but had an
+ASRS < 14 (range 0–12; n = 7) and (d) reported taking medication for ADHD but had low
+(< 70%) adherence (n = 23), reported taking too much medication (n = 3), did not provide
+adherence information (n = 6) or was taking an antidepressant for ADHD (n = 1). The final
+sample size was 237, which was divided into three participant groups (healthy controls,
+ADHD on medication, ADHD not on medication). The demographic characteristics of the
+three participant groups were compared using chi-square for categorical variables (gender, ethnicity, employment, disability) and one-way ANOVA (with ηp2) with Bonferroni
+adjustment for multiple comparisons for three group comparisons and independent t tests
+(with Cohen’s d) for two group comparisons of continuous variables (age, education). Similarly, exercise habits were compared between groups using chi-square for the categorical
+
+13
+
+1369
+
+International Journal of Mental Health and Addiction (2023) 21:1365–1377
+
+GL-TEQ LSI and one-way ANOVA for the continuous variables resulting from the OEQ.
+To examine the relationship between ADHD traits, as measured by the ASRS 1.1 and exercise habits, comparisons of ASRS scores for the total ASRS 1.1, inattention trait (ITS)
+and hyperactivity impulsivity trait (HTS) were made between the active and insufficiently
+active LSI groups using independent t tests (with Cohen’s d) separately for each participant
+group. Additionally, Pearson’s correlations were used to assess relationships between the
+ASRS scores and the OEQ measures. Finally to assess whether risk of exercise dependency
+or addiction was different between participant groups, the same approach was use of chisquare for categorical data and one-way ANOVA (with ηp2) with Bonferroni adjustment for
+multiple comparisons for continuous variables. Alpha was set at p = .05.
+
+Table 1.  Demographic variables for the three groups show a range of differences between groups
+Variable
+
+Controls
+
+ADHD/
+Medication
+
+ADHD/No
+Medication
+
+n
+
+%
+
+n
+
+%
+
+n
+
+%
+
+23
+102
+0
+
+18.4 17
+81.6 50
+0
+3
+
+24.3
+71.4
+4.3
+
+16
+24
+2
+
+38.1
+57.1
+4.8
+
+82
+40
+3
+
+65.6 60
+32.0 9
+2.4 1
+
+85.7
+12.9
+1.4
+
+34
+7
+1
+
+81.0
+16.7
+2.4
+
+38
+12
+68
+7
+
+30.4
+9.6
+54.4
+5.6
+
+22
+9
+29
+10
+
+31.4
+12.9
+41.4
+14.3
+
+18
+5
+10
+9
+
+42.9
+11.9
+23.8
+21.4
+
+13.6
+3.2
+12.0
+2.4
+3.2
+SD
+9.75
+3.29
+
+16
+21
+36
+0
+1
+M
+30.39
+5.44
+
+22.9
+30.0
+51.4
+0
+1.4
+SD
+10.57
+5.51
+
+12
+12
+17
+4
+0
+M
+29.31
+4.58
+
+28.6
+28.6
+40.5
+9.5
+0
+SD
+10.03
+3.81
+
+Gender
+Male
+Female
+Other/prefer not to say*
+Ethnicity
+White
+BAME
+Other/prefer not to say*
+Employment
+Full time
+Part time
+Education
+Other a
+Disability
+Physical
+Learning
+Mental
+Sensory*
+Other a*
+
+17
+4
+15
+3
+4
+M
+Age
+27.75
+Years of post-compulsory education 5.50
+
+χ2
+
+df
+
+p
+
+7.799
+
+2
+
+.020
+
+10.739 2
+
+.005
+
+17.018 6
+
+.009
+
+5.548 2
+30.970 2
+37.560 2
+
+.062
+< .001
+< .001
+
+F
+1.605
+1.383
+
+df
+P
+2, 234 .203
+2, 207 .253
+
+Note. ‘Other’ refers to those who selected ‘prefer not to say’ and ‘other’; * indicates exclusion from group
+comparisons due to low numbers.
+
+13
+
+13
+
+2.96 (1.72)
+
+15.90 (5.35)
+43.71 (17.79)
+8.32 (3.97)
+5.55 (3.33)
+7.65 (3.67)
+5.16 (2.94)
+5.10 (2.53)
+6.25 (3.83)
+5.68 (2.91)
+
+HTS
+
+EAI
+EDS-Total
+Withdrawal
+Continuance
+Tolerance
+Control
+Reduction
+Time
+Intention
+
+14.96, 16,85
+40.56, 46,86
+7.61, 9.02
+4.96, 6.14
+6.99, 8.30
+4.64, 5.68
+4.66, 5.55
+5.57, 6.93
+5.16, 6,20
+
+2.66, 3.27
+
+5.60, 6.45
+
+8.41, 9.57
+
+ADHD-M > HC comparison, bADHD-U > HC.
+
+6.02 (2.41)
+
+ITS
+
+a
+
+8.99 (3.27)
+
+17.34 (5.12)
+47.99 (19.76)
+10.07 (4.22)
+6.47 (3.57)
+7.63 (3.80)
+5.41 (3.11)
+5.93 (3.13)
+6.01 (3.51)
+6.45 (3.61)
+
+5.86 (1.51)
+
+13.13 (2.16)
+
+18.99 (2.63)
+
+M (SD)
+
+M (SD)
+
+95% CI
+
+ADHD-M
+
+HC
+
+ASRS-v1.1
+
+Measures
+
+16.12, 18.56
+43.27, 52.70
+9.07, 11.08
+5.62, 7.32
+6.72, 8.54
+4.67, 6.16
+5.18, 6.68
+5.18, 6.85
+5.60, 7.32
+
+5.50, 6.21
+
+12.61, 13.65
+
+18.36, 19.61
+
+95% CI
+
+17.21 (5.54)
+50.21 (23.69)
+9.81 (4.92)
+6.38 (3.93)
+7.93 (4.60)
+6.16 (3.86)
+6.23 (3.25)
+6.95 (3.86)
+6.74 (3.89)
+
+5.95 (1.62)
+
+13.38 (1.70)
+
+19.33 (2.48)
+
+M (SD)
+
+ADHD-U
+
+15.49, 18.94
+42,83, 57.60
+8.28, 11.34
+5.17, 7.61
+6.49, 9.36
+4.94, 7.37
+5.22, 7.25
+5.74, 8.16
+5.53, 7.95
+
+5, 45, 6,46
+
+12.85, 13.91
+
+18.56, 20.11
+
+95% CI
+
+2.028
+2.194
+4.578
+1.888
+.095
+1.584
+3.363
+.853
+2.186
+
+92.958
+
+308.789
+
+344.177
+
+F (2, 234)
+
+.017
+.018
+.038
+.016
+.001
+.013
+.028
+.007
+.018
+
+.443
+
+.725
+
+.746
+
+ηp
+
+2
+
+.134
+.114
+.011
+.154
+.909
+.207
+.036
+.427
+.115
+
+< .001
+
+< .001
+
+< .001
+
+p
+
+< .001
+< .001
+< .001
+< .001
+
+.018
+
+.08
+
+1.75a
+
+1.13b
+
+< .001
+< .001
+
+9.99 a
+10.34b
+7.10 a
+7.36 b
+2.89 a
+2.98 b
+
+p
+
+Mean Diff.
+
+Post hoc
+
+Table 2.  ASRS scores and measures of exercise addiction in healthy controls, those with ADHD on medication and those with ADHD not on medication
+
+1370
+International Journal of Mental Health and Addiction (2023) 21:1365–1377
+
+International Journal of Mental Health and Addiction (2023) 21:1365–1377
+
+1371
+
+Results
+Sample Characteristics
+Participants were divided into three groups (Table 1): healthy controls (HC, n = 125),
+ADHD/medicated (ADHD-M, n = 70) and ADHD/unmedicated (ADHD-U, n = 42).
+Within the ADHD-M group, 90.1% reported taking stimulants, 8.5% reported taking nonstimulants and 1.4% reported taking a combination. ASRS scores differed significantly
+between groups (Table 2).
+
+Exercise in ADHD and Healthy Controls
+GL-TEQ responses demonstrated that participants were primarily active, and levels of
+activity did not differ between groups (HC, n = 104, 83.2% active; ADHD-M, n = 56,
+81.2% active; ADHD-U, n = 33, 78.6% active; χ2 (2) = .477, p = .788). There were no differences between groups for total OEQ scores (HC, M = 42.74, SD = 9.91; ADHD-M, M
+= 44.13, SD = 10.46; ADHD-U, M = 44.13, SD = 9.04; F (2, 222) = .546, p = .546, ηp2
+= .005) or the frequency subscale (HC M = 8.00, SD = 2.59; ADHD-M, M = 7.86, SD =
+2.91; ADHD-U M = 8.34, SD = 2.55; F (2, 232) = .426, p = .654, ηp2 = .004). However,
+there was a main effect of group on exercise fixation (HC, M = 9.59, SD = 2.97; ADHDM, M = 11.22, SD = 3.03; ADHD-U, M = 10.63, SD = 2.89; F (2,230) = 7.134, p = .001,
+ηp2 = .058) where ADHD-M displayed higher scores than HC (1.64, 95% CI [.563, 2.714],
+p = .001). There were no other group differences.
+
+Exercise Patterns, Symptoms, and Treatment
+ADHD Traits and Exercise Levels
+Healthy Controls Those rated by the GL-TEQ as insufficiently active scored significantly
+higher on the ASRS V1.1 (M = 10.57, SD = 2.50) than those rated as active (M = 8.67, SD
+= 3.33), t(123) = 2.475, p = .015, d = 0.65, 95% CI [.380, 3.416]. The insufficiently active
+group (M = 7.42, SD = 2.46) had significantly higher inattention scores than the active
+group (M = 5.74, SD = 2.31; t(123) = 3.025, p = .003, d = 0.70, 95% CI [.583, 2.793]).
+There were no differences for hyperactivity (t(123) = .506, p = .614, d = 0.12, 95% CI [−
+.612, 1.033]). There were no correlations between the total OEQ score, or OEQ frequency
+and ADHD measures (ASRS-v1.1, ITS, HTS all p > .05). There was a positive correlation
+between OEQ fixation score and ITS (r = .210, p = .021) but not HTS (r = .024, p = .794)
+or ASRS-v1.1 (r = .166, p = .067).
+ADHD with Medication There were no differences between insufficiently active and active
+participants for ASRS V1.1 (t(67) = 1.379, p = .172, d = 0.41, 95% CI [− 2.74, .501]),
+ITS (t(67) = .468, p = .641, d = 0.17, 95% CI [− 1.656, 1.027]) or HTS (t(67) = 1.770, p
+= .081, d = 0.52, 95% CI [− 1.713, 103]). There were no correlations between the ASRS
+V1.1 and all OEQ measures (p > .05) or ITS and OEQ scores (p > .05). However, there
+
+13
+
+1372
+
+International Journal of Mental Health and Addiction (2023) 21:1365–1377
+
+were positive correlations between HTS and OEQ Total (r = .288, p = .016) and fixation (r
+= .296, p = .013), but not frequency (r = .187, p = .120).
+
+ADHD Without Medication There were no differences between insufficiently active and
+active participants for ASRS V1.1 (t(40) = .299, p = .766, d = 0.12, 95% CI [-2.193,
+1.628]), ITS (t(40) = 1.444, p = .156, d = 0.61, 95% CI [− 2.181, .363]) or HTS (t(40) =
+1.027, p = .310, d = 0.39, 95% CI [− .619, 1.858]). There were no correlations between
+OEQ measures and ADHD traits (p > .106).
+Group Differences in Problematic Levels of Exercise and Exercise Addiction Risk
+Group comparisons of EAI and EDS are shown in Table 2. There were no significant group
+differences in the total EAI score. Based on the EAI, participants were grouped according to risk of exercise addiction as ‘low’ (HC, n = 111, 88.8%; ADHD-M, n = 62, 88.6%;
+ADHD-U, n = 38, 90.5%) and ‘high’ risk (HC, n = 14, 11.2%; ADHD-M, n = 8, 11.4%;
+ADHD-U, n = 4, 9.5%). Chi-square goodness-of-fit test confirmed no differences in the
+risk across the groups (X 2 (2) = .112, p = .946). There were no differences between groups
+for total-EDS. EDS subscales identified significant group differences on two of the seven
+subscales: withdrawal and reduction. However, post hoc testing only revealed a significant
+difference for withdrawal where the ADHD-M group scored higher than the HC. Categorisation of the EDS into ‘at risk of exercise dependency’, ‘symptomatic non-dependent’
+and ‘asymptomatic non-dependent’ revealed that very few participants were deemed at risk
+overall (HC, n = 3, 2.4%; ADHD-M, n = 2, 2.9%; ADHD-U, n = 3, 7.9%). This results in
+a violation of the expected cell counts assumption of chi-square to examine the relationship
+between group and EDS-calculated risk when considering all three risk categories. Given
+the low numbers in the at-risk group, we opted to compare only the ‘symptomatic nondependent’ and ‘asymptomatic non-dependent’, for which chi-square revealed a significant
+difference between groups (X 2 (2) = .7.714, p = .021) with those with ADHD more likely
+than healthy controls to be classed as symptomatic non-dependent (HC, n = 44, 36.1%;
+ADHD-M, n = 36, 52.9%; ADHD-U, n = 22, 56.4%) than asymptomatic non-dependent
+(HC, n = 78, 63.9%; ADHD-M, n = 32, 47.1%; ADHD-U, n = 17, 43.6%).
+
+Discussion
+This study aimed to investigate exercise behaviours and risk of addiction in ADHD. We
+found that most participants were active and that those with ADHD exercise at similar levels to controls, irrespective of medication use, according to both the LSI calculated from
+the Godin Leisure-Time Exercise Questionnaire and the Obligatory Exercise Questionnaire. Mean OEQ scores were below the level typically associated with obligatory exercisers (Elbourne & Chen, 2007) and did not differ between groups. However, ADHD-M
+showed higher levels of exercise fixation than HC, indicating that exercise may confer
+greater preoccupation and emotionality in this group. This result is unlikely to be related
+to differences in demographics because, although demographic differences did exist, they
+were typically greatest between HC and ADHD-U, rather than the ADHD-M. Active HC
+participants had better attention scores, as measured by the ASRSv1.1, than those who
+were not active, supporting previous research showing exercise is associated with improved
+
+13
+
+International Journal of Mental Health and Addiction (2023) 21:1365–1377
+
+1373
+
+cognition in healthy people (Reigal et al., 2020). Inattention was correlated with OEQ fixation suggesting those with greater levels of inattention were more fixated on exercise. Conversely, in the ADHD groups, there were no differences in ADHD traits between insufficiently active and active participants. Only the ADHD-M group showed a correlation
+between hyperactivity and total OEQ and fixation, indicating that hyperactivity, rather
+than inattention, could be associated with exercise in this group. These results indicate that
+whilst those with ADHD exercise to similar levels and obligation to those without ADHD,
+the factors associated with exercise may differ from those without ADHD. The results offer
+partial support of our first hypothesis because, whilst the levels of exercise and overall obligation to exercise do not differ between groups, the constructs underlying exercise habits
+do vary according to symptoms and treatment.
+Our second hypothesis was that those with ADHD would be more likely to exhibit problematic exercise. Using the EAI, we found no difference between groups in terms of overall
+score or risk. However, the EDS indicated some differences do exist, giving partial support
+to our hypothesis. Whilst the total EDS score did not differ between groups, the ADHD-M
+showed greater withdrawal than HC. When combined with the higher levels of exercise
+fixation the ADHD-M group displayed, this could suggest an increased risk of exercise
+dependence in this group. The exact mechanism by which medication, which was largely
+stimulant-based in the current study, could increase risk of exercise addiction cannot be
+confirmed from the current study. However, several studies have shown that there appears
+to be a cross-sensitization between psychostimulants and gambling related measures, mediated by dopaminergic and glutamatergic changes (Ferland et al., 2019; Fugariu et al., 2020;
+Mascia et al., 2020; Wei et al., 2018), which could suggest that repeated administration
+with psychostimulants used to treat ADHD increases sensitivity to exercise addiction via
+actions on these neurotransmitters. It should also be noted that, in contrast to the possibility of cross-sensitization, some studies have found that exercise protects against developing
+stimulant abuse (Lespine & Tirelli, 2018; Rauhut & Warnick, 2020); however, no studies
+have specifically looked at individuals receiving stimulants for treating ADHD to date.
+When considering risk categories for the EDS, only 3.4% of the sample were identified
+as at-risk of exercise dependency. This aligns with previous research which suggests that
+the rate of exercise dependence is 3–12% (Orhan et al., 2019). Most of the participants
+in the present study were therefore categorised as non-dependent (96.6%) across all three
+groups; however, there was a significant difference within the non-dependency in terms
+of whether individuals were symptomatic. Those with ADHD, irrespective of medication
+status, were more likely to be symptomatic non-dependent than those without the condition. This finding, combined with the data from the EAI and OEQ, suggests that exercise
+dependency in ADHD warrants further investigation because individuals with ADHD may
+be more likely to fixate on exercise and experience withdrawal as well as show symptoms
+of exercise dependency when contrasted with those without ADHD, meaning any exercise intervention should be approached with caution at this stage. Exactly why ADHD may
+confer a greater risk of exercise addiction is not clear at this stage. However, research into
+gambling and ADHD may provide some insights. For example, it has been found that emotional regulation may mediate the relationship between ADHD and problematic gambling
+(Mestre-Bach et al., 2021) and that impulsivity is a common feature of both conditions
+(Chamberlain et al., 2015) with some shared genetic factors potentially underpinning this
+(Comings et al., 1999). Studies have yet to be conducting examining these factors for any
+other behavioural addiction in ADHD, including exercise.
+This study was the first to investigate exercise addiction in ADHD and presents preliminary findings to inform further work in this area. Although this makes an important
+
+13
+
+1374
+
+International Journal of Mental Health and Addiction (2023) 21:1365–1377
+
+contribution, the study has several limitations, meaning the data should be interpreted with
+caution. Firstly, the sample size was small and limited to adults in the UK, meaning results
+may not generalise to other areas or ages. Secondly, we did not collect data on specific
+comorbidities which could have impacted results, although data about other conditions collected under demographics suggests an ecologically valid sample. Furthermore, our groups
+were not matched for all demographic variables, and this could have resulted in confounding variables. However, it is noteworthy that ADHD is associated with, for example, lower
+educational and employment outcomes which may mean that these differences are unavoidable if an ecologically valid sample is required. Follow-up work should be conducted
+in a larger sample size and consider a more in-depth analysis of the meaning of exercise to
+those with and without ADHD, specifically focusing on the emotionality of the experience.
+Additionally, the specific details of comorbidity and a wider of treatment groups should
+be considered in analysis, for example, comparing non-stimulant with stimulant treatment,
+which was not possible in the present study due to the sample size. Results from this further work, combined with this study will then provide an evidence base to inform the use
+of exercise intervention in ADHD.
+Author Contribution EJD, OR and JF were involved in the study concept and design. PP and LMD were
+involved in data collection, analysis and interpretation of data. EJD provided study supervision. EJD and OR
+were responsible for initial drafting. All authors had access to the full data set and can take responsibility for
+the integrity of the data.
+Data Availability Data will be made available on request from the corresponding author.
+
+Declarations
+Ethics Approval The study procedures were carried out in accordance with the Declaration of Helsinki and
+approved by the local research ethics committee King’s College London. All subjects were informed about
+the study and provided informed consent.
+Consent to Participate All procedures followed were in accordance with the ethical standards of the responsible committee on human experimentation (institutional and national) and with the Helsinki Declaration of
+1975, as revised in 2000 (5). Informed consent was obtained from all participants for being included in the
+study.
+Conflict of interest The authors declare no competing interests.
+
+References
+Abramovitch, A., Goldzweig, G., & Schweiger, A. (2013). Correlates of physical activity with intrusive
+thoughts, worry and impulsivity in adults with attention deficit/hyperactivity disorder: A cross-sectional pilot study. Israel Journal of Psychiatry and Related Sciences, 50(1), 47–54.
+American Psychiatric Association. (2000). Attention-deficit and disruptive behavior disorders. In: Diagnostic and statistical manual of mental disorders. 4th ed, text revision. Washington DC, p. 85–93.
+Archer, T., & Kostrzewa, R. M. (2012). Physical exercise alleviates ADHD symptoms: Regional deficits and
+development trajectory. Neurotoxicity research, 21(2), 195–209.
+Barkley, R. A., DuPaul, G. J., & McMurray, M. B. (1991). Attention deficit disorder with and without
+hyperactivity: Clinical response to three dose levels of methylphenidate. Pediatrics, 87(4), 519–531.
+Berczik, K., Szabó, A., Griffiths, M. D., Kurimay, T., Kun, B., Urbán, R., & Demetrovics, Z. (2012). Exercise addiction: Symptoms, diagnosis, epidemiology, and etiology. Subst Use Misuse, 47(4), 403–417.
+https://​doi.​org/​10.​3109/​10826​084.​2011.​639120
+
+13
+
+International Journal of Mental Health and Addiction (2023) 21:1365–1377
+
+1375
+
+Cerrillo-Urbina, A. J., García-Hermoso, A., Sánchez-López, M., Pardo-Guijarro, M., Santos Gómez, J., &
+Martínez-Vizcaíno, V. (2015). The effects of physical exercise in children with attention deficit hyperactivity disorder: A systematic review and meta-analysis of randomized control trials. Child: care,
+health and development, 41(6), 779–788.
+Chamberlain, S. R., Derbyshire, K., Leppink, E., & Grant, J. E. (2015). Impact of ADHD symptoms on
+clinical and cognitive aspects of problem gambling. Compr Psychiatry, 57, 51–57. https://​doi.​org/​10.​
+1016/j.​compp​sych.​2014.​10.​013
+Chang, Y. K., Liu, S., Yu, H. H., & Lee, Y. H. (2012). Effect of acute exercise on executive function in children with attention deficit hyperactivity disorder. Arch Clin Neuropsychol, 27(2), 225–237. https://​doi.​
+org/​10.​1093/​arclin/​acr094
+Comings, D. E., Gonzalez, N., Wu, S., Gade, R., Muhleman, D., Saucier, G., et al. (1999). Studies of
+the 48 bp repeat polymorphism of the DRD4 gene in impulsive, compulsive, addictive behaviors:
+Tourette syndrome, ADHD, pathological gambling, and substance abuse. Am J Med Genet, 88(4),
+358–368. https://​doi.​org/​10.​1002/​(sici)​1096-​8628(19990​820)​88:​4<​358::​aid-​ajmg1​3>3.​0.​co;2-g
+Darredeau, C., Barrett, S. P., Jardin, B., & Pihl, R. O. (2007). Patterns and predictors of medication
+compliance, diversion, and misuse in adult prescribed methylphenidate users. Human Psychopharmacology: Clinical and Experimental, 22(8), 529–536.
+Dittmann, R. W., Cardo, E., Nagy, P., Anderson, C. S., Adeyi, B., Caballero, B., et al. (2014). Treatment
+response and remission in a double-blind, randomized, head-to-head study of lisdexamfetamine
+dimesylate and atomoxetine in children and adolescents with attention-deficit hyperactivity disorder. CNS drugs, 28(11), 1059–1069.
+Elbourne, K., & Chen, J. (2007). The continuum model of obligatory exercise: A preliminary investigation. Journal of Psychosomatic Research, 62(1), 73–80. https://​doi.​org/​10.​1016/j.​jpsyc​hores.​2004.​
+12.​003
+Faraone, S. V., Biederman, J., Spencer, T., Wilens, T., Seidman, L. J., Mick, E., & Doyle, A. E. (2000).
+Attention-deficit/hyperactivity disorder in adults: An overview. Biol Psychiatry, 48(1), 9–20.
+https://​doi.​org/​10.​1016/​s0006-​3223(00)​00889-1
+Ferland, J. N., Hynes, T. J., Hounjet, C. D., Lindenbach, D., Vonder Haar, C., Adams, W. K., et al.
+(2019). Prior exposure to salient win-paired cues in a rat Gambling task increases sensitivity to
+cocaine self-administration and suppresses dopamine efflux in nucleus accumbens: Support for the
+reward deficiency hypothesis of addiction. J Neurosci, 39(10), 1842–1854. https://​doi.​org/​10.​1523/​
+jneur​osci.​3477-​17.​2018
+Fugariu, V., Zack, M. H., Nobrega, J. N., Fletcher, P. J., & Zeeb, F. D. (2020). Effects of exposure to
+chronic uncertainty and a sensitizing regimen of amphetamine injections on locomotion, decisionmaking, and dopamine receptors in rats. Neuropsychopharmacology, 45(5), 811–822. https://​doi.​
+org/​10.​1038/​s41386-​020-​0599-x
+Godin, G. (2011). The Godin-Shephard leisure-time physical activity questionnaire. The Health & Fitness Journal of Canada, 4(1), 18–22.
+Hausenblas, H. A., & Downs, D. S. (2001). Comparison of body image between athletes and nonathletes: A meta-analytic review. Journal of applied sport psychology, 13(3), 323–339.
+Jensen, P. S., & Kenny, D. T. (2004). The effects of yoga on the attention and behavior of boys with
+attention-deficit/ hyperactivity disorder (ADHD). J Atten Disord, 7(4), 205–216. https://​doi.​org/​10.​
+1177/​10870​54704​00700​403
+Ji, E. S., Kim, C. J., Park, J. H., & Bahn, G. H. (2014). Duration-dependence of the effect of treadmill
+exercise on hyperactivity in attention deficit hyperactivity disorder rats. J Exerc Rehabil, 10(2),
+75–80. https://​doi.​org/​10.​12965/​jer.​140107
+Karaca, S., Saleh, A., Canan, F., & Potenza, M. N. (2017). Comorbidity between behavioral addictions
+and attention deficit/hyperactivity disorder: A systematic review. International Journal of Mental
+Health and Addiction, 15(3), 701–724. https://​doi.​org/​10.​1007/​s11469-​016-​9660-8
+Kessler, R. C., Adler, L., Ames, M., Demler, O., Faraone, S., Hiripi, E., et al. (2005). The World Health
+Organization adult ADHD self-report scale (ASRS): A short screening scale for use in the general
+population. Psychological medicine, 35(2), 245.
+Kessler, R. C., Adler, L. A., Gruber, M. J., Sarawate, C. A., Spencer, T., & Van Brunt, D. L. (2007).
+Validity of the World Health Organization adult ADHD self-report scale (ASRS) screener in a
+representative sample of health plan members. International Journal of Methods in Psychiatric
+Research, 16(2), 52–65.
+Kim, H., Heo, H. I., Kim, D. H., Ko, I. G., Lee, S. S., Kim, S. E., et al. (2011). Treadmill exercise and
+methylphenidate ameliorate symptoms of attention deficit/hyperactivity disorder through enhancing
+dopamine synthesis and brain-derived neurotrophic factor expression in spontaneous hypertensive
+rats. Neurosci Lett, 504(1), 35–39. https://​doi.​org/​10.​1016/j.​neulet.​2011.​08.​052
+
+13
+
+1376
+
+International Journal of Mental Health and Addiction (2023) 21:1365–1377
+
+Kuczenski, R., & Segal, D. S. (1997). Effects of methylphenidate on extracellular dopamine, serotonin,
+and norepinephrine: comparison with amphetamine. J Neurochem, 68(5), 2032–2037. https://​doi.​
+org/​10.​1046/j.​1471-​4159.​1997.​68052​032.x
+Kuczenski, R., & Segal, D. S. (2002). Exposure of adolescent rats to oral methylphenidate: Preferential
+effects on extracellular norepinephrine and absence of sensitization and cross-sensitization to methamphetamine. Journal of Neuroscience, 22(16), 7264–7271.
+Laviola, G., Adriani, W., Terranova, M. L., & Gerra, G. (1999). Psychobiological risk factors for vulnerability to psychostimulants in human adolescents and animal models. Neuroscience & Biobehavioral Reviews, 23(7), 993–1010.
+Lespine, L. F., & Tirelli, E. (2018). Evidence for a long-term protection of wheel-running exercise
+against cocaine psychomotor sensitization in adolescent but not in adult mice. Behav Brain Res,
+349, 63–72. https://​doi.​org/​10.​1016/j.​bbr.​2018.​04.​054
+Lindwall, M., & Palmeira, A. (2009). Factorial validity and invariance testing of the exercise dependence scale-revised in Swedish and Portuguese exercisers. Measurement in Physical Education and
+Exercise Science, 13(3), 166–179. https://​doi.​org/​10.​1080/​10913​67090​30503​13
+Mariani, J. J., Mariani, J. J., & Levin, F. R. (2007). Treatment strategies for co-occurring ADHD and
+substance use disorders. American Journal on Addictions, 16(sup1), 45–56.
+Mascia, P., Wang, Q., Brown, J., Nesbitt, K. M., Kennedy, R. T., & Vezina, P. (2020). Maladaptive
+consequences of repeated intermittent exposure to uncertainty. Prog Neuropsychopharmacol Biol
+Psychiatry, 99, 109864. https://​doi.​org/​10.​1016/j.​pnpbp.​2020.​109864
+Mestre-Bach, G., Steward, T., Potenza, M. N., Granero, R., Fernández-Aranda, F., Mena-Moreno, T.,
+et al. (2021). The role of ADHD symptomatology and emotion dysregulation in gambling disorder.
+J Atten Disord, 25(9), 1230–1239. https://​doi.​org/​10.​1177/​10870​54719​894378
+Milich, R., Balentine, A. C., & Lynam, D. R. (2001). ADHD combined type and ADHD predominantly
+inattentive type are distinct and unrelated disorders. Clinical psychology: science and practice,
+8(4), 463–488.
+Neudecker, C., Mewes, N., Reimers, A. K., & Woll, A. (2019). Exercise interventions in children and
+adolescents with ADHD: A systematic review. Journal of attention disorders, 23(4), 307–324.
+Orhan, S., Yücel, A. S., Sadeq, B. J., & Orhan, E. (2019). Investigation of the exercise dependence of
+athletes doing kickboxing, taekwondo, and muay thai. Sports (Basel), 7(2). https://​doi.​org/​10.​3390/​
+sport​s7020​052
+Pasman, L., & Thompson, J. K. (1988). Body image and eating disturbance in obligatory runners,
+obligatory weightlifters, and sedentary individuals. International journal of eating disorders, 7(6),
+759–769.
+Piepmeier, A. T., Shih, C.-H., Whedon, M., Williams, L. M., Davis, M. E., Henning, D. A., et al. (2015).
+The effect of acute exercise on cognitive performance in children with and without ADHD. Journal
+of Sport and Health Science, 4(1), 97–104. https://​doi.​org/​10.​1016/j.​jshs.​2014.​11.​004
+Polanczyk, G. V., Salum, G. A., Sugaya, L. S., Caye, A., & Rohde, L. A. (2015). Annual research review:
+A meta-analysis of the worldwide prevalence of mental disorders in children and adolescents. J
+Child Psychol Psychiatry, 56(3), 345–365. https://​doi.​org/​10.​1111/​jcpp.​12381
+Powers. (2000). In P. Accardo, T. Blondis, B. Whitman, & M. Stein (Eds.), Attention Deficits and Hyperactivity in Children and Adults. Marcel Dekker, Inc..
+Rauhut, A. S., & Warnick, J. A. (2020). Drug conditioning and sensitization in mice: importance of
+early voluntary exercise. Neuroscience, 442, 114–123. https://​doi.​org/​10.​1016/j.​neuro​scien​ce.​2020.​
+07.​001
+Reigal, R. E., Hernández-Mendo, A., Juárez-Ruiz de Mier, R., & Morales-Sánchez, V. (2020). Physical
+exercise and fitness level are related to cognitive and psychosocial functioning in adolescents. Front
+Psychol, 11, 1777. https://​doi.​org/​10.​3389/​fpsyg.​2020.​01777
+Safren, S. A., Duran, P., Yovel, I., Perlman, C. A., & Sprich, S. (2007). Medication adherence in psychopharmacologically treated adults with ADHD. Journal of attention disorders, 10(3), 257–260.
+Schenk, S., & Davidson, E. S. (1998). Stimulant preexposure sensitizes rats and humans to the rewarding
+effects of cocaine. NIDA Res Monogr, 169, 56–82.
+Silverstein, M. J., Alperin, S., Faraone, S. V., Kessler, R. C., & Adler, L. A. (2018). Test-retest reliability
+of the adult ADHD Self-Report Scale (ASRS) v1.1 Screener in non-ADHD controls from a primary
+care physician practice. Fam Pract, 35(3), 336–341. https://​doi.​org/​10.​1093/​fampra/​cmx115
+Simon, V., Czobor, P., Balint, S., Meszaros, A., & Bitter, I. (2009). Prevalence and correlates of adult
+attention-deficit hyperactivity disorder: Meta-analysis. Br J Psychiatry, 194(3), 204–211. https://​
+doi.​org/​10.​1192/​bjp.​bp.​107.​048827
+
+13
+
+International Journal of Mental Health and Addiction (2023) 21:1365–1377
+
+1377
+
+Starcevic, V., & Khazaal, Y. (2017). Relationships between behavioural addictions and psychiatric disorders: What is known and what is yet to be learned? Frontiers in Psychiatry, 8(53). https://​doi.​org/​
+10.​3389/​fpsyt.​2017.​00053
+Steffen, J. J., & Brehm, B. J. (1999). The dimensions of obligatory exercise. Eating Disorders, 7(3),
+219–226.
+Suarez-Manzano, S., Ruiz-Ariza, A., De La Torre-Cruz, M., & Martinez-Lopez, E. J. (2018). Acute and
+chronic effect of physical activity on cognition and behaviour in young people with ADHD: A systematic review of intervention studies. Research in developmental disabilities, 77, 12–23.
+Terry, A., Szabo, A., & Griffiths, M. (2004). The exercise addiction inventory: A new brief screening
+tool. Addiction Research & Theory, 12(5), 489–499.
+Thompson, J. K., & Pasman, L. (1991). The obligatory exercise questionnaire. The Behavior Therapist,
+14, 137.
+Vysniauske, R., Verburgh, L., Oosterlaan, J., & Molendijk, M. L. (2016). The effects of physical exercise
+on functional outcomes in the treatment of ADHD: A meta-analysis. Journal of attention disorders,
+1087054715627489.
+Wei, S., Zheng, Y., Li, Q., Dai, W., Sun, J., Wu, H., & Liu, X. (2018). Enhanced neural responses to monetary rewards in methamphetamine use disordered individuals compared to healthy controls. Physiol
+Behav, 195, 118–127. https://​doi.​org/​10.​1016/j.​physb​eh.​2018.​08.​003
+Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and
+institutional affiliations.
+
+13
+
+

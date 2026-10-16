@@ -1,0 +1,554 @@
+﻿Psychology of Sport & Exercise 50 (2020) 101718
+
+Contents lists available at ScienceDirect
+
+Psychology of Sport & Exercise
+journal homepage: www.elsevier.com/locate/psychsport
+
+How do people interpret and respond to self-report sitting time T
+questionnaires? a think-aloud study
+Benjamin Gardner1,∗, Ioanna Louca1, Danai Mourouzis1, Alessandra Calabrese1, Aeysha Fida1,
+Lee Smith2
+1Department of Psychology, Institute of Psychiatry, Psychology and Neuroscience, King’s College London, De Crespigny Park, London, SE5 8AF, UK
+2 Cambridge Centre for Sport and Exercise Sciences, Anglia Ruskin University, Compass House, Cambridge, CB1 1PT, UK
+
+A B S T R A C T
+
+Sedentary behaviour research to date has been predominantly based on self-reported sitting time, yet little attention has been paid to how respondents interpret
+sitting questionnaire items. 25 office workers participated in qualitative, ‘think-aloud’ interviews, describing their thoughts while completing 43 items derived from 9
+existing questionnaires. Inductive Thematic Analysis identified four potential interpretation or response problems: misinterpretation and uncertainty; the mental
+calculation process involved in formulating responses; self-presentation concerns; and the affective and motivational impact of questionnaire completion. Results not
+only show that lay representations of sitting may diverge from those of researchers, but also highlight potential errors and biases encountered when generating sitting
+estimates. Additionally, reporting sitting may generate a desire to reduce sitting time. Findings suggest that domain-specific measures that estimate sitting across
+different settings may better correspond with participants’ perceptions. Future research should investigate the potential for sedentary behaviour questionnaire
+completion to change behaviour.
+
+1. Introduction sitting on a typical weekday?‘). By comparison, the Multi-context Sit-
+ting Time Questionnaire (MSTQ; 11) assesses time spent in each of five
+
+Sitting time has been linked to mental and physical ill-health, and typically-seated activities (e.g., watching TV), on workdays and non-
+early death (Biddle et al., 2016; de Rezende, Lopes, Rey-López, workdays respectively.
+Matsudo, & Luiz, 2014; Smith, Hamer, & Gardner, 2018). Many studies Self-report questionnaires assume that participants share re-
+have sought to document, understand or change sitting time (Gardner, searchers’ interpretations of items, have insight into their sitting, and
+Smith, Lorencatto, Hamer, & Biddle, 2016; Smith et al., 2015), with can accurately recall sitting when prompted. Yet, little attention has
+especial attention paid to at-risk populations such as office workers, been paid to how people comprehend and respond to sitting ques-
+who typically sit for around two-thirds of their working and waking day tionnaires (van Uffelen, Heesch, Hill, & Brown, 2011). Instead, the
+(Ryde, Brown, Gilson, & Brown, 2014; Smith et al., 2015). utility of sitting time questionnaires is typically established only against
+
+Much sedentary behaviour research has been based on participant- observational data (Clark et al., 2011), with measures that correlate
+reported sitting time. Many self-report sitting time questionnaires are with objective monitor assessments of sitting assumed to be valid and
+available (Dall, Coulter, Fitzsimons, Skelton, & Chastin, 2017; Rivière, reliable. While many measures demonstrate validity in this respect,
+Aubert, Omorou, Ainsworth, & Vuillemin, 2018). These differ according convergence is often imperfect (Gupta et al., 2017); for example, stu-
+to properties of the sitting episode (e.g., the purpose or domain [work, dies have questioned the correspondence between the IPAQ, one of the
+leisure], the physical or social environment, or time of day (Chastin, most commonly used sitting time measures, and monitor assessments
+Schwarz, & Skelton, 2013; Rivière et al., 2018);), properties of the recall (Lee, Macfarlane, Lam, & Stewart, 2011). Additionally, correlational
+period (e.g., typical versus actual period; single versus multiple days; evidence reveals only whether increases or decreases in monitor-as-
+weekdays versus weekends (Dall et al., 2017);), and measurement di- sessed sitting time are mirrored by increases or decreases in self-re-
+mensions (e.g. unit of time; duration versus bouts of sitting or breaks). ported sitting, not the accuracy of estimates. Indeed, the IPAQ has been
+For example, the International Physical Activity Questionnaire (IPAQ; shown to underestimate true sitting time despite adequate convergent
+10) estimates sitting across a 7-day period by summing typical weekday validity (Rääsk et al., 2017).
+sitting time across five days, and typical weekend sitting time across ‘Think aloud’ methods, whereby participants vocalise their
+two days, via a direct recall item (e.g., ‘how much time did you spend thoughts, provide insight into respondents’ perceptions as they
+
+∗ Corresponding author.
+E-mail address: benjamin.gardner@kcl.ac.uk (B. Gardner).
+
+https://doi.org/10.1016/j.psychsport.2020.101718
+Received 5 March 2020; Received in revised form 11 May 2020; Accepted 11 May 2020
+Available online 15 May 2020
+1469-0292/ © 2020 Elsevier Ltd. All rights reserved.
+
+
+
+B. Gardner, et al. Psychology of Sport & Exercise 50 (2020) 101718
+
+interpret and formulate responses to questionnaire items (Eccles, 2012; All authors approached the study from a post-positivist realist phi-
+Eccles & Arsal, 2017; Ericsson & Simon, 1993; French, Cooke, McLean, losophical position (Guba & Lincoln, 1994). BG conceived of the study
+Williams, & Sutton, 2007). Ericsson and Simon (Ericsson & Simon, in response to anecdotal experience of participants expressing confu-
+1993) distinguish between three ‘levels’ of think-aloud response. ‘Level sion about questionnaire measures of sedentary habits (Matei et al.,
+1’ responses are vocalisations of verbal thoughts encoded as part of a 2015), having previously conducted a ‘think aloud’ study that revealed
+participant’s ‘inner speech’, and ‘Level 2’ responses are a more effort- problems underlying self-reports of habitual behaviour (Gardner &
+fully generated description of thoughts that would not otherwise have Tang, 2014). The ultimate goal of the study was to help researchers and
+been verbally encoded. While responses corresponding to Levels 1 and practitioners to identify and develop optimal self-report measures of
+2 describe thoughts, ‘Level 3’ responses are reflections on thoughts or sedentary behaviour.
+behaviours, such as explaining or assigning meaning or motive to them.
+While playing golf, for example, verbalisations at Levels 1 and 2 might 2.2. Selection of questionnaire items
+reflect descriptions of task features (e.g. ‘it is mostly uphill’) or self-
+instruction (‘concentrate on this’), whereas Level 3 verbalisations might Items were identified from an existing review of 60 sedentary be-
+reflect explanations for performance, such as justifying club selection haviour questionnaires (Rivière et al., 2018). We removed two non-
+(Calmeiro & Tenenbaum, 2011; Whitehead, Taylor, & Polman, 2015). English-language questionnaires, 29 questionnaires not designed for
+Verbalisations corresponding to Levels 1 and 2 capture information administration to, or validated among, adults from the general public
+stored momentarily in short-term memory that would otherwise be lost (e.g. children, overweight adults), and 3 questionnaires not designed
+or subject to recall errors and biases if assessed retrospectively (Stone for self-administration. Six questionnaires identified as duplicates or
+et al., 1998). While often used within sport and exercise psychology to derivatives (e.g. IPAQ short-form) were excluded. Four questionnaires
+describe thoughts during sports performance, or assess relationships not freely available were removed and, to minimise participant burden,
+between thoughts and performance (Eccles, 2012; Eccles & Arsal, 2017; so were two questionnaires each containing ≥20 sitting-related items. A
+Samson, Simpson, Kamphoff, & Langlier, 2017; Whitehead et al., 2015; list of excluded questionnaires is available as Supplemental Material.
+Whitehead, Taylor, & Polman, 2016; Whitehead et al., 2018), think- Items from the remaining 16 questionnaires were inspected in full.
+aloud methods as applied to questionnaire evaluation are designed to Items relating only to physical activity were removed, as were identical
+highlight comprehension and response problems that can threaten the or highly similar items across questionnaires. The final set comprised 43
+validity of data (Drennan, 2003). For example, participants’ inter- items, extracted from nine questionnaires: IPAQ short-form (Craig
+pretations may deviate from intended meanings (French et al., 2007), et al., 2003); Workplace Sitting Breaks Questionnaire (Pedisic et al.,
+which can lead researchers to misinterpret responses. Studies in which 2014); Clemes Single Item Sitting Time Questionnaire (Clemes, David,
+‘think aloud’ methods have been used to obtain Level 1 and Level 2 Zhao, Han, & Brown, 2012); Survey Question on Television Viewing
+verbalisations can offer valuable information on how questionnaire (Pettee, Ham, Macera, & Ainsworth, 2009); Marshall Domain-Specific
+items might be improved, as well as revealing how respondents re- Sitting Time Questionnaire (Marshall, Miller, Burton, & Brown, 2010);
+present and experience the focal phenomena. Occupational Sitting and Physical Activity Questionnaire (Jancey, Tye,
+
+To our knowledge, only one study to date has used ‘think aloud’ McGann, Blackford, & Lee, 2014); Aadahl and Jorgensen Physical Ac-
+methods to probe sitting time questionnaires (van Uffelen et al., 2011). tivity Scale (Aadahl & Jørgensen, 2003); MSTQ (Whitfield, Gabriel, &
+Older adults experienced difficulty in understanding which activities to Kohl, 2013); and Active-Q (Bonn et al., 2012). Together, these items
+account for in their responses, and in estimating sitting across days and capture direct recall (e.g. total sitting time) and domain-specific recall
+contexts, in response to the IPAQ and the Physical Activity Scale for the (e.g. sitting at work), across a range of periods (e.g., day, week; typical,
+Elderly (van Uffelen et al., 2011; Washburn, Smith, Jette, & Janney, actual), assessed with single or multiple items (see Table 1). The full set
+1993). While this study attested to the usefulness of ‘think aloud’ of questionnaire items is available as Supplementary Material.
+methods for documenting questionnaire comprehension, it focused on
+only two of the many available sitting time questionnaires. 2.3. Participants and procedure
+
+The present study used ‘think aloud’ methods to investigate office
+workers’ interpretations and responses to a set of sitting items system- Participants were office workers recruited from two UK-based or-
+atically sampled from multiple questionnaires to capture a range of ganisations: a large multinational telecommunications company
+question types (Chastin et al., 2013; Dall et al., 2017; Rivière et al., (N = 17; 13 female, 4 male), and a university (N = 8; 7 female, one
+2018). The study explored problems in item comprehension and re- male), both situated in inner-city locations in southeast England. These
+sponse formulation. Office workers were chosen because they tend to be organisations were chosen because they both encompass a diverse
+highly sedentary (Ryde et al., 2014; Smith et al., 2015), so are often range of office environments and employ workers from across the so-
+sampled within sitting time research. cioeconomic spectrum. Recruitment at the telecommunications com-
+
+pany occurred over a four-week period in January–February 2019, and
+2. Materials and method recruitment at the university, undertaken to boost sample size, over a
+
+two-week period in October 2019. Employees of the telecommunica-
+2.1. Researcher positionality tions company received an email advertising the study, circulated by
+
+management, and those from the university were recruited in person by
+The two senior authors (BG, LS) have been active in the sedentary knocking on office doors at the host site. Self-declared eligibility criteria
+
+behaviour field since the mid 2010s, conducting research to variously were: fluent in English; part- or full-time employed in a ‘desk-based
+observe, predict, explain and modify sitting. BG is a social psychologist job’; no physical impairments necessitating prolonged sitting; and no
+with qualitative and quantitative research experience, and LS an epi- psychology qualification. Due to researcher error, age was not recorded
+demiologist with a background in sports science. All other authors were for employees from the multinational company. Six of the 7 university-
+undergraduate psychology students with minimal extracurricular re- based participants reported their age (range 21–69y; M = 33y,
+search experience, and no prior involvement in sedentary research. SD = 16.5y).
+Authors IL and DM collected data at the telecommunications company, Data collection took place at local work sites. First, the researcher
+under supervision of BG, as coursework. Authors AC and AF collected asked the participant to ‘speak every and any thought that comes to mind
+data from the university sample, and contributed to analysis, as part of as you answer each question’ and, to facilitate transcription and analysis,
+an internship supervised by BG. All authors regarded themselves as to ‘read the [item] you are referring to out loud first and then say what you
+relatively sedentary, spending at least 6 h per day sitting. think about it’. To obtain descriptive think-aloud responses (i.e. ‘Level 2’
+
+2
+
+
+
+B. Gardner, et al. Psychology of Sport & Exercise 50 (2020) 101718
+
+verbalisations) rather than reflections or rationalisations (i.e. ‘Level 3’
+[18]), which can invoke reactivity (Fox, Ericsson, & Best, 2011), we
+asked that participants ‘don’t plan out what you are saying or explain what
+you mean – instead just freely voice your thoughts as they come to you’. To
+accustom participants to thinking aloud, the researcher provided a
+spoken example descriptive ‘think aloud’ response to a non-sitting-re-
+lated item pertaining to typical breakfast consumption duration (‘I
+would say between 10 and 15 min, usually about 15 min, so I will choose 11
+to 20 min’). Participants also completed a practice task, ‘thinking aloud’
+in response to a sample item assessing coffee consumption. The re-
+searcher then left the room and began recording. While we were unable
+to verify in-situ that participants were ‘thinking aloud’ as instructed,
+inspection of recordings indicated that all participants generated cod-
+able descriptive data. The questionnaire was hosted online, with block-
+randomised item presentation to control for order effects, and com-
+pleted using a study laptop. Procedures were verified as feasible among
+an independent sample of four desk-based employees and approved by
+the KCL Research Ethics Committee (MRS-18/19–8981).
+
+2.4. Analysis
+
+Inductive Thematic Analysis (Braun & Clarke, 2006) of verbatim
+interview transcripts was undertaken by a team of three coders (BG, AC,
+AF). All coders independently performed data familiarisation, coding
+(i.e., assigning conceptual labels to pertinent ‘events’ in the data re-
+lating to comprehension and response formulation), and theme ex-
+traction procedures on three transcripts. Coders met in person to in-
+ductively develop a preliminary thematic framework using a ‘critical
+friends’ approach to ensure rigour and trustworthiness, whereby all
+coders offered critical feedback on each other’s interpretations to allow
+consideration of and reflection on multiple perspectives (Smith &
+McGannon, 2018). Two further rounds were undertaken of application
+(by AC and AF) and critical reflection on the framework (by BG) in light
+of insights from coding and theme extraction of all remaining tran-
+scripts. Theme review and naming, and analysis write-up were under-
+taken by BG. All authors critically reviewed the final thematic structure
+and verified it as a valid representation of the data.
+
+3. Results
+
+Four themes were extracted, relating to: item misinterpretation and
+uncertainty; a mental calculation process involved in generating re-
+sponses; self-presentation concerns; and the affective and motivational
+impact of questionnaire completion on participants.
+
+3.1. Misinterpretation and uncertainty
+
+Some participants misunderstood items. For example, one inter-
+preted items relating to sitting over the course of a day to refer only to
+daylight hours:
+
+Participant 25 (P25): “Watching TV, day hours during the week [I
+would say is] zero … I only watch in the evening during the week.”
+
+There was uncertainty around whether a ‘workday’ referred to the
+entirety of waking days on which participants go to work, to time spent
+in the workplace, or more specifically to work-related activities in the
+workplace. Some items thus appeared nonsensical to some:
+
+P8: “[Indicate the number of hours and minutes per non-workday you
+spend … sitting while working.] Obviously I don’t work at the weekends.
+That’s weird phrasing.”
+
+Domain-specific measures were problematic, because some domains
+were seen as lacking modern-day relevance:
+
+P3: “I don’t use a computer anymore, I just my phone or tablet for ev-
+erything. If you asked me how much time I spent looking at my phone, it
+would be a horrifically high number. But that hasn’t been asked.”
+
+Other domains were not experienced as mutually exclusive. For
+example, video streaming activity cut across ‘watching TV or movies’,
+
+3
+
+Table 1
+Features of questionnaire items included in study questionnaire, coded according to relevant characteristics in Rivière et al’s taxonomy (Rivière et al., 2018).
+
+Questionnaire Recall period Number of sitting-related Dimensions Indicators
+items
+
+Time Breaks
+
+International Physical Activity Questionnaire (IPAQ; short-form) (Craig et al., 7 days 2 h-m/day – Duration
+2003)
+
+Workplace Sitting Breaks Questionnaire (Pedisic et al., 2014) Typical workday 2 – # breaks/h, total time of break during the day at # breaks
+work
+
+Clemes Single Item Sitting Time Questionnaire (Clemes et al., 2012) Today 1 h-m/day – Duration
+Survey Question on Television Viewing (Pettee et al., 2009) Typical week 1 h-m/day – Duration
+Marshall Domain-Specific Sitting Time Questionnaire (Marshall et al., 2010) Typical weekday and typical weekend 10 h-m/day – Duration
+
+day
+Occupational Sitting and Physical Activity Questionnaire (Jancey et al., 2014) Typical workday in last 7 days 3 %, h-m/day – Duration
+Aadahl and Jorgensen Physical Activity Scale (Aadahl & Jørgensen, 2003) Average weekday 4 h-m/day – Duration
+Multi-context Sitting Time Questionnaire (Whitfield et al., 2013) Typical workday and typical non-work 14 h-m/day – Duration
+
+day
+Active-Q (Bonn et al., 2012) Typical day 6 h-m/day – Duration
+
+
+
+B. Gardner, et al. Psychology of Sport & Exercise 50 (2020) 101718
+
+‘during transportation’, and ‘using a computer’: One participant appeared to modify her estimates for self-pre-
+P18: “[These] distinction[s are] weird. Netflix doesn’t really work like sentation reasons:
+
+that, does it?” P16: “That’s like, 9.5 h [of sitting], oh God that’s really bad. Ok, I’m
+Items requiring reports in hours and minutes were unclear to some. going to put 9 h”
+
+Some interpreted them to refer to the time of day (”[for time spent in Participants sought consistency in their responses, such that earlier
+sleep or rest,] do I add the time? […] I thought they were asking what time I responses provided templates for later, similar items (“as I said earlier,
+go to bed”; P21), and others queried whether they were being asked “to about maybe 70% of my time [is spent sitting]”; P15). Similar items
+convert how many hours [I spent sitting] into minutes” (P5). sometimes prompted a review and calibration of responses:
+
+While all participants provided quantitative responses to all items, P8: “This is the same [domain] as earlier, so I’m going to make that 1.5
+they lacked confidence in the accuracy or meaningfulness of responses [hours] and change my earlier answer to be 1.5 [hours].”
+to items deemed unclear:
+
+P13: “‘[Do my answers] reflect my normal activity levels?’ What do you 3.4. Affective and motivational impact of questionnaire completion
+mean? I don’t know. Let’s go with no.”
+
+Questionnaire completion prompted negative affect for some
+3.2. Mental calculation people. Some such responses arose in exasperation at the cognitive
+
+burden of completing the questionnaire (“my God, this is way too much
+Participants struggled to directly recall their sitting time. Some thinking”; P14) or deciphering unclear items (“this is a ridiculous ques-
+
+deferred to objective device-based data (“my Fitbit tells me that I’m tion!“; P8). Others arose because the questionnaire raised awareness of
+averaging about 7 h 30 min [of sleep per night]”; P9), while others inferred excessive sitting time (“oh my God, do I really sit for like 80% of the
+workplace sitting from time spent at work (”[I work from] 8 until 5.30, day?“; P12), a realisation that in turn motivated some to reduce their
+so … that’s 9 and a half hours [of sitting]”; P11). Many participants sitting time (“oh God, I need to get up and move!“; P18):
+generated sitting estimates by mentally rehearsing relevant activities P16: “That’s so bad. So that means that … 82% [of the time] is just
+and routines: [spent] sat down at my desk at work. God, I should really go to the gym
+
+P13: “Time spent sitting in leisure time, not including television … it’s more.”
+very hard to determine. What do I do? Monday [I go to] Virgin [the gym],
+Tuesday volleyball, Wednesday, Thursday gym, Friday. Hmm. I don’t really 4. Discussion
+sit.”
+
+To aid activity-specific recall, some imbued items with additional This study demonstrated the thought processes underpinning in-
+context, thereby excluding other relevant actions or settings (“there are terpretations of and responses to self-report items about sitting time.
+probably other activities that fall into this … I’ll just think about reading, so Our findings revealed the potential for participants to fail to understand
+that’s going to be [the basis for] my answer”; P15). Some struggled to items as intended by researchers, and for social desirability concerns to
+provide reliable estimates due to the variability of their routines: influence disclosure of sitting time. More fundamentally, we showed
+
+P9: “That’s a hard question because it completely depends. If I’ve got that participants experienced difficulty estimating sitting, because they
+three back to back meeting, then I will be sat down for the 3 h straight. If I appeared not to conceive of time spent in seated activities as sitting
+don’t have back to back meetings, then I will be drinking a lot of water, so I time. Perhaps consequently, generating sitting time estimates appeared
+will get up every half an hour for a toilet break or to fill up my water or go to raise awareness, such that some participants were motivated to re-
+for a walk.” duce what they saw as excessive sitting. These findings speak to the
+
+While some people appeared satisfied to offer imprecise global es- importance of using measures that prompt minimal reactivity from
+timates based on specific activities (“reading I guess could be an hour? No, participants and assess sitting in a way that corresponds most closely to
+I’ll put 30 min”; P11), others engaged in a systematic mental calculation perceptions of seated activity.
+process, converting time spent in seated activities into item response The accuracy of self-report depends on researchers and participants
+metrics. This was burdensome (”[I’m] not good at maths”; P3), and some sharing interpretations of questionnaire items. Yet, we documented
+arithmetic errors were evident: important misunderstandings and perceived ambiguities in item
+
+P4: “[I sit in this domain for] 6 h a day, so that’s what, about, so it’s like wording and showed that responses to such items may lack validity.
+15, no, sorry, that’s like 67 h [in total]. Oh, I’ve done this completely Perhaps unsurprisingly, where participants were unsure as to the
+wrong!” meaning of an item, they were uncertain as to how to respond.
+
+Calculated estimates were typically reviewed for accuracy and ad- Importantly, this could lead participants with identical sitting patterns
+justed based either on whether they ‘felt’ right (“texting … 30 min I to respond differently to the same item. Analogously, a previous ‘think
+should say, or 15 min, I think half an hour is too long to text”; P23) or, for aloud’ study showed that, in response to Likert scales assessing levels of
+items that seek to summarise all activities across a 24h period, whether agreement with a statement, some participants who did not understand
+responses totalled 24h: the statement selected ‘strongly disagree’, whereas others chose to
+
+P15: “I’m going to say 6 [hours] for [standing, washing dishes or ‘neither agree nor disagree’ (Pettee et al., 2009). Where participants
+cooking, driving a car or truck] and then [for a previous item] put up the within a sample differ in their perceptions of the meaning of items, their
+number of hours I spend working at a computer … to 7 so that it adds up to responses will lack validity and will be unsuitable for pooling with
+24”t others’ data. Researchers must ensure that instructions and definitions
+
+are made clear and should consider adopting ‘think aloud’ methods to
+3.3. Self-presentation concerns identify interpretation problems prior to questionnaire administration.
+
+We also documented participants’ concerns about portraying
+Some participants worried that their responses reflected badly on themselves negatively by disclosing lengthy periods of sitting and
+
+them (“God, this makes me sound awful!“; P11). Many sought to assuage showed that this could lead to under-reporting. Such self-presentation
+such concerns by justifying their sitting, highlighting a lack of au- concerns may at least partly explain why self-report measures typically
+tonomy (“I don’t like sitting down for too long, but it is a desk-based job”; underestimate true sitting time (Affuso et al., 2011; Gennuso,
+P3), or emphasising compensatory activities: Matthews, & Colbert, 2015), and indeed the broader phenomenon
+
+P9: “I’m sat down 93% of the time, but … that’s not including [the gym] whereby people under-report engagement in health-risk behaviours and
+… I repeat, that does not include my gym time that I have for an hour at over-report engagement in health-promoting actions (Black & Cole,
+lunch!” 2001). This is particularly problematic given the prevalence of self-
+
+4
+
+
+
+B. Gardner, et al. Psychology of Sport & Exercise 50 (2020) 101718
+
+report measures for population-level assessment of sedentary behaviour participants complete the main ‘think aloud’ procedure alone, steps
+(Bennie et al., 2013; Loyen, van der Ploeg, Bauman, Brug, & Lakerveld, which can minimise reactive responding (Ericsson & Simon, 1993). We
+2016; Milton, Gale, Stamatakis, & Bauman, 2015), which shapes policy recruited a small sample of mostly female office workers, whose ex-
+and practice (UK Chief Medical Officers, 2019). While there is evidence periences and reflections may not generalise to other populations. Our
+to suggest that some individuals consistently misreport their behaviour aim, however, was not to provide an exhaustive or generalisable ac-
+(Black & Cole, 2001), questionnaire developers might mitigate this count, but rather to illustrate the thought patterns that may underpin
+problem by emphasising the anonymity of responses (Nederhof, 1985). questionnaire responses, and there is no reason to expect our partici-
+
+A more fundamental problem highlighted by our data was that pants’ thought processes to differ from those among others.
+participants appeared not to mentally represent time spent sitting as Additional limitations arise from our focus on sitting time, rather
+‘sitting time’. This echoes research demonstrating that people tend to than sedentary behaviour more broadly. Critical commentators have
+encode sitting into memories of more meaningful acts performed while highlighted the ableist assumption that sitting is not only synonymous
+seated (Gardner et al., 2019). Estimating sitting time required partici- with sedentary behaviour, but is also uniformly undesirable, as this
+pants to engage in a burdensome and error-prone process of converting excludes people for whom sitting is unavoidable due to disability,
+seated activities into global sitting time. This problem likely compounds health or wellbeing needs (Todd & Martin Ginis, 2019). While often
+other sources of bias associated with autobiographical recollection, treated as synonymous with sedentary behaviour, sitting is a sub-type
+such as memory decay, whereby people fail to remember relevant ac- of sedentary behaviour, as defined as activity requiring ≤1.5 metabolic
+tion episodes (Smith, 1998), and longer intervals between action and equivalents undertaken while seated or lying down (Tremblay et al.,
+recall produce more erroneous responses (Durante & Ainsworth, 1996). 2017). Not all sedentary behaviour involves sitting, and many seated
+Actions that are personally meaningful are more likely to be recalled, activities (e.g., playing active computer games) are not sedentary, in-
+and are recalled more quickly, than those that lack meaning (Ellis, curring energy expenditure above 1.5 metabolic equivalents (Mansoubi
+Parente, & Shumate, 1974; Markus, Hamill, & Sentis, 1987), because et al., 2015). Physical activity guidelines increasingly focus on seden-
+they are more central elements within the cognitive structures that tary behaviour, rather than sitting per se (UK Chief Medical Officers,
+people use to organise and process information (Ghosh & Gilboa, 2014). 2019), and it is likely that sedentary behaviour questionnaires will also
+By extension, self-report items may elicit more accurate information evolve in response to these concerns, rendering sitting-focused ques-
+where they focus on activities as people perceive them. Activity-specific tionnaires obsolete. However, our findings likely transcend sitting and
+sitting measures might therefore alleviate burden and reduce error. reflect broader problems when self-reporting time spent in sedentary
+Measures that estimate total sitting by summing across items assessing activity more broadly. For example, like sitting, people tend not to
+multiple contexts (e.g. the MSTQ: “indicate the number of hours and recognise ‘sedentary behaviour’ as a meaningful standalone activity, so
+minutes that you spend …“; “sitting while watching TV or movies”, are likely to undertake a mental calculation process when generating
+“sitting using a computer of video game”; [11]) may yield more valid estimates of sedentary behaviour (Hadgraft et al., 2018). In retrospect,
+data than direct recall items (e.g. IPAQ: ‘how much time did you usually a more fundamental limitation of our study is that we excluded people
+spend sitting on a weekday?’ [10]). with disabilities that necessitating prolonged sitting, a population
+
+The mental calculation process required to estimate sitting time which could contribute most insight into the inclusivity of sedentary
+raised participants’ awareness of excessive sitting time, inadvertently behaviour questionnaires (Todd & Martin Ginis, 2019). Developing a
+motivating them to change their behaviour. Intervention studies have comprehensive understanding of responses to sedentary behaviour
+demonstrated that raising awareness of sitting, albeit via feedback re- questionnaires will depend on adopting inclusive recruitment methods
+ceived from others, can prompt people to reduce their sedentary be- and procedures.
+haviour (Dewitt et al., 2019). Ours is the first study to demonstrate that Our study points to potential difficulties affecting self-reported sit-
+feedback can effectively be self-administered: while participants were ting time, most notably due to problems encountered when attempting
+able to recall time in seated activities, combining discrete events into an to translate time in seated activities into total sitting time. Researchers
+unfamiliar metric corresponding to total sitting time provided novel should anticipate these problems when developing or administering
+and potentially motivational information. Such ‘mere measurement questionnaires to measure sedentary behaviour.
+effects’, whereby reporting thoughts or actions leads participants to
+modify their behaviour, have been documented in other domains CRediT authorship contribution statement
+(Godin, Sheeran, Conner, & Germain, 2008), and are thought to arise
+because self-reporting makes salient the mismatch between current and Benjamin Gardner: Conceptualization, Methodology, Formal ana-
+ideal behaviour (Silvia & Duval, 2001). This poses particular problems lysis, Data curation, Writing - original draft, Writing - review & editing,
+for research contexts in which sitting is measured over multiple time- Supervision. Ioanna Louca: Methodology, Investigation, Writing - re-
+points: attempts to observe natural fluctuations in sitting over time, or view & editing, Project administration. Danai Mourouzis:
+to detect effects of purposive interventions, would be contaminated if Methodology, Investigation, Writing - review & editing, Project ad-
+measurement alone encouraged sitting reduction. Conversely however, ministration. Alessandra Calabrese: Investigation, Formal analysis,
+future work might investigate the potential for self-reporting sitting Writing - review & editing, Project administration. Aeysha Fida:
+time to be used for intervention purposes. Investigation, Formal analysis, Writing - review & editing, Project ad-
+
+Limitations of our study must be acknowledged. The act of ‘thinking ministration. Lee Smith: Conceptualization, Methodology, Writing -
+aloud’ can modify attention and motivation such that questionnaire review & editing.
+responses provided while thinking aloud may not resemble those that
+would otherwise be generated (Double & Birney, 2019; Ericsson &
+
+Declaration of competing interest
+Simon, 1993). Participants may have attended more closely than
+normal to items, potentially prompting more considered, deliberative
+responses. The knowledge that responses were being recorded by se- The authors declare that they have no known competing financial
+dentary behaviour researchers may have prompted socially desirable interests or personal relationships that could have appeared to influ-
+responding, such as displaying heightened dismay at excessive sitting ence the work reported in this paper.
+time. However, we sought to minimise such reactivity by instructing
+participants to provide descriptive rather than self-evaluative re- Appendix A. Supplementary data
+sponses, conducting a practice task in the presence of the researcher to
+verify adherence to and understanding of instructions, and having Supplementary data to this article can be found online at https://
+
+5
+
+
+
+B. Gardner, et al. Psychology of Sport & Exercise 50 (2020) 101718
+
+doi.org/10.1016/j.psychsport.2020.101718. Guba, E. G., & Lincoln, Y. S. (1994). Competing paradigms in qualitative research. In N. K.
+Denzin, & Y. S. Lincoln (Eds.). Handbook of qualitative research (pp. 105–117).
+
+References Thousand Oaks, CA: Sage.
+Gupta, N., Christiansen, C. S., Hanisch, C., Bay, H., Burr, H., & Holtermann, A. (2017). Is
+
+questionnaire-based sitting time inaccurate and can it be improved? A cross-sectional
+Aadahl, M., & Jorgensen, T. (2003). Validation of a new self-report instrument for investigation using accelerometer-based sitting time. BMJ Open, 7, e013251.
+
+measuring physical activity. Medicine & Science in Sports & Exercise, 35, 1196–1202. Hadgraft, N. T., Brakenridge, C. L., Dunstan, D. W., Owen, N., Healy, G. N., & Lawler, S. P.
+Affuso, O., Stevens, J., Catellier, D., McMurray, R. G., Ward, D. S., Lytle, L., Sothern, M. (2018). Perceptions of the acceptability and feasibility of reducing occupational sit-
+
+S., & Young, D. R. (2011). Validity of self-reported leisure-time sedentary behavior in ting: Review and thematic synthesis. International Journal of Behavioral Nutrition and
+adolescents. Journal of Negative Results in BioMedicine, 10, 2. Physical Activity, 15, 90.
+
+Bennie, J. A., Chau, J. Y., van der Ploeg, H. P., Stamatakis, E., Do, A., & Bauman, A. Jancey, J., Tye, M., McGann, S., Blackford, K., & Lee, A. H. (2014). Application of the
+(2013). The prevalence and correlates of sitting in European adults - a comparison of occupational sitting and physical activity questionnaire (OSPAQ) to office based
+32 Eurobarometer-participating countries. International Journal of Behavioral Nutrition workers. BMC Public Health, 14, 762.
+and Physical Activity, 10, 107. Lee, P. H., Macfarlane, D. J., Lam, T. H., & Stewart, S. M. (2011). Validity of the inter-
+
+Biddle, S. J. H., Bennie, J. A., Bauman, A. E., Chau, J. Y., Dunstan, D., Owen, N., et al. national physical activity questionnaire short form (IPAQ-SF): A systematic review.
+(2016). Too much sitting and all-cause mortality: Is there a causal link? BMC Public International Journal of Behavioral Nutrition and Physical Activity, 8, 115.
+Health, 26, 635. Loyen, A., van der Ploeg, H. P., Bauman, A., Brug, J., & Lakerveld, J. (2016). European
+
+Black, A. E., & Cole, T. J. (2001). Biased over- or under-reporting is characteristic of Sitting Championship: Prevalence and correlates of self-reported sitting time in the
+individuals whether over time or by different assessment methods. Journal of the 28 European Union member states. PloS One, 11, e0149320.
+American Dietetic Association, 101, 70–80. Mansoubi, M., Pearson, N., Clemes, S. A., Biddle, S. J. H., Bodicoat, D. H., Tolfrey, K.,
+
+Bonn, S. E., Lagerros, Y. T., Christensen, S. E., Möller, E., Wright, A., Sjölander, A., et al. et al. (2015). Energy expenditure during common sitting and standing tasks:
+(2012). Active-Q: Validation of the web-based physical activity questionnaire using Examining the 1.5 MET definition of sedentary behaviour. BMC Public Health, 15,
+doubly labeled water. Journal of Medical Internet Research, 14, e29. 516.
+
+Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. Qualitative Research Markus, H., Hamill, R., & Sentis, K. P. (1987). Thinking fat: Self-schemas for body weight
+in Psychology, 3, 77–101. and the processing of weight relevant information. Journal of Applied Social
+
+Calmeiro, L., & Tenenbaum, G. (2011). Concurrent verbal protocol analysis in sport: Psychology, 17, 50–71.
+Illustration of thought processes during a golf-putting task. Journal of Clinical Sport Marshall, A. L., Miller, Y. D., Burton, N. W., & Brown, W. J. (2010). Measuring total and
+Psychology, 5, 223–236. domain-specific sitting: A study of reliability and validity. Medicine & Science in Sports
+
+Chastin, S. F. M., Schwarz, U., & Skelton, D. A. (2013). Development of a consensus & Exercise, 42, 1094–1102.
+taxonomy of sedentary behaviors (SIT): Report of delphi round 1. PloS One, 8, Matei, R., Thuné-Boyle, I., Hamer, M., Iliffe, S., Fox, K. R., Jefferis, B. J., & Gardner, B.
+e82313. (2015). Acceptability of a theory-based sedentary behaviour reduction intervention
+
+Clark, B. K., Thorp, A. A., Winkler E, A. H., Gardiner, P. A., Healy, G. N., Owen, N., et al. for older adults ('On Your Feet to Earn Your Seat'). BMC Public Health, 15, 606.
+(2011). Validity of self-reported measures of workplace sitting time and breaks in Milton, K., Gale, J., Stamatakis, E., & Bauman, A. (2015). Trends in prolonged sitting time
+sitting time. Medicine & Science in Sports & Exercise, 43, 1907–1912. among European adults: 27 country analysis. Preventive Medicine, 77, 11–16.
+
+Clemes, S. A., David, B. M., Zhao, Y., Han, X., & Brown, W. (2012). Validity of two self- Nederhof, A. J. (1985). Methods of coping with social desirability bias: A review.
+report measures of sitting time. Journal of Physical Activity and Health, 9, 533–539. European Journal of Social Psychology, 15, 263–280.
+
+Craig, C. L., Marshall, A. L., Sjöström, M., Bauman, A. E., Booth, M. L., Ainsworth, B. E., Pedisic, Z., Bennie, J. A., Timperio, A. F., Crawford, D. A., Dunstan, D. W., Bauman, A. E.,
+et al. (2003). International physical activity questionnaire: 12-Country reliability and et al. (2014). Workplace sitting breaks questionnaire (SITBRQ): An assessment of
+validity. Medicine & Science in Sports & Exercise, 35, 1381–1395. concurrent validity and test-retest reliability. BMC Public Health, 14, 1249.
+
+Dall, P. M., Coulter, E. H., Fitzsimons, C. F., Skelton, D. A., & Chastin, S. F. M. (2017). Pettee, K. K., Ham, S. A., Macera, C. A., & Ainsworth, B. E. (2009). The reliability of a
+TAxonomy of self-reported sedentary behaviour tools (TASST) framework for de- survey question on television viewing and associations with health risk factors in US
+velopment, comparison and evaluation of self-report tools: Content analysis and adults. Obesity, 17, 487–493.
+systematic review. BMJ Open, 7, e013844. Rääsk, T., Mäestu, J., Lätt, E., Jürimäe, J., Jürimäe, T., Vainik, U., et al. (2017).
+
+Dewitt, S., Hall, J., Smith, L., Buckley, J. P., Biddle, S. J. H., Mansfield, L., et al. (2019). Comparison of IPAQ-SF and two other physical activity questionnaires with accel-
+Office workers' experiences of attempts to reduce sitting-time: An exploratory, mixed- erometer in adolescent boys. PloS One, 12, e0169527.
+methods uncontrolled intervention pilot study. BMC Public Health, 19, 819. de Rezende, L. F. M., Lopes, M. R., Rey-López, J. P., Matsudo, V. K. R., & Luiz, O.d. C.
+
+Double, K. S., & Birney, D. P. (2019). Reactivity to measures of metacognition. Frontiers in (2014). Sedentary behavior and health outcomes: An overview of systematic reviews.
+Psychology, 10, 2755. PloS One, 9, e105620.
+
+Drennan, J. (2003). Cognitive interviewing: Verbal data in the design and pretesting of Rivière, F., Aubert, S., Omorou, A. Y., Ainsworth, B. E., & Vuillemin, A. (2018).
+questionnaires. Journal of Advanced Nursing, 42, 57–63. Taxonomy-based content analysis of sedentary behavior questionnaires: A systematic
+
+Durante, R., & Ainsworth, B. E. (1996). The recall of physical activity: Using a cognitive review. PloS One, 13, e0193812.
+model of the question-answering process. Medicine & Science in Sports & Exercise, 28, Ryde, G. C., Brown, H. E., Gilson, N. D., & Brown, W. J. (2014). Are we chained to our
+1282–1291. desks? Describing desk-based sitting using a novel measure of occupational sitting.
+
+Eccles, D. W. (2012). Verbal reports of cognitive processes. In G. Tenenbaum, R. C. Journal of Physical Activity and Health, 11, 1318–1323.
+Eklund, & A. Kamata (Eds.). Measurement in sport and exercise psychology (pp. 103– Samson, A., Simpson, D., Kamphoff, D., & Langlier, A. (2017). Think aloud: An ex-
+117). Champaign, IL: Human Kinetics. amination of distance runners' thought processes. International Journal of Sport and
+
+Eccles, D. W., & Arsal, G. (2017). The think aloud method: What is it and how do I use it? Exercise Psychology, 15, 176–189.
+Qual Res Sport Exerc Health, 9, 514–531. Silvia, P. J., & Duval, T. S. (2001). Objective self-awareness theory: Recent progress and
+
+Ellis, H. C., Parente, F. J., & Shumate, E. C. (1974). Meaningfulness, perceptual grouping, enduring problems. Personality and Social Psychology Review, 5, 230–241.
+and organization in recognition memory. Journal of Experimental Psychology, 102, Smith, E. R. (1998). Mental representation and memory. In D. T. Gilbert, S. T. Fiske, & G.
+308–313. Lindzey (Vol. Eds.), Handbook of social psychology: 1, (pp. pp391–445). New York:
+
+Ericsson, K. A., & Simon, H. A. (1993). Protocol analysis: Verbal reports as data. Cambridge: Oxford University Press.
+MIT Press. Smith, L., Hamer, M., & Gardner, B. (2018). Sedentary behavior and mental health. In B.
+
+Fox, M. C., Ericsson, K. A., & Best, R. (2011). Do procedures for verbal reporting of Stubbs, & S. Rosenbaum (Eds.). Exercise-based interventions for mental illness (pp. 107–
+thinking have to be reactive? A meta-analysis and recommendations for best re- 119). Academic Press.
+porting methods. Psychological Bulletin, 137, 316–344. Smith, L., Hamer, M., Ucci, M., Marmot, A., Gardner, B., Sawyer, A., et al. (2015).
+
+French, D. P., Cooke, R., McLean, N., Williams, M., & Sutton, S. (2007). What do people Weekday and weekend patterns of objectively measured sitting, standing, and step-
+think about when they answer theory of planned behaviour questionnaires? A ‘think ping in a sample of office-based workers: The active buildings study. BMC Public
+aloud’ study. Journal of Health Psychology, 12, 672–687. Health, 15, 9.
+
+Gardner, B., Flint, S., Rebar, A. L., Dewitt, S., Quail, S. K., Whall, H., et al. (2019). Is Smith, B. R., & McGannon, K. R. (2018). Developing rigor in qualitative research:
+sitting invisible? Exploring how people mentally represent sitting. International Problems and opportunities within sport and exercise psychology. International
+Journal of Behavioral Nutrition and Physical Activity, 16, 85. Review of Sport and Exercise Psychology, 11, 101–121.
+
+Gardner, B., Smith, L., Lorencatto, F., Hamer, M., & Biddle, S. J. H. (2016). How to reduce Stone, A. A., Schwartz, J. E., Neale, J. M., Shiffman, S., Marco, C. A., Hickcox, M., Paty, J.,
+sitting time? A review of behaviour change strategies used in sedentary behaviour Porter, L. S., & Cruise, L. J. (1998). A comparison of coping assessed by ecological
+reduction interventions among adults. Health Psychology Review, 10, 89–112. momentary assessment and retrospective recall. Journal of Personality and Social
+
+Gardner, B., & Tang, V. (2014). Reflecting on non-reflective action: An exploratory think- Psychology, 74, 1670–1680.
+aloud study of self-report habit measures. British Journal of Health Psychology, 19, Todd, K. R., & Martin Ginis, K. A. (2019). Physical activity and spinal cord injury: Lessons
+258–273. learned at the lowest end of the physical activity spectrum. Kinesiology Review, 8,
+
+Gennuso, K. P., Matthews, C. E., & Colbert, L. H. (2015). Reliability and validity of 2 self- 54–62.
+report measures to assess sedentary behavior in older adults. Journal of Physical Tremblay, M. S., Aubert, S., Barnes, J. D., Saunders, T. J., Carson, V., Latimer-Cheung, A.
+Activity and Health, 12, 727–732. E., et al. (2017). Sedentary behaviour research network (SBRN) – terminology con-
+
+Ghosh, V. E., & Gilboa, A. (2014). What is a memory schema? A historical perspective on sensus Project process and outcome. International Journal of Behavioral Nutrition and
+current neuroscience literature. Neuropsychologia, 53, 104–114. Physical Activity, 14, 75.
+
+Godin, G., Sheeran, P., Conner, M., & Germain, M. (2008). Asking questions changes van Uffelen, J. G., Heesch, K. C., Hill, R. L., & Brown, W. J. (2011). A qualitative study of
+behavior: Mere measurement effects on frequency of blood donation. Health older adults' responses to sitting-time questions: Do we get the information we want?
+Psychology, 27, 179–184. BMC Public Health, 11, 458.
+
+6
+
+
+
+B. Gardner, et al. Psychology of Sport & Exercise 50 (2020) 101718
+
+UK Chief Medical Officers (2019). UK Chief medical Officers' physical activity guidelines. Whitehead, A. E., Taylor, J. A., & Polman, R. C. (2015). Examination of the suitability of
+London: Department of Health. collecting in event cognitive processes using Think Aloud protocol in golf. Frontiers in
+
+Washburn, R. A., Smith, K. W., Jette, A. M., & Janney, C. A. (1993). The physical activity Psychology, 6, 1083.
+scale for the elderly (PASE): Development and evaluation. Journal of Clinical Whitehead, A. E., Taylor, J. A., & Polman, R. C. (2016). Evidence for skill level differences
+Epidemiology, 46, 153–162. in the thought processes of golfers during high and low pressure situations. Frontiers
+
+Whitehead, A. E., Jones, H. S., Williams, E. L., Rowley, C., Quayle, L., Marchant, D., & in Psychology, 6, 1974.
+Polman, R. C. (2018). Investigating the relationship between cognitions, pacing Whitfield, G. P., Gabriel, K. K. P., & Kohl, H. W. (2013). Assessing sitting across contexts:
+strategies and performance in 16.1km cycling time trials using a think aloud protocol. Development of the multicontext sitting time questionnaire. Research Quarterly for
+Psychology of Sport and Exercise, 34, 95–109. Exercise & Sport, 84, 323–328.
+
+7

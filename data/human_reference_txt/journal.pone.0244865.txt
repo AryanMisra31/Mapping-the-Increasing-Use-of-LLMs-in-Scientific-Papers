@@ -1,0 +1,879 @@
+﻿PLOS ONE
+
+RESEARCH ARTICLE
+
+Understanding the relationship between
+safety beliefs and knowledge for cognitive
+enhancers in UK university students
+
+Ngoc Trai Nguyen, Tim Rakow, Benjamin Gardner, Eleanor J. DommettID*
+
+Department of Psychology, Institute of Psychiatry, Psychology and Neuroscience, King’s College London,
+London, United Kingdom
+
+* Eleanor.dommett@kcl.ac.uk
+
+a1111111111
+a1111111111
+a1111111111 Abstract
+a1111111111
+a1111111111
+
+Background
+
+Cognitive enhancers (CE) are prescription drugs taken, either without a prescription or at a
+
+OPEN ACCESS dose exceeding that which is prescribed, to improve cognitive functions such as concentra-
+
+tion, vigilance or memory. Previous research suggests that users believe the drugs to be
+Citation: Nguyen NT, Rakow T, Gardner B,
+
+safer than non-users and that they have sufficient knowledge to judge safety. However, to
+Dommett EJ (2021) Understanding the relationship
+
+between safety beliefs and knowledge for cognitive date no research has compared the information sources used and safety knowledge of
+enhancers in UK university students. PLoS ONE users and non-users.
+16(1): e0244865. https://doi.org/10.1371/journal.
+
+pone.0244865
+
+Editor: Angel Blanch, University of Lleida, SPAIN Objectives
+Received: March 17, 2020 This study compared users and non-users of CE in terms of i) their sources of knowledge
+
+Accepted: December 17, 2020 about the safety of CE and ii) the accuracy of their knowledge of possible adverse effects of
+
+a typical cognitive enhancer (modafinil); and iii) how the accuracy of knowledge relates to
+Published: January 28, 2021
+
+their safety beliefs.
+Peer Review History: PLOS recognizes the
+
+benefits of transparency in the peer review
+
+process; therefore, we enable the publication of
+
+all of the content of peer review and author Methods
+responses alongside final, published articles. The Students (N = 148) from King’s College London (UK) completed an anonymous online sur-
+editorial history of this article is available here:
+
+vey assessing safety beliefs, sources of knowledge and knowledge of the safety of modafi-
+https://doi.org/10.1371/journal.pone.0244865
+
+nil; and indicated whether they used CE, and, if so, which drug(s).
+Copyright: © 2021 Nguyen et al. This is an open
+
+access article distributed under the terms of the
+
+Creative Commons Attribution License, which
+
+permits unrestricted use, distribution, and Results
+reproduction in any medium, provided the original
+
+The belief that the drugs are safe was greater in users than non-users. However, both
+author and source are credited.
+
+groups used comparable information sources and have similar, relatively poor drug safety
+Data Availability Statement: The dataset
+
+knowledge. Furthermore, despite users more strongly believing in the safety of CE there
+supporting this research is openly available from
+
+the King’s College London research data repository was no relationship between their beliefs and knowledge, in contrast to non-users who did
+
+at http://doi.org/doi:10.18742/RDM01-690. show correlations between beliefs and knowledge.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0244865 January 28, 2021 1 / 14
+
+
+
+PLOS ONE Safety beliefs, knowledge and cognitive enhancers
+
+Funding: The author(s) received no specific Conclusion
+funding for this work.
+
+These data suggest that the differences in safety beliefs about CE between users and non-
+Competing interests: The authors have declared
+
+users do not stem from use of different information sources or more accurate safety
+that no competing interests exist.
+
+knowledge.
+
+Introduction
+
+Cognitive enhancers (CE), commonly referred to as smart drugs, are prescription drugs taken
+by individuals, either without a prescription or at a dose exceeding that which is prescribed, to
+improve cognitive functions such as concentration, vigilance or memory [1]. CE were origi-
+nally developed to treat a range of disorders including Attention Deficit Hyperactivity Disor-
+der (ADHD), Alzheimer’s disease and narcolepsy [2], by targeting various deficits in cognitive
+functioning such as attention, aberrant learning, and absence of top-down cognitive control
+[3]. However, they are increasingly being used by healthy individuals to enhance cognition,
+even though questions remain around their ability to do so within non-clinical populations [2,
+4, 5]. One population for whom use of CE is thought to be particularly prevalent is university
+students, who seek to enhance functioning to improve academic performance [2, 6–8]. The
+reported prevalence of CE use among students varies markedly, ranging from 5–35% in US
+studies [8], 1–16% in Continental Europe [9–11], and 9–17% in studies of UK students [12–
+14].
+
+Several studies have examined ethical, legal and social issues surrounding CE and identified
+concerns regarding coercion, drug abuse, morality, illegality, fairness and equality [15, 16].
+Studies looking at attitudes towards CE indicate that attitudes are impacted by views on these
+issues, as well as other factors such as stress, learning approaches, competitiveness and aware-
+ness of the possibility of using certain drugs to enhance cognition [3, 17, 18]. Safety concerns
+have also been raised [19]. Perhaps unsurprisingly, studies have found users to be less con-
+cerned about the safety of CE than non-users [4, 20], and perceptions of the severity of possible
+health risks have been inversely associated with willingness to use CE [21–27]. We recently
+demonstrated that perceived harmlessness and the belief that an individual knows enough
+about CE to use them safely were significant positive predictors of attitudes towards CE, which
+in turn predicted CE use in UK university students [12]. However, to date, no study has exam-
+ined where users and non-users obtain safety information, or the accuracy of their knowledge
+of drug safety. Furthermore, the relationship between beliefs about the safety of CE and actual
+knowledge of drug safety remains unclear.
+
+The studies conducted to date indicate the value of further investigating beliefs and knowl-
+edge about safety in key populations. When making any health-related decision, including
+whether or not to use CE, we might assume that individuals will conduct a cost-benefit analysis
+of a specific course of action. However, a large body of evidence from decision psychology sug-
+gests that, often, people do not take this consequentialist approach in their decisions [28].
+Rather, they rely heavily on emotional responses to stimuli and events, in which negative emo-
+tions such as fears anxieties and worries are particularly important. Consequently, the features
+of a decision that elicit these emotions (e.g., risks, and how they are presented) are particularly
+influential. A related proposal is that negative stimuli may be more salient than positive ones
+creating a general negativity bias within our decision-making [29, 30]. This negativity bias is
+supported by a range of evidence, including eye-tracking during reading of risk and benefit
+health information [31], and may explain why interventions that successfully change risk
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0244865 January 28, 2021 2 / 14
+
+
+
+PLOS ONE Safety beliefs, knowledge and cognitive enhancers
+
+perceptions are more likely to result health behaviour changes in contrast to those which focus
+on benefits. In keeping with these general features of people’s decision making, most studies
+looking at CE tend to focus on perceptions of risk and safety rather than knowledge or evalua-
+tions of benefits. There are likely to be several specific reasons for this. Firstly, the perceived
+safety of drugs can be defined as the absence of risk awareness or risk knowledge [32]. Sec-
+ondly, there is evidence that the benefits of CE are doubted and perceived as highly variable,
+even in the student populations where prevalence is high [33], meaning the benefits may be
+even less informative in this case. Thirdly, when off-label use is considered, including that of
+the cognitive enhancer modafinil, key professionals (e.g. physicians, regulators) focus on risks
+not benefits [34, 35].
+
+Based on the evidence that safety is a key issue in research into CE and the prominence of
+risk over benefits in both theoretical models and health interventions, the present study
+addresses three novel research questions: comparing users and non-users of CE in terms of i)
+their sources of knowledge about the safety of CE and ii) the accuracy of their knowledge of
+possible adverse effects of a typical CE; and iii) examining how the accuracy of this knowledge
+relates to safety beliefs.
+
+Method
+
+All procedures were approved by the Institutional Research Ethics Committee (HR15/162824)
+at King’s College London. Written consent was obtained via the anonymous online survey
+prior to access to the survey.
+
+Participants and procedure
+
+Eligible participants–i.e., full-time students at the host UK university, aged 18 years or over–
+completed an online survey. The study was advertised via email circulars to all students at the
+host institution asking for participants to complete a survey about perceptions of safety and
+risk of CE. The study was conducted via an anonymous, online questionnaire, hosted by Qual-
+trics. Study adverts featured a URL linking to the study information and a consent form. Con-
+senting participants were granted access to the online questionnaire, which took
+approximately 30 minutes to complete. Those who completed the questionnaire were offered
+entry into a £100 (~$130/€113) Amazon.co.uk voucher prize draw. Data were collected
+between January and May within the academic year.
+
+Survey measures
+
+Given the novelty of studying these psychological constructs in relation to CE, few measures
+existed for assessing them. Therefore, unless indicated below, most items described below
+were designed for this study. A copy of the full survey items can be found in S1 File.
+
+Sample characteristics. Participants were asked to state their gender, age, and the type of
+qualification they were studying for at the time of the survey, selecting from: undergraduate
+degree (e.g. BSc), taught postgraduate degree (e.g. MSc) and postgraduate research degree (e.g.
+PhD). They were asked whether they had taken any of the following with the intent of improv-
+ing their study results during their current qualification: methylphenidate, amphetamine,
+modafinil, beta-blockers, rivastigmine. Listings included only drug names rather than brand
+names in line with previous research [3, 12]. These drugs were all chosen based on frequent
+citation in the literature on CE use [36–38] and recent work showing use of these drugs to
+enhance cognition in student populations [2]. Participants who indicated they had taken any
+of these CE were asked to indicate which they took and the frequency with which they used
+them (from less than one per year to more than once per week).
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0244865 January 28, 2021 3 / 14
+
+
+
+PLOS ONE Safety beliefs, knowledge and cognitive enhancers
+
+Safety beliefs. Participants rated their agreement with three statements (1 = strongly
+agree, 7 = strongly disagree) regarding safety: i) It is important to know whether smart drugs
+are safe to use (‘Safety Importance’); ii) I know enough about smart drugs to judge whether
+they are safe to use (‘Sufficient Safety Knowledge’) [3, 12]; iii) I think smart drugs are safe to
+use (‘Safe to Use’) (3). Each of these safety belief items was reverse scored, such that a high
+score indicated strong agreement, and entered into analysis as a separate variable.
+
+Sources of information. Participants identified the sources they used when considering
+safety of CE from: personal experience, experiences of peers, information from websites, social
+media, NICE guidelines, scientific research and other (please specify). For each of these
+sources, irrespective of whether they used them, they then rated its reliability (1 = extremely
+unreliable, 7 = extremely reliable).
+
+Knowledge of drug effects. Participant knowledge of the effects of modafinil were
+assessed using three questions that could be answers using the typical information found in a
+drug safety leaflet accompanying prescription medication. Note that modafinil was selected
+because our previous research indicated this was the most commonly used of the listed CE at
+the host institution, therefore meaning that the participants were most likely to be familiar
+with this drug [12]. First, participants selected ‘true’ or ‘false’, for which of five medical condi-
+tions (e.g. diabetes, migraines) modafinil should not be taken with (‘Not Safe’). Second, partici-
+pants identified, in the same way, which of nine conditions would require careful monitoring
+if modafinil is taken (e.g. depression, heart problems) (‘Monitor’). Third, participants indi-
+cated the frequency with which fifteen known side effects (e.g. headache, chest pain) of moda-
+finil occurred, choosing from three options (1 in 10, 1 in 100, or 1 in 1000 individuals) (‘Side
+Effects’).
+
+Data analysis
+
+Initial analysis was conducted to characterise the sample by calculating percentages for each
+level of a categorical variable and the mean for age. Chi-square analysis (gender, qualification)
+or an independent sample t-test (age) was used to establish whether there were differences
+between users and non-users for these characteristics. Percentage data was calculated for fre-
+quency of use. Given that previous studies found beliefs around safety to differ between users
+and non-users, we also characterised safety beliefs for the whole cohort and compared between
+the two groups (Safety Importance; Sufficient Safety Knowledge; Safe to Use). Mean (M) and
+standard deviation (SD) were calculated for all three safety belief measures (importance of
+knowing about safety; knowing enough to judge safety and perceived safety) and Pearson’s
+correlation coefficient calculated for relationships between them. Finally, binary logistic
+regression was used to establish whether the safety beliefs predicted CE use.
+
+Aim 1 was to compare users and non-users in terms of their sources of knowledge about
+the safety of CE. To do so, three analyses were conducted. Firstly, the total number of sources
+consulted were calculated and this was compared between the two groups using an indepen-
+dent sample t-test. Secondly, for each of the sources, a Chi-square analysis examined whether
+there were differences between users and non-users. Finally, perceived reliability of the differ-
+ent measures was compared between users and non-users with a mixed-measures ANOVA
+followed by post-hoc paired sample t-tests. Aim 2 was to compare the accuracy of safety
+knowledge in users and non-users of CE. To do this, the total number of correct answers was
+calculated for each of the three safety questions (Not Safe, Monitor, Side Effects) and indepen-
+dent-sample t-tests were then used to establish group differences. For these and other
+between-subjects tests of mean difference we assume homogeneity of variance in the popula-
+tion. Analyses reported in S2 File show that no conclusions change if this assumption is not
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0244865 January 28, 2021 4 / 14
+
+
+
+PLOS ONE Safety beliefs, knowledge and cognitive enhancers
+
+made. Aim 3 was to examine how the accuracy of participants’ knowledge related to their
+safety beliefs. To achieve this, the Pearson’s correlation coefficient was calculated for the rela-
+tionship between each type of accuracy and each safety belief for the entire cohort and then for
+users and non-users separately.
+
+Results
+
+Sample characteristics
+
+Two-hundred and twenty-two participants expressed an interest in the study and 204 gave
+consent to participate and accessed the anonymous questionnaire, of which 148 (73%) com-
+pleted it. All 148 were included in subsequent analysis. The majority of those completing the
+survey were female (78%); which is a slightly higher proportion than for the overall student
+population at the host institution where 66% of students are female. Most participants were
+studying for an undergraduate qualification (62%) but taught postgraduate (26%) and post-
+graduate research (12%) students were also represented. These proportions are representative
+of the overall student body at the host institution where approximately 60% of students are
+undergraduates. The mean age of participants was 23.9 years (SD = 4.88) as expected for a stu-
+dent population. Twenty-one percent (N = 30) of participants reported use of CE during their
+current qualification. Users were significantly more likely to be male (χ2 (1) = 4.91, p = 0.027;
+34.4% of males; 16.5% of females). There was no difference in terms of qualification between
+users and non-users (χ2 (2) = 5.53, p = 0.063). There was also no mean difference in the age of
+users and non-users (t(146) = 1.21, p = 0.227, 95% CI -.0.78, 3.29). The most used drug was
+modafinil and no users reported multiple drug use (Table 1). Frequency of use varied consid-
+erably. However, the most common frequency was once per term (30%) followed by once per
+month (20%). More frequent use was also found in a substantial proportion (once per week
+16.7%; more than once per week 16.7%) with fewer participants reporting infrequent use
+(once per year 3.3%, less than once per year 13.3%).
+
+When considering all participants (i.e. users and non-users together), mean data indicate
+there was a strong belief that it was important to know about the safety of CE. Scores on the
+remaining belief statements suggest a wider range of beliefs and less overall agreement. There
+were significant correlations between two of the three possible pairings of safety beliefs
+(Table 2), the strongest of these reflecting that those with higher self-rated knowledge were
+more likely to rate CE as safe.
+
+Logistic regression analysis (Table 3) found that, together, the three safety beliefs, along
+with gender (included because gender differences were found in the present study), accounted
+for 36.7% of the variance in CE use (χ2 (4) = 39.11, p<0.001). Within the model, the belief that
+CE were safe to use was the only significant predictor of use, such that for each additional
+1-point increase on the 1–7 scale the odds of being a CE user increased by more than two-and-
+
+Table 1. Twenty-one percent of the whole sample reported use of CEs.
+
+Cognitive Enhancer Percentage Reporting Use (%)
+
+Modafinil 70.0
+
+Beta-blockers 13.3
+
+Amphetamine 10.0
+
+Methylphenidate 3.3
+
+Rivastigmine 3.3
+
+The breakdown of use across the five commonly used drugs within this group is shown here.
+
+https://doi.org/10.1371/journal.pone.0244865.t001
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0244865 January 28, 2021 5 / 14
+
+
+
+PLOS ONE Safety beliefs, knowledge and cognitive enhancers
+
+Table 2. Correlations between safety knowledge and beliefs (reversed).
+
+Variable Scale range Mean 1 2 3 4 5
+(SD)
+
+1. Safety Importance 1–7 6.59 (0.71) -
+
+2. Sufficient Safety Knowledge 1–7 3.36 (1.69) -.213�� - - - -
+
+3. Safe to Use 1–7 3.97 (1.43) -.081 .398�� - - -
+
+4. ‘Not safe’ Accuracy 0–5 3.18 (1.02) -.117 .258�� .232�� - -
+
+5. ‘Monitoring’ Accuracy 0–9 6.91 (1.31) .174� .033 .144 .120 -
+
+6. ‘Side Effects’ Accuracy 0–15 5.75 (2.46) -.004 .015 -.192� -.156 .057
+
+N = 148
+� p< 0.05
+��<0.01
+
+https://doi.org/10.1371/journal.pone.0244865.t002
+
+a-half times. To further illustrate the substantial size of this effect: of the 50 participants giving
+a response below the scale midpoint (‘1’ to ‘3’) for ‘safe to use’ only 4% used CE, while of the 58
+participants giving a response above the scale midpoint (‘5’ to ‘7’) 43% used CE (with a 63%
+prevalence of use among those responding ‘6’ or ‘7’).
+
+Aim 1: Which information sources do users and non-users draw on?
+
+While the mean number of sources used was higher for users (M = 3.43, SD = 1.14) than non-
+users (M = 2.97, SD = 1.21), this difference was not statistically significant (t(145) = 1.91,
+p = 0.058, 95% CI -0.95, 0.01) although the effect was small-to-medium in size (d = 0.039).
+Thus, we did not detect a difference between users and non-users in the mean number of
+information sources used. Using G�Power software, we determined that our sample size was
+sufficient for 0.95 power to detect a mean difference of one additional data source in the popu-
+lation using a two-tailed test (see Supplementary Materials for full details). Therefore, if a dif-
+ference of that scale or larger were to exist in the population, it is highly unlikely that we would
+fail to detect a difference.
+
+The percentage of those using the different types of information source is shown in Fig 1,
+along with ratings of reliability for all sources. Note that 4.4% reported using ‘Other’ sources
+but examination of the specified ‘other’ sources revealed no consistent sources and therefore,
+given the low proportion of participants using other sources, this category was excluded from
+further analysis. Chi-square tests revealed that, for most sources, there were no statistically sig-
+nificant differences between users and non-users for the proportion drawing on the source
+(experience of peers χ2 (1) = 3.36, p = 0.067; websites χ2 (1) = 2.47, p = 0.116; social media
+
+Table 3. Logistic regression of safety beliefs about CE as predictors of CE use.
+
+Variable R2 B S.E Wald χ2 OR 95% CI
+
+Constant .367 -4.401 2.624 2.813 .012
+
+Gender -.903 .524 2.970 .405 .145–1.132
+
+Safety Importance -.219 .351 .389 .803 .404–1.598
+
+Sufficient Safety Knowledge .157 .165 .907 1.170 .847–1.616
+
+Safe to Use 1.016�� .280 13.122 2.761 1.594–4.784
+
+Note that the table presents the total R2 Nagelkerke statistic
+�� p<0.001.
+
+https://doi.org/10.1371/journal.pone.0244865.t003
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0244865 January 28, 2021 6 / 14
+
+
+
+PLOS ONE Safety beliefs, knowledge and cognitive enhancers
+
+Fig 1. The frequency of use and perceived reliability for different sources of information about the safety of CE
+shown by use status. Bars indicate the percentage using a source whilst lines indicate the perceived reliability of the
+sources. Note that the most frequently used source (websites) was only the fourth most reliable.
+
+https://doi.org/10.1371/journal.pone.0244865.g001
+
+χ2 (1) = 2.00, p = 0.157; NICE guidelines χ2 (1) = 1.93, p = 0.165; scientific research χ2 (1) =
+0.79, p = 0.384). The only exception to this was using personal experience (χ2 (1) = 24.09,
+p<0.001) which was more likely to be used by users than by non-users (73.3% vs. 25.4%
+respectively). A mixed-measures ANOVA with source as a within-subjects factor, incorporat-
+ing six levels (i.e. all sources except those labelled as ‘Other’) and use status as a between-sub-
+jects factor was used to examine perceived reliability scores for the different sources. This
+revealed no significant effect of use status (F(1,145) = 0.221, p = 0.639, η2
+
+p = 0.02) but there
+was a significant main effect of source (F(3.41,493.98) = 92.12, p<0.001, η2
+
+p = 0.389). There
+was no use status x source interaction (F(3.41,493.98) = 1.16, p = 0.327, η2
+
+p = 0.08. Paired-sam-
+ple t-tests (corrected α = 0.003) showed there were significant differences between all sources
+(p<0.001) except personal experience and websites (t(147) = 1.92, p = 0.057, 95% CI -0.10,
+0.65) and experience of peers and website (t(146) = 2.84, p = 0.005, 95% CI -0.70, -0.13).
+
+Accuracy of safety knowledge (Aim 2) and its relation to safety beliefs (Aim
+3)
+
+Considering all participants together, accuracy for the ‘Side Effects’ information was lowest at
+38.3% correct (SD = 16.4%), followed by ‘Not Safe’ information with 63.6% correct
+(SD = 20.4%). The ‘Monitor’ information was most accurate with an average of 76.8% correctly
+identified (SD = 14.5%). For none of these measures did the mean number correct differ sig-
+nificantly between users and non-users (Fig 2): Not Safe, t(146) = 1.35, p = 0.179, 95% CI –
+0.69, 0.13; Monitor, t(146) = 0.72, p = 0.471, 95% CI -0.72, 0.34; Side Effects, t(146) = 1.38,
+p = 0.171, 95% CI -0.30, 1.68. The confidence intervals for these mean differences are for scales
+with a maximum possible score of 5, 9 and 15, respectively; and therefore the 95% CIs span
+19.8%, 11.8% and 13.2% of each scale-range, respectively. We used G�Power software to deter-
+mine the sample sizes required for 0.8 power to detect an absolute mean difference of 10% of
+the scale-range for each knowledge scores. Our sample size exceeds the sample size required
+for this level of statistical power for the monitor and not safe scores, though an additional 56
+participants would be required to achieve this high degree of power for the not safe scale (see
+S2 File).
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0244865 January 28, 2021 7 / 14
+
+
+
+PLOS ONE Safety beliefs, knowledge and cognitive enhancers
+
+Fig 2. Accuracy of safety knowledge regarding modafinil was broken down into three categories as is typically
+found in drug safety leaflets does not differ significantly between users and non-users.
+
+https://doi.org/10.1371/journal.pone.0244865.g002
+
+Pearson’s correlation revealed several significant correlations between the accuracy of safety
+knowledge and safety beliefs when all participants were considered (Table 2). Notably, ‘Safe to
+Use’ beliefs positively correlated with ‘Not Safe’ knowledge but negatively with ‘Side Effects’
+knowledge indicating participants who felt CE were safe to use had less knowledge of side
+effects. Those with strong ‘Sufficient Safety Knowledge’ beliefs, i.e. they felt they knew enough
+to judge safety did have better ‘Monitor’ knowledge but no other correlations with knowledge
+were found. Finally, participants with stronger ‘Safety Importance’ beliefs did have better
+‘Monitoring’ knowledge, but no relationships existed for the other knowledge types. Interest-
+ingly, when considering users only, we find that there are no correlations between safety beliefs
+and accuracy for this group (-.118 < r> .124., all p> .513). By contrast all correlations noted
+above for the whole group remained when non-users were considered alone except the rela-
+tionship between ‘Safe to Use’ and ‘Side Effects’ which did not reach significant (r = -.169,
+p = 0.068).
+
+Discussion
+
+Building on previous research demonstrating that beliefs about safety of CE can predict atti-
+tudes, and in turn, use of CE [12], the current study aimed to compare users and non-users of
+CE in terms of i) their sources of knowledge about the safety of CE and ii) the accuracy of their
+knowledge of possible adverse effects of a typical CE; and iii) examine how the accuracy of
+their knowledge relates to their safety beliefs. Before considering the findings in relation to
+these aims, it is helpful to note that both users and non-users felt that it was similarly impor-
+tant to know about the safety of CE, indicating that the two groups do not differ substantially
+in the value that they place on safety information. However, users reported stronger agreement
+that they knew enough about CE to judge safety and (to a substantial degree) that they are safe
+to use. These findings are in line with previous research [4, 12, 20]. It is typically assumed that
+the belief that CEs are unsafe prevents individuals taking them, whilst those who perceive
+them as safe are more likely to take them [10, 22, 23] but the exact relationship between safety
+beliefs and use is unclear. An alternative explanation for this association between CE use and
+safety beliefs could arise from the partial dissociation between risk perception and risk taking
+[39] in combination with the phenomenon of cognitive dissonance [40]. While, in general, we
+avoid behaviours that we regard as unsafe, this is not always true for all individuals and for all
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0244865 January 28, 2021 8 / 14
+
+
+
+PLOS ONE Safety beliefs, knowledge and cognitive enhancers
+
+situations. For example, imagine someone takes CE to get them through an academic ‘crisis’
+even though they have concerns about drug safety. Dissonance theory predicts they would
+then adjust their beliefs or attitudes to make them more consistent with their recent actions. In
+this instance, this would mean developing a new belief that CE are not unsafe. Thus, under this
+account, CE use drives beliefs about safety, rather than the reverse. The reduction of disso-
+nance (discomfort) that is achieved by aligning beliefs with actions may occur without
+recourse to external sources of information. The nature of the relationship between safety
+beliefs and CE use therefore still warrants further exploration.
+
+For Aim 1, we found no significant difference in the number of sources used by users and
+non-users. We note here, however, that our study was not highly powered to detect small dif-
+ferences. Nonetheless, based on the confidence interval reported for this mean difference, it is
+unlikely that the true difference between users and non-users in the number of information
+sources is large (e.g., that, in the population of interest, users actually use 1 or 2 more sources
+on average).The most commonly used sources students used when thinking about safety were
+scientific research and websites. Interestingly, whilst they rated the former as highly reliable,
+website reliability ratings were not rated particularly high, ranking only fourth highest out of
+the six sources for which ratings were given, indicating a mismatch between preferred sources
+and reliability. For most sources there were no differences between users and non-users in
+terms of whether the source was used for safety information. The only exception is personal
+experience which, almost by definition, was higher in users. This additional source may
+explain the increased belief in safety of CE in users, although this would seem at odds with the
+reliability of personal experience which was only rated third of six sources. An alternative
+explanation to source differences underlying different beliefs is that we see motivated reason-
+ing employed when assessing safety information [41], such that users may be more likely to
+reach the conclusion that the drugs are safe when presented with exactly the same information
+as non-users. This has been shown to be the case with caffeine, such that coffee drinkers per-
+ceive less health risks relative to non-coffee drinkers [42], and therefore may warrant further
+investigation with regards to CE.
+
+The relatively high use of peer experiences as a source of information may reflect the ready
+availability and vividness of such anecdotal information [43]. Anecdotes can be an important
+influence on decisions–including decisions about one’s own healthcare when statistical infor-
+mation is also available [44] especially when delivered in a compelling manner. For example,
+research has shown that evaluative comments about university courses delivered face-to-face
+by a few (1 to 4) upper-level students had greater influence on students’ intentions to enrol in
+those courses than written summaries of course evaluations from a much larger number of stu-
+dents (26 to 132) who took the course the previous semester [45]. This was also found when
+the face-to-face comments of (ostensible) students were scripted to match summaries of course
+evaluations in the written summary reports. Borgida and Nisbett argued that peer experiences
+are influential because they are vivid (having the character of first-hand experience), and con-
+crete (and therefore prompt action); and because people intuitively respond to small samples
+of information as if they were representative of large-sample information i.e., a reliable source
+[45]. Thus, while it may be unsurprising that our participants cited peer experiences as a com-
+mon source of information, what is learnt from the current study is that the participants were
+explicit in attributing only modest reliability to this source.
+
+For Aim 2, data showed that knowledge of drug safety was not particularly high with accu-
+racy on questions about conditions that modafinil should not be taken with (63.6%) or would
+require careful monitoring (38.3%) similar to chance level performance for true/false ques-
+tions. Students were more accurate at estimating the frequency of known side-effects. Despite
+users believing that CE are safe to use in comparison to non-users, users were no more (or
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0244865 January 28, 2021 9 / 14
+
+
+
+PLOS ONE Safety beliefs, knowledge and cognitive enhancers
+
+less) accurate in their responses to the safety knowledge questions. In terms of the relationship
+between accuracy of knowledge and safety beliefs i.e. Aim 3, we found that there were no sig-
+nificant relationships between safety beliefs and actual safety knowledge for users, indicating
+that their belief that drugs are safe to use is not based on more accurate safety knowledge of
+the drugs. Notably, for non-users there was a significant correlation between their belief about
+whether the drugs were safe to use and knowledge of which conditions modafinil should not
+be taken with. Additionally, knowledge of conditions for which careful monitoring was
+required did correlate with safety beliefs about whether they had enough knowledge to judge
+safety and whether safety was important. This indicates that for non-users there are some posi-
+tive correlations between safety beliefs and safety knowledge. This is consistent with previous
+studies that have shown perceptions of the severity of possible health risks have been inversely
+associated with willingness to use CE [21–27] and indicates that as well as severity, frequency
+of side effect may be important.
+
+In addition to providing data to address the specific aims of the study, we report prevalence
+and frequency of CE use. Here we found that 21% of students surveyed were using CE and
+using with relatively high frequency of use, with the minority of participants being occasional
+users. The reported prevalence is considerably higher than the 11% [14] and 9.4% [13]
+reported in previous UK studies, but it is in line with our previous research at this institution
+[12]. It may be important for the higher rate of use among our participants that the current
+study was conducted in a more competitive environment than the previous studies, because it
+has previously been shown, outside of the UK that use of CE is around two times higher at uni-
+versities with more competitive criteria [46]. Another explanation for the increased prevalence
+in the current study is that use of CE is increasing, as has been suggested ([13, 47, 48]. The cur-
+rent study showed relatively high frequency of use, with the minority of participants being
+occasional users. The high frequency of use is also somewhat at odds with the low levels of con-
+sistent use reported by Singh et al. [13] but is more in line with the media hype around phar-
+maceutical cognitive enhancement which emphasizes sustained use of CE is highly prevalent
+among UK students [49].
+
+Limitations
+
+There are several limitations to this study that should be acknowledged. Firstly, the study relied
+on self-report and therefore, only captures information that participants were willing to report,
+which may not represent true beliefs and behaviour when relating to drug use [50]. However,
+it is suggested that self-report can be reliable provided that the information is known to
+respondents and that the questions are unambiguous, relate to recent activity, require a serious
+and thoughtful response, and will not lead to embarrassing or threatening disclosures [51, 52].
+We believe these conditions were met in the current study because, although drug use could
+represent an embarrassing or threatening disclosure, the anonymity would have reduced this.
+Secondly, whilst the overall sample size was sufficient for statistical analysis, the study used a
+sample from one institution and students self-selected to participate meaning that the results
+may not generalise to other populations. Thirdly, although our sample size allowed for very
+good statistical power to detect large effects, the study was not well powered to detect small
+ones (See S2 File). We may therefore have missed detecting differences between CE users and
+non-users that–while relatively small–may nonetheless be important for understanding how
+beliefs and knowledge relate to CE use. For example, whilst no statistically significant differ-
+ences in knowledge were found between users and non-users, the 95% CIs for these effects
+imply that a 10% difference in knowledge is plausible for knowledge of safety (non-users bet-
+ter) or side effects (users better). We therefore recommend that future studies using similar
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0244865 January 28, 2021 10 / 14
+
+
+
+PLOS ONE Safety beliefs, knowledge and cognitive enhancers
+
+methods to ours take our sample size (~150) as a minimum target. Relatedly, we note here that
+the one analysis where we did not achieve 80% power to detect a large effect was the knowledge
+scale with the lowest degree of precision (5 questions, generating 6 levels of performance).
+Having fewer questions for this measure than the others may have reduced the signal-to-noise
+ratio associated with this measure, and reduced power accordingly. Therefore, future studies
+should–if feasible–aim for a more fine-grained measure of knowledge. Fourthly, whilst this
+study considered the types of sources users and non-users consulted for safety information, we
+did not investigate this further in terms of specific sources or the types of information they
+were extracting from the sources. This should be considered in future research. Finally, the
+current study focused on risks only and did not ask participants about their perceived benefits
+of using CE. Whilst this approach is supported in both theoretical models and applied health
+intervention [29, 53], future research could be expanded to consider benefits.
+
+Conclusions
+
+A growing body of evidence has shown that users of CE believe the drugs to be safer than non-
+users [4, 12, 20] and that users more strongly believe that they know enough about the drugs
+to use them safely [12]. In the present study we have shown that the two groups consult similar
+sources of information when considering the safety of CE, indicating that differences in beliefs
+about safety are unlikely to be fully explained by use of different sources of information. Fur-
+thermore, both groups held comparable and relatively poor knowledge of the safety of the
+most reported CE, modafinil. Whilst, for non-users there were correlations between safety
+beliefs and safety knowledge, no significant relationships existed for users. This indicates that
+greater belief that CE are safe to use and that they have sufficient safety knowledge to make
+judgements in users is not based on more accurate safety knowledge. Given the lack of differ-
+ences between sources of information and accuracy of knowledge, future research should con-
+sider the processes that mediate the relationship between evidence and beliefs, for example,
+examining the role of motivated reasoning in CE beliefs.
+
+Supporting information
+
+S1 File. Survey questions.
+(DOCX)
+
+S2 File. Understanding the relationship between safety beliefs and knowledge for cognitive
+enhancers in UK university students.
+(DOCX)
+
+Author Contributions
+
+Conceptualization: Tim Rakow, Benjamin Gardner, Eleanor J. Dommett.
+
+Formal analysis: Ngoc Trai Nguyen, Tim Rakow.
+
+Methodology: Benjamin Gardner, Eleanor J. Dommett.
+
+Project administration: Eleanor J. Dommett.
+
+Writing – original draft: Eleanor J. Dommett.
+
+Writing – review & editing: Tim Rakow, Benjamin Gardner, Eleanor J. Dommett.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0244865 January 28, 2021 11 / 14
+
+
+
+PLOS ONE Safety beliefs, knowledge and cognitive enhancers
+
+References
+1. Hildt E. Cognitive enhancement–A critical look at the recent debate. Cognitive enhancement. Nether-
+
+lands: Springer; 2013. pp. 1–14.
+
+2. Sahakian BJ, Morein-Zamir S. Pharmacological cognitive enhancement: treatment of neuropsychiatric
+disorders and lifestyle use by healthy people. Lancet Psychiat. 2015; 2(4):357–62.
+
+3. Schelle KJ, Olthof BM, Reintjes W, Bundt C, Gusman-Vermeer J, van Mil AC. A survey of substance
+use for cognitive enhancement by university students in the Netherlands. Frontiers in systems neurosci-
+ence. 2015; 9:10. https://doi.org/10.3389/fnsys.2015.00010 PMID: 25741248
+
+4. Finger G, da Silva ER, Falavigna A. Use of methylphenidate among medical students: a systematic
+review. Rev Assoc Med Bras. 2013; 59(3):285–9. https://doi.org/10.1016/j.ramb.2012.10.007 PMID:
+23680277
+
+5. Repantis D, Schlattmann P, Laisney O, Heuser I. Modafinil and methylphenidate for neuroenhancement
+in healthy individuals: A systematic review. Pharmacol Res. 2010; 62(3):187–206. https://doi.org/10.
+1016/j.phrs.2010.04.002 PMID: 20416377
+
+6. Greely H, Sahakian B, Harris J, Kessler RC, Gazzaniga M, Campbell P, et al. Towards responsible use
+of cognitive-enhancing drugs by the healthy (vol 456, pg 702, 2008). Nature. 2008; 456(7224):872–.
+
+7. Sahakian B, Morein-Zamir S. Professor’s little helper. Nature. 2007; 450(7173):1157–9. https://doi.org/
+10.1038/4501157a PMID: 18097378
+
+8. Smith ME, Farah MJ. Are Prescription Stimulants "Smart Pills"? The Epidemiology and Cognitive Neu-
+roscience of Prescription Stimulant Use by Normal Healthy Individuals. Psychol Bull. 2011; 137(5):717–
+41. https://doi.org/10.1037/a0023825 PMID: 21859174
+
+9. Ott R, Biller-Andorno N. Neuroenhancement among Swiss Students—A Comparison of Users and
+Non-Users. Pharmacopsychiatry. 2014; 47(1):22–8. https://doi.org/10.1055/s-0033-1358682 PMID:
+24222011
+
+10. Franke AG, Bonertz C, Christmann M, Huss M, Fellgiebel A, Hildt E, et al. Non-Medical Use of Prescrip-
+tion Stimulants and Illicit Use of Stimulants for Cognitive Enhancement in Pupils and Students in Ger-
+many. Pharmacopsychiatry. 2011; 44(2):60–6. https://doi.org/10.1055/s-0030-1268417 PMID:
+21161883
+
+11. Castaldi S, Gelatti U, Orizio G, Hartung U, Moreno-Londono AM, Nobile M, et al. Use of Cognitive
+Enhancement Medication Among Northern Italian University Students. J Addict Med. 2012; 6(2):112–7.
+https://doi.org/10.1097/ADM.0b013e3182479584 PMID: 22456492
+
+12. Champagne J, Gardner B, Dommett EJ. Modelling predictors of UK undergraduates’ attitudes towards
+smart drugs. Trends in Neuroscience and Education. 2019; 14:33–9. https://doi.org/10.1016/j.tine.
+2019.02.001 PMID: 30929857
+
+13. Singh I, Bard I, Jackson J. Robust resilience and substantial interest: a survey of pharmacological cog-
+nitive enhancement among university students in the UK and Ireland. PloS one. 2014; 9(10):e105969.
+https://doi.org/10.1371/journal.pone.0105969 PMID: 25356917
+
+14. Holloway K, Bennett T. Prescription drug misuse among university staff and students: A survey of
+motives, nature and extent. Drug-Educ Prev Polic. 2012; 19(2):137–44.
+
+15. Forlini C, Racine E. Added stakeholders, added value (s) to the cognitive enhancement debate: Are
+academic discourse and professional policies sidestepping values of stakeholders? AJOB Primary
+Research. 2012; 3(1):33–47.
+
+16. Forlini C, Racine E. Autonomy and Coercion in Academic "Cognitive Enhancement" Using Methylpheni-
+date: Perspectives of Key Stakeholders. Neuroethics-Neth. 2009; 2(3):163–77.
+
+17. Ram S, Hussainy S, Henning M, Stewart K, Jensen M, Russell B. Attitudes toward cognitive enhancer
+use among New Zealand tertiary students. Subst Use Misuse. 2017; 52(11):1387–92. https://doi.org/
+10.1080/10826084.2017.1281313 PMID: 28429997
+
+18. Adamopoulos P, Ho H, Sykes G, Szekely P, Dommett EJ. Learning Approaches and Attitudes Toward
+Cognitive Enhancers in UK University Students. J Psychoactive Drugs. 2020:1–7. https://doi.org/10.
+1080/02791072.2020.1742949 PMID: 32188357
+
+19. Santoni de Sio F, Faber N, Savulescu J, Vincent N. Why less praise for enhanced performance? Moving
+beyond responsibility-shifting, authenticity, and cheating to a nature of activities approach. 2016.
+https://doi.org/10.1007/s11948-015-9715-4 PMID: 26547553
+
+20. Ilieva I, Boland J, Farah MJ. Objective and subjective cognitive enhancing effects of mixed amphet-
+amine salts in healthy people. Neuropharmacology. 2013; 64:496–505. https://doi.org/10.1016/j.
+neuropharm.2012.07.021 PMID: 22884611
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0244865 January 28, 2021 12 / 14
+
+
+
+PLOS ONE Safety beliefs, knowledge and cognitive enhancers
+
+21. Eickenhorst P, Vitzthum K, Klapp BF, Groneberg D, Mache S. Neuroenhancement Among German Uni-
+versity Students: Motives, Expectations, and Relationship with Psychoactive Lifestyle Drugs. J Psycho-
+active Drugs. 2012; 44(5):418–27. https://doi.org/10.1080/02791072.2012.736845 PMID: 23457893
+
+22. Sattler S, Forlini C, Racine E, Sauer C. Impact of Contextual Factors and Substance Characteristics on
+Perspectives toward Cognitive Enhancement. PloS one. 2013; 8(8). https://doi.org/10.1371/journal.
+pone.0071452 PMID: 23940757
+
+23. Sattler S, Mehlkop G, Graeff P, Sauer C. Evaluating the drivers of and obstacles to the willingness to
+use cognitive enhancement drugs: the influence of drug characteristics, social environment, and per-
+sonal characteristics. Subst Abuse Treat Pr. 2014; 9.
+
+24. Sattler S, Sauer C, Mehlkop G, Graeff P. The Rationale for Consuming Cognitive Enhancement Drugs
+in University Students and Teachers. PloS one. 2013; 8(7). https://doi.org/10.1371/journal.pone.
+0068821 PMID: 23874778
+
+25. Sattler S, Wiegel C. Cognitive Test Anxiety and Cognitive Enhancement: The Influence of Students’
+Worries on Their Use of Performance-Enhancing Drugs. Subst Use Misuse. 2013; 48(3):220–32.
+https://doi.org/10.3109/10826084.2012.751426 PMID: 23302063
+
+26. Sweeney S. The use of prescription drugs for academic performance enhancement in college aged stu-
+dents. Social Work Student Papers. 2010:48.
+
+27. Franke AG, Lieb K, Hildt E. What Users Think about the Differences between Caffeine and Illicit/Pre-
+scription Stimulants for Cognitive Enhancement. PloS one. 2012; 7(6). https://doi.org/10.1371/journal.
+pone.0040047 PMID: 22768218
+
+28. Loewenstein GF, Weber EU, Hsee CK, Welch N. Risk as feelings. Psychol Bull. 2001; 127(2):267.
+https://doi.org/10.1037/0033-2909.127.2.267 PMID: 11316014
+
+29. Baumeister RF, Bratslavsky E, Finkenauer C, Vohs KD. Bad is stronger than good. Review of general
+psychology. 2001; 5(4):323–70.
+
+30. Rozin P, Royzman EB. Negativity bias, negativity dominance, and contagion. Personality and social
+psychology review. 2001; 5(4):296–320.
+
+31. Heard CL, Rakow T, Foulsham T. Understanding the Effect of Information Presentation Order and Ori-
+entation on Information Search and Treatment Evaluation. Med Decis Making. 2018; 38(6):646–57.
+https://doi.org/10.1177/0272989X18785356 PMID: 30009678
+
+32. Gamma A, Jerome L, Liechti ME, Sumnall HR. Is ecstasy perceived to be safe? A critical survey. Drug
+Alcohol Depend. 2005; 77(2):185–93. https://doi.org/10.1016/j.drugalcdep.2004.08.014 PMID:
+15664720
+
+33. Partridge B, Bell S, Lucke J, Hall W. Australian university students’ attitudes towards the use of pre-
+scription stimulants as cognitive enhancers: perceived patterns of use, efficacy and safety. Drug Alcohol
+Rev. 2013; 32(3):295–302. https://doi.org/10.1111/dar.12005 PMID: 23121045
+
+34. Banjo OC, Nadler R, Reiner PB. Physician attitudes towards pharmacological cognitive enhancement:
+safety concerns are paramount. PloS one. 2010; 5(12):e14322. https://doi.org/10.1371/journal.pone.
+0014322 PMID: 21179461
+
+35. Lenk C, Duttge G. Ethical and legal framework and regulation for off-label use: European perspective.
+Ther Clin Risk Manag. 2014; 10:537–46. https://doi.org/10.2147/TCRM.S40232 PMID: 25050064
+
+36. Sheeran P, Harris PR, Epton T. Does heightening risk appraisals change people’s intentions and
+behavior? A meta-analysis of experimental studies. Psychol Bull. 2014; 140(2):511–43. https://doi.org/
+10.1037/a0033065 PMID: 23731175
+
+37. Giles J. Alertness drug arouses fears about ’lifestyle’ misuse. Nature. 2005; 436(7054):1076–. https://
+doi.org/10.1038/4361076b PMID: 16121144
+
+38. Wilens TE, Adler LA, Adams J, Sgambati S, Rotrosen J, Sawtelle R, et al. Misuse and diversion of stim-
+ulants prescribed for ADHD: A systematic review of the literature. J Am Acad Child Psy. 2008; 47
+(1):21–31. https://doi.org/10.1097/chi.0b013e31815a56f1 PMID: 18174822
+
+39. Blais A-R, Weber EU. A domain-specific risk-taking (DOSPERT) scale for adult populations. 2006.
+
+40. Festinger L. A theory of cognitive dissonance: Stanford university press; 1957.
+
+41. Kunda Z. The case for motivated reasoning. Psychol Bull. 1990; 108(3):480. https://doi.org/10.1037/
+0033-2909.108.3.480 PMID: 2270237
+
+42. Wertz JM, Sayette MA. A review of the effects of perceived drug use opportunity on self-reported urge.
+Experimental and clinical psychopharmacology. 2001; 9(1):3. https://doi.org/10.1037/1064-1297.9.1.3
+PMID: 11519632
+
+43. Jenni K, Loewenstein G. Explaining the identifiable victim effect. Journal of Risk and Uncertainty. 1997;
+14(3):235–57.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0244865 January 28, 2021 13 / 14
+
+
+
+PLOS ONE Safety beliefs, knowledge and cognitive enhancers
+
+44. Fagerlin A, Wang C, Ubel PA. Reducing the influence of anecdotal reasoning on people’s health care
+decisions: is a picture worth a thousand statistics? Medical decision making. 2005; 25(4):398–405.
+https://doi.org/10.1177/0272989X05278931 PMID: 16061891
+
+45. Borgida E, Nisbett RE. The differential impact of abstract vs. concrete information on decisions 1. Jour-
+nal of Applied Social Psychology. 1977; 7(3):258–71.
+
+46. McCabe SE, Knight JR, Teter CJ, Wechsler H. Nonmedical use of prescription stimulants among US
+college students: Prevalence and correlates from a national survey. Addiction. 2005; 100 (1): 96–106.
+https://doi.org/10.1111/j.1360-0443.2005.00944.x PMID: 15598197
+
+47. Knapton S. Smart drug’ taken by one in four students really does boost performance. The Telegraph.
+2015.
+
+48. Marsh S. Universities do more to tackle smart drugs, say experts. The Guardian. 2017.
+
+49. Cadwalla C. Students used to take drugs to get high. Now they take them to get higher grades. The
+Guardian. 2018.
+
+50. Davis CG, Thake J, Vilhena N. Social desirability biases in self-reported alcohol consumption and
+harms. Addictive behaviors. 2010; 35(4):302–11. https://doi.org/10.1016/j.addbeh.2009.11.001 PMID:
+19932936
+
+51. Kuh GD. The National Survey of Student Engagement: Conceptual framework and overview of psycho-
+metric properties Indiana University, Center for Postsecondary Research, Bloomington, IN2001 [Avail-
+able from: http://nsse.iub.edu/pdf/psychometric_framework_2002.pdf.
+
+52. Owston R, Lupshenyuk D, Wideman H. Lecture Capture in Large Undergraduate Classes: What Is the
+Impact on the Teaching and Learning Environment? Online Submission. 2011.
+
+53. Bright GM. Abuse of medications employed for the treatment of ADHD: results from a large-scale com-
+munity survey. The Medscape Journal of Medicine. 2008; 10(5):111. PMID: 18596945
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0244865 January 28, 2021 14 / 14

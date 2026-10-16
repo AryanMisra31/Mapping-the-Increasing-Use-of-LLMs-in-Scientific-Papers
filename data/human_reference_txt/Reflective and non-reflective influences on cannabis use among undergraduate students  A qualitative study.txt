@@ -1,0 +1,867 @@
+Journal of American College Health
+
+ISSN: 0744-8481 (Print) 1940-3208 (Online) Journal homepage: www.tandfonline.com/journals/vach20
+
+Reﬂective and non-reﬂective inﬂuences on
+cannabis use among undergraduate students: A
+qualitative study
+Samuele Porche & Benjamin Gardner
+To cite this article: Samuele Porche & Benjamin Gardner (2024) Reﬂective and non-reﬂective
+inﬂuences on cannabis use among undergraduate students: A qualitative study, Journal of
+American College Health, 72:1, 328-334, DOI: 10.1080/07448481.2022.2034835
+To link to this article: https://doi.org/10.1080/07448481.2022.2034835
+
+© 2022 The Author(s). Published with
+license by Taylor & Francis Group, LLC.
+
+View supplementary material
+
+Published online: 14 Feb 2022.
+
+Submit your article to this journal
+
+Article views: 3067
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 2 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=vach20
+
+Journal of American College Health
+2024, VOL. 72, NO. 1, 328–334
+https://doi.org/10.1080/07448481.2022.2034835
+
+MAJOR ARTICLE
+
+Reflective and non-reflective influences on cannabis use among
+undergraduate students: A qualitative study
+Samuele Porche, BSc and Benjamin Gardner, DPhil, MRes, BA
+Department of Psychology, King’s College London Institute of Psychiatry Psychology and Neuroscience, London, UK
+ABSTRACT
+
+ARTICLE HISTORY
+
+Objective: Around 40% of US university students use cannabis, 25% of whom present with cannabis
+use disorder, which endangers health. We investigated the concurrent contribution of reflective
+processes, which generate action via conscious deliberation, and non-reflective processes, which
+prompt behavior automatically, to undergraduates’ cannabis consumption.
+Participants: Eighteen UK undergraduates who regularly consume cannabis (11 female, 7 male;
+mean age 20 y).
+Methods: Semi-structured interviews explored cannabis motives, routines, cues, and decision
+points. Thematic analysis identified themes, in each of which reflective and non-reflective dimensions
+were coded.
+Results: Four themes were identified: cannabis use for relaxation, social bonding, and
+symbolic-affective significance, and contexts and triggers. Some influences guided cannabis use
+reflectively in some settings, and non-reflectively in others. Even when cannabis use was consciously
+driven, non-reflective processes were deployed to execute subservient acts, such as rolling joints.
+Conclusions: Findings highlight specific processes and pathways that might be targeted to reduce
+cannabis-related harm.
+
+Introduction
+College students are more likely to use drugs than others of
+comparable age.1 In the UK, for example, cannabis use prevalence among people aged 16–24 years in 2018–2019 was 17%,2
+but a national survey found that 28% of UK undergraduates
+use cannabis.3 Of these, half use cannabis at least monthly.3
+Similarly, a 2019 US national survey reported that 43% of
+college students had used cannabis in the past year, with 26%
+reporting use in the past 30 days.1 Many college students who
+use cannabis experience few significant consequences,4 but
+typically around 30% of cannabis users experience problematic
+patterns of use.5 While reliable data are unavailable for UK
+undergraduates, in one US study, around 25% of past-year
+college student users reported cannabis use disorder,6 whereby
+cannabis continues to be used despite significant clinical or
+social impact.7 Cannabis use disorder represents a risk factor
+for mental ill-health and bronchitis,8 and heavy cannabis use
+has been variously linked to long-lasting deficits in concentration, attention and memory,9 and poorer educational outcomes.10 Calls have been made for greater intervention efforts
+to prevent consumption patterns that can lead to problematic
+use, and to reduce harms arising from problematic cannabis
+use among university students.11,12
+Designing effective cannabis harm-reduction interventions
+requires understanding and targeting modifiable determinants
+of consumption patterns. Dual process models propose that
+
+Received 30 March 2021
+Revised 19 October 2021
+Accepted 28 November 2021
+KEYWORDS
+
+Automaticity; cannabis; dual
+process; motivation; qualitative;
+theory
+
+two information processing systems generate behavior.13 The
+reflective system involves deliberating over situational demands
+and available responses, and generates behavior relatively
+effortfully and slowly, via reasoned intentions. By contrast,
+the non-reflective system generates action rapidly, based on
+cued activation of non-conscious knowledge, which automatically prompts behaviors associated with such cues.
+Psychological factors that sustain cannabis use have been
+categorized according to whether they operate reflectively,
+by informing conscious deliberation, or non-reflectively,
+facilitating automatic action. Research into undergraduate
+cannabis use has mainly focused on reflective factors.
+Students variously report using cannabis for stress relief,
+relaxation, pleasure, heightened sensuality, enhanced creativity, and to fit in with friends.14–18 Studies undertaken among
+users with problematic consumption patterns have portrayed
+cannabis use as the outcome of non-reflective processes.
+Problematic users show greater attentional bias to marijuana
+cues,19,20 with cannabis-dependent heavy users showing
+greater bias than non-dependent heavy users.21 Among problematic users, exposure to associated cues directly activates
+craving, 22,23 which in turn automatically triggers
+cannabis-seeking behavior and so consumption, without
+conscious deliberation.24 People who report using cannabis
+in the absence of conscious intention, awareness or control
+tend to have increased consumption.25
+
+CONTACT Benjamin Gardner
+benjamin.gardner@kcl.ac.uk
+Department of Psychology, King’s College London Institute of Psychiatry Psychology and
+Neuroscience, London SE5 8AF, UK
+Supplemental data for this article can be accessed online at https://doi.org/10.1080/07448481.2022.2034835.
+© 2022 The Author(s). Published with license by Taylor & Francis Group, LLC.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use,
+distribution, and reproduction in any medium, provided the original work is properly cited. The terms on which this article has been published allow the posting of the Accepted
+Manuscript in a repository by the author(s) or with their consent.
+
+Journal of American College Health
+
+Previous research into the reflective and non-reflective
+processes driving cannabis use among students has been
+limited in two important ways. First, it has implicitly focused
+only on factors likely to determine the initiation of a cannabis
+use episode, but a different set of predictors may be involved
+in executing the actions that sustain ongoing episodes.26
+Second, research has tended to position cannabis use as either
+directed by reflective or by non-reflective processes. That is,
+cannabis consumption is commonly portrayed either as deliberative, driven by expected outcomes of cannabis use, or as
+impulsive, generated automatically by activated habitual or
+emotional associations.27,28 Yet, if factors involved in opting
+to use cannabis can differ from those required to execute
+use, it is possible that people may make conscious, deliberative decisions to instigate a cannabis use episode, yet perform cannabis use actions automatically, or vice versa.29
+Cannabis use may be driven by both reflective and
+non-reflective processes concurrently.13 Hierarchical models
+propose that actions can be broken down into yet smaller
+actions30; smoking a joint, for example, involves a sequence
+of actions involving preparing the joint, lighting it, and
+repeated inhalations.31 These acts may be broken down further; preparing a joint requires placing cannabis into cigarette papers, folding the papers, and so on. Thus, selection
+of a higher-level action unit (e.g., deciding to smoke a joint)
+in turn activates a sequence of lower-level units (e.g., prepare
+joint, light joint, inhale) that serve the higher-level goal.21
+Behavior may therefore be driven by reflective processes on
+some levels, and non-reflective processes on others.32 A
+person could, for example, be automatically triggered to
+instigate cannabis use, yet smoke mindfully, to regulate
+intoxication. 33 Understanding the complementary roles
+played by reflective and non-reflective processes in consumption could aid the development of cannabis
+harm-reduction efforts. For example, pinpointing when people make conscious decisions to consume cannabis could
+inform point-of-choice interventions to reduce consumption
+among problem users, 34 whereas identifying automated
+aspects of consumption could inform the design of
+in-the-moment strategies to curtail ongoing cannabis use.35
+This study explored the potentially concurrent contribution of reflective and non-reflective processes to cannabis
+consumption among university students. We used qualitative
+methods to elicit in-depth, participant-led accounts of experiences of initiating and executing cannabis use, drawing
+on an interview schedule designed to probe reflective and
+non- reflective factors involved in cannabis consumption.
+While concern has been raised about whether people have
+insight into non-reflective influences on their actions,36 people can adequately report action features suggestive of
+non-reflective influences, such as acting efficiently and effectively while attending to other tasks.37,38
+
+Materials and method
+Participants and procedure
+Participants were undergraduate students at universities in
+London, UK. In the UK, cannabis is an illegal (“class B”)
+
+329
+
+substance, with penalties of up to five years’ imprisonment
+and an unlimited fine for use. Representative data on the
+prevalence of cannabis use or cannabis use disorder in UK
+or London-based undergraduates are not routinely collected.
+Participants were recruited, over a predetermined data
+collection period of four months (November 2019–February
+2020), via study advertisements placed in student common
+areas on one university campus, and social media (Facebook,
+Instagram). Potential participants who responded by email
+were sent a URL for a screening questionnaire, to self-declare
+eligibility (i.e., aged 18 years or over, current UK undergraduate, using cannabis at least 2–3 times per month, and last
+used in the last month).39 We chose not to assess clinically
+problematic use (e.g., Cannabis Use Disorder), because this
+would have necessitated formal referrals to university support services in cases of dependency, which we felt would
+compromise trust between the researcher and participant.
+Those meeting eligibility criteria participated in a face-toface interview in a private room at a local university campus,
+or other private location, based on participant preference.
+On completion, participants were given a £10 Amazon
+voucher and a URL directing to a free-to-access national
+drug advice service. Study procedures received ethical
+approval from the host institution (HR-19/20-14246).
+Eighteen participants were recruited, of whom 11 (61%)
+were female and 7 (39%) male (see Table 1). Mean age was
+20 years, though two participants did not report age.
+Participants were most commonly White British (9 participants; 50%). Due to human error, participants’ year of
+academic study (e.g., Year 1) was not recorded. Participants
+typically consumed cannabis at least once daily (10 participants; 56%), and 10 (56%) had consumed cannabis on the
+day of the interview (but did not report being high during
+the interview).
+Interview schedule
+Participants were interviewed by a male undergraduate
+Psychology student (SP), trained by the senior author (BG).
+Interviews were semi-structured, with topics capturing
+reflective (e.g., motives, expectations, experiences) and
+non-reflective processes (e.g., contextual cues, decision
+points, automaticity; see Supplementary File). Digital interview recordings were manually transcribed verbatim.
+Analysis
+Transcripts were analyzed using inductive Thematic Analysis
+procedures, based on realist assumptions,40 to identify discrete clusters of factors supporting cannabis use. Rather
+than separating data deductively into two preconceived
+themes (i.e., reflective versus non-reflective factors) divorced
+of real-world context and meaning, we organized data into
+inductively derived themes capturing lived experience and
+identified reflective and non-reflective determinants as relevant within each of these themes.
+Both authors independently coded three interview transcripts, assigning conceptual labels to events within the data.
+Discussion between authors resulted in a preliminary coding
+
+330
+
+S. PORCHE AND B. GARDNER
+
+Table 1. Participant characteristics.
+Characteristic
+
+Available N
+
+Gender
+
+18
+
+Age
+(years)
+Ethnicity
+
+16
+
+Categories
+Female
+Male
+–
+
+18
+
+N (%)
+11 (61%)
+7 (39%)
+Mean (SD) = 20.38 years
+Range = 19–22 y
+8 (50%)
+1 (5%)
+5 (28%)
+1 (5%)
+
+White British
+White Irish
+White Other
+Mixed: White and
+Black African
+Mixed: other
+1 (5%)
+Any other
+2 (11%)
+Cannabis use
+18
+More than once a
+8 (44%)
+frequency
+day
+(N, %)
+Once a day
+2 (11%)
+5–6 times a week
+3 (17%)
+3–4 times a week
+2 (11%)
+Twice a week
+1 (5%)
+Once a week
+0 (0%)
+2–3 times a month
+2 (11%)
+Cannabis use
+18
+I am currently high
+0 (0%)
+recency*
+Today
+10 (56%)
+(N, %)
+Yesterday
+5 (28%)
+This week
+1 (6%)
+Last week
+2 (11%)
+* Cannabis use frequency and recency were reported using the Daily Sessions,
+Frequency, Age of Onset, and Quantity of Cannabis Use Inventory (Cuttler &
+Spradlin, 2017).
+
+framework.41 Subsequent analysis, undertaken by SP, involved
+applying and iteratively refining the framework to code
+remaining transcripts, and extract, review, and name themes.
+Discussions between coders occurred throughout analysis,
+to ensure the credibility of emerging themes.
+
+Even in downtime, I’m just thinking about work I have to do.
+But when I’ve smoked [cannabis], it’s a lot easier to… push that
+work to the side and focus on enjoying myself. (P15)
+
+Some used cannabis as a symbolic signing off from work
+time, so initiated cannabis consumption only after work
+demands had been satisfied:
+[I] only smok[e] once I’ve got everything done, I’ve got home,
+and I’ve done all the work that I want to do for the day. (P16)
+
+Participants used the feeling of stress alleviation to focus
+on meaningful non-work tasks, and several described heightened creativity while intoxicated (“it opens up a creative
+side to me, definitely”; P14). Others used their relaxed state
+as a detached mental space for contemplation of life
+stressors:
+[Cannabis] helps me to slow down and think calmly about
+things and not get too wrapped up in what is crazy third year
+life. (P3)
+
+Participants also employed cannabis intoxication for physical relaxation, including inducing tiredness and regulating
+sleep patterns (“it helps me get into a better routine with
+my sleep”; P12). Some used cannabis to self-medicate:
+[Cannabis] enhances so many different parts of my life that I’d
+otherwise have to rely on medication for. […] I never liked
+sleeping pills … [and] herbal remedies never worked. So just
+[smoking] a joint before bed, that works for me. (P13)
+
+Cannabis use as social bonding
+Reflexivity
+The study was conceived by the first author (SP) and undertaken as undergraduate Psychology coursework under supervision of the senior author (BG). Both authors have personal
+experience of using cannabis in adolescence and early adulthood, prior to the study being planned. Neither author had
+conducted prior research in the cannabis domain. The second author is Senior Tutor, a role which involves coordinating a system of student welfare support, on an
+undergraduate Psychology programme, so has ground-level
+experience of student mental health and wellbeing concerns.
+
+Results
+Four overarching themes were extracted: cannabis use as a
+form of relaxation; cannabis use as social bonding; the
+symbolic-affective significance of cannabis use; and contexts
+and triggers conducive to cannabis use.
+Cannabis use as a form of relaxation
+This theme, which incorporated reflective components only,
+captured participants purposefully using cannabis to achieve
+a state of relaxation (“it allows my mind to kind of soften,
+and just relax”; Participant 1 [P1]). A state of cannabis
+intoxication was sought as a means of disconnecting from
+external pressures:
+
+This theme, encompassing reflective components only,
+reflected use of cannabis as a means of connecting with
+other people (“you can really bond with people over being
+high, having a joint together”; P10). Consuming cannabis
+with others was seen by many as “part of the fun” (P18),
+experiencing a rewarding social event was for some a stronger motive than intoxication (“I treat weed as more of a
+social experience than like I want to get high”; P5).
+Smoking a cannabis joint with others was reportedly
+motivated not only by a desire for a communal intoxication
+experience (“you want everybody else to feel how great you’re
+feeling right now”; P15), but also the symbolic act of sharing
+a precious resource with others. Using another’s cannabis
+could create a perception of obligation to share one’s own
+cannabis, fueling further consumption:
+[Passing a joint is a] reach-out to being friendly … if someone’s handing me their weed to use, that’s like … someone
+offering me a bite of their food. I almost feel … an element
+of reciprocation. (P14)
+
+Cannabis intoxication was used by many to enhance
+social experiences, by variously prolonging contact with
+others, offering shared experiences of altered perception
+(“the reason why it’s so good for socializing is because it just
+makes everything hilarious”; P14), or leading to deeper and
+more meaningful interactions:
+Everyone’s really chill and open-minded [during a cannabis use
+session] … it’s just the bond that makes when you smoke with
+
+Journal of American College Health
+
+your friends, and then you [end] up in some really philosophical
+questions. (P8)
+
+For some, cannabis consumption was central to their
+identity and affiliation with others and was purposefully
+employed to reaffirm group membership (“a very important
+part of my relation towards [my friends] is that we smoke
+together”; P1).
+Several participants described discrete actions involved
+in cannabis consumption episodes as socially meaningful.
+While only one person was deemed responsible for “rolling
+a joint,” others often assisted—by, for example, finding filters—such that joint-rolling was for some an important
+“communal aspect” (P9) of consumption. Compelling implicit
+norms surrounding consumption routines were also cited,
+including that the person who constructed the joint has a
+“right to light it” (P13); “‘rollers’ rights’ is an unspoken,
+known agreement” (P11). Other norms dictated the number
+of inhalations deemed socially acceptable prior to passing
+a joint to another, and the direction in which a “joint” is
+passed around.
+The symbolic-affective significance of cannabis use
+This theme incorporated both reflective and non-reflective
+components. Although one participant reported that cannabis use could worsen a prior bad mood, cannabis was generally used to attain the goal of positive affective experiences.
+Some derived pleasure from the experiential satisfaction of
+smoking a joint itself. Many reported that intoxication
+afforded “a new perspective on things” (P1), and used cannabis to heighten enjoyment of everyday activities:
+I’ll have a joint before I go to the gym sometimes because it
+makes me get into the groove a bit more. (P14)
+
+Some used cannabis consumption as an incentive for
+completing work, or to counter-act unpleasant experiences:
+If I’m at work and it’s raining outside … [and] I’ve got two
+hours left of my shift … I always think, I’m going to get home,
+get in my PJs, whack on some TV, and roll a joint. (P1)
+
+Participants generally sought to regulate their intoxication
+to maintain an affectively optimal experience. Many preferred smoking over other consumption methods for
+this reason:
+You can put out a joint. You can stop it and carry on. Pick it
+up and put it down. Whereas you can’t do that [when eating
+cannabis]. (P14)
+
+Several participants reported enjoying self-constructed
+joints more than those rolled by others, due to greater control over ingredients, taste, and intoxication:
+When [someone else] puts loads of [tobacco in], and crumbles
+hash on top, for me … smoking it, compared to one of my
+joints, I can taste a difference. It’s not as nice. (P1)
+
+The act of rolling a joint appeared to have both reflective
+and non-reflective underpinnings. As a deliberated act, rolling a joint was a particularly valued aspect of the cannabis
+
+331
+
+use routine. Some participants saw rolling a joint itself as
+relaxing, while some viewed it as self-expression (“it’s an
+absolute art”; P15). Several participants reported carefully
+considering which materials to use for the joint, such as
+filter width, papers, and tobacco (“deciding whether or not
+to put tobacco in is a very big decision for me”; P7) and felt
+that such preferences defined users (“all my friends say that
+I use a lot of tobacco in my joints”; P14). However, while
+several participants consciously strove to construct
+high-quality joints in social settings (“you want to be like,
+‘look, I’ve rolled this sick [high-quality] joint!’”; P13), they
+reported automatically executing the rolling of the joint in
+pursuit of this goal (“[once you] know your shit, you do it
+without really thinking about it”; P1). Some likened the
+automaticity of rolling joints to playing an instrument or
+exercising simple muscle memory (“all I have to do is put
+my hands there, and my hands just do the work for me”;
+P15). The finer-grained acts involved in constructing the
+joint only required conscious cognitive resources when normal progress was disrupted (“if something goes wrong [when
+rolling the joint], then you have to concentrate”; P13).
+Contexts and triggers
+This theme, which addressed the settings conducive to cannabis, incorporated both reflective and non-reflective pathways to cannabis use. Participants were selective in the
+settings in which they consumed cannabis. Contexts in
+which cannabis use was deemed inappropriate were characterized by goals incongruent with intoxication, such as
+needing to complete work tasks (“When you’ve got so much
+stuff to do you just can’t afford to be slow and dopey”; P15).
+Participants also regulated their consumption in anticipation of future settings:
+If I have a lot of work to do the next day, I would still smoke
+a joint, but I wouldn’t get really stoned, [I would] only have
+one. (P13)
+
+One participant reported a distinction between the goals
+of alcohol and cannabis intoxication, such that cannabis
+consumption was not appropriate in alcohol-dominated
+settings:
+If we’re in the smoking area with a couple of pints and some
+cigarettes, I think if I was to pull out a joint then … [people
+would think] not here, not now… it’s the setting for drinking,
+not smoking. (P11)
+
+In contexts in which cannabis intoxication was deemed
+permissible, the urge to consume cannabis could result from
+deliberation, or as an impulsive, immediately triggered
+response: If [I’m] alone then [I make the decision about
+whether to use cannabis] very mindfully … Because normally
+I wouldn’t consider it. But if someone in the house is smoking
+[a joint], then I don’t really think before I agree to. (P4)
+Some participants reported smoking cannabis as a default,
+habitual action in regular consumption contexts:
+I always have a joint before bed. […] Rather than actually just
+having a joint because I feel like it, I do it kind of, impulsively.
+
+332
+
+S. PORCHE AND B. GARDNER
+
+[…] It takes more effort for me to be like, “Oh, okay, I’m not
+going to have a joint [before bed].” (P1)
+
+Notable triggers—such as the sight of cannabis or smoking paraphernalia, or invitations from others to smoke—were
+those that prompted participants to pass a ‘point of no
+return’, whereby they fully committed to using cannabis:
+When I have the conversation with my friends that we’re going
+to smoke weed … after that, I’m pretty much guaranteed to do
+it. There’s no going back after that point. (P7)
+
+Passing the “point of no return” rapidly translated into
+consumption except where cannabis was unavailable, when
+it prompted deliberative cannabis-seeking behaviors:
+If I’ve convinced myself that I have weed in the house but [I
+then discover that] someone’s smoked it … when I get home,
+[then] I’m like ‘it’s fine, we’ll have some weed’, and … I have
+to get it. (P15)
+
+Discussion
+Interviews with undergraduates who regularly use cannabis
+illustrated how reflective and non-reflective factors operate
+concurrently to support cannabis use episodes. Modifying
+non-conscious influences on action requires different techniques to those required to change deliberative influences.32
+Findings may enhance the precision of interventions for
+students with problematic cannabis use patterns, by highlighting specific processes and pathways that might be targeted to reduce cannabis-related harm.
+Past research has tended to depict problematic cannabis
+use as the result of non-reflective factors such as enhanced
+cue-reactivity,19,21 and non-problematic use as resulting from
+conscious decision-making, driven by relaxation, socializing,
+and pleasure motives.15,17,18,42 A key assumption underpinning such research has been that cannabis use is generated
+either via reflective decision-making, based on deliberation
+over outcome expectancies, or non-reflective processes,
+which can prompt action without conscious awareness, control, or intention. Yet, our data, collected among frequent
+but apparently non-problematic users, demonstrated that
+both reflective and non-reflective processes work complementarily to generate cannabis use, in two ways. First, the
+contribution of reflective versus non-reflective processes to
+the instigation of cannabis use episodes varied across occasions. Conceptually similar influences affected behavior
+deliberatively in some instances, but impulsively in others.
+For example, participants consciously decided to smoke with
+friends to maintain social affiliations, but also reported that
+being offered a joint by friends could automatically cue
+consumption. Second, on many occasions, reflectively initiated action was enacted non-reflectively: even where users
+were consciously pursuing cannabis-related goals,
+non-reflective processes were recruited to execute lower-level
+actions that serve those goals, such as the hand movements
+required to roll joints.31 This attests to the hierarchical
+nature of cannabis use, and how it may be supported by
+multiple processes concurrently at different levels of analysis.13 Future research should move away from asking whether
+
+cannabis use is reflective or non-reflective, and instead ask
+what roles are played by reflective and non-reflective processes in sustaining cannabis use.43
+Among our participants, reflective processes appeared to
+more often determine whether or why to use cannabis, rather
+than how to perform the act of using cannabis. Participants
+reported, for example, considering whether social settings
+were conducive to cannabis consumption, and consciously
+deciding to use cannabis to unwind. Nonetheless, action was
+non-reflectively selected in some cases. Some participants
+reported that cannabis use had become automatically triggered
+by some contexts, and that it would be effortful to inhibit
+cannabis use urges, both of which are characteristic of habitual behavior.33 Similarly, some participants reported reflectively executing some aspects of cannabis use routines. For
+example, while many participants described rolling joints
+effortlessly and automatically, enactment difficulties prompted
+deployment of attentional resources to rectify problems.30 We
+also observed the potential for reflective processes to satisfy
+non-reflectively generated cannabis consumption urges. Even
+when the urge was automatically triggered, when cannabis
+was unavailable participants consciously engaged in behaviors
+directed toward the goal of obtaining cannabis.
+Our results have important implications for understanding
+cannabis use. First, they demonstrate that both the decision
+to use cannabis, and the act of using cannabis, can be driven
+by reflective processes, non-reflective processes, or some
+combination of both. Second, they illustrate that, in some
+instances, commitments and urges to use cannabis triggered
+by non-reflective processes can require activation of reflective processes to generate action directed at satisfying such
+urges.44 Third, and relatedly, findings speak to the importance of identifying key decision points in cannabis consumption, beyond which people are unlikely to disengage
+from the goal of using cannabis. Motivation-based behavior
+change interventions are unlikely to be effective when presented after such decision points have been reached.34
+Our findings offer recommendations for intervening to
+reduce cannabis consumption among problem users, or to
+prevent cannabis consumption patterns that can lead to
+problematic use. Strategies might focus on reflective or
+non-reflective routes to behavior change. For example, participants’ prioritization of life demands over cannabis use
+suggests that persuasive messages emphasizing the adverse
+impact of cannabis on concentration and attention might
+influence cannabis decisions. While some participants used
+cannabis to induce sleep or alleviate stress, long-term use
+can build tolerance and exacerbate sleep problems and
+stress.45,46 University wellbeing teams might provide support
+for safer alternatives to cannabis for sleep issues. Intervention
+strategies might also target non-reflective processes that
+support cannabis use. For example, implementation intentions that specify alternative responses to known triggers
+might be promoted to prevent students from automatically
+initiating a cannabis use episode on exposure to other cannabis users47,48 (but see Ref. 49). Additionally, interventions
+might disrupt consumption sequences by inserting salient
+cues to cessation into cannabis contexts. Messages might
+for example be placed on rolling papers to prompt
+
+Journal of American College Health
+
+deliberation over whether to curtail cannabis consumption
+within an ongoing session.
+Study limitations must be acknowledged. The representativeness of findings from a UK undergraduate sample to
+American college students might be questioned, given legal,
+regulatory and socio-cultural differences between UK and US
+cannabis use contexts. However, we limited the focus of our
+interview schedule to experiences of cannabis consumption
+rather than procuring cannabis, and participants reported
+consuming cannabis in private rather than public settings.
+While legal and regulatory contexts necessarily frame cannabis
+use, there is no reason to expect that the lived experience of
+consuming cannabis privately—and the reflective and
+non-reflective processes underpinning such experiences—
+should differ between UK and US undergraduate students.
+Interview methods may have overstated the involvement
+of reflective processes in cannabis use. People may misconstrue actions truly directed by non-reflective processes as
+arising from conscious deliberation.50 Alternatively, participants may have deemed automated, mechanistic actions as
+unworthy of discussion. More sophisticated data collection
+techniques may be needed to provide a more comprehensive
+picture of non-reflective factors sustaining cannabis use.
+While we aimed to generate suggestions for tackling problematic cannabis use patterns, we assessed only cannabis
+frequency and recency among our sample. While most of
+our participants used cannabis at least once daily, and some
+had consumed cannabis on the day of the interview (though
+none reported being high at interview), we did not assess
+the patterns of abuse and dependence that characterize problematic use.51 Additionally, the contribution of reflective and
+non-reflective processes documented in our sample may not
+generalize across all users. Actions such as rolling a joint
+become automatic as people acquire the skills necessary to
+effortlessly execute them. Inexperienced cannabis users are
+therefore more likely to act mindfully. Conversely, people
+with cannabis use disorder may be guided more by habit.52
+While our results demonstrated the potential of reflective
+and non-reflective influences to concurrently support cannabis use, the specific contribution of such processes will
+likely differ across users, behaviors and contexts.32
+Our study is the first to our knowledge to document the
+concurrent roles of reflective and non-reflective processes
+in cannabis use behaviors. We showed not only that people
+may engage in cannabis use via reflective or non-reflective
+processes in different settings, but also that such processes
+may operate in concert, such that influences on action selection may differ from those required to execute such actions.
+These findings point to the complex, hierarchical nature of
+cannabis consumption, and call for precision in identifying
+targets for cannabis use interventions and the processes by
+which such targets may reduce harm.
+
+Conflict of interest disclosure
+The authors have no conflicts of interest to report. The authors confirm
+that the research presented in this article met the ethical guidelines,
+including adherence to the legal requirements of the United Kingdom
+and received approval from the King’s College London Research
+Ethics Office.
+
+333
+
+Funding
+No funding was used to support this research and/or the preparation
+of the manuscript.
+
+ORCID
+Benjamin Gardner
+
+http://orcid.org/0000-0003-1223-5934
+
+References
+1. Schulenberg JE, Johnston LD, O’Malley PM, Bachman JG, Miech
+RA, Patrick ME. Monitoring the Future: National Survey Results
+on Drug Use. 2019 Volume 2. Detroit, MI: National Institutes for
+Health; 2020.
+2. Office for National Statistics [Internet]. London (UK): Drug
+misuse in England and Wales: year ending March 2020. https://
+www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/
+articles/drugmisuseinenglandandwales/yearendingmarch2020.
+Published December 9, 2020. Accessed January 3, 2021.
+3. National Union of Students. Taking the Hit: Student Drug Use
+and How Institutions Respond. London: National Union of
+Students; 2018.
+4. Pearson MR, Liese BS, Dvorak DR, Marijuana Outcomes Study
+Team. College student marijuana involvement: perceptions, use,
+and consequences across 11 college campuses. Addict Behav.
+2017;66:83–89. doi:10.1016/j.addbeh.2016.10.019.
+5. Marel C, Sunderland M, Mills KL, Slade T, Teesson M, Chapman
+C. Conditional probabilities of substance use disorders and associated risk factors: progression from first use to use disorder on
+alcohol, cannabis, stimulants, sedatives and opioids. Drug Alcohol
+Depend. 2019;194:136–142. doi:10.1016/j.drugalcdep.2018.10.010.
+6. Caldeira KM, Arria AM, O’Grady KE, Vincent KB, Wish ED. The
+occurrence of cannabis use disorders and other cannabis-related
+problems among first-year college students. Addict Behav.
+2008;33(3):397–411. doi:10.1016/j.addbeh.2007.10.001.
+7. American Psychiatric Association. Diagnostic and Statistical
+Manual of Mental Disorders. 5th ed. Washington: American
+Psychiatric Publishing; 2013.
+8. Hall W, Renström M, Poznyak V. The Health and Social Effects
+of Nonmedical Cannabis Use. Geneva: World Health Organization;
+2016.
+9. Schweinsburg AD, Brown SA, Tapert SF. The influence of marijuana use on neurocognitive functioning in adolescents. Curr Drug
+Abuse Rev. 2008;1(1):99–111. doi:10.2174/1874473710801010099.
+10. Silins E, Horwood LJ, Patton GC, et al. Young adult sequelae of
+adolescent cannabis use: an integrative analysis. Lancet Psychiat.
+2014;1(4):286–293. doi:10.1016/S2215-0366(14)70307-4.
+11. Bennett TH, Holloway KR. Drug misuse among university students in the UK: implications for prevention. Subst Use Misuse.
+2014;49(4):448–455. doi:10.3109/10826084.2013.846378.
+12. Pellegrino AJ, Duck KD, Kriescher DPJ, et al. Characterizing
+symptoms of Cannabis use disorder in a sample of college students.
+J Drug Issues. 2020;50(4):524–537. doi:10.1177/0022042620936655.
+13. Strack F, Deutsch R. Reflective and impulsive determinants of
+social behavior. Pers Soc Psychol Rev. 2004;8(3):220–247.
+doi:10.1207/s15327957pspr0803_1.
+14. Benschop A, Liebregts N, van der Pol P, et al. Reliability and
+validity of the Marijuana Motives Measure among young adult
+frequent cannabis users and associations with cannabis dependence. Addict Behav. 2015;40:91–95. doi:10.1016/j.addbeh.2014.09.003.
+15. Hammersley R, Leon V. Patterns of cannabis use and positive and
+negative experiences of use amongst university students. Addict
+Res Theory. 2006;14(2):189–205. doi:10.1080/16066350500453309.
+16. LaFrance EM, Cuttler C. Inspired by Mary Jane? Mechanisms
+underlying enhanced creativity in cannabis users. Conscious Cogn.
+2017;56:68–76. doi:10.1016/j.concog.2017.10.009.
+
+334
+
+S. PORCHE AND B. GARDNER
+
+17. O’Callaghan FV, Joyce J. Cannabis: what makes university students
+more or less likely to use it? J Appl Biobehav Res. 2006;11(2):105–
+113. doi:10.1111/j.1751-9861.2006.tb00022.x.
+18. Webb E, Ashton C, Kelly P, Kamali F. Alcohol and drug use in
+UK university students. Lancet. 1996;348(9032):922–925.
+doi:10.1016/s0140-6736(96)03410-1.
+19. Jones BC, Jones BT, Blundell L, Bruce G. Social users of alcohol
+and cannabis who detect substance-related changes in a change
+blindness paradigm report higher levels of use than those detecting substance-neutral changes. Psychopharmacology (Berl).
+2002;165(1):93–96. doi:10.1007/s00213-002-1264-2.
+20. Vingerhoets WAM, Koenders L, van den Brink W, et al. Cue-induced
+striatal activity in frequent cannabis users independently predicts
+cannabis problem severity three years later. J Psychopharmacol.
+2016;30(2):152–158. doi:10.1177/0269881115620436.
+21. Cousijn J, Watson P, Koenders L, Vingerhoets WAM, Goudriaan
+AE, Wiers RW. Cannabis dependence, cognitive control and attentional bias for cannabis words. Addict Behav. 2013;38(12):2825–
+2832. doi:10.1016/j.addbeh.2013.08.011.
+22. Lundahl LH, Greenwald MK. Magnitude and duration of
+cue-induced craving for marijuana in volunteers with cannabis
+use disorder. Drug Alcohol Depend. 2016;166:143–149.
+doi:10.1016/j.drugalcdep.2016.07.004.
+23. Nickerson LD, Ravichandran C, Lundahl LH, et al. Cue reactivity in cannabis-dependent adolescents. Psychol Addict Behav.
+2011;25(1):168–173. doi:10.1037/a0021117.
+24. Carpenter KM, Schreiber E, Church S, McDowell D. Drug Stroop
+performance: relationships with primary substance of use and
+treatment outcome in a drug-dependent outpatient sample. Addict
+Behav. 2006;31(1):174–181. doi:10.1016/j.addbeh.2005.04.012.
+25. Morean ME, DeMartini KS, Foster D, et al. The Self-Report
+Habit Index: assessing habitual marijuana, alcohol, e-cigarette,
+and cigarette use. Drug Alcohol Depend. 2018;186:207–214.
+doi:10.1016/j.drugalcdep.2018.01.014.
+26. Shrier LA, Walls C, Rhoads A, Blood EA. Individual and contextual predictors of severity of marijuana use events among
+young frequent users. Addict Behav. 2013;38(1):1448–1456.
+doi:10.1016/j.addbeh.2012.05.026.
+27. Egerton GA, Colder CR, Lee Y. Testing the dual process model
+of adolescent cannabis use with prospective three-way interactions between self-regulation, negative outcome expectancies, and
+implicit cannabis attitudes. Addict Behav. 2021;118:106902.
+doi:10.1016/j.addbeh.2021.106902.
+28. Wiers RW, Gladwin TE. Reflective and impulsive processes in
+addiction and the role of motivation. In: Wiers RW, Gladwin
+TE, eds. Reflective and Impulsive Determinants of Human
+Behavior. New York: Routledge; 2016:185–200.
+29. Gardner B, Phillips LA, Judah G. Habitual instigation and habitual execution: definition, measurement, and effects on behaviour frequency. Br J Health Psychol. 2016;21(3):613–630.
+doi:10.1111/bjhp.12189.
+30. Vallacher RR, Wegner DM. What do people think they’re doing?
+Action identification and human behavior. Psychol Rev.
+1987;94(1):3–15. doi:10.1037/0033-295X.94.1.3.
+31. Cooper R, Shallice T. Contention scheduling and the control of
+routine activities. Cogn Neuropsychol. 2000;17(4):297–338.
+doi:10.1080/026432900380427.
+32. Deutsch R, Strack F. Changing behavior using the
+reflective-impulsive model. In: MS Hagger, LD Cameron, K
+Hamilton, N Hankonen, T Lintunen, eds. Handbook of Behavior
+Change. Cambridge: Cambridge University Press; 2020:164–177.
+33. Gardner B . A review and analysis of the use of ‘habit’ in understanding, predicting and influencing health-related behaviour.
+
+34.
+35.
+
+36.
+
+37.
+38.
+39.
+
+40.
+41.
+
+42.
+43.
+44.
+45.
+46.
+47.
+
+48.
+49.
+
+50.
+51.
+
+52.
+
+Health Psychol Rev. 2015;9(3):277–295. doi:10.1080/17437199.20
+13.876238.
+Lewis A, Eves F. Prompt before the choice is made: effects of a
+stair-climbing intervention in university buildings. Br J Health
+Psychol. 2012;17(3):631–643. doi:10.1111/j.2044-8287.2011.02060.x.
+Marteau TM, Hollands GJ, Fletcher PC. Changing human behavior to prevent disease: the importance of targeting automatic processes. Science. 2012;337(6101):1492–1495. doi:10.1126/
+science.1226918.
+Hagger MS, Rebar AL, Mullan B, Lipp OV, Chatzisarantis NLD.
+The subjective experience of habit captured by self-report indexes may lead to inaccuracies in the measurement of habitual
+action. Health Psychol Rev. 2015;9(3):296–302. doi:10.1080/1743
+7199.2014.959728.
+Orbell S, Verplanken B. The strength of habit. Health Psychol
+Rev. 2015;9(3):311–317. doi:10.1080/17437199.2014.992031.
+Wood W, Quinn JM, Kashy DA. Habits in everyday life: thought,
+emotion, and action. J Pers Soc Psychol. 2002;83(6):1281–1297.
+Cuttler C, Spradlin A. Measuring cannabis consumption: psychometric properties of the Daily Sessions, Frequency, Age of
+Onset, and Quantity of Cannabis Use Inventory (DFAQ-CU).
+PLoS One. 2017;12(5):e0178194. doi:10.1371/journal.pone.0178194.
+Braun V, Clarke V. Using thematic analysis in psychology. Qual
+Res Psychol. 2006;3(2):77–101. doi:10.1191/1478088706qp063oa.
+Gale NK, Heath G, Cameron E, Rashid S, Redwood S. Using
+the framework method for the analysis of qualitative data in
+multi-disciplinary health research. BMC Med Res Methodol.
+2013;13(1):117. doi:10.1186/1471-2288-13-117.
+Lee CM, Neighbors C, Woods BA . Marijuana motives: young
+adults’ reasons for using marijuana. Addict Behav. 2007;32(7):1384–
+1384. doi:10.1016/j.addbeh.2006.09.010.
+Gardner B, Rebar AL, Lally P. A matter of habit: recognizing
+the multiple roles of habit in health behaviour. Br J Health
+Psychol. 2019;24(2):241–249. doi:10.1111/bjhp.12369.
+West R, Brown J. Theory of Addiction. 2nd ed. Chichester: John
+Wiley & Sons; 2013.
+Babson KA, Bonn-Miller MO. Sleep disturbances: implications for
+cannabis use, cannabis use cessation, and cannabis use treatment.
+Curr Addict Rep. 2014;1(2):109–114. doi:10.1007/s40429-014-0016-9.
+Glodosky NC, Cuttler C. Motives matter: cannabis use motives
+moderate the associations between stress and negative affect.
+Addict Behav. 2020;102:106188. doi:10.1016/j.addbeh.2019.106188.
+Gardner B, Rebar AL, Lally P. Habit interventions. In: Hagger
+MS, Cameron LD, Hamilton K, Hankonen N, Lintunen T, eds.
+The Handbook of Behavior Change. Cambridge: Cambridge
+University Press; 2020:599–616.
+Gollwitzer PM. Implementation intentions: strong effects of simple plans. Am Psychol. 1999;54(7):493–503. doi:10.103
+7/0003-066X.54.7.493.
+Malaguti A, Ciocanel O, Sani F, Dillon JF, Eriksen A, Power K.
+Effectiveness of the use of implementation intentions on reduction of substance use: a meta-analysis. Drug Alcohol Depend.
+2020;214:108120. doi:10.1016/j.drugalcdep.2020.108120.
+Nisbett RE, Wilson TD. Telling more than we can know: verbal
+reports on mental processes. Psychol Rev. 1977;84(3):231–259.
+doi:10.1037/0033-295X.84.3.231.
+Hasin DS, O’Brien CP, Auriacombe M, et al. DSM-5 criteria for
+substance use disorders: recommendations and rationale. Am J
+Psy chi atr y. 2 0 1 3 ; 1 7 0 ( 8 ) : 8 3 4 – 8 5 1 . d oi :1 0 . 1 1 7 6 / appi.
+ajp.2013.12060782.
+Ferland J-MN, Hurd YL. Deconstructing the neurobiology of
+cannabis use disorder. Nat Neurosci. 2020;23(5):600–610.
+doi:10.1038/s41593-020-0611-0.
+
+

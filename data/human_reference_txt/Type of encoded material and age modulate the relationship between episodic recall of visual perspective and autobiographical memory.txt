@@ -1,0 +1,1170 @@
+﻿Journal of Cognitive Psychology
+
+ISSN: 2044-5911 (Print) 2044-592X (Online) Journal homepage: www.tandfonline.com/journals/pecp21
+
+Type of encoded material and age modulate the
+relationship between episodic recall of visual
+perspective and autobiographical memory
+
+Marianna E. Kapsetaki, Ioana Elisabeta Militaru, Ines Sanguino, Matilde
+Boccanera, Neila Zaara, Andreea Zaman, Flavia Loreto, Paresh A. Malhotra &
+Charlotte Russell
+
+To cite this article: Marianna E. Kapsetaki, Ioana Elisabeta Militaru, Ines Sanguino, Matilde
+Boccanera, Neila Zaara, Andreea Zaman, Flavia Loreto, Paresh A. Malhotra & Charlotte Russell
+(2022) Type of encoded material and age modulate the relationship between episodic recall
+of visual perspective and autobiographical memory, Journal of Cognitive Psychology, 34:1,
+142-159, DOI: 10.1080/20445911.2021.1922417
+
+To link to this article:  https://doi.org/10.1080/20445911.2021.1922417
+
+© 2021 The Author(s). Published by Informa Published online: 26 May 2021.
+UK Limited, trading as Taylor & Francis
+Group
+
+Submit your article to this journal Article views: 7756
+
+View related articles View Crossmark data
+
+Citing articles: 5 View citing articles 
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=pecp21
+
+
+
+JOURNAL OF COGNITIVE PSYCHOLOGY
+2022, VOL. 34, NO. 1, 142–159
+https://doi.org/10.1080/20445911.2021.1922417
+
+Type of encoded material and age modulate the relationship between
+episodic recall of visual perspective and autobiographical memory
+Marianna E. Kapsetakia*, Ioana Elisabeta Militarub*, Ines Sanguinob, Matilde Boccanerab, Neila Zaarab,
+Andreea Zamanb, Flavia Loretoa, Paresh A. Malhotra a,c and Charlotte Russellb
+
+aDepartment of Brain Sciences, Faculty of Medicine, Imperial College London, London, UK; bDepartment of Psychology, Institute of
+Psychiatry, Psychology and Neuroscience, King’s College London, London, UK; cUK Dementia Research Institute, Imperial College
+London, London, UK
+
+ABSTRACT ARTICLE HISTORY
+Episodic memory enables us to form a bank of autobiographical memories across our Received 30 June 2020
+lifespan. The relationship between autobiographical memory and laboratory-measures Accepted 19 April 2021
+of episodic memory is complicated and these processes might be differentially
+affected by ageing (e.g. Diamond et al., [2020]. Different patterns of recollection for KEYWORDS
+
+Visual perspective; episodic
+matched real-world and laboratory-based episodes in younger and older adults. memory; autobiographical
+Cognition, 202, 104309.). Here, we examine whether the ability to recall one’s own memory; ageing
+visual perspective relates to richness of autobiographical recall, and how this
+relationship is affected by age. Memory of perspective at encoding, was assessed in
+younger (18–35 years) and older adults (65–85 years). Participants, wearing head
+cameras, viewed arrays of objects. Later they were asked which images represented
+earlier scenes, and if the image was taken from their perspective (i.e. from their
+camera). Performance was compared with autobiographical memory. Accuracy in
+identifying their own perspective correlated with autobiographical scores. Age-group
+was a moderating factor in this relationship. Subsequently, new participants encoded
+photographs of objects and were later asked whether they recognised the images.
+Visual perspective was manipulated in these photographs. In this task there was no
+relationship between performance and autobiographical memory. In younger adults
+only 3-D encoding of scenes relates directly to autobiographical memory but ability to
+complete these two tasks appears to operate independently in the older group.
+
+Introduction episodic richness of autobiographical recall with
+increasing age (e.g, see Piolino et al., 2006; St
+
+Autobiographical memory allows us to recall events Jacques & Levine, 2007). This decline in episodic
+from our lives, it relies on the episodic memory detail in autobiographical events harmonises with
+system. Indeed, episodic memory is fundamental work in experimentally controlled laboratory-
+to autobiographical memory as it enables recall of based tests of episodic memory. For example,
+detailed events contextualised within space and older adults show increased difficulty in discriminat-
+time. Recall of autobiographical events is scaffolded ing between similar events as well as deficits in
+by both general and personal semantic knowledge precise recollection of stimuli (e.g. Koen & Yonelinas,
+(Conway, 2009; Irish & Piguet, 2013; Renoult et al., 2016; Pidgeon & Morcom, 2014; Yeung et al., 2013).
+2012). To examine autobiographical memory, par- Yet, it is unclear whether episodic memory labora-
+ticipants recall events from their lives (see Kopelman tory tests and autobiographical memory interviews
+et al., 1989; Levine et al., 2002; Piolino et al., 2003). are assessing an identical underlying process. In
+The episodic component of these memories is much research, distinct neural networks are
+measured through the specificity of the event’s involved when comparing memory for real world
+context and the vividness of sensory description. events to laboratory encoding of more simple
+Results from these paradigms identify a decline in stimuli (Chen et al., 2017; McDermott et al., 2009
+
+CONTACT Charlotte Russell charlotte.russell@kcl.ac.uk
+*Equal contribution.
+© 2021 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), which permits
+unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+
+
+JOURNAL OF COGNITIVE PSYCHOLOGY 143
+
+Monge et al., 2018). For example, McDermott et al. effects, 3-D scenes are also experienced in a richer
+(2009) performed a meta-analysis, including articles spatial context. That is, when we view a scene that
+assessing laboratory-based memory tasks and those is physically present in front of us, we form a
+using an autobiographical measure in order to spatial representation of this scene from our own
+examine common areas of neural recruitment. They perspective. Photographs can be taken from
+demonstrated very few areas of overlap between different viewing directions, but this 2-D stimulus
+the two types of memory assessment (e.g. some does not replicate the full spatial context of the
+small regions inposterior cingulate cortex). Thesedis- scene. It is worth noting that the size of space experi-
+crepancies are important and raise the question of enced in a real environment is often larger than that
+what is different andwhat is sharedbetweenepisodic shown in a 2-D photograph. The size and richer
+recall in autobiographicalmemory andepisodic recall spatial context are likely to affect the role of ego-
+of laboratory—introduced stimuli. centric and allocentric frames of reference when par-
+
+One potential avenue of interest in investigating ticipants encode the stimuli (see Iachini et al., 2014).
+the differences between lab-based episodic Both egocentric and allocentric contexts are necess-
+memory performance and autobiographical recall ary for the visual representation of our own perspec-
+is that episodic memory in the lab is frequently tive and the 3-D environment might allow these to
+assessed with two-dimensional (2-D) images on a be integrated more effectively (e.g. Ekstrom &
+computer screen, whereas we form our autobiogra- Isham, 2017).
+phical memories while moving in and interacting Here, we aim to examine whether a key aspect
+with the world in three-dimensional (3-D) space. shared between autobiographical memory and
+There is evidence that these 2-D images are likely some episodic tasks relates to the recollection of
+to be processed and experienced very differently one’s own self-perspective at retrieval. The reason
+to 3-D experience of the same objects. For for this is that integral to episodic recall is a rich
+example, an electroencephalography (EEG) study mental image of what the event looked like to us
+examining perception of 3-D objects compared to at the time of encoding. If we recall our most
+2-D pictures of very similar items revealed stronger recent trip into work, we construct a visuospatial
+brain responses linked to motor plans for 3-D mental image of the scene as we perceived it at
+stimuli (Marini et al., 2019). Real-world-presented the time. Therefore, accurate recall of egocentric—
+objects also preferentially capture attention com- first-person—perspective is likely to be critical to
+pared to 2-D pictures or even 3-D representations episodic recall. St Jacques and colleagues, over a
+of the same objects (Gomez et al., 2018). As might number of studies, demonstrated in healthy individ-
+be expected, due to their greater attentional interest uals that shifting from the encoding perspective at
+and superior activation of motor circuits, real world retrieval reduces the overall accuracy of the
+objects appear to be remembered better than 2-D memory and leads to reduction in reported subjec-
+photographs (Snow et al., 2014). In a very recent tive vividness of the memory (Marcotti & Jacques,
+study, when retrieving details about scenes which 2018; St Jacques et al., 2018, 2017 for a review see
+had been encoded in a real-life 3D environment St Jacques, 2019). Relevant to the maintenance of
+(compared to equivalent scenes that were encoded one’s own perspective is that an essential part of
+in a 2D environment), participants reported a episodic memory is the ability to self-reference our
+greater subjective sense of recall and were more memories. This is known as “autonoetic conscious-
+objectively accurate (Diamond et al., 2020). Pertinent ness” (Tulving, 2002) and refers to the awareness
+to the current study, Diamond et al. (2020) demon- of one’s self in our memory. That is, that this is a
+strated that older adults were less accurate overall recall of an event we ourselves experienced in the
+but produced a similar level of subjective recollec- past. It is reasonable to argue that self-referenced
+tive experience as the younger group. Therefore, it memories are subjectively more compelling if they
+is valuable to examine whether there are memory are accessible from a first-person perspective.
+differences in experiencing real-life 3-D objects and Events that we might later recall are experienced
+similar objects in 2-D photographs and how this through the perspective of our own eyes. As a
+interacts with memory for the rich 3-D events that result of how we interact with the world, the col-
+form our autobiographical memory across the life- lation of visual information and the associated
+span. A key interest here is that, in addition to visual contexts from these events is from the per-
+motor plan affordances and potential attentional spective of our own eyes. When we are able to
+
+
+
+144 M. E. KAPSETAKI ET AL.
+
+mentally recreate this perspective at recollection, from an alternative perspective (Russell et al., 2019).
+we are likely to feel that we are vividly recalling an In our study, patients with damage to lateral parietal
+event from our life and, in an episodic memory cortex were impaired in recognising scenes from
+task, we might be more sure that we experienced their own perspective despite being equivalently
+that scene in the encoding phase. There are rare accurate to healthy controls in other assessments
+potential exceptions to the statement that mem- of episodic memory and in alternative spatial judge-
+ories are always encoded from the perspective of ments on the scenes. An imaging study using this
+our own eyes. In dissociative identity disorder paradigm in healthy participants suggested that
+people experience the presence of two or more per- the angular gyrus in parietal cortex was the region
+sonality “alters”. There are examples of one alter principally involved in accurate judgements of self-
+encoding events which remain inaccessible to the perspective during recollection. These results syn-
+other alters; these might then be examples of chronise with other recent studies. For example,
+third-person memories from the same body Tibon et al. (2019) found that increased angular
+(Morton, 2018). In addition, some studies have gyrus activity was directly linked to greater vivid-
+experimentally manipulated the perspective at ness of recognition at recall. Trelle et al. (2019),
+encoding so that experimental participants experi- confirmed involvement of angular gyrus at retrieval
+enced events from an observer perspective (e.g. in an episodic task – in both younger and older
+see Bergouignan et al., 2014; Iriye & St. Jacques, adults – when stimuli were correctly recollected.
+2021). However, although the quality and frequency The features of episodic and autobiographical
+of first-person recall might vary across individuals memory in patients with parietal damage, plus the
+and our lifespans, in most circumstances most indi- better delineation of the role of angular gyrus,
+viduals encode their experiences through their own suggests that these parts of the episodic network
+eyes. Here we aim to examine whether there is a enable a rich, vivid mental image of a scene
+relationship between the ability to correctly recog- during the recollection process. Even healthy
+nise one’s own encoded scene from our first- ageing impacts episodic and autobiographical
+person perspective and episodically rich recall in memory disproportionately when compared, for
+autobiographical memory. example, to semantic memory. The changes that
+
+Computational and neuroimaging evidence memory undergoes in older adults in laboratory
+suggest that to create an accurate image of the tasks suggest deficits with the explicit recollective
+world around us—from our own first-person per- process, while leaving familiarity judgements com-
+spective—we rely on parietal cortex (see Burgess, parable to younger adults (e.g. Koen & Yonelinas,
+2008; Burgess et al., 2001; Lambrey et al., 2012). Par- 2016). Related to this, the Remember/Know ques-
+ietal cortex is fundamental within episodic recall, tion is used frequently as a proxy for the sense of
+with its role increasingly appreciated (for reviews “autonoetic consciousness” experienced during
+Rugg & King, 2018; Sestieri et al., 2017). For recall and there is evidence that healthy older
+example, in episodic tests, patients with damage adults (as well as the patients with parietal
+to this region produce fewer “Remember” responses damage discussed above) report fewer “Remember”
+in Remember/Know paradigms, are less susceptible responses compared to “Know” responses than to
+to false alarms and, despite accurate memory per- younger adults (e.g. Piolino et al., 2006). This
+formance, show disordered ratings of confidence suggests a change to the subjective quality of the
+in their performance (Berryhill et al., 2009; Drowos memory recall. In episodic tasks, healthy older sub-
+et al., 2010; Hower et al., 2014; Simons et al., jects seem to have deficits in remembering specific
+2010). In autobiographical paradigms, these episodic details, that is, details directly related to a
+patients can recall events from their lives, but the unique event and specific to time and place (e.g.
+reports are vague, imprecise and lacking detail (Ber- Diamond & Levine, 2020; Folville et al., 2020).
+ryhill, 2012; Berryhill et al., 2007). These recollections Older adults also show impairments on tasks requir-
+are even associated with a lower subjective feeling ing the integration of the object (what), spatial
+of having experienced the event themselves (David- (where) and temporal (when) contexts inherent to
+son et al., 2008). We developed a paradigm to episodic memory (e.g. Kessels et al., 2007; Mazurek
+directly examine whether patients with lesions in et al., 2015). Potentially associated with this loss of
+parietal cortex have difficulty discriminating, at rec- episodic contextual integration, in autobiographical
+ognition, their own encoded perspective of a scene interviews, episodic recall is frequently reported as
+
+
+
+JOURNAL OF COGNITIVE PSYCHOLOGY 145
+
+lacking detail and specificity (e.g, Addis et al., 2011; memory. Given the discrepancies between labora-
+Levine et al., 2002; Schacter et al., 2013). Also, and tory based episodic paradigms and measures in
+clearly relevant to visual perspective, there is an which people recall events from their own lives,
+increase of autobiographical memories reported this is an important step (e.g. Chen et al., 2017;
+from an “observer” rather than “field” perspective McDermott et al., 2009).
+(see, Piolino et al., 2006, 2009). Therefore, some
+key characteristics of episodic memory in older
+adults are suggestive of a less rich recollective Experiment 1
+process and we might suggest that a decline in Methods
+the ability to recollect the first-person perspective
+at recall is part of this (see Russell et al., 2019). Participants
+
+Here, we will examine the relationship between Forty-four participants from two age-groups took
+self-perspective in an episodic task and autobiogra- part in this study. The younger group (n = 19; *
+phical memory in both young adults and older females) were aged from 18–35 years of age and
+adults. It is possible that both of these processes the older group (n = 25, * females) were aged from
+are impacted by ageing, only one of them or 65 to 85 years of age (please note that some partici-
+indeed that the relationship between them under- pants’ demographic details for this study are in
+goes change across the lifespan. locked filing cabinet in my office and due to
+
+In the first study, with a group of younger and a Covid-19 we have not been permitted in the build-
+group of older adults, we will use the episodic ing – this building is locked down and no access cur-
+memory task we developed before, alongside an rently possible, have written note to Editor on this
+autobiographical interview like the TEMPau devel- issue). Participants were recruited from adverts
+oped by Piolino and colleagues (Test Episodique placed on the university research recruitment bulle-
+de Memoire du Passe autobiographique, Piolino tin, posters on campus and through advertising via
+et al., 2003, 2009). Our episodic memory task the University of the Third Age, UK. The project
+allows participants to experience well-controlled, received ethical approval from the local university
+3D scenes created from everyday objects. While ethics committee. All participants gave written
+experiencing these scenes, they wear a head- informed consent to take part in the study and
+camera and are told that we will test their confirmed that they had no current diagnosis of
+memory for the scenes with images from this neurological or psychiatric illness. They were reim-
+camera. In a later recognition test they are pre- bursed for their time and inconvenience.
+sented with photographic images of the scenes.
+The images can be the exact scene they saw – the 3-D Episodic memory task
+same objects in the same position, taken from the Encoding. Participants were presented with 22
+same position they were sitting or they can be the novel 3-D scenes to remember. Presentation was
+same scene from the same perspective but with split into 4 blocks (3 of which included 6 scenes
+an object moved or, finally, the same scene, with and one with 4 scenes). Each scene consisted of
+the objects in the same position, but shown from two items taken from a possible 14 categories,
+a different perspective. We will examine whether each category contained 8 possible exemplars.
+accuracy in discriminating between identical Examples of categories included kitchen items, toy
+scenes and those taken from a shifted perspective vehicles, models of musical instruments and fruits.
+associates with episodic richness in the autobiogra- For each scene, items were positioned in separate
+phical task. Further, whether the age groups signifi- squares of a 2 × 2 grid, placed on a table in front
+cantly vary in performance on either task and/or in of the participant (see Figure 1). The two items
+the relationship between performance in the tasks. that made up each scene were placed onto the
+
+In the second study, instead of using 3D scenes in grid by the experimenter and left in position for 1
+the encoding task, we will use 2D photographs of min. Participants were told that their memory for
+the same objects in a similar arrangement. Chan- the scenes and how they appeared to them would
+ging the encoding stimuli in this way, but keeping be probed later. All participants were wearing a
+the recognition task similar, will enable us to head camera. It was explained that a still would be
+further probe the nature of episodic tasks that taken from each scene to be used later in a
+relate to episodic recollection in autobiographical memory test. They were told they would need to
+
+
+
+146 M. E. KAPSETAKI ET AL.
+
+Figure 1. Schematic of events in the recognition test for Experiment 1. (A) Demonstrates what was on the screen and for
+how long the participants saw this information. Note that although these are photographs of the scenes in this part of the
+test, in the encoding session these items were placed onto this grid ‘live’ in front of the participants. The ‘sport equipment’
+image seen here represents the ‘Identical’ condition. That is, this was exactly what was shown during encoding. (B) These
+images show the two possible non-identical lure trials. The top is the example of an ‘Item Shift’ trial and the bottom of the
+‘Perspective Shift’ [To view this figure in color, please see the online version of this journal].
+
+identify stills from their own session. In reality we computer. Eight of these scenes were identical to
+pre-prepared stills of each scene – facilitating the one of the scenes they had been presented with
+later memory test and to ensure images were as when wearing the head camera (i.e. the scene that
+clear as possible on the computer screen. No partici- they saw from the angle in which they had viewed
+pant in either group questioned that the images it: identical condition); 8 were of the same scene
+were taken from their head camera or mentioned but taken from the opposite viewing perspective
+being suspicious during debrief. (perspective shift condition); 6 were taken from
+
+For half of the scenes, participants sat to the left the same viewing angle with the same items but
+of the grid, for the other half to the right. Seating one of the items was placed in a different position
+position was randomly allocated across trials with (item shift condition). The task was programmed
+an equal distribution of both positions. Participants using Psychopy software (Peirce, 2009).
+were asked to move seats for this manipulation. The recognition task was verbally explained by
+Viewing position, the items presented, and the the experimenter, who remained in the room
+order of presentation were counterbalanced across throughout in case participants had any questions.
+participants. When the task started images remained on screen
+
+After each block, participants were cued with the while participants answered the first question,
+category name of each scene and then asked to which was presented on the screen, “Did you see
+recall the items, their positions, and the viewing per- this exact scene earlier?”. It was previously empha-
+spective they experienced that scene from (i.e. from sised that the viewing angle of these pictures was
+the left or right). They were asked, for example, not relevant for the first question. If participants
+“when we showed you the ‘kitchen items’ scene responded “yes” then they were asked: “Was the
+can you tell us what items we showed to you, scene taken from your viewpoint (i.e. is it the
+where they were on the grid and where you image from your head-camera)?”. Participants had
+viewed this scene from?”. This allowed us to check to make a forced choice “yes” or “no” answer to
+they had encoded the scene correctly and to give this question.
+a reminder where appropriate.
+
+Autobiographical memory interview
+Recognition task. During the recognition task 22 The autobiographical memory interview was based
+scenes were presented to participants on the on the TEMPau developed by Piolino et al. (2003,
+
+
+
+JOURNAL OF COGNITIVE PSYCHOLOGY 147
+
+2009). The task was modified in order to match the To create an “episodic score” for each memory
+number of meaningful time periods across age we followed the marking scheme outlined in
+groups. We probed three life periods: Childhood – Piolino et al., 2003, adapted from Kopelman et al.’s
+up to the age of 12; the most recent five years (1989) Autobiographical Interview. Each memory
+excepting the current year; the current year. For was awarded a score on the scale below:
+each period participants were asked to provide
+three memories. At the start of the interview the Absence of any memory or very general infor-
+interviewer outlined what they were going to be mation = 0
+asked to do and made it clear that they should Recall of repeated or extended event with no
+describe specific events that did not last more context of space or time = 1
+than a day and were not repeated. They were also Recall of a repeated or extended event but with
+asked to: “… describe as many details as possible some spatial/temporal context = 2
+about the event: the time, the place, with whom Recall of a specific event with some spatial/temporal
+the event happened. Describe any thoughts and context but few details = 3
+emotions you can remember from the event while Recall of specific event with spatial/temporal
+it was happening”. They were also encouraged to context and rich sensory details = 4
+avoid information that was not directly relevant to
+the event. The experimenter transcribed the mem- Each memory was scored by two independent
+ories directly to a laptop computer in the session markers, one of whom had not been in that particu-
+and then checked what had been written immedi- lar participant’s interview. Scores were averaged to
+ately after the interview, leaving the room for the give the final score for that event – if both
+participant to have a break. markers were within one mark on the scale above.
+
+To facilitate recall we gave cues of possible If the scores from the two markers differed by
+events, using identical, relatively generic, cues. For more than one mark on the scale, a third indepen-
+example, in the childhood period one probe was, dent marker reviewed the memory and their score
+“Give details about an event that occurred con- was then averaged with whichever original marker
+nected to your childhood home”. Or, from the it was within 1 grade of, giving the final score for
+most recent year, “Could you recall details of a par- that event. In all occasions the third marker was
+ticular meal you shared with someone else – friend within one mark of one of the markers. The scores
+or family – in the last year? This could be a meal out for the three events recalled in each time period
+or at your or their home”. If the probe did not facili- were averaged for each participant for analysis.
+tate access to a memory for a participant, they were Studies deriving the TEMPau “episodic score” (e.g.
+encouraged to select another event that they could Noulhiane et al., 2008; Piolino et al., 2003, 2006,
+recall. In practice this happened on very few 2007) commonly use two independent markers
+occasions. When participants struggled to follow who then agree a consensus on the eventual
+instructions to recall a discrete, non-repeated score. We adopted a different strategy here. First,
+event they were probed with a set instruction, a number of markers scored the memories (five
+“Remember we want to hear about a specific markers across this study) making discussions logis-
+event”. If they gave a brief, cursory description of tically challenging. We also felt these discussions
+an event they were given the set probe, “Can you might be susceptible to influence of one over the
+add any specific details?”. When participants indi- other marker and for some of the participants one
+cated that they had finished recalling a particular of the markers would have been present in the
+event they were asked two questions. First, they interview. This strategy of averaging the score
+were asked how much they fully pictured the across both markers, with a third marker used in
+scene in their minds whilst recalling. They rated cases of larger disagreement, was adopted as
+this experience on a scale from 0 – not at all, to 4 being robust and fair. All autobiographical scripts
+– very clear and vivid. Second, they were asked if were anonymised.
+they recalled the memory as if they were observing
+it or from the perspective of their own eyes. If they Experimental procedure
+said that they felt that they had used both perspec- The episodic memory task in which the scenes were
+tives, they were asked to select the predominant experienced in “real-life” and the autobiographical
+perspective of recall. interview were run in the same experimental
+
+
+
+148 M. E. KAPSETAKI ET AL.
+
+session. Each participant came into the laboratory effect of question (F(1, 42) = 29.299, p < .001,
+for this session, which lasted approximately 2 h. Cohen’s d = 0.8036), a main effect of age group (F
+The encoding session was carried out first (lasting (1, 42) = 29.786, p < .001, Cohen’s d = 1.2256), but
+around 25 min), followed by a break, then the auto- no interaction between question and age group (F
+biographical interview (lasting around 45 min) and (1, 42) = 1.045, p = 0.313).
+finally the recognition test from the head camera As our main interest was in the discrimination
+task (10 min). The rest of the session consisted of ability of the different age groups for the separate
+going through the information sheet, taking questions, independent samples t-tests were
+informed consent, breaks and debrief. carried out on Question 1 “did you see this scene
+
+earlier?” and Question 2 “is this the exact scene
+
+Results from your head camera?”. These tests revealed
+
+3-D Episodic memory task. Given the nature of the that younger adults were better at discriminating
+
+questions asked, the data from this memory task previously viewed scenes for both questions. Ques-
+
+were transformed into d’ values. The use of this tion 1 – t(42) = 3.39, p < .001, Cohen’s d = 1.035;
+
+index enables us to counteract the effect of Question 2 – t(42) = 5.89, p < .001, Cohen’s d = 1.792.
+
+response bias in the performance. That is, some par- To compare discrimination performance for the
+
+ticipants might be particularly prone to report that task within the groups, paired samples t-tests
+
+“yes” the image is the same – given as they are revealed that for both groups discrimination was
+
+very similar to those experienced earlier. This more difficult in Question 2 – “is this from your
+
+measure enables us to carefully judge the ability head camera?” than for Question 1 “did you see
+
+to discriminate own viewed scenes from those this scene earlier?”. For the young group t(18) =
+
+that are shifted in perspective. See Table 1 for 4.63, p < .001, Cohen’s d = 1.061; older adults t(24)
+
+means and SDs of Hit rate, False alarms and d’ = 4.06, p < .001, Cohen’s d = 0.812.
+
+values for the two questions of the task. Examin- Analysis of the 3-D memory task suggests that
+
+ation of the pattern of Hit Rates and False Alarms this task is sensitive to changes in episodic
+
+for the two questions reveals that the older group memory in older adults. This harmonises with our
+
+were very likely to incorrectly believe they had previous work using a similar task with functional
+
+seen the scene previously. For the second question neuroimaging (Russell et al., 2019) in which older
+
+both the Hit Rates and False Alarms in the older adults were particularly poor in Question 2 and
+
+group suggest they were very poor at discriminat- this was in contrast to performance in other episo-
+
+ing whether it was from their head camera. This is dic memory measurements.
+
+despite the fact that they were allowed as long as
+they liked to respond and there was always an Autobiographical memory interview. As outlined
+
+experimenter present in order to ask for clarification above, every memory recalled by each participant
+
+of task instructions. received three evaluations. Two of these were self-
+
+E evaluations: The rating of how much they mentally
+ffect sizes are given with Cohen’s d, labelled
+
+with its full name to distinguish from d’ values. visualised the event, 1-4; whether the recall was
+
+Cohen’s d can provide information about the mag- from a field or an observer perspective. The third
+
+nitude of the effect. If Cohen’s d = 0.2–0.49 the was the episodic score, derived as described in the
+
+e section above. In order to analyse the data, these
+ffect is small, if d = 0.5–0.79 the effect is medium,
+
+and if d > 0.79 the effect is judged as large (Cohen, evaluations were averaged across the three mem-
+
+1988). A mixed effects ANOVA with within subject ories recalled at each time period. In the case of
+
+factor of question (d’ for Q1, d’ for Q2) and the self-evaluations of mental imagery and the epi-
+
+between subjects factor of group revealed a main sodic scores a mean value was derived for each time
+period from the 3 memories recalled at each period.
+For the Field (represented as 1) versus Observer
+
+Table 1. 3D episodic task data (standard deviations in (represented as 0) judgements, the mode value
+brackets) for Experiment 1. from the three memories in each period was used
+Group Question Hit rate False alarm d’ value
+
+to allocate a score of 0 or 1 for that time period.
+Younger adults 1 .96 (.23) .07 (.19) 3.75 (.91)
+Older adults .91 (.08) .34 (.39) 2.20 (1.82) For example, if they rated two of the three mem-
+Younger adults 2 .88 (.10) .14 (.15) 2.71 (.94) ories as being from their own eyes (field) and one
+Older adults .75 (.15) .50 (.32) .68 (1.26) as being from an observer perspective it was
+
+
+
+JOURNAL OF COGNITIVE PSYCHOLOGY 149
+
+scored 1; if they rated two as being from the obser- However, as can be seen in Figure 2 number of
+ver perspective and one as an own eyes perspective “own eyes” responses did increase as memory
+it was scored as a 0. became more recent. Cochran’s Q test of this
+
+In addition to analysis performed for each time binary categorical data revealed there to be signifi-
+period, a composite score across all time periods cant effect of Time period on use of “Own Eyes” per-
+was also created for each participant. See Table 2 spectives in the autobiographical interview
+for the data and standard deviations. (Cochran’s Q test statistic = 11.70, n = 44, df = 2, p
+
+Self-rated mental imagery of memory: Analysis of = .003, Cohen’s d = 0.783).
+these scores was performed to examine age This was led by a significant difference between
+effects in the rating of the quality of the imagery own eyes perspective at Time 1 and the other two
+involved during the recalled memory. A mixed time periods (Time 1 compared to Time 2: Cochran’s
+effects ANOVA with within subject factor of time Q = 5.40, p = .02, Cohen’s d = 0.748; Time 1 com-
+period of the self-rating (Time 1; Time 2; Time 3) pared to Time 3: Cochran’s Q = 9.00, p = .003,
+and between subjects factor of group revealed a Cohen’s d = 1.014), whereas there was no difference
+main effect of Time (F(2, 84) = 20.48, p < .001, between Time 2 and Time 3 (Cochran’s Q = 1, p
+Cohen’s d = 0.990) but no main effect of age = .32).
+group (F(1, 42) = 1.708, p = 0.198, Cohen’s d = Episodic Score: Analysis of these scores was per-
+0.246) and no interaction with age group (F(2, 84) formed to examine for age effects in the “Episodic
+= 1.10, p = .34, Cohen’s d = 0.210). Examination of Score” allocated to participants’ memories. A
+this data in Table 2 suggests that both groups sub- mixed effects ANOVA with within subject factor of
+jectively report more vivid recall as the memory memory time period of the episodic score (Time 1;
+becomes more recent. Time 2; Time 3) and between subjects factor of
+
+Independent sample t-tests were performed for group revealed a main effect of Time period (F(2,
+each time period and for the composite score 84) = 7.89, p < .001, Cohen’s d = 0.531), a main
+across all periods to confirm that age group did effect of age group F(1, 42) = 7.054, p = 0.011,
+not affect these self-ratings. These revealed that Cohen’s d = 0.6057), but no interaction between
+there were no significant differences in the self- age group and time (F(2, 84) = .27, p = .77). Examin-
+rated quality of imagery experienced at any point ation of Table 2 reveals that although the pattern of
+(Time 1_childhood: t(42)= – 1.36, p = 0.180, episodic scores awarded to the groups across the
+Cohen’s d = 0.415; Time 2_last 5 years: t(42)= - time periods appeared consistent, the scores are
+1.67, p = 0.212, Cohen’s d = 0.386; Time 3_most lower in the older group. In contrast to their self-
+recent year: t(42) = .18, p = 0.857, Cohen’s d = ratings, the older adults’ memories were recalled
+0.055; Composite; t(42) = - 1.55, p = 0.128, Cohen’s
+d = 0.472).
+
+Field versus Observer perspective: See Figure 2 for
+this data. Chi-square analysis was performed to
+examine whether there were age group differences
+in the use of Field or Observer perspective across
+the time periods. This was not the case for any of
+the time periods used in the autobiographical inter-
+view (Time 1 = X2 (1, N = 44) = .03, p = .95; Time 2 =
+X2 (1, N = 44) = .72, p = .39; Time 3 = X2 (1, N = 44)
+= .08, p = .77).
+
+Figure 2. Individual participant responses in each time
+Table 2. Data from autobiographical interview in period and each age group in Experiment 1. Each circle rep-
+Experiment 1. resents one participant. Data were coded with the mode
+Group Time 1 Time 2 Time 3 value; ‘Own Eyes’ if in all or most of the 3 memories
+Younger adults Self-Rate 2.66 (.78) 3.16 (.54) 3.60 (.48) within a time period a participant provided an ‘Own-Eyes’
+
+Episodic Score 3.15 (.57) 3.14 (.51) 3.41 (.45) response, whereas they were coded as ‘Observer’ if in all
+Older adults Self-Rate 2.97 (.74) 3.40 (.68) 3.57 (.53) or most of the 3 memories within a time period the partici-
+
+Episodic Score 2.80 (.67) 2.73 (.62) 3.14 (.44) pant provided an ‘Observer’ response [To view this figure in
+Note: Standard deviations are shown in brackets. color, please see the online version of this journal].
+
+
+
+150 M. E. KAPSETAKI ET AL.
+
+with fewer episodic details across most of the time a relationship between two tasks and how they
+periods and across the composite score from the interact with age-group. For Question 1 discrimi-
+task. Only at Time 1 – childhood – were the scores nation score (d’) and Episodic score of the autobio-
+statistically equivalent (t(42) = 1.83, p = .07). At graphical interview the relationship did not reach
+Time 2 (most recent 5 years) and Time 3 (current significance (r = .29, n = 44, p = .06, BF10 = 1.119, a
+year) the younger adults’ autobiographical mem- value suggestive only of anecdotal evidence for
+ories contained significantly more episodic details the hypothesis of a correlation between these
+(t(42) = 2.34, p = .02, Cohen’s d = 0.713; t(42) = 2.00, two). For Question 2 discrimination score (d’) and
+p = .05, d = 0.609 respectively). Averaged scores the Episodic score68 in the autobiographical
+across the whole task also revealed significantly memory interview there was a significant relation-
+better performance in the younger adults (t(42) = ship (r= .38, n = 44, p = .01, BF10 = 3.920, this value
+2.65, p = .01, Cohen’s d = 0.807). is indicative of moderate evidence of a correlation
+
+between performance in this question and autobio-
+Relationship between tasks. A specific aim of this graphical episodic score). This suggests that our
+investigation was to examine the relationship second question in particular – Is this the scene
+between the two tasks themselves and whether from your head camera? – might be related to the
+this was affected by age-group. Given the results ability to recall episodic details in autobiographical
+above and for simplicity of comparison, we per- memory.
+formed this analysis using the composite “Episodic To probe this relationship further and due to our
+score” for the autobiographical interview (collapsed particular interest in how age impacts upon these
+across all time periods) and compared these with tasks, we performed analysis to formally examine
+the d’ values for Question 1 and Question 2 of the the moderation effect of age on the relationship
+episodic task, in which scenes were experienced in between our two tasks. To test this moderation,
+“real-life”, with Pearson’s correlation. Here we have age was entered as a predictor of discrimination
+also incorporated Bayes Factor into our analysis ratings (d’) for question 2 in the 3-D task, alongside
+strategy (eg, Lee & Wagenmakers, 2014). This mean-centred scores on the episodic score of the
+enables an assessment of the strength of the evi- autobiographical memory task and the interaction
+dence for disproving the null hypothesis, which is between these two terms. Results indicated a sig-
+of value here given the more complex analysis of nificant difference between young and older
+
+adults on their d’ ratings, B = -.88, SE = .18, t(40) =
+4.92, p < .01, β = -.581. There was no significant
+interaction between age-groups and the episodic
+score of the autobiographical task B = -.64, SE = .4,
+t(40) =−1.62, p = .113, β = -.193. Importantly, we
+found a significant moderating effect of age-group
+on the relationship between d’ and episodic score:
+B = .92, SE = .4, t(40) = 2.32, p = .026, β = .256, this
+indicates a medium effect size, BF10= 1.768, indica-
+tive of small evidence of the effect.
+
+To confirm a differential pattern of results
+between the age groups, analysis was first carried
+out on the different values of the correlation coeffi-
+cients between the two groups in the relationship
+between Question 2 of the 3-D task and episodic
+scores in the autobiographical interview, these sig-
+
+Figure 3. Scatterplot comparing Younger Adults’ and Older nificantly differed (z = 2.6037, p = 0.0092), Pearson’s
+Adults’ composite episodic score in the autobiographical correlations were then performed separately for
+interview (x axis) with discrimination ability for own the two age groups. This separation of data was
+versus a shifted perspective - d’ discrimination for Question revealing. The data of the younger adults showed
+2 in the 3-D task (y axis) in Experiment 1. The shaded areas
+around each regression line represent the 95% CIs [To view a relationship between these measures (r = .65, n
+this figure in color, please see the online version of this = 19, p = .002, BF10 = 20.685, a value indicative of
+journal]. strong evidence to accept this relationship)
+
+
+
+JOURNAL OF COGNITIVE PSYCHOLOGY 151
+
+whereas, when analysed separately, the data from Computer- displayed 2-D episodic memory
+the older adults showed no evidence of a relation- task
+ship between these tasks (r= - .08, n = 25, p = .72, Encoding. Images for this task consisted of 35 full-
+BF10 = 0.264). See Figure 3 for a visual depiction of colour photographs of objects on a 2 × 2 black-
+this data. For d’ values of Question 1 in the 3-D and-white grid. The grid was identical to that used
+task there was no significant correlation with in Experiment 1. Objects were taken from the
+overall episodic score in the young group (r= .45, same categories as in Experiment 1 but only one
+n = 19, p = .052, BF10 = 1.640) and again no corre- object was used in each scene (see Figure 1a). Pres-
+lation in the older group (r= .04, n = 25, p = .85, entation of the scenes was programmed using Psy-
+BF10 = 0.252). chopy software (Peirce, 2009). Each scene was
+
+Results from the first study demonstrate that our displayed for 6500 msecs, order of presentation of
+3D episodic laboratory task, which specifically the images was randomised across participants.
+probes ability to discriminate between one’s own The 35 trials were split into 3 blocks, participants
+eye’s perspective and that from another angle, cor- initiated the start of the next block themselves
+relates with a measure of episodic richness in auto- when ready. Instructions were given to all partici-
+biographical memory. But this relationship is only pants to remember the scenes presented to them,
+shown for younger adults. When data are separated emphasising the need to focus on what the
+by age-group, we see that performance in the two scenes looked like rather than just which objects
+tasks does not correlate in older adults. In fact, were presented.
+age group moderates the relationship between d’
+discrimination in the second question of the 3-D
+memory task and the composite score of episodic Recognition task. In the recognition task partici-
+richness in the autobiographical interview. To inves- pants were presented with 35 images on the com-
+tigate this relationship, we carried out a second puter screen. Nineteen of these scenes were
+study in which we replaced the 3-D task with a identical to those seen in the encoding session
+task in which 2D photographs of similar scenes (identical condition); 8 images were presented in
+were encoded. This was to confirm whether the which the viewing perspective of the scene had
+relationship we saw between the 3-D task and changed by 90 degrees (perspective shift con-
+autobiographical memory in the first study was a dition); 8 in which the position of the object had
+result of the “real life” experience of the encoding changed (item shift condition). Scenes were shown
+session. until participants made a response. In contrast to
+
+Experiment 1 only one object was shown in the
+photographs used in this study.
+
+Experiment 2 In order to counterbalance use of individual
+scenes across the testing conditions we pseudoran-
+
+Methods
+domised the condition for which an image was used
+
+Participants in the recognition trials. Three versions of the recog-
+Forty-six new participants took part in this study: 20 nition task were created in which the mappings of
+healthy young subjects (13 females) between 19 individual scenes were varied so that the same
+and 35 years old (M = 25.4, SD = 5.38) and 26 picture was presented in different recognition con-
+healthy older adults (12 females) aged between 65 ditions for different participants. For example, an
+and 82 years old (M = 74.42, SD = 5.56). Most of image like the rugby ball scene shown in Figure 1
+the young participants were recruited from was presented in the “identical” condition to some
+posters on campus. Older adults in this study were participants, in the “perspective shift” to others
+recruited from a local gym and from advertisements and in the “item shift” to the rest. Each version
+placed in the university and local hospital sites. The had the same number of identical images, perspec-
+project received ethical approval from the local uni- tive shift images and item shift images and the same
+versity ethics committee. All participants gave objects as they saw in the encoding task. Partici-
+written informed consent to take part in the study pants were allocated to one of the three versions
+and confirmed that they had no current diagnosis at the start of the task.
+of neurological or psychiatric illness. They were The presentation order of the scenes was ran-
+reimbursed for time and inconvenience. domised across participants. They were asked to
+
+
+
+152 M. E. KAPSETAKI ET AL.
+
+make a forced choice decision to the question “Did A mixed effects ANOVA with within subject factor
+you see this exact image earlier?” of condition (d’ for perspective shift, d’ for item shift)
+
+And they had unlimited time to respond with a and between subjects factor of group revealed no
+“yes” or “no” answer. main effect of condition (F(1, 44) = 1.690, p =
+
+0.200), no main effect of age group (F(1, 44) =
+Autobiographical memory interview 1.439, p = 0.237), and no interaction between con-
+This was administered and scored in the same way dition and age group (F(1, 44) = 0.494, p = 0.486).
+as described above in Experiment 1. Independent means comparisons of d’ values
+
+revealed there to be no group differences in either
+Experimental procedure comparison – neither for the perspective-shift con-
+The computer- displayed 2-D episodic memory task dition (t(44) = 1.34, p= .19), nor the item-shift con-
+and the autobiographical interview were run in the dition (t(44) = .68, p= .50). Paired means
+same experimental session. Each participant came comparisons to examine performance within each
+into the laboratory for a session lasting approxi- age group for the perspective shift versus item
+mately 90 min. The encoding session was carried shift condition revealed there to be also no signifi-
+out first (lasting around 8 min), followed by a cant difference in task performance between per-
+break, then the autobiographical interview (lasting spective and item shift lures in older adults (t(25)
+around 45 min) and finally the recognition test of =−1.46, p = .16) or in younger adults (t(19) = -.42,
+the previously encoded photographs (10 min). The p = .68).
+rest of the time consisted of going through the In contrast to Experiment 1, the measure in
+information sheet, taking informed consent, breaks Experiment 2 does not appear to be sensitive to
+and debrief. age-related changes in episodic memory.
+
+Results Autobiographical interview
+Computer- displayed 2-D episodic memory task. Self-rated mental imagery of memory: See Table 4. As
+In this task, participants were asked to judge “Did in the first study, analysis of these scores was used
+you see this exact image earlier?”. Trials which to examine for age effects in the rating of the
+were not original images could either be from a quality of the imagery during recall. A mixed
+changed perspective (perspective shift - attempting effects ANOVA with within subject factor of
+to re-create features of the 3-D task) or contain a memory time period of the self-rating (Time 1;
+changed position of the item with the same per- Time 2; Time 3) and between subjects factor of
+spective (item shift). To examine whether in this group revealed a main effect of Time (F(2, 88) =
+task we could see a similar effect of perspective in 21.35, p < .001, Cohen’s d = 1.009), no main effect
+episodic memory with 2-D images we created two of age group (F(1, 44) = 0.855, p = 0.360) and no
+d’ scores for each participant. In one calculation interaction with age group (F(2, 88) = .03, p = .98).
+the false alarms in the calculation were from the Independent sample t-tests were performed for
+perspective shift trials and in the other the false each time period and for the composite score
+alarms used in the calculation were from the item across all periods. These revealed that there were
+shift condition. This means that we could examine no significant differences between the groups in
+whether there were different discrimination abilities the self-rated quality of imagery experienced at
+revealed across the two changed images. See any point (Time 1_childhood: t(44)= -.59, p = 0.555;
+Table 3 for these hit rates, false alarms and d’ values. Time 2_last 5 years: t(44)= -.76, p = 0.452; Time
+
+3_most recent year: t(44) = -.55, p = 0.588;
+Table 3. Computer displayed 2D episodic task data
+(standard deviations in brackets) for Experiment 2.
+
+Table 4. Data from autobiographical interview in
+False
+
+Group Condition Hit rate alarm d’ value Experiment 2.
+Younger Perspective .78 (.13) .28 (.18) 1.50 (.77) Group Time 1 Time 2 Time 3
+adults shift Younger adults Self-Rate 2.83 (.70) 3.30 (.68) 3.65 (.77)
+
+Older adults .78 (.14) .39 (.22) 1.19 (.79) Episodic Score 2.78 (.54) 2.43 (.63) 2.51 (.62)
+Younger Item shift .78 (.13) .25 (.18) 1.57 (.66) Older adults Self-Rate 2.96 (.73) 3.44 (.63) 3.74 (.35)
+adults Episodic Score 2.44 (.68) 2.13 (.59) 2.57 (.47)
+
+Older adults .78 (.14) .31 (.18) 1.43 (.76) Note: Standard deviations are shown in brackets.
+
+
+
+JOURNAL OF COGNITIVE PSYCHOLOGY 153
+
+Composite: t(44) = -.92, p = 0.360). Overall, self-rated Time 2; Time 3) and between subjects factor of
+vividness increased across the time periods with the group revealed a main effect of Time period (F(2,
+lowest rating for Time 1 and the highest for Time 3. 88) = 7.75, p < .001, Cohen’s d = 0.473), no main
+
+Field versus Observer perspective: See Figure 4, effect of age group (F(1, 44) = 1.772, p = 0.190,
+depicting this data. Chi-square analysis was per- Cohen’s d = 0.3136), and no interaction between
+formed to examine whether there were differences these two factors (F(2, 88) = 2.93, p = .059, Cohen’s
+between the age-groups in the use of Field or d = 0.285).
+Observer perspective across the interview. This To follow procedure from Experiment 1 we
+was not the case for any of the time periods used further probed this data with independent sample
+in the autobiographical interview (Time 1 = X2 (1, t-tests. In contrast to Experiment 1, there were no
+N = 46) = .001, p = .98; Time 2 + X2 (1, N = 46) = .66, significant differences in episodic scores in the auto-
+p = .42; Time 3 = X2 (1, N = 46) = .001, p = .97). biographical memory interviews at any time point.
+
+However, as can be seen in Figure 4, number of Time 1 – childhood – t(44) = 1.79, p = .08, d = 0.532;
+own eyes responses did generally increase as Time 2-most recent 5 years- t(44) = 1.64, p = .11;
+memory became more recent. Cochran’s Q test Time 3 -current year t(44) = -.33, p = .74; composite
+analysis of this categorical data revealed there to score t(44) = 1.33, p = .19.
+be a significant effect of Time period on use of
+own eyes perspectives in the autobiographical Relationship between tasks
+interview: n = 46, df = 2, Cochran’s Q = 7.88, p As in Experiment 1, we were interested in examin-
+= .019, Cohen’s d = 0.226. ing whether performance in the 2-D task corre-
+
+This was led by a significant difference between lated with performance in the composite
+own eyes perspectives at Time 1 compared to episodic score in the autobiographical interview.
+Time 3: n = 46, df = 1, Cochran’s Q = 5.40, p = .02, In contrast to the first study there was no overall
+Cohen’s d = 0.729. interaction here between the autobiographical
+
+(Time 1 V Time 2 = n = 46, df = 1, Cochran’s Q = episodic score and the d’ discrimination scores
+3.27, p = .07; Time 2 V Time 3 = n = 46, df = 1, for either the perspective shift (r = -.032, n = 46,
+Cochran’s Q = 1.0, p = .32). p = .84) or the item shift condition (r= .056, n =
+
+Episodic Score: We examined how the “Episodic 46, p = .712).
+Score” allocated to participants’ memories varied For completeness, and as the relationship
+according to age group in this study. A mixed between tasks in Experiment 1 had been disparate
+effects ANOVA with within subject factor of between groups, we carried out this correlation
+memory time period of the episodic score (Time 1; analysis on the older and younger groups separ-
+
+ately. This analysis demonstrated that performance
+in the 2D task and the episodic score of the autobio-
+graphical interview did not correlate in either age
+group. For the young group: n = 20, perspective
+shift d’: r= .17, p = .48, item shift condition d’: r=
+.19, p = .39; in the older group: n = 26, perspective
+shift d’: r= -.28, p = .16, item shift condition d’: r=
+-.087, p = .67.
+
+General discussion
+
+In our first study we used a novel episodic memory
+Figure 4. Individual participant responses in each time task in which participants experience 3D scenes
+period and each age group in Experiment 2. Each circle rep- from different viewing angles. Recognition
+resents one participant. Data were coded with the mode memory of these scenes was later tested with
+value; ‘Own Eyes’ if in all or most of the 3 memories images purportedly from the head camera they
+within a time period a participant provided an ‘Own-Eyes’ were wearing during encoding. The same partici-
+response, whereas they were coded as ‘Observer’ if in all
+or most of the 3 memories within a time period the partici- pants completed an autobiographical memory
+pant provided an ‘Observer’ response [To view this figure in interview, in which they recalled three memories
+color, please see the online version of this journal]. from three different periods of their life. Older
+
+
+
+154 M. E. KAPSETAKI ET AL.
+
+adults were significantly less accurate than younger the role of these regions in autobiographical
+adults in discriminating their own scenes from those memory. For example, Bonnici et al. (2018) revealed
+taken from a different perspective. They also that disrupting this region with continuous theta
+recalled less episodically rich autobiographical burst stimulation (cTBS) reduced the number of
+memories from all time periods and in the compo- first-person recalled memories in an autobiographi-
+site score across all periods. Our principal interest cal interview. Here, we make explicit the link
+was in the relationship between these two tasks. between our task and autobiographical memory.
+Correlation analysis revealed a relationship Related to our argument are studies that demon-
+between the ability to discriminate the different strate different neural regions or networks being
+perspectives in episodic memory and in the episodic involved in laboratory episodic tasks compared to
+score obtained in the autobiographical interview. “real-world” autobiographical recall (e.g. Chen
+Further probing revealed this relationship was led et al., 2017; Monge et al., 2018). The tasks compared
+by the younger adults – their key scores in the in these studies are often either more similar to our
+two tasks had a strong correlational relationship – second study – e.g. asking participants to encode
+whereas this correlation was not present for the picture stimuli and comparing neural activation for
+older adults. Further moderation analysis that compared to autobiographical memory recall
+confirmed that the relationship between the two (e.g. Chen et al., 2017) or involve a less visual task
+tasks was moderated by age-group. This result such as word recall as the episodic condition (e.g.
+suggests that a shared mechanism between some Monge et al., 2018). We suggest that when the epi-
+episodic tasks and autobiographical memory sodic memory task involves encoding a 3D experi-
+might be in the recollection from one’s own eyes’ ence from different viewpoints, young healthy
+viewpoint at test. Further, that this relationship adults rely on the same recollective processes as
+changes across the lifespan. In a follow-up study when recalling an autobiographical memory. Also
+with two different groups of participants we used related here is the recent evidence linking the
+the same autobiographical interview but changed angular gyrus to vividness of recall in an episodic
+the episodic task to involve photographs of the memory task (Tibon et al., 2019). In this study,
+scenes. The correlation results were not replicated. during encoding, participants were explicitly asked
+This result is suggestive that this, more standard to generate an association between two pictures
+picture encoding, in an episodic memory task is (or a pair consisting of one picture and one sound)
+not necessarily using the same mechanisms and were later tested on recall of the non-presented
+required in autobiographical recall. associate in a memory test. This task is different
+
+What are the reasons underlying the correlation from that described here, but we would suggest
+in performance between the two tasks in our first that the generation of an associate between two
+study? We believe this is due to the demands of images or an image or a sound is likely to involve
+our particular episodic task. The scenes consist of creation of a visuo-spatial mental image. Further,
+everyday objects placed on a real-life grid in front for trials in this task for which recall was successful
+of the participants, who witness this placement – and vivid – the visuo-spatial mental image
+while wearing a head camera. The effect of this would be re-experienced from the perspective it
+type of encoding is to produce 3-D discrete was created at retrieval.
+events, which participants experience viewing It is interesting to note that in the studies
+from a real-world perspective. The presence of a described here participants encoded emotionally
+head-camera cues them to encode what the neutral scenes of everyday objects whereas in
+scenes look like to them – i.e. to process them as the autobiographical interview they are likely to
+a visuo-spatial image. They know they must later have recalled events with emotional and/or self-
+identify “their” scene. A useful strategy here is to referential content. Using neutral stimuli, which
+create a mental image from their perspective in are easier to experimentally control, is a useful
+the recognition task with which to match the pre- first step. However, further research would be
+sented image on the screen. In our original study useful to delineate the differential role of
+with this task we showed that the angular gyrus emotion across the tasks as emotional valence
+and nearby regions are critical for the ability to cor- is known to enhance level of episodic detail in
+rectly recognise own viewed scenes (Russell et al., autobiographical memory (e.g. see, Kensinger &
+2019). Evidence from other groups is delineating Ford, 2020).
+
+
+
+JOURNAL OF COGNITIVE PSYCHOLOGY 155
+
+It is also important to consider why the relation- dissociation and linked it to reduced activity in pre-
+ship might change with increasing age. Despite the cuneus of parietal cortex when retrieving memories
+reduction in performance (compared to the young in older adults when compared to young adults.
+group) in both tasks it would be possible for the Results for the direct questioning of whether any
+same mechanism to be used at recall, albeit less suc- mental image they had of the memory was from the
+cessfully. This does not appear to be the case. The first or observer perspective did not replicate the
+first potential reason might be that performance is age-group results of previous studies (e.g. Piolino
+more variable in this group, thereby making a corre- et al., 2006). We did see an increase- in both age-
+lation between tasks more difficult to find (e.g. Mac- groups -of first person recall in recent memories,
+Donald et al., 2012). Examination of Figure 3 does which harmonises with previous literature, but the
+suggest more variability in the older group and older adults were no less likely to use first-person
+this is likely to be part of the reason for this recall than the younger adults. Although it was
+finding. In our original study, we also saw poorer important to include this question, during testing
+performance in older adults in our perspective there were hints that this might be problematic. Par-
+task but when we separated out accurate from inac- ticipants often asked for so much clarification of this
+curate performance in our multi-voxel pattern question that the experimenters felt they were
+analysis (MVPA) of neuroimaging data we could prompting them with the answer and revealing
+see the relationship between angular gyrus and too much about the aims of the study. It might be
+accurate recognition of visual perspective at encod- the case that this probing was not uniform across
+ing. This suggests that older adults can complete the age-groups and so future studies should
+this type of recollection but perhaps are less likely record how many times and who requires clarifica-
+to do so. The current study did not explicitly tion about these important questions. Also, the
+collect data on strategies used by participants and use of a continuous scale for field-observer perspec-
+so further studies should include those type of ques- tive, as has been used in some studies (Berntsen &
+tions after the tasks have been completed. We Rubin, 2006; Sekiguchi & Nonaka, 2014; Siedlecki,
+would argue that the data do suggest older adults 2015; Verhaeghen et al., 2018), may provide a
+are not consistent in their ability to use these mech- more precise measure of one’s perspective.
+anisms that are effective in the younger groups, and Returning to the second study, the results
+that this leads to a weaker relationship between suggest that the picture encoding task, despite
+performance in these two measures. Relevant here involving a manipulation of encoded angle at recol-
+is recent work by Horne et al. (2020) who demon- lection, did not relate to episodic recall in autobio-
+strate that older adults with equivalent memory per- graphical memory. This harmonises with imaging
+formance in their episodic task achieve this results from picture encoding tasks when compared
+performance in a qualitatively different way to the to autobiographical memory (e.g. Chen et al., 2017).
+younger group. These differences are directly Further study will enable additional clarification.
+involved with a lack of recruitment of parietal Compared to the 3-D task, performance was very
+regions in recollection by the older adults. poor in both groups in discriminating the pictures
+
+An aspect of autobiographical memory that we they had encoded. This might suggest that the
+would expect to vary across the age-groups and task was too challenging to identify differences
+did not were the participants’subjective judgements between the age groups. Although participants
+of their autobiographical memories, as it appears were instructed to not only remember the object
+that the subjective experience of recall is integral in the image but also “…what the whole image
+to the role of angular gyrus (e.g. Bréchet et al., looks like to you”, it is possible that participants pre-
+2018; Yazar et al., 2014). Here, the subjective sumed they would be able to recognise the pictures
+ratings of how vividly they pictured the scene in by remembering the objects within them for this
+their mind in the autobiographical interview were task, whereas the objects were always the same
+not sensitive to age and did not mirror the episodic and the only differences were in the angle of the
+scores allocated to the memories by up to three photographs or the position of the objects. Future
+independent experimenters. However, this dis- studies should clearly clarify this with participants
+sociation between self-rated vividness and recall of so that they are not at or around floor performance.
+episodic detail in older adults is seen in the litera- Results from the autobiographical interview did also
+ture. Recently Folville et al. (2020) examined this not match with the first study. Episodic scores in the
+
+
+
+156 M. E. KAPSETAKI ET AL.
+
+autobiographical interview were overall much Acknowledgments
+lower. This might result from different interviewers
+
+We would like to thank everyone who participated in our
+involved in each study using the probes differently. experiments. M.E.K. acknowledges support from the
+The use of a more structured autobiographical inter- A. S. Onassis Public Benefit Foundation, A.G. Leventis
+view would be a good extension of this work – for Foundation, Sir Richard Stapley Educational Trust, and
+example the Autobiographical Interview, developed Hilda Martindale Educational Trust.
+
+by Levine et al. (2002) – in order to reduce between
+interviewer variability. Nevertheless, the contrast
+
+Disclosure statement
+between the correlations between the studies is
+revealing and sheds light on which aspects of an No potential conflict of interest was reported by the
+episodic memory task might be shared with episo- author(s).
+
+dic autobiographical recall.
+In the work outlined in this paper, we were inter-
+
+ORCID
+ested in whether the episodic elements of autobio-
+graphical memory relate to behavioural measures Paresh A. Malhotra http://orcid.org/0000-0002-1897-
+of self-perspective in a laboratory-based task of epi- 0780
+
+sodic memory. We have shown that this is the case
+when the episodic memory task involves experien-
+
+References
+cing 3-D stimuli but not when encoding photo-
+graphs of similar scenes, and that this relationship Addis, D. R., Roberts, R. P., & Schacter, D. L. (2011). Age-
+changes with age. It appears to be the case that related neural changes in autobiographical remember-
+
+ing and imagining. Neuropsychologia, 49(13), 3656–
+the ability of younger adults to remember the per- 3669. https://doi.org/10.1016/j.neuropsychologia.
+spective from which they viewed a 3-D scene in the 2011.09.021
+laboratory relates to the episodic richness of their Bergouignan, L., Nyberg, L., & Ehrsson, H. H. (2014). Out-of-
+autobiographical memory. Whereas remembering body-induced hippocampal amnesia. Proceedings of
+a photographed perspective in a 2-D image does the National Academy of Sciences of the United States
+
+not have this relationship with autobiographical of America, 111(12), 4421–4426. https://doi.org/10.
+1073/pnas.1318801111 doi:10.1073/pnas.1318801111
+
+memory. This suggests that one potential differ- Berntsen, D., & Rubin, D. C. (2006). Emotion and vantage
+ence between some laboratory measures of episo- point in autobiographical. Cognition and Emotion, 20
+dic memory and those of autobiographical (8), 1193–1215. https://doi.org/10.1080/02699930500
+memory is in the personal spatial context that 3-D 371190
+scenes allow (e.g. see Diamond et al., 2020; McDer- Berryhill, M. E. (2012). Insights from neuropsychology:
+
+Pinpointing the role of the posterior parietal cortex in
+mott et al., 2009). Further, here there is evidence
+
+episodic and working memory. Frontiers in Integrative
+that older adults might not support episodic rich- Neuroscience, 6, 31. https://doi.org/10.3389/fnint.2012.
+ness in their autobiographical memory with the 00031
+ability to remember personal spatial perspective Berryhill, M. E., Drowos, D. B., & Olson, I. R. (2009). Bilateral
+in 3-D scenes. This is interesting as previous work parietal cortex damage does not impair associative
+
+has identified both age-differences in the ability memory for paired stimuli. Cognitive Neuropsychology,
+26(7), 606–619. https://doi.org/10.1080/02643290903
+
+to perform this 3-D task, and identified parts of par- 534150
+ietal cortex utilised in completing the judgments of Berryhill, M. E., Phuong, L., Picasso, L., Cabeza, R., & Olson,
+whether a scene is taken from one’s own visual per- I. R. (2007). Parietal lobe and episodic memory: Bilateral
+spective (Russell et al., 2019). Interestingly, other damage causes impaired free recall of autobiographical
+research has identified the subjective sense of memory. Journal of Neuroscience, 27(52), 14415–14423.
+
+https://doi.org/10.1523/JNEUROSCI.4163-07.2007
+recall and whether recall is from a field / own-
+
+Bonnici, H. M., Cheke, L. G., Green, D. A. E., FitzGerald,
+eyes perspective as being associated with these T. H. B., & Simons, J. S. (2018). Specifying a causal role
+same parts of parietal cortex (e.g. Yazar et al., for angular gyrus in autobiographical memory. The
+2014), whereas here similar self-rated judgments Journal of Neuroscience, 38(49), 10438–10443. https://
+did not vary between our age-groups. Further doi.org/10.1523/JNEUROSCI.1239-18.2018
+
+research is needed to delineate the relationship Bréchet, L., Grivaz, P., Gauthier, B., & Blanke, O. (2018).
+Common recruitment of angular gyrus in episodic
+
+between subjective and objective judgements of autobiographical memory and bodily self-conscious-
+autobiographical and episodic memory in healthy ness. Frontiers in Behavioral Neuroscience, 12, 270.
+ageing. https://doi.org/10.3389/fnbeh.2018.00270
+
+
+
+JOURNAL OF COGNITIVE PSYCHOLOGY 157
+
+Burgess, N. (2008). Spatial cognition and the brain. Annals Hower, K. H., Wixted, J., Berryhill, M. E., & Olson, I. R. (2014).
+of the New York Academy of Sciences, 1124(1), 77–97. Impaired perception of mnemonic oldness, but not
+https://doi.org/10.1196/annals.1440.002 mnemonic newness, after parietal lobe damage.
+
+Burgess, N., Becker, S., King, J. A., & O’Keefe, J. (2001). Neuropsychologia, 56, 409–417. https://doi.org/10.
+Memory for events and their spatial context: Models 1016/j.neuropsychologia.2014.02.014
+and experiments. Philosophical Transactions of the Iachini, T., Coello, Y., Frassinetti, F., & Ruggiero, G. (2014).
+Royal Society of London. Series B: Biological Sciences, Body space in social interactions: A comparison of
+356(1413), 1493–1503. https://doi.org/10.1098/rstb. reaching and comfort distance in immersive virtual
+2001.0948 reality. PloS one, 9(11), e111511. https://doi.org/10.
+
+Chen, H. Y., Gilmore, A. W., Nelson, S. M., & McDermott, K. 1371/journal.pone.0111511
+B. (2017). Are there multiple kinds of episodic memory? Irish, M., & Piguet, O. (2013). The pivotal role of semantic
+An fMRI investigation comparing autobiographical and memory in remembering the past and imagining the
+recognition memory tasks. The Journal of Neuroscience, future. Frontiers in Behavioral Neuroscience, 7(27).
+37(10), 2764–2775. https://doi.org/10.1523/JNEUROSCI. https://doi.org/10.3389/fnbeh.2013.00027
+1534-16.2017 Iriye, H., & St. Jacques, P. L. (2021). Memories for third-
+
+Cohen, J. (1988). Statistical power analysis for the person experiences in immersive virtual reality.
+Behavioral sciences (2nd ed.). Lawrence Erlbaum Scientific Reports, 11(1), 4667. https://doi.org/10.1038/
+Associates, Publishers. s41598-021-84047-6
+
+Conway, M. A. (2009). Episodic memories. Kensinger, E. A., & Ford, J. H. (2020). Retrieval of emotional
+Neuropsychologia, 47(11), 2305–2313. https://doi.org/ events from memory. Annual Review of Psychology, 71
+10.1016/j.neuropsychologia.2009.02.003 (1), 251–272. https://doi.org/10.1146/annurev-psych-
+
+Davidson, P. S. R., Anaki, D., Ciaramelli, E., Cohn, M., Kim, 010419-051123
+A. S. N., Murphy, K. J., Troyer, A. K., Moscovitch, M., & Kessels, R. P. C., Hobbel, D., & Postma, A. (2007). Aging,
+Levine, B. (2008). Does lateral parietal cortex support context memory and binding: A comparison of “what,
+episodic memory?: Evidence from focal lesion patients. where and when” in young and older adults.
+Neuropsychologia, 46(7), 1743–1755. https://doi.org/10. International Journal of Neuroscience, 117(6), 795–810.
+1016/j.neuropsychologia.2008.01.011 https://doi.org/10.1080/00207450600910218
+
+Diamond, N. B., Abdi, H., & Levine, B. (2020). Different pat- Koen, J. D., & Yonelinas, A. P. (2016). Recollection, not fam-
+terns of recollection for matched real-world and labora- iliarity, decreases in healthy ageing: Converging evi-
+tory-based episodes in younger and older adults. dence from four estimation methods. Memory (Hove,
+Cognition, 202, 104309. https://doi.org/10.1016/j. England), 24(1), 75–88. https://doi.org/10.1080/
+cognition.2020.104309 doi:10.1016/j.cognition.2020. 09658211.2014.985590
+104309 Kopelman, M. D., Wilson, B. A., & Baddeley, A. D. (1989).
+
+Diamond, N. B., & Levine, B. (2020). Linking detail to tem- The autobiographical memory interview: A new assess-
+poral structure in naturalistic-event recall. Psychological ment of autobiographical and personal semantic
+Science, 31(12), 1557–1572. https://doi.org/10.1177/ memory in amnesic patients. Journal of Clinical and
+0956797620958651 doi:10.1177/0956797620958651 Experimental Neuropsychology, 11(5), 724–744. https://
+
+Drowos, D. B., Berryhill, M., André, J. M., & Olson, I. R. doi.org/10.1080/01688638908400928
+(2010). True memory, false memory, and subjective Lambrey, S., Doeller, C., Berthoz, A., & Burgess, N. (2012).
+recollection deficits after focal parietal lobe lesions. Imagining being somewhere else: Neural basis of chan-
+Neuropsychology, 24(4), 465–475. https://doi.org/10. ging perspective in space. Cerebral Cortex, 22(1), 166–
+1037/a0018902 174. https://doi.org/10.1093/cercor/bhr101
+
+Ekstrom, A. D., & Isham, E. A. (2017). Human spatial naviga- Lee, M. D., & Wagenmakers, E. (2014). Bayesian Cognitive
+tion: Representations across dimensions and scales. modeling: A practical course. Cambridge University
+Current Opinion in Behavioral Sciences, 17, 84–89. Press.
+https://doi.org/10.1016/j.cobeha.2017.06.005 Levine, B., Svoboda, E., Hay, J. F., Winocur, G., &
+
+Folville, A., Bahri, M. A., Delhaye, E., Salmon, E., Moscovitch, M. (2002). Aging and autobiographical
+D’Argembeau, A., & Bastin, C. (2020). Age-related differ- memory: Dissociating episodic from semantic retrieval.
+ences in the neural correlates of vivid remembering. Psychology and Aging, 17(4), 677–689. https://doi.org/
+NeuroImage, 206, 116336. https://doi.org/10.1016/j. 10.1037/0882-7974.17.4.677
+neuroimage.2019.116336 MacDonald, S. W., Karlsson, S., Rieckmann, A., Nyberg, L., &
+
+Gomez, M. A., Skiba, R. M., & Snow, J. C. (2018). Graspable Bäckman, L. (2012). Aging-related increases in
+objects grab attention more than images do. behavioral variability: Relations to losses of dopamine
+Psychological Science, 29(2), 206–218. https://doi.org/ D1 receptors. Journal of Neuroscience, 32(24), 8186–
+10.1177/0956797617730599 doi:10.1177/ 8191. https://doi.org/10.1523/JNEUROSCI.5474-11.
+0956797617730599 2012
+
+Horne, E. D., Koen, J. D., Hauck, N., & Rugg, M. D. (2020). Marcotti, P., & Jacques, P. L. S. (2018). Shifting visual per-
+Age differences in the neural correlates of the specifi- spective during memory retrieval reduces the accuracy
+city of recollection: An event-related potential study. of subsequent memories. Memory (Hove, England), 26
+Neuropsychologia, 140, 107394. https://doi.org/10. (3), 330–341. https://doi.org/10.1080/09658211.2017.
+1016/j.neuropsychologia.2020.107394 1329441
+
+
+
+158 M. E. KAPSETAKI ET AL.
+
+Marini, F., Breeding, K. A., & Snow, J. C. (2019). Distinct findings. Neuropsychologia, 47(11), 2314–2329. https://
+visuo-motor brain dynamics for real-world objects doi.org/10.1016/j.neuropsychologia.2009.01.020
+versus planar images. NeuroImage, 195, 232–242. Renoult, L., Davidson, P. S. R., Palombo, D. J., Moscovitch,
+https://doi.org/10.1016/j.neuroimage.2019.02.026 M., & Levine, B. (2012). Personal semantics: At the cross-
+doi:10.1016/j.neuroimage.2019.02.026 roads of semantic and episodic memory. Trends in
+
+Mazurek, A., Bhoopathy, R. M., Read, J. C. A., Gallagher, P., Cognitive Sciences, 16(11), 550–558. https://doi.org/10.
+& Smulders, T. V. (2015). Effects of age on a real-world 1016/j.tics.2012.09.003
+what-where-when memory task. Frontiers in Aging Rugg, M. D., & King, D. R. (2018). Ventral lateral parietal
+Neuroscience, 7, 74. https://doi.org/10.3389/fnagi.2015. cortex and episodic memory retrieval. Cortex, 107,
+00074 238–250. https://doi.org/10.1016/j.cortex.2017.07.012
+
+McDermott, K. B., Szpunar, K. K., & Christ, S. E. (2009). Russell, C., Davies, S., Li, K., Musil, A. S., Malhotra, P. A., &
+Laboratory-based and autobiographical retrieval tasks Williams, A. L. (2019). Self-perspective in episodic
+differ substantially in their neural substrates. memory after parietal damage and in healthy ageing.
+Neuropsychologia, 47(11), 2290–2298. https://doi.org/ Neuropsychologia, 124, 171–181. https://doi.org/10.
+10.1016/j.neuropsychologia.2008.12.025 1016/j.neuropsychologia.2018.12.013
+
+Monge, Z. A., Wing, E. A., Stokes, J., & Cabeza, R. (2018). Schacter, D. L., Gaesser, B., & Addis, D. R. (2013).
+Search and recovery of autobiographical and labora- Remembering the past and imagining the future in
+tory memories: Shared and distinct neural components. the elderly. Gerontology, 59(2), 143–151. https://doi.
+Neuropsychologia, 110, 44–54. https://doi.org/10.1016/j. org/10.1159/000342198
+neuropsychologia.2017.07.030 Sekiguchi, T., & Nonaka, S. (2014). The long-termeffect of per-
+
+Morton, J. (2018). Autonoesis and dissociative identity dis- spective changeon the emotional intensity of autobiogra-
+order. Behavioral and Brain Sciences, 41, e23. https://doi. phical memories. Cognition and Emotion, 28(2), 375–383.
+org/10.1017/S0140525X17001558 doi:10.1017/S0140 https://doi.org/10.1080/02699931.2013.825233
+525X17001558 Sestieri, C., Shulman, G. L., & Corbetta, M. (2017). The con-
+
+Noulhiane, M., Piolino, P., Hasboun, D., Clemenceau, S., tribution of the human posterior parietal cortex to epi-
+Baulac, M., & Samson, S. (2008). Autonoetic conscious- sodic memory. Nature Reviews Neuroscience, 18(3), 183–
+ness in autobiographical memories after medial tem- 192. https://doi.org/10.1038/nrn.2017.6
+poral lobe resection. Behavioural Neurology, 19(1–2), Siedlecki, K. L. (2015). Visual perspective in autobiographi-
+19–22. https://doi.org/10.1155/2008/424693 doi:10. cal memories: Reliability, consistency, and relationship
+1155/2008/424693 to objective memory performance. Memory (Hove,
+
+Peirce, J. W. (2009). Generating stimuli for neuroscience England), 23(2), 306–316. https://doi.org/10.1080/
+using PsychoPy. Frontiers in Neuroinformatics, 2, 10. 09658211.2014.885054
+https://doi.org/10.3389/neuro.11.010.2008 Simons, J. S., Peers, P. V., Mazuz, Y. S., Berryhill, M. E., &
+
+Pidgeon, L. M., & Morcom, A. M. (2014). Age-related Olson, I. R. (2010). Dissociation between memory accu-
+increases in false recognition: The role of perceptual racy and memory confidence following bilateral parie-
+and conceptual similarity. Frontiers in Aging tal lesions. Cerebral Cortex, 20(2), 479–485. https://doi.
+Neuroscience, 6, 1–17. https://doi.org/10.3389/fnagi. org/10.1093/cercor/bhp116
+2014.00283 Snow, J. C., Skiba, R. M., Coleman, T. L., & Berryhill, M. E.
+
+Piolino, P., Chételat, G., Matuszewski, V., Landeau, B., (2014). Real-world objects are more memorable than
+Mézenge, F., Viader, F., de la Sayette, V., Eustache, F., photographs of objects. Frontiers in Human
+& Desgranges, B. (2007). In search of autobiographical Neuroscience, 8, 837. https://doi.org/10.3389/fnhum.
+memories: A PET study in the frontal variant of fronto- 2014.00837
+temporal dementia. Neuropsychologia, 45(12), 2730– St Jacques, P. L. (2019). A New perspective on visual per-
+2743. https://doi.org/10.1016/j.neuropsychologia. spective in memory. Current Directions in
+2007.04.013 doi:10.1016/j.neuropsychologia.2007.04. Psychological Science, 28(5), 450–455. https://doi.org/
+013 10.1177/0963721419850158
+
+Piolino, P., Desgranges, B., Belliard, S., Matuszewski, V., St Jacques, P. L., Carpenter, A. C., Szpunar, K. K., & Schacter,
+Lalevée, C., De La Sayette, V., & Eustache, F. (2003). D. L. (2018). Remembering and imagining alternative
+Autobiographical memory and autonoetic conscious- versions of the personal past. Neuropsychologia, 110,
+ness: Triple dissociation in neurodegenerative diseases. 170–179. https://doi.org/10.1016/j.neuropsychologia.
+Brain, 126(10), 2203–2219. https://doi.org/10.1093/ 2017.06.015
+brain/awg222 St Jacques, P. L., & Levine, B. (2007). Ageing and autobio-
+
+Piolino, P., Desgranges, B., Clarys, D., Guillery-Girard, B., graphical memory for emotional and neutral events.
+Taconnat, L., Isingrini, M., & Eustache, F. (2006). Memory (Hove, England), 15(2), 129–144. https://doi.
+Autobiographical memory, autonoetic consciousness, org/10.1080/09658210601119762
+and self-perspective in aging. Psychology and Aging, St Jacques, P. L., Szpunar, K. K., & Schacter, D. L. (2017).
+21(3), 510–525. https://doi.org/10.1037/0882-7974.21. Shifting visual perspective during retrieval shapes auto-
+3.510 biographical memories. NeuroImage, 148, 103–114.
+
+Piolino, P., Desgranges, B., & Eustache, F. (2009). Episodic https://doi.org/10.1016/j.neuroimage.2016.12.028
+autobiographical memories over the course of time: Tibon, R., Fuhrmann, D., Levy, D. A., Simons, J. S., & Henson, R.
+Cognitive, neuropsychological and neuroimaging N. (2019). Multimodal integration and vividness in the
+
+
+
+JOURNAL OF COGNITIVE PSYCHOLOGY 159
+
+angular gyrus during episodic encoding and retrieval. The First-person and third-person memories and future
+Journal of Neuroscience, 39(22), 4365–4374. https://doi. projections, and how they relate to the self. Journal of
+org/10.1523/JNEUROSCI.2102-18.2018 Cognitive Psychology, 30(4), 438–452. https://doi.org/
+
+Trelle, A. N., Henson, R. N., & Simons, J. S. (2019). Neural 10.1080/20445911.2018.1454451
+evidence for age-related differences in representational Yazar, Y., Bergström, Z. M., & Simons, J. S. (2014).
+quality and strategic retrieval processes. Neurobiology Continuous theta burst stimulation of
+of Aging, 84, 50–60. https://doi.org/10.1016/j.neuro angular gyrus reduces subjective recollection. PLoS
+biolaging.2019.07.012 One, 9(10), e110414. https://doi.org/10.1371/journal.
+
+Tulving, E. (2002). Episodic memory: From mind to pone.0110414
+brain. Annual Review of Psychology, 53(1), 1–25. Yeung, L. K., Ryan, J. D., Cowell, R. A., & Barense, M. D.
+https://doi.org/10.1146/annurev.psych.53.100901. (2013). Recognition memory impairments caused by
+135114 false recognition of novel objects. Journal of
+
+Verhaeghen, P., Aikman, S. N., Doyle-Portillo, S., Bell, C. R., Experimental Psychology: General, 142(4), 1384–1397.
+& Simmons, N. (2018). When I saw me standing there: https://doi.org/10.1037/a0034021

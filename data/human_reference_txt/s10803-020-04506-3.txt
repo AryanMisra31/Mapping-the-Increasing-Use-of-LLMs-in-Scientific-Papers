@@ -1,0 +1,921 @@
+﻿Journal of Autism and Developmental Disorders (2021) 51:1–14 
+https://doi.org/10.1007/s10803-020-04506-3
+
+ORIGINAL PAPER
+
+Development of the Observation Schedule for Children 
+with Autism–Anxiety, Behaviour and Parenting (OSCA–ABP): A New 
+Measure of Child and Parenting Behavior for Use with Young Autistic 
+Children
+
+Melanie Palmer1   · Juan Paris Perez1   · Joanne Tarver1,2   · Thomas Cawthorne1   · Margot Frayne1   · 
+Sophie Webb3   · Elena Baker1   · Isabel Yorke1   · Dale Hay4   · Vicky Slonims5   · Andrew Pickles6   · 
+Emily Simonoff1,7   · Stephen Scott1   · Tony Charman3,7 
+
+Published online: 30 April 2020 
+© The Author(s) 2020
+
+Abstract
+Co-occurring emotional and behavioral problems (EBPs) frequently exist in young autistic children. There is evidence based 
+on parental report that parenting interventions reduce child EBPs. More objective measures of child EBPs should supple-
+ment parent reported outcomes in trials. We describe the development of a new measure of child and parenting behavior, 
+the Observation Schedule for Children with Autism–Anxiety, Behaviour and Parenting (OSCA–ABP). Participants were 83 
+parents/carers and their 4–8-year-old autistic children. The measure demonstrated good variance and potential sensitivity to 
+change. Child and parenting behavior were reliably coded among verbal and minimally verbal children. Associations between 
+reports from other informants and observed behavior showed the measure had sufficient convergent validity. The measure 
+has promise to contribute to research and clinical practice in autism mental health beyond objective measurement in trials.
+
+Keywords  Autism · Child emotional and behavioral problems · Parenting · Measurement · Observation
+
+Autism1 is characterized by impaired social and commu- 1% of the population (Baio et al. 2018; Baird et al. 2006). 
+nication skills, the presence of restrictive and repetitive Emotional and behavioral problems (EBPs) are also com-
+interests and behaviors and sensory anomalies (American mon in autistic individuals (Lai et al. 2019); with up to as 
+Psychiatric Association 2013), occurring in approximately many as 90% of children and adolescents meeting diagnostic 
+
+criteria for an anxiety disorder, attention deficit hyperactivity 
+1  We use ‘autism’ to refer to Autism Spectrum Disorder (ASD; disorder (ADHD), oppositional defiant disorder (ODD) or 
+DSM-5) and ‘autistic children’ as this is the preferred term of some of 
+the autism community (Kenny et al. 2016). conduct disorder (Salazar et al. 2015; Simonoff et al. 2008; 
+
+White et al. 2009). For autistic individuals, EBPs tend to 
+Melanie Palmer and Juan Paris Perez are joint first authors. persist over time (Simonoff et al. 2013) and impact on their 
+
+quality of life (Mason et al. 2018). Parents often report that 
+Electronic supplementary material  The online version of this 
+article (https​://doi.org/10.1007/s1080​3-020-04506​-3) contains they would like support with these co-occurring difficulties, 
+supplementary material, which is available to authorized users. 4	 School of Psychology, Cardiff University, Cardiff, UK
+
+5
+* 	 Melanie Palmer 	 Newcomen Neurodevelopmental Centre, Evelina Children’s 
+	 melanie.palmer@kcl.ac.uk Hospital, Guy’s and St Thomas NHS Foundation Trust, 
+
+London, UK
+1	 Department of Child and Adolescent Psychiatry, King’s 6
+
+College London, Institute of Psychiatry, Psychology & 	 Department of Biostatistics and Health Informatics, King’s 
+Neuroscience, London, UK College London, Institute of Psychiatry, Psychology & 
+
+Neuroscience, London, UK
+2	 Department of Psychology, School of Life and Health 7
+
+Sciences, Aston University, Birmingham, UK 	 Service for Complex Autism & Associated 
+Neurodevelopmental Disorders, South London and Maudsley 
+
+3	 Department of Psychology, King’s College London, Institute NHS Foundation Trust, London, UK
+of Psychiatry, Psychology & Neuroscience, London, UK
+
+Vol.:(012 3456789)
+
+
+
+2	 Journal of Autism and Developmental Disorders (2021) 51:1–14
+
+which are associated with lower parental wellbeing and more effect sizes, usually inflating benefits. The importance of 
+parental stress (Yorke et al. 2018). One challenge in research supplementing parent-reported outcomes with blinded meas-
+and clinical settings is obtaining accurate information about ures has been highlighted in the ADHD literature, where a 
+the severity of child EBPs, triggers and parental manage- meta-analysis of psychosocial interventions found that effect 
+ment strategies. Often parent and teacher reports are relied sizes for behavioral interventions were near-zero when con-
+on, which have certain biases, and more objective measures sidering outcomes from informants ‘probably-blind’ to inter-
+are needed. vention status; in contrast, when reports by those closest to 
+
+One of the most established psychosocial approaches for the therapeutic setting were used (i.e. parent or teacher) a 
+improving EBPs in non-autistic populations are behavioral small-to-medium effect (SMD = 0.40) was found (Sonuga-
+parenting interventions (National Institute for Health and Barke et al. 2013). Other sources of bias in parental reports 
+Clinical Excellence 2013). A large literature has demon- include broader rater effects, such as mood or stress, or mis-
+strated that increases in child-centered parenting (e.g. praise, interpretation of questionnaire items (Handen et al. 2013). 
+positive comments, child-led play) are associated with fewer These biases are likely to present across different interven-
+child EBPs, whereas controlling and critical parenting tion arms and possibly be influenced by intervention, reduc-
+behaviors are associated with worsening child EBPs (e.g. ing measurement precision.
+Patterson 1982). Behavioral parenting interventions aim to Direct observational measures have some advantages over 
+improve child behavior through modification of these parent- parent-reported outcomes. Items can be defined by research-
+ing behaviors and improvement of the parent–child relation- ers and measured to an agreed level of reliability, reducing 
+ship (Barlow et al. 2016). Although behavioral parenting and quantifying potential inter-reporter variability (Aspland 
+interventions derive from operant conditioning and social and Gardner 2003). In trials of parenting interventions, child 
+learning theories, rather than attachment-based approaches, and parenting behaviors of interest can therefore be consist-
+such interventions also promote parents’ sensitive respond- ently coded by assessors who are blind to intervention status 
+ing to their children (O’Connor et al. 2013). of the participant. Several observations of parent–child inter-
+
+Such interventions have been adapted for parents of autis- action based on social learning and behavioral theories have 
+tic children. Adaptations have included accounting for dif- been developed for use in non-autistic samples. They include 
+fering mechanisms, such as anxiety and sensory processing, the Dyadic Parent–Child Interaction Coding System (Rob-
+that might underlie EBPs in autism (Bearss et al. 2015b; inson and Eyberg 1981), the Family Observation Schedule 
+Green et al. 2012; Ozsivadjian et al. 2012; Tseng et al. (Sanders et al. 1996), the Disruptive Behavior Diagnostic 
+2011), as well as different responses to strategies, such as Observation Schedule (Wakschlag, Hill et al. 2008a, b), the 
+time-out, that are typically included in behavioral parenting Anxiety Dimensional Observation Schedule (Mian et al. 
+interventions (Dababnah and Parish 2016). In comparison 2015) and the Preschool Observational Scale of Anxiety 
+to non-autistic samples, fewer investigations have examined (Glennon and Weisz 1978). These measures have demon-
+the relationship between parenting behaviors and EBPs in strated good inter-rater and test–retest reliability. Literature 
+autism, although there is evidence that parental criticism examining convergent validity of observational measures has 
+is also linked with behavioral problems in this population reported small but significant associations between parent-
+(Romero-Gonzalez et al. 2018). Other research has identi- reported and observed behavior in children and parents (e.g. 
+fied common parenting behaviors that may be specific to Hawes and Dadds 2006; Wakschlag, Briggs-Gowan et al. 
+parenting a child with autism, such as accommodating for 2008a, b).
+the child, modifying the environment, stimulating develop- Direct observational measures of EBPs have scarcely 
+ment, providing structure and familiarity and being vigilant been used in parenting intervention trials in autism to 
+(Joosten and Safe 2014; Lambrechts et al. 2011; O’Nions date (Tarver et al. 2019). Where observational measures 
+et al. 2018). have been used, floor effects have been reported. Using 
+
+Randomized controlled trials (RCTs) examining the effi- the Structured Observational Analog Procedure—a par-
+cacy of parenting interventions in autistic populations have ent–child interaction measure consisting of a series of four 
+demonstrated promising findings (Postorino et al. 2017; 10-min conditions (free play, social attention, demand, 
+Tarver et al. 2019). When using parental reports of EBPs tangible restriction)—autistic children who were screened 
+as outcomes, behavioral parenting interventions have been in on elevated levels of EBPs displayed unexpectedly high 
+found to reduce disruptive behavior and hyperactivity. While levels of compliance during the clinic-based assessment 
+the parent’s view of child EBPs is a clinically relevant and at baseline, limiting scope for change on this measure 
+important outcome to be considered following intervention, (Bearss et al. 2015a; Handen et al. 2013). High rates of 
+parent-reported outcomes carry several limitations. One compliance at baseline have also been reported on the 
+source of bias in trials is knowledge of intervention allo- DPICS, which consists of child- and parent-led play con-
+cation (Aspland and Gardner 2003), which can impact on ditions and a clean up (Scudder et al. 2019). Similarly, 
+
+1 3
+
+
+
+Journal of Autism and Developmental Disorders (2021) 51:1–14	 3
+
+Tellegan and Sanders (2014) noted that few observed an antipsychotic. Further information about the children and 
+aversive parenting behaviors were seen during 30-min their parents is displayed in Table 1.
+observations of parent–child interactions conducted in 
+the home. One reason for these floor effects may be due Procedure
+to situational factors that influence behavioral presenta-
+tions, which may in turn reduce effect sizes. This could be The measure was developed in the context of a trial test-
+especially true for autism where idiosyncratic triggers for ing a group-based parenting intervention targeting EBPs 
+EBPs are commonplace (Bearss et al. 2015b; Ozsivadjian as part of the Improving Autism Mental Health (IAM-
+et al. 2012). It is also possible that existing observational Health) research programme (https​://iamhe​althk​cl.net). 
+measures of parent–child interaction are tapping everyday The Autism Spectrum Treatment and Resilience (ASTAR) 
+situations that non-autistic children may find difficult (e.g. study consisted of two phases: a non-randomized feasi-
+removal of social attention), but may elicit different reac- bility study followed by a pilot RCT. Twenty-one par-
+tions from autistic children. Furthermore, Williams et al. ent–child dyads participated in the feasibility study and 
+(2020) found that some parents found the child-led play 62 participated in the pilot RCT. Only data collected dur-
+component of the DPICS challenging due to difficulties in ing the baseline assessments from both phases was used 
+getting their autistic child to engage. Measures may there- in the current study. Information on the outcome of the 
+fore require modification in order to be reliable and valid trial, including the measure’s sensitivity to change, will 
+assessments of child and parenting behavior in autism. be reported in a separate manuscript.
+
+The current study aimed to develop a measure to Children with an existing clinical diagnosis of an autism 
+observe child and parenting behaviors suitable for use spectrum disorder were referred into the trial via local 
+with young autistic children. The Observation Schedule autism diagnostic teams, education professionals and sup-
+for Children with Autism–Anxiety, Behaviour and Parent- port groups at participating services. Potential participants 
+ing (OSCA–ABP) was developed in the context of a trial could also self-refer. In order to be eligible to take part, 
+of novel group parenting interventions (Palmer et al. 2019) the children were required to have a clinical diagnosis of 
+and designed to include everyday situations that autistic an autism spectrum disorder (including those classified by 
+children and their parents may face and find difficult. In this ICD-10 criteria: childhood autism, Asperger’s syndrome, 
+article, we report data on the intital reliability and validity pervasive developmental disorder or atypical autism) and 
+of the measure. We examined variability in the scores on the be between 4 years 0 months and 8 years 11 months. Given 
+measure, inter-rater reliability and convergent validity by the high prevalence of co-occurring EBPs in autistic chil-
+exploring the relationships between observed behaviors and dren, there was no specific cut-off for inclusion in the trial 
+questionnaires completed by parents and teachers. based on the levels of EBPs children displayed. Families 
+
+were excluded if: they did not have sufficient spoken English 
+to be able to take part in a group intervention; the child or 
+parent had a severe hearing or visual impairment; the child 
+
+Method had seizures more than once a week; there were active safe-
+guarding concerns; or the parent had a current severe psy-
+
+Participants chiatric disorder (see https:​//www.isrctn​ .com/ISRCTN​ 9141​
+1078 for the trial record).
+
+The sample consisted of 83 parents/carers (mothers: n = 76, Written informed consent was obtained from all partici-
+91.6%; fathers: n = 5, 6.0% grandmothers: n = 2, 2.4%) and pating parents/carers and child assent was obtained wher-
+their 4- to 8-year-old autistic child, recruited through local ever appropriate. All observations were video-recorded and 
+autism diagnostic teams, education professionals, support most (n = 79, 95.2%) were completed at a research center 
+groups and consented databases in four boroughs in South in our child-friendly family room. Three observations were 
+London (Bromley, Croydon, Lambeth and Lewisham). Chil- conducted at the child’s school and one at a local clinic set-
+dren were on average 6.7 years old (SD = 1.21) and most of ting familiar to the child. In these cases, parents did not 
+the sample were male (n = 71, 85.5%). Thirty-nine (47.0%) agree to completing the observation in an unfamiliar envi-
+of the children were minimally verbal (defined as non-verbal ronment, due to the child’s anticipated challenging behav-
+or having single words), with the remainder (n = 44, 53.0%) ior or anxiety. After the assessment, parents were asked to 
+defined as verbal (flexible phrase or fluent speech). Eleven comment briefly on how typical their child’s and their own 
+children (13.1%) had also been diagnosed with ADHD, two behavior was during the observation and a brief descrip-
+with ODD (2.4%) and one with an anxiety disorder (1.1%), tion of their feedback is in the supplementary materials. 
+as reported by parents. Seven children (8.3%) were pre- In addition, direct assessment of the child’s autism traits 
+scribed a psychostimulant and three (3.6%) were prescribed were completed. Parent report questionnaire measures of the 
+
+1 3
+
+
+
+4	 Journal of Autism and Developmental Disorders (2021) 51:1–14
+
+Table 1   Demographic information by child verbal ability group
+
+Demographic characteristics Verbal (N = 44) Minimally verbal (N = 39)
+n or M % or SD N or M % or SD
+
+Child age (mean years) 7.21 0.83 6.13 1.32
+Child gender
+ Male 36 81.8% 35 89.7%
+ Female 8 18.2% 4 10.3%
+
+Child ethnicitya
+
+ White 30 69.8% 14 36.8%
+ Black/Black British 3 7.0% 11 28.9%
+ Asian/Asian British 3 7.0% 5 13.2%
+ Mixed/multiple ethnicities 7 16.3% 8 21.1%
+
+Child education typeb
+
+ Mainstream school 33 76.7% 4 10.3%
+ Specialist unit in mainstream school 6 14.0% 7 18.0%
+ Specialist school 4 9.3% 28 71.8%
+
+Parental education levelc
+ No formal qualifications 3 7.0% 7 18.0%
+ General certificate of secondary education or equivalent 7 16.3% 2 5.1%
+ General certificate of education advanced level (A levels) or equivalent 7 16.3% 3 7.7%
+ Vocational qualifications (NVQ, City and guilds or equivalent) 9 20.9% 4 10.3%
+ Undergraduate tertiary degree 6 14.0% 10 25.6%
+ Postgraduate tertiary degree 11 25.6% 13 33.3%
+
+Parental employment statusb
+
+ Not in paid employment 21 48.8% 19 48.7%
+ In part-time paid employment 14 32.6% 11 28.2%
+ In full-time paid employment 8 18.6% 9 23.1%
+
+Annual household incomed
+
+ Less than £20,000 13 39.4% 10 32.3%
+ £20,000–£39,999 7 21.2% 7 22.6%
+ £40,000–£59,999 5 15.2% 3 9.7%
+ £60,000–£79,999 2 6.1% 8 25.8%
+ Greater than £80,000 6 18.2% 3 9.7%
+
+Valid % reported
+a n = 43 for verbal children, n = 38 for minimally verbal children. White = English/Welsh/Scottish/Northern Irish/Irish/British/Other White 
+ethnicity, Black/Black British = African/Caribbean/Other Black ethnicity, Asian/Asian British = Indian/Pakistani/Bangladeshi/Chinese/Other 
+Asian ethnicity, Mixed/Multiple ethnicities = White and Black Caribbean/White and Black African/White and Asian/Other Mixed ethnicity
+b n = 43 for verbal children, n = 39 for minimally verbal children. Mainstream school = education setting for children who access the mainstream 
+curriculum, Specialist unit in mainstream school = resource base within a mainstream school for children who access the mainstream curriculum 
+whilst having specialist intervention support, Specialist school = education setting for children with special educational needs or disabilities. 
+Employment status is described for parent/carer involved in completing the observation
+c n = 43 for verbal children, n = 39 for minimally verbal children
+d n = 33 for verbal children, n = 31 for minimally verbal children
+
+child’s autism characteristics and functioning, their EBPs, Development of the Observation Schedule 
+and their experiences of parenting a child with autism were for Children with Autism Spectrum Disorders–
+also obtained. With parental consent, the child’s teacher was Anxiety, Behaviour and Parenting (OSCA‑ABP)
+also asked to complete questionnaires about the child’s EBPs 
+at school. Patient and Public Involvement (PPI)
+
+Panels of autistic adults and parents of autistic children 
+have been involved in all phases of the study and assisted 
+
+1 3
+
+
+
+Journal of Autism and Developmental Disorders (2021) 51:1–14	 5
+
+Table 2   Task schedule for the OSCA–ABP
+
+Tasks Led by Length (min) 
+total duration 
+
+Minimally verbal—none to some Verbal—phrase speech Verbal—fluent speech ranges from ~ 18 
+words (ADOS–2 Module 1) (ADOS–2 Module 2) (ADOS–2 Module 3) to 22 min
+
+1. Mystery box and blindfold Researcher Maximum 2 min
+2. Shared task (stacking cups) Shared task (drawing a square Shared task (drawing a Parent 2–3 min
+
+on the Etch A Sketch©) house on the Etch A 
+Sketch©)
+
+3. Shared game (Simon©) Shared game (2-arm Bop It©) Shared game (4-arm Parent 2–3 min
+Bop It©)
+
+4. Separation from parent and free play with D uplo©/Lego© and puzzles, dependent on develop- Parent → Researcher Maximum 3 min
+mental level
+
+5. Reunification with parent and tidy away the toys Parent Maximum 2 min
+6. Homework sheet, adjusted to developmental level with increasing difficulty Parent 3–5 min
+7. Taking shoes and socks off and walking heel to toe along a line on the floor Parent Maximum 2 min
+8. Snack jar with glued lid, with a different unglued jar provided after short delay Researcher Maximum 2 min
+
+with the development of the task schedule (e.g. advis- desired object such as a tablet was frequently suggested by 
+ing on how to make specific tasks effective at eliciting parents, but this activity was not included in the observa-
+EBPs). The tasks aimed to simulate everyday challenges tion due to difficulty in finding equally salient objects and 
+that autistic children may face and find difficult, drawing replicating this from one child to the next.
+on and modifying existing observational measures of par-
+ent–child interaction. Guidance and advice about which Final Task Schedule
+behaviors to code was given, particularly in relation to 
+behavioral manifestations of anxiety, as well as assistance The measure consisted of two researcher-led and six parent-
+with the interpretation of the results. Prior to deciding led tasks. The tasks aimed to elicit observable child behav-
+the final task schedule, a range of tasks were piloted with iors that challenge (BTC) by tapping into uncertainty and 
+12 parents and their 4 to 8-year-old autistic child and 11 novelty, transition, turn taking, sensory processing, com-
+parents with non-autistic children of the same age. Feed- pliance, frustration and reward delay. It is designed to be 
+back was sought on the tasks and materials, the clarity conducted in an environment unfamiliar to the family, to 
+of the instructions and visual prompts, the order of the further elicit child BTC. A buzzer is used to signal to the 
+activities and suggestions for improvement. Tasks that parent to transition their child on to the next activity add-
+did not appear effective in eliciting challenging behaviors ing further uncertainty as task duration is managed by the 
+or anxiety were removed (e.g. suspense games including measure administrator. The specific materials used in each 
+a jack-in-the-box, Buckaroo!© and Jenga© along with an task are differentiated by child verbal ability group based 
+unexpected alarming noise). Removal of these tasks made on the Autism Diagnostic Observation Schedule—2nd edi-
+the measure shorter and more feasible to administer. tion (ADOS–2, Lord et al. 2012) assessment modules, which 
+
+Generally, parents thought the length of the measure takes into account expressive language and age but were 
+was acceptable, that the instructions were clear and that analogous in function (e.g. the shared game either involved 
+the games and activities were suitable (i.e. good variety, playing together on the Simon©, a 2-arm Bop It© or a 4-arm 
+gender neutral, covering a range of developmental skills). Bop It©). Table 2 describes the specific tasks and materials 
+Some parents of autistic children commented these were used. The duration of the observation aimed to be around 
+activities that would likely lead to EBPs and that behaviors 18 to 22 min. Further information about the administration 
+displayed during the observation were generally typical of of tasks can be obtained by contacting the corresponding 
+their child, providing some initial evidence for ecological author.
+validity. Parental suggestions for modification of activi-
+ties to observe challenging behavior were considered in Coding Scheme Development
+relation to the suitability of administration in a controlled 
+research environment and appropriate modifications were As the measure was developed within the context of a pilot 
+incorporated. For example, removal of a favorite toy or RCT testing a parenting intervention aiming to reduce EBPs, 
+
+1 3
+
+
+
+6	 Journal of Autism and Developmental Disorders (2021) 51:1–14
+
+behaviors that were anticipated to change if such an inter- For the children, the frequencies of a range of behaviors 
+vention was effective were the primary focus of the coding (destructive behavior, aggression towards themselves and oth-
+scheme. Using a social learning theory lens, we wanted to ers, frustrated vocalisations, non-compliance, avoidance and 
+capture a range of child behaviors that challenge others, such reassurance seeking) observed during the OSCA–ABP were 
+as non-compliant or aggressive behavior, as well as behav- coded and summed to produce the total child BTC score. As 
+ioral manifestations of anxiety (e.g. avoidance, Bearss et al. the duration of the measure varied, the rate of child BTC per 
+2015b; Ozsivadjian et al. 2012) and potentially maladaptive minute is calculated by dividing the total BTC count by the 
+coping strategies that may challenge others in certain con- duration. In addition, the frequency of observed child compli-
+texts (e.g. reassurance seeking). Furthermore, we wanted to ance is coded and the rate of child compliance per minute is 
+capture compliance with parental and researcher commands. also calculated.
+We considered coding compliance in relation to the type of For the parents, frequencies of observed facilitative parent-
+command (e.g. clear, unclear; see supplementary material ing (positive comments, clear commands, praise and support-
+Table 3 for definitions) given by the interaction partner but ive physical guidance) and non-facilitative parenting (negative 
+instead used a basic frequency count to assist with obtain- comments, unclear commands, no opportunity to comply and 
+ing sufficient inter-rater reliability. In addition, a variety physical handling) were coded and summed to produce total 
+of parenting behaviors that have been associated with the facilitative parenting behavior and non-facilitative parenting 
+absence or presence of EBPs in non-autistic children were behavior scores. As with the child domains, rates of facilita-
+included (termed facilitative and non-facilitative parenting tive and non-facilitative parenting behaviors were calculated. 
+respectively). To account for absolute levels of parenting behaviors, a pro-
+
+Using videos of the measure from the piloting phase, defi- portion of facilitative parenting behavior was also calculated 
+nitions of relevant child and parenting behavior items were to determine relative levels. This was done by dividing the 
+developed, adapted and clarified through discussion by MP, frequency of facilitative parenting by all parenting behaviors 
+JT and JPP. The final coding scheme consisted of several (facilitative + non-facilitative).
+child and parenting items that were aggregated into a priori 
+defined domain scores. Because externalizing behavior is Sample Characterisation Measures
+often reported as being related to anxiety in autism (Bearss 
+et al. 2015b), these behaviors were grouped together. Clear Demographic information about the family was obtained using 
+parental commands were included in facilitative parenting a questionnaire developed for the study.
+behavior as positively stated clear commands are thought to To characterise the sample, measures of autism severity and 
+be helpful for children with disabilities (Green et al. 2014; adaptive behavior were obtained. Autism severity was meas-
+Marfo 1990). This domain designated desirable parenting ured using the ADOS–2 (Lord et al. 2012), the gold standard 
+and the inclusion of clear commands here is in contrast with observation for assessing autism characteristics administered 
+some other coding schemes (e.g. Scott et al. 2010) where by four of the authors who were researchers trained to research 
+all commands are included under non-facilitative parenting. reliability. Parent report of autism severity was measured using 
+The supplementary materials contains the definitions of the the Social Communication Questionnaire-Lifetime version 
+items that make up the domain scores described below, as (SCQ), a 40 item questionnaire measuring the presence of 
+well as information on items that do not form part of the autistic symptoms using a yes–no format (Rutter et al. 2003). 
+child and parent domain scores but measure other aspects of Scores greater than or equal to 15 is the cut-off point for autism 
+child and parenting behaviors and global impressions across spectrum disorder. There were no criteria for inclusion in the 
+the observation. study based on the ADOS–2 or SCQ scores.
+
+We were interested in establishing whether we could reli- To measure adaptive skills and functioning the Adap-
+ability code frequency counts of specific child and parent tive Behavior Assessment System–3rd edition (ABAS–3, 
+behaviors separately and did not link child and parent behav- Harrison and Oakland 2015) was completed by parents. 
+ior. To establish whether the measure had sufficient inter- Both the 0–5-year-old (241 items covering 10 areas) and 
+rater reliably, we wanted to demonstrate whether general the 5–21-year-old (211 items covering nine areas) versions 
+patterns of behavior during the observation were consistent were used according to the child’s chronological age and 
+across different coders (i.e. two different coders both rated functioning level. A standardized General Adaptive Com-
+the same child as displaying a high occurrence of behav- posite (GAC) score was calculated. Scores for the sample 
+iors that challenge). The observations were coded from the on the ADOS–2, SCQ and the ABAS–3 are presented in the 
+video-recordings by at least two raters (JPP, MF, SW, EB) supplementary materials.
+over two viewings (one to code child behavior and the other 
+parenting behavior).
+
+1 3
+
+
+
+Journal of Autism and Developmental Disorders (2021) 51:1–14	 7
+
+Parent‑Reported Child Emotional and Behavioral different tasks administered to minimally verbal children 
+Problems who formed a different population to verbal children, 
+
+analyses were conducted by child verbal ability group. 
+The Aberrant Behavior Checklist (ABC) Irritability (15 The distributions of the domain scores were examined to 
+items) and Hyperactivity (16 items) subscales were used to ensure that floor and ceiling effects were not present, as 
+measure parent-rated child EBPs (Aman et al. 1985). Items these might have restricted scope for identifying change. 
+were rated on a 4-point scale ranging from ‘not at all a prob- T-tests were used to examine differences by child verbal 
+lem’ to ‘the problem is severe in degree’ with higher scores ability group. Item-level descriptive statistics are included 
+signifying more EBPs. in the supplementary materials.
+
+Child non-compliance was measured using the Home To estimate inter-rater reliability (IRR), a random 
+Situations Questionnaire-Autism Spectrum Disorders (HSQ- effects mixed model for unbalanced data using the sem 
+ASD, Chowdhury et al. 2015), an autism-specific measure of command and maximum likelihood was used as we had 
+non-compliance in everyday situations. Socially Inflexible multiple raters involved in rating different videos. In this 
+and Demand Specific non-compliance were assessed by 24 model, the latent variable representing shared variance 
+items. Parents were first asked to rate if each situation is a was estimated from  the observed  raters’  scores. Intra-
+problem on a yes–no scale, and if yes, the severity is rated class correlation coefficients (ICCs) examining the ratio 
+on a 9-point scale from ‘mild’ to ‘significant’. The average of the variance in the latent variable over the variance in 
+severity rating per item was calculated. the latent variable + error variance were calculated (Koo 
+
+Parent-reported child anxiety was measured using the and Li 2016) for the domain scores by child verbal ability 
+Preschool Anxiety Scale Revised (PASR, Edwards et al. group and 95% confidence intervals (CI) are presented. 
+2010). The PASR consisted of 28 statements tapping into Item-level IRR was also examined and is presented in the 
+specific fears, and generalized, social and separation anxi- supplementary materials. Although there is no agreed 
+ety which were rated on a 5-point scale ranging from ‘not definition of adequate levels of inter-rater agreement and 
+at all true’ to ‘very often true’. A total score was calculated estimates vary depending on the method used, IRR esti-
+by summing the responses to all items, with higher scores mates of greater than .70 or 70% agreement are generally 
+indicating more anxiety. acceptable (Aspland and Gardner 2003).
+
+A multi-informant approach was used to explore the 
+convergent validity of the OSCA–ABP child and parent 
+
+Teacher‑Reported Child Emotional and Behavioral domains. Convergent validity of the child BTC domain 
+Problems was explored using correlations to examine the associa-
+
+tions between observed child behavior and parent- and 
+Teachers were asked to complete the Irritability and Hyper- teacher-reported child EBPs. Given the differences in con-
+activity subscales of the ABC (Aman et al. 1985). text and sources of measurement error, as well as slight 
+
+differences in the constructs that were being measured 
+Parent‑Reported Parenting Practices (i.e. BTC focuses on observable behavior that may chal-
+
+lenge others, whereas EBPs encompasses a broader range 
+Parent reports of their own parenting practices were meas- of difficulties that may be present in different situations 
+ured using a shortened version of the Parenting Scale (PS, and measured over longer periods of time), we expected 
+Arnold et al. 1993; Bodenmann et al. 2008). Lax (6 items) small to medium positive associations between observed 
+and Overreactive (5 items) parenting were rated on a 7-point child BTC and parent- and teacher-reported EBPs, in line 
+scale anchored by opposing responses (e.g. when my child with previous research (e.g. Wakschlag et al. 2008a, b). 
+misbehaves, I raise my voice and yell [1]—I speak to my Observed child compliance was expected to be inversely 
+child calmly [7]. Higher scores on the two scales indicate associated with parent- and teacher-reported EBPs. No 
+more use of lax or overreactive parenting practices. adjustment was made for multiple testing as we were inter-
+
+ested in the patterns and directions of the relationships, 
+and trends (p values below .10) and significant correlations 
+
+Data Analysis are flagged.
+Convergent validity of the parent domain scores was 
+
+Data analysis was conducted in Stata 14 (StataCorp 2015). also examined by exploring the associations between 
+Descriptive statistics of the frequency and rate of the child observed parenting behaviors and parents’ reports of their 
+(BTC; compliance) and parenting behaviors (facilitative; own lax and overreactive parenting practices. Again, we 
+non-facilitative) were calculated. Because there were expected correlations to be small given the differences 
+
+in contexts, informants and constructs being assessed. 
+
+1 3
+
+
+
+8	 Journal of Autism and Developmental Disorders (2021) 51:1–14
+
+Fig. 1   Graph showing mean 
+rate per minute scores on the 
+OSCA–ABP domains by child 
+verbal ability group
+
+We anticipated that more observed facilitative parenting many parenting acts in the same time period (see Fig. 1 
+behavior and a higher proportion of facilitative parenting and the descriptive statistics in the supplementary mate-
+would be associated with less self-reported lax and over- rials). However, the proportion of facilitative parenting 
+reactive parenting, with the opposite pattern being seen for was similar for both groups of children and accounted for 
+non-facilitative parenting. Again, no adjustment was made approximately half of all parenting behaviors. Correla-
+for multiple testing. tions between the OSCA–ABP domains are in the Sup-
+
+plementary Materials.
+
+Results Inter‑rater Reliability (IRR)
+
+Descriptive Statistics for the Sample and the OSCA– In order to establish IRR, 83 observations were coded from 
+ABP Domains video-recordings by at least two of four raters (JPP, MF, 
+
+SW, and EB), who wherever possible, were not involved in 
+Figure  1 shows the mean rates per minute on the helping administer the observation. In addition, 23 of the 
+OSCA–ABP domains by child verbal ability group. The videos were also coded by a third rater, resulting in a sam-
+descriptive statistics for the OSCA–ABP domain scores ple of 189 observations for IRR. The sample size and rat-
+can be found in the supplementary materials. The mean ing design was chosen to achieve 80% power. Coders were 
+duration of the observation was 20.5 min (SD = 1.7 min, trained on observations obtained during initial pilot testing 
+range = 15.5–24.0 min). On average, both verbal and min- of the tasks and from post-intervention assessments during 
+imally verbal children displayed frequent BTC during the the feasibility stage. Training videos did not form part of the 
+observation. Minimally verbal children displayed signifi- IRR sample. Meetings were held approximately every month 
+cantly more BTC than verbal children in the same time to discuss any coding queries and achieve consensus, as well 
+period (minimally verbal: M = 2.91 behaviors per min- as to avoid coder drift.
+ute, SD = 1.93 vs. verbal children: M = 1.18, SD = 1.22, Overall, IRR was excellent for the child BTC domain for 
+t[81] = − 4.67, p < .001). All of the children in the cur- both verbal and minimally verbal children (see Table 3 for 
+rent study exhibited some BTC during the observation. ICCs and 95% CI). IRR was lower for child compliance, and 
+Eight verbal children (18.2% of the verbal sample), but no IRR for facilitative parenting and non-facilitative parenting 
+minimally verbal children, displayed fewer than five BTC. was good for both verbal and minimally verbal children. 
+Child compliance was similar for verbal and minimally For a description of item-level IRR see the supplementary 
+verbal children (see Fig. 1). materials.
+
+The frequency and rates of facilitative and non-facili-
+tative parenting varied by child verbal ability group, with 
+parents of minimally verbal children displaying twice as 
+
+1 3
+
+
+
+Journal of Autism and Developmental Disorders (2021) 51:1–14	 9
+
+Table 3   ICCs for the OSCA– OSCA–ABP domains Verbal (N = 44) Minimally verbal (N = 39)
+ABP domains by child verbal 
+ability group ICC (95% CI) ICC (95% CI)
+
+Rate per minute scores
+ Child behaviors that challenge rate .92 (.88, .96) .77 (.66, .89)
+ Child compliance rate .45 (.25, .66) .66 (.49, .82)
+ Facilitative parenting rate .64 (.48, .80) .75 (.63, .88)
+ Non-facilitative parenting rate .67 (.52, .81) .70 (.55, .85)
+
+Proportion score
+ Proportion of facilitative parenting .68 (.54, .82) .69 (.54, .84)
+
+Frequency scores
+ Child behaviors that challenge frequency .92 (.87, 96) .76 (.64, .88)
+ Child compliance frequency .41 (.20, .63) .64 (.47, .81)
+ Facilitative parenting frequency .62 (.45, .79) .77 (.65, .89)
+ Non-facilitative parenting frequency .65 (.50, .81) .71 (.58, .86)
+
+Table 4   Convergent validity of OSCA–ABP domains by child verbal ability group
+
+Parent reported child emotional and behavioral Teacher reported Parent reported 
+problemsa child emotional and parentinga
+
+behavioral problemsb
+
+Irrita- Hyper- Non- Anxiety (PASR) Irrita- Hyper- Lax Overreactive 
+bility activity compliance bility activity parenting parenting 
+(ABC) (ABC) (HSQ) (ABC) (ABC) (PS) (PS)
+
+Verbal
+ OSCA–ABP domains
+  Child behaviors that challenge rate .14 .28† .12 − .19 .36* .34* – –
+  Child compliance rate − .20 − .05 − .06 .10 − .13 − .04 – –
+  Facilitative parenting rate – – – – – – .01 − .23
+  Non-facilitative parenting rate – – – – – – .38* .25
+  Proportion of facilitative parenting – – – – – – − .26† − .35*
+
+Minimally verbal
+ OSCA–ABP domains
+  Child behaviors that challenge .10 .04 .12 .16 .08 − .07 – –
+  Child compliance rate .03 − .22 − .35* − .05 − .28 − .16 – –
+  Facilitative parenting rate – – – – – – .34* .02
+  Non-facilitative parenting rate – – – – – – .22 − .18
+  Proportion of facilitative parenting – – – – – – .09 .21
+
+Pearson’s r reported
+*p < .05
+† p < .10
+a N = 43 for verbal children, parent-report measures missing for one child, N = 39 for minimally verbal
+b N = 38 for verbal children, N = 38 for minimally verbal children
+
+Convergent Validity on the HSQ-ASD was significantly associated with less 
+observed child compliance during the OSCA–ABP in mini-
+
+Table  4 below displays the correlations between the mally verbal children (r =  − .35, p = .027). Small but signifi-
+OSCA–ABP domains and parent- and teacher-reported cant correlations were found between teacher-reported child 
+child EBPs. Descriptive statistics for the parent and teacher EBPs and observed child behavior among verbal children 
+questionnaires by child verbal ability are in the supplemen- with more irritability (r = .36, p = .026) and hyperactivity 
+tary materials. More parent-reported child non-compliance (r = .34, p = .039) on the ABC being associated with more 
+
+observed BTC. No significant relationships were found 
+
+1 3
+
+
+
+1	 0 Journal of Autism and Developmental Disorders (2021) 51:1–14
+
+between teacher-reported child EBPs and observed child behavior. In naturalistic settings, parents of minimally verbal 
+behavior for minimally verbal children. More observed children may accommodate for and modify the environment 
+non-facilitative parenting behaviors was associated with in a way that was less possible whilst completing the tasks. 
+significantly more endorsement of lax parenting practices by This could include adapting expectations for their child and 
+parents of verbal children (r = .38, p = .010) and lower pro- reducing demands, behaviors reportedly used by parents 
+portions of facilitative parenting was associated with more of children with intellectual disabilities (Green et al. 2014; 
+self-reported overreactive parenting (r =  − .35, p = .022). Phillips et al. 2017). It is also possible that the unfamiliar 
+Among minimally verbal children, more observed facilita- environment may also be particularly anxiety-producing for 
+tive parenting was associated with greater endorsement by minimally verbal children who have additional difficulties 
+parents of lax parenting practices (r = .34, p = .036). in communicating.
+
+In addition to obtaining variability in responses on the 
+measure, high inter-rater reliability for child BTC was dem-
+
+Discussion onstrated among both verbal and minimally verbal children. 
+This adds to previous research (Handen et al. 2013; Wak-
+
+The current study aimed to establish the reliability and valid- schlag et al. 2008a, b) by demonstrating that child EBPs 
+ity of a novel observational measure of child and parenting can be used observed reliably to quantify clinically salient 
+behavior in autism by examining the descriptive statistics of disruptive and anxiety-related behaviors in young autistic 
+the measure, inter-rater reliability and convergent validity. children with and without intellectual disabilities. Despite 
+Sufficient variability in child and parenting behavior was anxiety-related behaviors being more difficult to measuring 
+elicited by the measure. In contrast with previous research objectively, both verbal and minimally verbal children dis-
+that has reported floor effects for child behavior on such played avoidance and reassurance seeking during the obser-
+measures used with autistic children who were screened in vation. However, inter-rater reliability for items that aimed to 
+for moderate or greater EBPs (Bearss et al. 2015a; Handen measure anxiety was generally lower than items measuring 
+et al. 2013), in general, floor effects were not found on the externalising behavior. This is likely due to a reliance on 
+OSCA–ABP with high mean rates of BTC being observed assessing the child’s intention of their response to possible 
+by both verbal and minimally verbal children. All children anxiety-provoking stimuli or situations. Furthermore, we 
+in the current sample displayed at least one behavior that removed one item that was originally intended to measure 
+challenged during the observation and 90% displayed five anxiety-related repetitive behaviors and vocalisations as 
+or more behaviors. It appears that the selection and modi- it was difficult to distinguish when repetitive behaviors or 
+fication of tasks were effective in tapping into triggers that vocalisations appeared to be an anxious response from an 
+might underlie EBPs in autistic children. This supports the expression of autism (see supplementary materials). This is 
+ecological validity of the measure, along with reports from likely to have made high inter-rater reliability more difficult 
+parents indicating that behavioral displays seen during the to achieve for this item. For parenting behaviors, intraclass 
+assessment were typical of presentations in other environ- correlation coefficients demonstrated adequate reliability. It 
+ments and everyday situations. Despite the idiosyncratic was more difficult to obtain good inter-rater reliability for 
+triggers of EBPs seen in autism, it appears that by using a child compliance. This may be due to the requirement of 
+range of structured presses, child BTC is possible to elicit first identifying a parental or researcher instruction for the 
+and observe in direct assessments. Use of this measure in child to comply with.
+the context of a trial would allow for blinded measurement Initial convergent validity of the OSCA–ABP child 
+of change in most children. domains was established. Among minimally verbal children, 
+
+Of note were the differences in absolute frequencies of parent-reported non-compliance was associated with more 
+observed child BTC by child verbal ability group. In keeping observed child BTC, accounting for approximately 12% 
+with the literature (e.g. Einfeld et al. 2011; McClintock et al. of the shared variance. These results are similar to other 
+2003), minimally verbal children displayed significantly research with non-autistic children (e.g., Wakschlag et al. 
+more BTC than verbal children. This is despite the absence 2008a, b), where associations between observed disruptive 
+of differences found in parent- and teacher-reported EBPs behavior seen during a structured laboratory observation 
+between groups. Although absolute levels of facilitative and parent-reports of disruptive behavior were weakly cor-
+and non-facilitative parenting were also significantly higher related. The convergent validity of the OSCA–ABP parent 
+among minimally verbal children, when the proportion of domains was also examined, and the general pattern of rela-
+facilitative parenting behavior was examined, no group dif- tionships between observed parenting and parent reports of 
+ferences were found. It may be that the structure and set-up their own parenting practices suggested that the OSCA–ABP 
+of the measure was more challenging for minimally ver- constructs were valid, particularly among parents of verbal 
+bal children resulting in more frequent BTC and parenting children. Literature examining the convergent validity of 
+
+1 3
+
+
+
+Journal of Autism and Developmental Disorders (2021) 51:1–14	 11
+
+observations of parenting behavior has also reported asso- autistic samples. Some of the measures used to establish 
+ciations in the low to moderate range (Hawes and Dadds convergent validity of the new observational measure were 
+2006). However, the generalizability of such behavioral not developed for use in autism and/or intellectual disability, 
+observations has been critiqued and it has been argued that and some items may not be relevant or interpreted differ-
+the imposed structure of such assessments and presence of ently. There is also a possibility that autism-specific parent-
+an observer may alter behavior (Rhule et al. 2009). It is also ing behaviors often reported to manage child challenging 
+possible that observational measures are tapping into slightly behavior, anxiety and non-compliance (e.g. modifying the 
+different aspects of child and parenting behavior to parent environment, limiting exposure to adverse sensory stimuli, 
+reports. Parent reports may reflect more global child EBPs reducing unpredictability by providing structure, routine and 
+and parenting experiences, whereas during this measure, familiarity; O’Nions et al. 2018) were not identified using 
+child and parent behavior is situation specific. Other pos- the parenting behavior coding scheme derived for the study 
+sible factors that account for variation in agreement include and opportunities to demonstrate these parenting strategies 
+different sources of measurement error reducing power to may have been limited during the observation. Furthermore, 
+test relationships and broader rater effects, such as parental the current coding scheme was developed to measure the 
+mental health problems (Najman et al. 2000). frequency of child compliance, rather than the proportion 
+
+In the current study, teacher reports of child EBPs were of compliance with specific commands. Future versions of 
+significantly associated with observed child BTC among the measure may want to consider examining the reliability 
+verbal, but not minimally verbal children, accounting for of coding compliance in relation to the amount and type of 
+between 12 and 13% of shared variance. Previous litera- commands given by parents and researchers.
+ture has reported small but significant associations between 
+observed disruptive child behavior and teacher-reported Strengths
+EBPs in non-autistic samples (Wakschlag et al. 2008a, b). 
+Furthermore, in line with literature in non-autistic popu- The study has a number of strengths. It describes the devel-
+lations, agreement between parent and teacher reports in opment and task selection of a new measure of observed 
+autistic samples is modest (Stratis and Lecavalier 2017). It child and parent behavior in autism with PPI input. Results 
+is possible that teachers of minimally verbal children, who indicate that the scheme for coding child and parenting 
+were primarily employed in specialist education settings, behavior developed for use with this measure can be reli-
+have different thresholds for difficult child behavior which ably applied to verbal and minimally verbal children and 
+may influence their responses to questionnaire-based meas- their parents. Reports from multiple informants were used to 
+ures. Whereas, on the OSCA–ABP, raters reliably applied explore convergent validity giving support that the contrasts 
+the same behavioral definitions across verbal and minimally were valid and being adequately assessed. The use of the 
+verbal children. It is evident that verbal and minimally verbal OSCA–ABP to identify difficulties of clinical relevance to 
+children are two different populations and future research, families is promising.
+possibly testing the measure in specialist education settings, 
+to further understand these different patterns is warranted.
+
+The measure’s sentivitiy to change was not explored in Conclusions
+this manuscript and will be reported in a separate manuscript 
+describing the findings from the trial. However, recent lit- The promise of the OSCA–ABP for contributing to research 
+erature indicates that observational measures can pick up on and clinical practice in autism mental health beyond blinded 
+changes in parenting behaviour following behavioral parent- measurement in trials is substantial. Co-occurring EBPs fre-
+ing interventions (e.g. Vetter 2018). quently exist in autism (e.g. Lai et al. 2019; Salazar et al. 
+
+2015; Simonoff et al. 2008) and current measures for exam-
+ining these difficulties rely on parent or teacher reports. 
+
+Limitations A particular challenge in research and clinical settings is 
+obtaining accurate information about triggers and manage-
+
+Several limitations should be noted. Test–retest reliabil- ment strategies for EBPs. The OSCA–ABP could be used 
+ity was not assessed and needs to be established in future alongside other methods of assessment to obtain a more 
+research. In addition, although the tasks aimed to cover a objective and comprehensive understanding of how child 
+range of potential triggers and were generally effective in EBPs presents in autism and how parents interact with their 
+eliciting child BTC, it is possible that idiosyncratic trig- children and respond to EBPs. As it is a standardized meas-
+gers that are clinically relevant may be missed in particu- ure that is easy to administer, it has the potential to be useful 
+lar individuals. We also need to consider the applicability in both research and clinical settings to assist with diagno-
+of the questionnaire measures used in the current study for sis of co-occurring difficulties in autism, clinical decision 
+
+1 3
+
+
+
+1	 2 Journal of Autism and Developmental Disorders (2021) 51:1–14
+
+making regarding potential targets for intervention and as References
+an outcome in trials.
+
+Aman, M. G., Singh, N. N., Stewart, A. W., & Field, C. J. (1985). 
+Acknowledgments  This manuscript presents independent research Psychometric characteristics of the aberrant behavior checklist. 
+funded by the National Institute for Health Research (NIHR) under its American Journal of Mental Deficiency, 89(5), 492–502.
+Programme Grants for Applied Research programme (RP-PG-1211- American Psychiatric Association. (2013). Diagnostic and statistical 
+20016). The views expressed in this manuscript are those of the authors manual of mental disorders (5th ed.). Arlington, VA: American 
+and not necessarily those of the NIHR or the Department of Health and Psychiatric Association.
+Social Care. AP also receives support from the NIHR Biomedical Arnold, D. S., O’Leary, S. G., Wolff, L. S., & Acker, M. M. (1993). 
+Research Centre for Mental Health at South London and Maudsley The Parenting Scale: A measure of dysfunctional parenting in 
+Foundation Trust and support from the NIHR through a Senior Inves- discipline situations. Psychological Assessment, 5(2), 137–144.
+tigator Award (NF-SI-0617-10120). ES additionally receives support Aspland, H., & Gardner, F. (2003). Observational measures of parent-
+from the NIHR Biomedical Research Centre for Mental Health at South child interaction: An introductory review. Child and Adolescent 
+London and Maudsley Foundation Trust (IS-BRC-1215-20018), the Mental Health, 8(3), 136–143.
+NIHR through a Senior Investigator Award (NF-SI-0514-10073), the Baio, J., Wiggins, L., Christensen, D. L., Maenner, M. J., Daniels, 
+European Union Innovative Medicines Initiative (EU-IMI 115300), J., Warren, Z.,… Dowling, N. F. (2018). Prevalence of autism 
+Autistica (7237), Medical Research Council (MR/R000832/1, MR/ spectrum disorder among children aged 8 years—Autism and 
+P019293/1), the Economic and Social Research Council (ESRC developmental disabilities monitoring network, 11 sites, united 
+003041/1), Guy’s and St Thomas’ Charitable Foundation (GSTT states 2014. Morbidity and Mortality Weekly Report. Surveillance 
+EF1150502) and the Maudsley Charity. TC receives grant or research Summaries (Washington, D.C.: 2002), 67(6), 1–23.
+support from the NIHR, the Medical Research Council, the European Baird, G., Simonoff, E., Pickles, A., Chandler, S., Loucas, T., Meldrum, 
+Union (IMI, H2020), Autistica, MQ and The Waterloo Foundation. AP D., et al. (2006). Prevalence of disorders of the autism spectrum 
+declares that he receives royalties from WPS for the Social Communi- in a population cohort of children in south thames: The special 
+cation Questionnaire. We are grateful to the families who were involved needs and autism project (SNAP). Lancet, 368(9531), 210–215.
+in the study and the IAMHealth parents’ and autistic adults’ panels who Barlow, J., Bergman, H., Kornor, H., Wei, Y., & Bennett, C. (2016). 
+provided invaluable advice on the measure. We would like to acknowl- Group-based parent training programmes for improving emo-
+edge Russell Gill for his contribution to drafting the article. We would tional and behavioural adjustment in young children. (No. 
+also like to acknowledge Sophie Carruthers for her assistance with task CD003680). Cochrane Database of Systematic Reviews. Retrieved 
+development and Emma Biggin, Lydia Johnson-Ferguson and Moriya September 1, 2019 from https​://www.cochr​ane.org/CD003​680/
+Maccabee for their assistance with data collection. We would also like BEHAV​_group​-based​-paren​t-train​ing-progr​ammes​-impro​ving-
+to thank local professionals who assisted with identifying potential emoti​onal-and-behav​ioura​l-adjus​tment​-young​-child​ren
+participants for the study, with particular thanks to Dr Fernando Salazar Bearss, K., Johnson, C., Smith, T., Lecavalier, L., Swiezy, N., Aman, 
+and the team at Croydon CAMHS, Dr Mark O’Leary, Sarran Bond and M.,… Scahill, L. (2015a). Effect of parent training vs parent edu-
+Jackie Sutherland and the team at Bromley Healthcare, Dr Shade Alu cation on behavioral problems in children with autism spectrum 
+and Marion Drennan from the Croydon Child Development Centre, disorder: A randomized clinical trial. Journal of the American 
+Dr Narad Muthura from the Mary Sheridan Children’s Centre, Melissa Medical Association, 313(15), 1524–1533
+Hendry and Maria Davies from Red Gates School and Marie Neave Bearss, K., Taylor, C. A., Aman, M. G., Whittemore, R., Lecavalier, 
+and Hannah Robinson from Drumbeat School. ES, TC, AP, SS and VS L., Miller, J.,… Scahill, L. (2015b). Using qualitative methods to 
+obtained funding for the research. MP, JPP, JT, DH, VS, AP, ES, SS guide scale development for anxiety in youth with autism spec-
+and TC were involved in developing the tasks and coding scheme for trum disorder. Autism 20(6), 663–672
+the measure and MP, JPP, JT recruited participants and collected the Bodenmann, G., Cina, A., Ledermann, T., & Sanders, M. R. (2008). 
+data. Additionally, TCa, MF, SW, EB were involved in collecting the The efficacy of the triple P-positive parenting program in improv-
+data and coding the observations. IY assisted with interpretation of the ing parenting and child behavior: A comparison with two other 
+results and drafting the manuscript. All authors read, made revisions treatment conditions. Behaviour Research and Therapy, 46(4), 
+and approved the final version. 411–427.
+
+Chowdhury, M., Aman, M. G., Lecavalier, L., Smith, T., Johnson, C., 
+Compliance with Ethical Standards  Swiezy, N.,… Scahill, L. (2015). Factor structure and psycho-
+
+metric properties of the revised home situations questionnaire for 
+autism spectrum disorder: The home situations questionnaire-
+
+Conflict of interest  All other authors declare no conflict of interest. autism spectrum disorder. Autism, 54(3), 281–291
+Dababnah, S., & Parish, S. L. (2016). Incredible years program tailored 
+
+Open Access  This article is licensed under a Creative Commons Attri- to parents of preschoolers with autism: Pilot results. Research on 
+bution 4.0 International License, which permits use, sharing, adapta- Social Work Practice, 26(4), 372–385.
+tion, distribution and reproduction in any medium or format, as long Edwards, S. L., Rapee, R. M., Kennedy, S. J., & Spence, S. H. (2010). 
+as you give appropriate credit to the original author(s) and the source, The assessment of anxiety symptoms in preschool-aged children: 
+provide a link to the Creative Commons licence, and indicate if changes The revised Preschool Anxiety Scale. Journal of Clinical Child 
+were made. The images or other third party material in this article are and Adolescent Psychology, 39(3), 400–409.
+included in the article’s Creative Commons licence, unless indicated Einfeld, S. L., Ellis, L. A., & Emerson, E. (2011). Comorbidity of intel-
+otherwise in a credit line to the material. If material is not included in lectual disability and mental disorder in children and adolescents: 
+the article’s Creative Commons licence and your intended use is not A systematic review. Journal of Intellectual & Developmental 
+permitted by statutory regulation or exceeds the permitted use, you will Disability, 36(2), 137–143.
+need to obtain permission directly from the copyright holder. To view a Glennon, B., & Weisz, J. R. (1978). An observational approach to the 
+copy of this licence, visit http://creati​vecom​ mons.​org/licens​ es/by/4.0/. assessment of anxiety in young children. Journal of Consulting 
+
+and Clinical Psychology, 46(6), 1246–1257.
+
+1 3
+
+
+
+Journal of Autism and Developmental Disorders (2021) 51:1–14	 13
+
+Green, S., Caplan, B., & Baker, B. (2014). Maternal supportive and trial. Journal of Clinical Child and Adolescent Psychology, 42(3), 
+interfering control as predictors of adaptive and social develop- 358–370.
+ment in children with and without developmental delays. Journal O’Nions, E., Happe, F., Evers, K., Boonen, H., & Noens, I. (2018). 
+of Intellectual Disability Research, 58(8), 691–703. How do parents manage irritability, challenging behaviour, non-
+
+Green, S. A., Ben-Sasson, A., Soto, T. W., & Carter, A. S. (2012). compliance and anxiety in children with autism spectrum disor-
+Anxiety and sensory over-responsivity in toddlers with autism ders? A meta-synthesis. Journal of Autism and Developmental 
+spectrum disorders: Bidirectional effects across time. Journal of Disorders, 48(4), 1272–1286.
+Autism and Developmental Disorders, 42(6), 1112–1119. Ozsivadjian, A., Knott, F. F., & Magiati, I. (2012). Parent and child 
+
+Handen, B. L., Johnson, C. R., Butter, E. M., Lecavalier, L., Scahill, L., perspectives on the nature of anxiety in children and young people 
+Aman, M. G.,… Vitiello, B. (2013). Use of a direct observational with autism spectrum disorders: A focus group study. Autism, 
+measure in a trial of risperidone and parent training in children 16(2), 107–121.
+with pervasive developmental disorders. Journal of Developmen- Palmer, M., Tarver, J., Paris Perez, J., Cawthorne, T., Romeo, R., 
+tal and Physical Disabilities, 25(3), 355–371 Stringer, D.,… Charman, T. (2019). A novel group parenting 
+
+Harrison, P., & Oakland, T. (2015). Adaptive behavior assessment sys- intervention to reduce emotional and behavioural difficulties in 
+tem (3rd ed.). Los Angeles, CA: Western Psychological Services. young autistic children: Protocol for the autism spectrum treat-
+
+Hawes, D. J., & Dadds, M. R. (2006). Assessing parenting practices ment and resilience (ASTAR) pilot randomised controlled trial. 
+through parent-report and direct observation during parent-train- BMJ Open, 9(e029959)
+ing. Journal of Child and Family Studies, 15(5), 554–567. Patterson, G. R. (1982). Coercive family process. Eugene, OR: Castalia.
+
+Joosten, A. V., & Safe, A. P. (2014). Management strategies of moth- Phillips, B. A., Conners, F., & Curtner-Smith, M. E. (2017). Parenting 
+ers of school-age children with autism: Implications for practice. children with down syndrome: An analysis of parenting styles, 
+Australian Occupational Therapy Journal, 61(4), 249–258. parenting dimensions, and parental stress. Research in Develop-
+
+Kenny, L., Hattersley, C., Molins, B., Buckley, C., Povey, C., & Pel- mental Disabilities, 68, 9–19.
+licano, E. (2016). Which terms should be used to describe autism? Postorino, V., Sharp, W. G., McCracken, C. E., Bearss, K., Burrell, 
+Perspectives from the UK autism community. Autism, 20(4), T. L., Evans, A. N., et al. (2017). A systematic review and meta-
+442–462. analysis of parent training for disruptive behavior in children with 
+
+Koo, T. K., & Li, M. Y. (2016). A guideline of selecting and reporting autism spectrum disorder. Clinical Child and Family Psychology 
+intraclass correlation coefficients for reliability research. Journal Review, 20(4), 391–402.
+of Chiropractic Medicine, 15(2), 155–163. Rhule, D. M., McMahon, R. J., & Vando, J. (2009). The acceptability 
+
+Lai, M. C., Kassee, C., Besney, R., Bonato, S., Hull, L., Mandy, W.,… and representativeness of standardized parent-child interaction 
+Ameis, S. H. (2019). Prevalence of co-occurring mental health tasks. Behavior Therapy, 40(4), 393–402.
+diagnoses in the autism population: A systematic review and Robinson, E. A., & Eyberg, S. M. (1981). The dyadic parent-child 
+meta-analysis. The Lancet Psychiatry, 6(10), 819–829 interaction coding system: Standardization and validation. Journal 
+
+Lambrechts, G., Van Leeuwen, K., Boonen, H., Maes, B., & Noens, of Consulting and Clinical Psychology, 49(2), 245–250.
+I. (2011). Parenting behaviour among parents of children with Romero-Gonzalez, M., Chandler, S., & Simonoff, E. (2018). The rela-
+autism spectrum disorder. Research in Autism Spectrum Disor- tionship of parental expressed emotion to co-occurring psychopa-
+ders, 5(3), 1143–1152. thology in individuals with autism spectrum disorder: A system-
+
+Lord, C., Rutter, M., DiLavore, P. C., Risi, S., Gotham, K., & Bishop, atic review. Research in Developmental Disabilities, 72, 152–165.
+S. (2012). Autism diagnostic observation schedule (2nd ed.). Tor- Rutter, M., Bailey, A., & Lord, C. (2003). Social communication ques-
+rance, CA: Western Psychological Services. tionnaire. Los Angeles, CA: Western Psychological Services.
+
+Marfo, K. (1990). Maternal directiveness in interactions with men- Salazar, F., Baird, G., Chandler, S., Tseng, E., O’Sullivan, T., Howlin, 
+tally handicapped children: An analytical commentary. Journal P.,… Simonoff, E. (2015). Co-occurring psychiatric disorders in 
+of Child Psychology and Psychiatry, 31(4), 531–549. preschool and elementary school-aged children with autism spec-
+
+Mason, D., McConachie, H., Garland, D., Petrou, A., Rodgers, J., & trum disorder. Journal of Autism and Developmental Disorders, 
+Parr, J. R. (2018). Predictors of quality of life for autistic adults. 40(9), 1080–1093
+Autism Research, 11(8), 1138–1147. Sanders, M. R., Waugh, L., Tully, L., & Hynes, K. (1996). The revised 
+
+McClintock, K., Hall, S., & Oliver, C. (2003). Risk markers associ- family observation schedule (3rd ed.). Brisbane: The University 
+ated with challenging behaviours in people with intellectual dis- of Queensland, Parenting and Family Support Centre.
+abilities: A meta-analytic study. Journal of Intellectual Disability Scott, S., O’Connor, T. G., Futh, A., Matias, C., Price, J., & Doolan, 
+Research, 47(6), 405–416. M. (2010). Impact of a parenting program in a high-risk, multi-
+
+Mian, N. D., Carter, A. S., Pine, D. S., Wakschlag, L. S., & Briggs- ethnic community: The PALS trial. Journal of Child Psychology 
+Gowan, M. J. (2015). Development of a novel observational and Psychiatry, 51(12), 1331–1341.
+measure for anxiety in young children: The anxiety dimensional Scudder, A., Wong, C., Ober, N., Hoffman, M., Toscolani, J., & 
+observation scale. Journal of Child Psychology and Psychiatry, Handen, B. L. (2019). Parent–child interaction therapy (PCIT) 
+and Allied Disciplines, 56(9), 1017–1025. in young children with autism spectrum disorder. Child & Family 
+
+Najman, J. M., Williams, G. M., Nikles, J., Spence, S., Bor, W., Behavior Therapy, 41(4), 201–220.
+O’Callaghan, M.,… Andersen, M. J. (2000). Mothers’ mental Simonoff, E., Pickles, A., Charman, T., Chandler, S., Loucas, T., & 
+illness and child behavior problems: Cause-effect association or Baird, G. (2008). Psychiatric disorders in children with autism 
+observation bias? Journal of the American Academy of Child and spectrum disorders: Prevalence, comorbidity, and associated fac-
+Adolescent Psychiatry, 39(5), 592–602 tors in a population-derived sample. Journal of the American 
+
+National Institute for Health and Clinical Excellence. (2013). Antisocial Academy of Child and Adolescent Psychiatry, 47(8), 921–929.
+behaviour and conduct disorders in children and young people: Simonoff, E., Jones, C. R., Baird, G., Pickles, A., Happe, F., & Char-
+Recognition and management (CG158). Manchester: National man, T. (2013). The persistence and stability of psychiatric prob-
+Institute for Health and Clinical Excellence. lems in adolescents with autism spectrum disorders. Journal of 
+
+O’Connor, T. G., Matias, C., Futh, A., Tantam, G., & Scott, S. (2013). Child Psychology and Psychiatry, 54(2), 186–194.
+Social learning theory parenting intervention promotes attach- Sonuga-Barke, E. J., Brandeis, D., Cortese, S., Daley, D., Ferrin, M., 
+ment-based caregiving in young children: Randomized clinical Holtmann, M.,… European ADHD Guidelines Group. (2013). 
+
+1 3
+
+
+
+1	 4 Journal of Autism and Developmental Disorders (2021) 51:1–14
+
+Nonpharmacological interventions for ADHD: Systematic review assessment of preschool disruptive behavior, part II: Validity of 
+and meta-analyses of randomized controlled trials of dietary and the disruptive behavior diagnostic observation schedule (DB-
+psychological treatments. The American Journal of Psychiatry, DOS). Journal of the American Academy of Child and Adolescent 
+170(3), 275–289 Psychiatry, 47(6), 632–641
+
+StataCorp. (2015). Stata statistical software: Release 14. College Sta- Wakschlag, L. S., Hill, C., Carter, A. S., Danis, B., Egger, H. L., 
+tion, TX: StataCorp LP. Keenan, K.,… Briggs-Gowan, M. J. (2008). Observational assess-
+
+Stratis, E. A., & Lecavalier, L. (2017). Predictors of parent–teacher ment of preschool disruptive behavior, part I: Reliability of the 
+agreement in youth with autism spectrum disorder and their typi- disruptive behavior diagnostic observation schedule (DB-DOS). 
+cally developing siblings. Journal of Autism and Developmental Journal of the American Academy of Child and Adolescent Psy-
+Disorders, 47(8), 2575–2585. chiatry, 47(6), 622–631
+
+Tarver, J. H., Palmer, M. L., Webb, S., Scott, S. B. C., Slonims, V., White, S. W., Oswald, D., Ollendick, T., & Scahill, L. (2009). Anxi-
+Simonoff, E., et al. (2019). Child and parent outcomes following ety in children and adolescents with autism spectrum disorders. 
+parent interventions for child emotional and behavioral problems Clinical Psychology Review, 29(3), 216–229.
+in autism spectrum disorders (ASD): A systematic review and Williams, M. E., Hastings, R. P., & Hutchings, J. (2020). The incred-
+meta-analysis. Autism. https:​//doi.org/10.1177/136236​ 13198​ 3004​ ible years autism spectrum and language delays parent program: 
+2. A pragmatic, feasibility randomized controlled trial. Autism 
+
+Tellegen, C. L., & Sanders, M. R. (2014). A randomized controlled trial Research. https​://doi.org/10.1002/aur.2265.
+evaluating a brief parenting program with children with autism Yorke, I., White, P., Weston, A., Rafla, M., Charman, T., & Simonoff, 
+spectrum disorders. Journal of Consulting and Clinical Psychol- E. (2018). The association between emotional and behavioral 
+ogy, 82(6), 1193–1200. problems in children with autism spectrum disorder and psycho-
+
+Tseng, M., Fu, C., Cermak, S. A., Lu, L., & Shieh, J. (2011). Emotional logical distress in their parents: A systematic review and meta-
+and behavioral problems in preschool children with autism: Rela- analysis. Journal of Autism and Developmental Disorders, 48(10), 
+tionship with sensory processing dysfunction. Research in Autism 3393–3415.
+Spectrum Disorders, 5(4), 1441–1450.
+
+Vetter, J. A. (2018). Parent-child interaction therapy for autism spec- Publisher’s Note  Springer Nature remains neutral with regard to 
+trum and attention-deficit/hyperactivity disorders: A review of jurisdictional claims in published maps and institutional affiliations.
+the literature. Child & Family Behavior Therapy, 40(3), 204–232.
+
+Wakschlag, L. S., Briggs-Gowan, M. J., Hill, C., Danis, B., Lev-
+enthal, B. L., Keenan, K.,… Carter, A. S. (2008). Observational 
+
+1 3

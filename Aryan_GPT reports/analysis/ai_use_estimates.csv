@@ -1,162 +1,162 @@
 file,sentences,words,estimated_ai_fraction,estimated_ai_percent,ci95_lower_percent,ci95_upper_percent,bootstrap_samples,human_reference,ai_reference
-1E2CCBw9Z1x8.txt,215,4646,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-256TusaKkAmh.txt,131,3965,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-2eGVbATY5Hl3.txt,178,4903,0.989239,98.923866,97.847733,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-3GxeU8uP8BgB.txt,208,4250,0.973970,97.396990,94.793980,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-3X8WmMpLObov.txt,269,5872,0.913940,91.394007,87.505352,95.282663,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-3q7uDhCiUMll.txt,195,4971,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-4D5UKwKsUxSd.txt,201,5034,0.990933,99.093290,98.186579,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-4NdQAXFdO6wK.txt,202,4835,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-4ubc9NPS2DyD.txt,235,5111,0.999997,99.999691,99.999382,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-5HrMjL5qrXQl.txt,221,4093,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-5jQrWNYOH5IL.txt,201,4572,0.998869,99.886901,99.773802,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-5kSpycCewI6U.txt,193,5209,0.986250,98.625010,97.250020,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-5mXcwgfs6WzO.txt,241,5455,0.974408,97.440806,94.881613,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-7UB6Nd58ut6N.txt,245,5727,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-7VYwZ8oc9GoU.txt,182,4816,0.933844,93.384368,89.313743,97.454992,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-8ebGvL5rpPDl.txt,174,4394,0.997005,99.700466,99.400932,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-8qF5dQKChoA5.txt,150,4136,0.981987,98.198739,96.397478,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-97TbLS7uHvsk.txt,209,5438,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-9gzbpstbKrWg.txt,226,4703,0.983718,98.371833,96.743665,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-9y5DyYq6gAQo.txt,203,5146,0.986005,98.600510,97.201019,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-A5xOsunmC81W.txt,255,4990,0.990252,99.025200,98.050399,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-AyUc5yUhDH6T.txt,224,4985,0.944647,94.464693,91.227233,97.702152,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-B5lgOHi2adiC.txt,185,5248,0.975386,97.538611,95.157145,99.920077,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-BF1W5piABcku.txt,221,4590,0.985708,98.570830,97.141660,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-BrezZxyIWK4t.txt,235,5322,0.988823,98.882331,97.764662,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-BwZq8cLGYD40.txt,223,4900,0.999831,99.983104,99.966208,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-CBef5LjyvOru.txt,196,5116,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-CNkmG4Wo3A3Q.txt,205,5261,0.971823,97.182323,94.440191,99.924455,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-CUCkYsK1QNfQ.txt,215,5223,0.987051,98.705142,97.410283,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-CgJq8J7K3ykj.txt,203,5068,0.988589,98.858875,97.717749,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-Ds8oAMkNPFQx.txt,193,6251,0.995324,99.532390,99.064781,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-E55zzjuqW8AH.txt,231,4866,0.982880,98.288037,96.576073,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-EOL4YNGm3ouY.txt,213,5142,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-EWH70JT4iC4V.txt,204,4071,0.980653,98.065318,96.130635,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-EuuAcvjF3QRZ.txt,180,4041,0.984416,98.441575,96.883150,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-FKqMCsMfSkXH.txt,243,6060,0.997711,99.771113,99.542226,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-FddstEa9Zlsc.txt,215,4906,0.990981,99.098125,98.196250,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-FgFDPXUkC5J1.txt,216,4723,0.976015,97.601488,95.202976,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-FlIE4xEb2GEZ.txt,258,5350,0.979021,97.902093,95.804186,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-G7Pisvsl2aHa.txt,181,4456,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-GIdd2Tm24iH4.txt,242,5119,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-GgRu6PWShzXk.txt,188,4652,0.979949,97.994858,95.989717,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-GusZv8U8Zw7e.txt,271,6448,0.990188,99.018752,98.037505,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-Ip3YYxB2lO5f.txt,158,4056,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-JSI6rGJoCaqk.txt,236,4892,0.977398,97.739796,95.479592,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-JXhvfRae7YSY.txt,278,5459,0.992454,99.245440,98.490880,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-K3EKu8vKb88e.txt,255,4958,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-KJnAaYVzNl9d.txt,220,4500,0.980415,98.041529,96.083058,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-KhMzosQ9WZ54.txt,160,4866,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-KtNU2Y9MphJE.txt,215,5053,0.959163,95.916348,92.462395,99.370301,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-LdwZaIrxeduo.txt,200,4915,0.979911,97.991128,95.982256,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-LezAFKq1xxOq.txt,227,5303,0.967994,96.799423,93.899431,99.699415,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-Lgitp0DkhPE6.txt,206,4899,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-N16YFGVk9MoO.txt,266,4674,0.972392,97.239154,94.478307,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-NX2xmQ5NipDr.txt,240,4878,0.981208,98.120770,96.241540,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-NdHHNGPJk2bV.txt,197,5423,0.990686,99.068591,98.137183,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-NdkTiRYtoUop.txt,233,5271,0.986881,98.688128,97.376257,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-Nt6HDXBWdwMy.txt,184,4391,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-O9WFExXDtfhz.txt,175,5136,0.995623,99.562341,99.124681,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-OFSTxjq2xP6Z.txt,187,5014,0.988682,98.868244,97.736488,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-OWQlS6X3ZlbX.txt,236,5971,0.987918,98.791782,97.583565,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-OyEGJLaVIQ7M.txt,199,5084,0.983850,98.385046,96.770092,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-P3GDMy3INi7w.txt,212,5487,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-P8XHtBCS0jag.txt,181,4340,0.980298,98.029780,96.059561,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-PBP5IVfeRLHK.txt,222,4686,0.983663,98.366259,96.732517,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-PSVjy6gDlI4u.txt,210,5098,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-PgljmExiezrG.txt,218,4796,0.991034,99.103372,98.206743,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-PhZt0Er2EGXS.txt,181,4403,0.987431,98.743071,97.486142,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-QAT0bWsUgdVm.txt,216,5283,0.987458,98.745756,97.491512,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-QvNmsW7T4Lun.txt,192,4972,0.990691,99.069126,98.138251,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-QzR2QxsQIrMN.txt,277,5811,1.000000,99.999995,99.999991,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-R3TSj83bpWwk.txt,192,4582,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-RaxoQS2Gv3nI.txt,221,5000,0.990648,99.064790,98.129579,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-S1MK29m3RQqJ.txt,194,4498,0.987165,98.716510,97.433020,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-SU5QMrsLJ73M.txt,159,5428,0.979910,97.991028,95.982056,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-TDgTkGy1Skmo.txt,233,4008,0.941215,94.121464,91.073655,97.169273,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-TMn1t5tj9OF3.txt,152,4993,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-Tvxc8dsb3aEs.txt,199,4345,0.992007,99.200715,98.401431,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-UL7D1pKudEKk.txt,237,5165,0.978279,97.827896,95.655792,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-URwEZaLseFc4.txt,158,4093,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-UmBY0MHRFIaj.txt,223,5429,0.983290,98.329039,96.658079,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-V7H3Y0z9bS2D.txt,166,4303,0.987917,98.791741,97.583482,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-VKngYX6Luk8Y.txt,218,5392,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-VS7urfOqv9t2.txt,221,5890,0.990639,99.063894,98.127788,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-W0L9YFm76OzY.txt,240,5012,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-WRKgXbuV4YMm.txt,222,5553,0.977419,97.741892,95.483784,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-WY9n8TivT0vP.txt,171,4878,0.978890,97.888992,95.777984,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-XkjtQ6dkVvLN.txt,214,5502,0.970185,97.018459,94.036918,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-Y3jjcJrA4t2n.txt,212,5168,0.952606,95.260636,91.931329,98.589943,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-YOCrXttEw3LQ.txt,220,4870,0.991724,99.172407,98.344814,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-YpJ1dVvWJAXa.txt,245,4966,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-YpMtzAwCyaD4.txt,193,4757,0.950447,95.044662,91.454135,98.635189,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-Yx0O6Whx3AWU.txt,177,3564,0.989747,98.974657,97.949315,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-Yy6thmwoXDwJ.txt,217,5119,0.962664,96.266378,92.991570,99.541187,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-ZZ5JYRvRxL7H.txt,212,5124,0.983996,98.399634,96.799267,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-ZmeMJMuoXDGa.txt,182,4499,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-a0dEjUV9LGyv.txt,178,4117,0.998272,99.827171,99.654342,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-aRNi06VEMBMB.txt,215,4680,0.992713,99.271315,98.542630,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-axPhg9oTfLf7.txt,210,5126,0.986192,98.619246,97.238492,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-bJB7Ln1Zvyj9.txt,221,4834,0.965954,96.595396,93.872154,99.318638,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-bsujfbKF1pB1.txt,198,3165,0.960899,96.089881,92.390605,99.789156,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-cO4ICUOscBuH.txt,193,4469,0.990291,99.029089,98.058179,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-cg8DEFqv215p.txt,256,4097,0.969995,96.999464,94.462621,99.536307,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-crIa0tSzePow.txt,179,4333,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-crfUpO7SGwEO.txt,220,5288,0.989847,98.984697,97.969395,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-cwp3A5b6CC31.txt,202,4854,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-e5cYAoFZBmTk.txt,156,3699,0.981352,98.135196,96.270392,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-e7PY6BXvajSC.txt,199,4212,0.984437,98.443715,96.887431,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-e9Uj11ReV815.txt,204,5251,0.991034,99.103443,98.206885,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-eJGY7Utn8Bdy.txt,165,4322,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-eWM6rQTBhflC.txt,233,5206,0.994712,99.471186,98.942373,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-echLs0s9frn7.txt,183,4989,0.992784,99.278422,98.556844,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-eeTnr9av5ljB.txt,236,5189,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-evXQPmVWXcDP.txt,242,5284,0.991178,99.117829,98.235658,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-fpSo4S2QDftJ.txt,206,5028,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-gJJ32bc1ROXF.txt,208,5200,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-gahU4U2pFnY1.txt,168,4661,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-h63FfFS2fHRQ.txt,188,4291,0.997618,99.761772,99.523543,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-j97vNKumaKQ1.txt,215,5100,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-jg0ehmKCOAxS.txt,203,4543,0.968352,96.835205,93.670411,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-jpAV8WWFj2eZ.txt,247,5469,0.975750,97.575025,95.150050,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-k6R8F5sewJoG.txt,220,5296,0.993219,99.321903,98.643807,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-kDUP1xXy3ayO.txt,187,4859,0.979599,97.959899,95.919798,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-kapaJLcpipo5.txt,229,5234,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-l0STYPGNCGDc.txt,196,4724,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-l5pRrEhRmPWh.txt,239,4514,0.990846,99.084560,98.169119,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-lnUMgOoCAC11.txt,229,5232,0.998364,99.836407,99.672813,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-lwIudmIZKDK7.txt,261,5368,0.991895,99.189503,98.379006,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-m8T8Gs69wV7i.txt,226,4833,0.984962,98.496174,96.992349,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-n1Aey8OHdD4Y.txt,215,4413,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-n9MpzVMmGEBp.txt,257,5548,0.911217,91.121700,86.968538,95.274863,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-nUGQuTFCfrre.txt,227,5026,0.991601,99.160107,98.320214,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-nUgqJsiXs8LW.txt,231,4850,0.951927,95.192695,91.551188,98.834202,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-nVHu72Oq34hi.txt,205,4491,0.956330,95.633006,92.500212,98.765799,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-oOyq24YuH7d9.txt,230,5433,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-oyMugHo4kPaH.txt,200,5085,0.983812,98.381246,96.762491,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-pMjEKIWkc7DX.txt,228,5224,0.985170,98.517047,97.034094,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-pgz2f3Ijn1jS.txt,221,5339,0.980600,98.059990,96.119980,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-qU3EE04UHzNA.txt,167,4184,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-s6d8QxXw3bzq.txt,218,3971,0.953808,95.380783,92.084847,98.676719,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-t0Lt5pLqaQRk.txt,220,5082,0.968289,96.828895,93.657790,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-tVzmI55Ux5sc.txt,232,5493,0.979147,97.914704,95.829409,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-tekIDSGvTH7A.txt,255,4794,0.978804,97.880363,95.760725,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-tsDXUN3yBJgA.txt,262,5970,0.991784,99.178359,98.356718,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-uBBZB7fNxH91.txt,229,5218,0.978016,97.801553,95.603105,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-uewvMxKxBG5d.txt,183,4580,0.971782,97.178201,94.430975,99.925428,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-uudnxyPPg8bB.txt,236,5115,0.970767,97.076735,94.166460,99.987010,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-vFSdkMLzAF0i.txt,184,5307,0.962533,96.253255,92.579498,99.927011,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-vwYcradeM90c.txt,220,4770,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-w4SdKNEUXePv.txt,220,5214,0.999008,99.900788,99.801576,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-wBsqCABoulmo.txt,231,5636,0.990593,99.059340,98.118680,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-wge1wVwb4zLD.txt,255,5231,0.992535,99.253487,98.506975,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-wr8FNTYdaWAf.txt,224,5186,0.987285,98.728501,97.457002,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-xXaFH5YbQfp9.txt,184,3887,1.000000,100.000000,100.000000,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-xZA7ZuraZjnY.txt,172,4994,0.969059,96.905921,93.811842,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-y0X1H0U619iB.txt,192,4885,0.988987,98.898661,97.797322,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-yJ3Td7jUkccV.txt,226,4908,0.945432,94.543234,90.379792,98.706676,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-yKqZ72GOwyah.txt,210,4803,0.983201,98.320132,96.640263,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-yPKgcxzKuVl1.txt,217,4572,0.983464,98.346387,96.692775,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-ziqLBGv9NO6v.txt,224,5189,0.952966,95.296612,91.720381,98.872842,200,Nature.parquet (broad-science proxy),40 ground-truth reports
-zpCktOrTtEso.txt,206,4965,0.988927,98.892657,97.785315,100.000000,200,Nature.parquet (broad-science proxy),40 ground-truth reports
+1E2CCBw9Z1x8.txt,215,4646,0.906653,90.665284,85.771988,95.558580,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+256TusaKkAmh.txt,131,3965,0.996335,99.633487,99.266974,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+2eGVbATY5Hl3.txt,178,4903,0.969306,96.930574,93.861149,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+3GxeU8uP8BgB.txt,208,4250,0.930775,93.077470,88.667363,97.487577,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+3X8WmMpLObov.txt,269,5872,0.910090,91.009012,86.794746,95.223278,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+3q7uDhCiUMll.txt,195,4971,0.971420,97.141995,94.283989,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+4D5UKwKsUxSd.txt,201,5034,0.978850,97.884953,95.769906,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+4NdQAXFdO6wK.txt,202,4835,0.947141,94.714068,90.392755,99.035380,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+4ubc9NPS2DyD.txt,235,5111,0.950283,95.028250,91.525436,98.531065,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+5HrMjL5qrXQl.txt,221,4093,0.903565,90.356533,85.037335,95.675731,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+5jQrWNYOH5IL.txt,201,4572,0.936552,93.655208,89.311755,97.998662,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+5kSpycCewI6U.txt,193,5209,0.952524,95.252396,91.977889,98.526903,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+5mXcwgfs6WzO.txt,241,5455,0.915541,91.554110,86.925102,96.183118,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+7UB6Nd58ut6N.txt,245,5727,0.943364,94.336446,90.706865,97.966027,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+7VYwZ8oc9GoU.txt,182,4816,0.898527,89.852686,84.536226,95.169145,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+8ebGvL5rpPDl.txt,174,4394,0.941098,94.109814,89.885492,98.334137,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+8qF5dQKChoA5.txt,150,4136,0.988432,98.843187,97.686373,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+97TbLS7uHvsk.txt,209,5438,0.986185,98.618498,97.236995,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+9gzbpstbKrWg.txt,226,4703,0.859218,85.921754,81.140970,90.702539,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+9y5DyYq6gAQo.txt,203,5146,0.899884,89.988362,84.433599,95.543126,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+A5xOsunmC81W.txt,255,4990,0.883052,88.305244,83.575254,93.035234,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+AyUc5yUhDH6T.txt,224,4985,0.935124,93.512432,89.671350,97.353515,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+B5lgOHi2adiC.txt,185,5248,0.964581,96.458147,92.916294,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+BF1W5piABcku.txt,221,4590,0.811688,81.168750,74.378883,87.958618,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+BrezZxyIWK4t.txt,235,5322,0.984233,98.423251,96.846502,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+BwZq8cLGYD40.txt,223,4900,0.924632,92.463243,87.594921,97.331566,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+CBef5LjyvOru.txt,196,5116,0.924675,92.467510,88.433194,96.501827,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+CNkmG4Wo3A3Q.txt,205,5261,0.938797,93.879735,89.436612,98.322859,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+CUCkYsK1QNfQ.txt,215,5223,0.958231,95.823063,92.130263,99.515863,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+CgJq8J7K3ykj.txt,203,5068,0.972983,97.298330,94.596661,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+Ds8oAMkNPFQx.txt,193,6251,0.986186,98.618572,97.237144,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+E55zzjuqW8AH.txt,231,4866,0.898063,89.806286,84.136378,95.476195,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+EOL4YNGm3ouY.txt,213,5142,0.977885,97.788486,95.576971,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+EWH70JT4iC4V.txt,204,4071,0.937534,93.753415,89.541812,97.965018,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+EuuAcvjF3QRZ.txt,180,4041,0.923889,92.388912,88.126591,96.651234,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+FKqMCsMfSkXH.txt,243,6060,0.968562,96.856186,93.712372,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+FddstEa9Zlsc.txt,215,4906,0.926353,92.635302,88.270758,96.999846,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+FgFDPXUkC5J1.txt,216,4723,0.978164,97.816420,95.632841,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+FlIE4xEb2GEZ.txt,258,5350,0.826862,82.686151,77.429697,87.942606,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+G7Pisvsl2aHa.txt,181,4456,0.982103,98.210258,96.420516,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+GIdd2Tm24iH4.txt,242,5119,0.856449,85.644918,79.707009,91.582827,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+GgRu6PWShzXk.txt,188,4652,0.884665,88.466459,83.422437,93.510480,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+GusZv8U8Zw7e.txt,271,6448,0.934892,93.489212,89.480427,97.497996,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+Ip3YYxB2lO5f.txt,158,4056,0.944681,94.468145,89.881390,99.054899,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+JSI6rGJoCaqk.txt,236,4892,0.845224,84.522391,78.295858,90.748924,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+JXhvfRae7YSY.txt,278,5459,0.901235,90.123500,85.339284,94.907716,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+K3EKu8vKb88e.txt,255,4958,0.929224,92.922368,89.027875,96.816860,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+KJnAaYVzNl9d.txt,220,4500,0.893436,89.343564,84.245913,94.441215,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+KhMzosQ9WZ54.txt,160,4866,0.989077,98.907714,97.815427,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+KtNU2Y9MphJE.txt,215,5053,0.839633,83.963289,78.046163,89.880416,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+LdwZaIrxeduo.txt,200,4915,0.945247,94.524691,90.448600,98.600782,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+LezAFKq1xxOq.txt,227,5303,0.925280,92.527978,87.942573,97.113384,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+Lgitp0DkhPE6.txt,206,4899,0.960593,96.059255,92.118510,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+N16YFGVk9MoO.txt,266,4674,0.846530,84.653003,78.484516,90.821490,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+NX2xmQ5NipDr.txt,240,4878,0.870013,87.001275,81.562984,92.439567,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+NdHHNGPJk2bV.txt,197,5423,0.912764,91.276386,86.540342,96.012429,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+NdkTiRYtoUop.txt,233,5271,0.886410,88.641018,83.860044,93.421991,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+Nt6HDXBWdwMy.txt,184,4391,0.908715,90.871517,86.003518,95.739516,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+O9WFExXDtfhz.txt,175,5136,0.984271,98.427107,96.854214,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+OFSTxjq2xP6Z.txt,187,5014,0.946957,94.695654,89.391309,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+OWQlS6X3ZlbX.txt,236,5971,0.936854,93.685418,89.935260,97.435576,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+OyEGJLaVIQ7M.txt,199,5084,0.953961,95.396094,92.138497,98.653691,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+P3GDMy3INi7w.txt,212,5487,0.972069,97.206919,94.413838,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+P8XHtBCS0jag.txt,181,4340,0.962015,96.201493,92.402985,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+PBP5IVfeRLHK.txt,222,4686,0.932607,93.260662,89.309015,97.212308,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+PSVjy6gDlI4u.txt,210,5098,0.958643,95.864293,91.728585,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+PgljmExiezrG.txt,218,4796,0.930923,93.092334,88.714731,97.469938,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+PhZt0Er2EGXS.txt,181,4403,0.963854,96.385389,92.770778,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+QAT0bWsUgdVm.txt,216,5283,0.966366,96.636614,93.273229,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+QvNmsW7T4Lun.txt,192,4972,0.926932,92.693171,88.141629,97.244713,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+QzR2QxsQIrMN.txt,277,5811,0.916402,91.640205,87.609676,95.670733,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+R3TSj83bpWwk.txt,192,4582,0.881420,88.142033,82.078385,94.205681,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+RaxoQS2Gv3nI.txt,221,5000,0.973027,97.302737,94.700142,99.905332,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+S1MK29m3RQqJ.txt,194,4498,0.976350,97.634962,95.269923,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+SU5QMrsLJ73M.txt,159,5428,1.000000,100.000000,100.000000,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+TDgTkGy1Skmo.txt,233,4008,0.704978,70.497811,63.168405,77.827218,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+TMn1t5tj9OF3.txt,152,4993,0.992619,99.261919,98.523838,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+Tvxc8dsb3aEs.txt,199,4345,0.910063,91.006313,85.816106,96.196521,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+UL7D1pKudEKk.txt,237,5165,0.917315,91.731479,87.415078,96.047880,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+URwEZaLseFc4.txt,158,4093,0.959320,95.931984,91.863967,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+UmBY0MHRFIaj.txt,223,5429,0.884911,88.491141,83.884723,93.097558,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+V7H3Y0z9bS2D.txt,166,4303,0.966294,96.629409,93.783886,99.474932,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+VKngYX6Luk8Y.txt,218,5392,0.909546,90.954643,86.071135,95.838151,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+VS7urfOqv9t2.txt,221,5890,0.990128,99.012807,98.025614,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+W0L9YFm76OzY.txt,240,5012,0.924085,92.408536,88.153570,96.663501,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+WRKgXbuV4YMm.txt,222,5553,0.921017,92.101734,87.517426,96.686041,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+WY9n8TivT0vP.txt,171,4878,0.945114,94.511386,90.742759,98.280013,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+XkjtQ6dkVvLN.txt,214,5502,0.982118,98.211780,96.423560,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+Y3jjcJrA4t2n.txt,212,5168,0.931408,93.140847,88.901374,97.380319,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+YOCrXttEw3LQ.txt,220,4870,0.920491,92.049148,87.914257,96.184040,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+YpJ1dVvWJAXa.txt,245,4966,0.821890,82.189038,76.441076,87.937000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+YpMtzAwCyaD4.txt,193,4757,0.833529,83.352913,77.115665,89.590161,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+Yx0O6Whx3AWU.txt,177,3564,0.977294,97.729445,95.458890,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+Yy6thmwoXDwJ.txt,217,5119,0.835911,83.591147,78.228361,88.953932,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+ZZ5JYRvRxL7H.txt,212,5124,1.000000,100.000000,100.000000,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+ZmeMJMuoXDGa.txt,182,4499,0.957941,95.794066,91.588132,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+a0dEjUV9LGyv.txt,178,4117,0.973332,97.333234,94.666467,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+aRNi06VEMBMB.txt,215,4680,0.955095,95.509465,91.432732,99.586199,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+axPhg9oTfLf7.txt,210,5126,0.937284,93.728375,89.896899,97.559851,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+bJB7Ln1Zvyj9.txt,221,4834,0.939315,93.931512,89.180786,98.682239,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+bsujfbKF1pB1.txt,198,3165,0.679700,67.970044,60.138570,75.801517,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+cO4ICUOscBuH.txt,193,4469,0.964775,96.477541,93.035820,99.919262,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+cg8DEFqv215p.txt,256,4097,0.648999,64.899915,57.670194,72.129636,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+crIa0tSzePow.txt,179,4333,0.961279,96.127888,92.255775,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+crfUpO7SGwEO.txt,220,5288,0.952846,95.284576,91.093332,99.475820,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+cwp3A5b6CC31.txt,202,4854,0.981880,98.187955,96.375910,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+e5cYAoFZBmTk.txt,156,3699,0.939072,93.907160,88.577016,99.237304,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+e7PY6BXvajSC.txt,199,4212,0.930633,93.063265,88.044137,98.082393,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+e9Uj11ReV815.txt,204,5251,0.935699,93.569948,88.589866,98.550029,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+eJGY7Utn8Bdy.txt,165,4322,0.970756,97.075606,94.151213,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+eWM6rQTBhflC.txt,233,5206,0.906651,90.665114,86.251868,95.078359,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+echLs0s9frn7.txt,183,4989,0.974096,97.409642,94.819284,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+eeTnr9av5ljB.txt,236,5189,0.840105,84.010498,78.311364,89.709632,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+evXQPmVWXcDP.txt,242,5284,0.889932,88.993224,83.653784,94.332664,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+fpSo4S2QDftJ.txt,206,5028,0.912752,91.275238,86.176839,96.373637,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+gJJ32bc1ROXF.txt,208,5200,0.988770,98.876978,97.753955,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+gahU4U2pFnY1.txt,168,4661,0.963370,96.337012,92.674024,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+h63FfFS2fHRQ.txt,188,4291,0.972081,97.208127,94.416253,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+j97vNKumaKQ1.txt,215,5100,0.902066,90.206611,85.453567,94.959656,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+jg0ehmKCOAxS.txt,203,4543,0.875537,87.553668,81.722231,93.385106,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+jpAV8WWFj2eZ.txt,247,5469,0.891725,89.172515,84.365584,93.979446,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+k6R8F5sewJoG.txt,220,5296,0.968581,96.858089,93.716179,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+kDUP1xXy3ayO.txt,187,4859,0.941986,94.198555,89.910402,98.486708,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+kapaJLcpipo5.txt,229,5234,0.936950,93.694991,89.479966,97.910015,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+l0STYPGNCGDc.txt,196,4724,0.980162,98.016209,96.032419,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+l5pRrEhRmPWh.txt,239,4514,0.848598,84.859783,79.217126,90.502440,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+lnUMgOoCAC11.txt,229,5232,0.945743,94.574341,91.375767,97.772914,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+lwIudmIZKDK7.txt,261,5368,0.890315,89.031491,83.903299,94.159684,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+m8T8Gs69wV7i.txt,226,4833,0.903239,90.323874,85.401731,95.246018,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+n1Aey8OHdD4Y.txt,215,4413,0.873707,87.370673,81.750030,92.991316,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+n9MpzVMmGEBp.txt,257,5548,0.725901,72.590064,67.078843,78.101285,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+nUGQuTFCfrre.txt,227,5026,0.912438,91.243802,86.226412,96.261192,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+nUgqJsiXs8LW.txt,231,4850,0.859574,85.957369,80.919285,90.995454,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+nVHu72Oq34hi.txt,205,4491,0.917269,91.726930,86.863621,96.590239,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+oOyq24YuH7d9.txt,230,5433,0.927792,92.779238,87.948389,97.610087,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+oyMugHo4kPaH.txt,200,5085,0.968979,96.897872,93.795745,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+pMjEKIWkc7DX.txt,228,5224,0.903929,90.392907,85.148743,95.637071,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+pgz2f3Ijn1jS.txt,221,5339,0.947181,94.718139,90.963645,98.472634,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+qU3EE04UHzNA.txt,167,4184,1.000000,100.000000,100.000000,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+s6d8QxXw3bzq.txt,218,3971,0.772785,77.278477,71.757457,82.799496,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+t0Lt5pLqaQRk.txt,220,5082,0.878592,87.859152,82.431797,93.286507,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+tVzmI55Ux5sc.txt,232,5493,0.949084,94.908368,91.259530,98.557207,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+tekIDSGvTH7A.txt,255,4794,0.803247,80.324664,73.919027,86.730300,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+tsDXUN3yBJgA.txt,262,5970,0.972705,97.270510,94.541020,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+uBBZB7fNxH91.txt,229,5218,0.892826,89.282583,83.956971,94.608195,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+uewvMxKxBG5d.txt,183,4580,0.957598,95.759752,91.519505,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+uudnxyPPg8bB.txt,236,5115,0.876083,87.608326,82.396238,92.820414,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+vFSdkMLzAF0i.txt,184,5307,0.887296,88.729588,83.948704,93.510471,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+vwYcradeM90c.txt,220,4770,0.886384,88.638392,83.440730,93.836053,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+w4SdKNEUXePv.txt,220,5214,0.927577,92.757661,89.004194,96.511127,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+wBsqCABoulmo.txt,231,5636,0.884042,88.404208,83.297049,93.511366,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+wge1wVwb4zLD.txt,255,5231,0.886375,88.637544,83.436051,93.839037,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+wr8FNTYdaWAf.txt,224,5186,0.866292,86.629231,80.766092,92.492371,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+xXaFH5YbQfp9.txt,184,3887,0.908649,90.864902,85.471772,96.258032,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+xZA7ZuraZjnY.txt,172,4994,0.969084,96.908352,93.816704,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+y0X1H0U619iB.txt,192,4885,0.962925,96.292507,92.585013,100.000000,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+yJ3Td7jUkccV.txt,226,4908,0.825367,82.536750,76.674420,88.399080,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+yKqZ72GOwyah.txt,210,4803,0.878257,87.825690,82.009756,93.641623,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+yPKgcxzKuVl1.txt,217,4572,0.899086,89.908598,85.098224,94.718973,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+ziqLBGv9NO6v.txt,224,5189,0.932763,93.276260,89.369081,97.183440,200,18 TXT files in data/human_reference_txt,40 ground-truth reports
+zpCktOrTtEso.txt,206,4965,0.902501,90.250082,85.747546,94.752618,200,18 TXT files in data/human_reference_txt,40 ground-truth reports

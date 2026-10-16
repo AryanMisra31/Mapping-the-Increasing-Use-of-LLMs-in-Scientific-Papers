@@ -1,0 +1,607 @@
+﻿Psychonomic Bulletin & Review (2020) 27:1333–1340
+https://doi.org/10.3758/s13423-020-01775-y
+
+BRIEF REPORT
+
+Losing my loss aversion: The effects of current and past environment
+on the relative sensitivity to losses and gains
+
+Tim Rakow1
+& Nga Yiu Cheung1
+
+& Camilla Restelli1
+
+Published online: 27 July 2020
+# The Author(s) 2020
+
+Abstract
+It is often assumed that most people are loss averse, placing more weight on losses than commensurate gains; however, some
+research identifies variability in loss sensitivity that reflects features of the environment. We examined this plasticity in loss
+sensitivity by manipulating the size and distribution of possible outcomes in a set of mixed gambles, and assessing individual
+stability in loss sensitivity. In each of two sessions, participants made accept-reject decisions for 64 mixed-outcome gambles.
+Participants were randomly assigned to conditions defined by the relative range of losses and gains (wider range of losses vs.
+wider range of gains), and the currency-units at stake (‘pennies’ vs. ‘pounds’). Participants showed modest but non-trivial
+consistency in their sensitivity to losses; though loss sensitivity also varied substantially with our manipulations. When possible
+gains had greater range than possible losses, most participants were loss averse; however, when possible losses had the greater
+range, reverse loss aversion was the norm (i.e., more weight on gains than losses). This is consistent with decision-by-sampling
+theory, whereby an outcome’s rank within a consideration-set determines its value, but can also be explained by the gamble’s
+expected-value rank within the decision-set, or by adapting aspirations to the decision-environment. Loss aversion was also
+reduced in the second session of decisions when the stakes had been higher in the previous session. This illustrates the influence
+of prior context on current sensitivity to losses, and suggests a role for idiosyncratic experiences in the development of individual
+differences in loss sensitivity.
+
+Keywords Decision-by-sampling . Preference construction . Context effects . Stability of risk preference
+
+Introduction negative stimuli and events have greater potency than positive
+ones. Baumeister, Bratlavsky, Finkenauer and Vohs (2001)
+
+Loss aversion refers to weighting losses more than equivalent- argue that numerous developmental, clinical and cognitive
+sized gains. It can explain many decision phenomena includ- observations reveal this negativity bias, including: priority
+ing conservatism in long-term investing and over-valuing for negative stimuli in impression formation and attention
+one’s assets (Benartzi & Thaler, 1995; Kahneman, Knetsch tasks, faster learning with punishment than reward, and the
+&Thaler, 1991). Kahneman (2011, p.300) describes loss aver- speedy acquisition of conditioned aversions.
+sion as “the most significant contribution of psychology to Loss aversion is often discussed as a feature of many peo-
+behavioural economics” and Rozin and Royzman (2001) re- ple’s information processing. Rozin and Royzman (2001)
+gard it as one illustration of a general negativity bias whereby deem it an information-processing bias; and Tom, Fox,
+
+Trepel and Poldrack (2007, p.515) suggested loss aversion
+“may reflect a fundamental feature of how potential outcomes
+
+Electronic supplementary material The online version of this article are assessed by the primate brain”. When outlining that
+(https://doi.org/10.3758/s13423-020-01775-y) contains supplementary rejecting a symmetric 50–50 gamble with equal-sized losses
+material, which is available to authorized users.
+
+and gains denotes loss aversion, Kahneman and Tversky
+
+* Tim Rakow (1979, p.279) asserted that: “most people find [such] bets …
+tim.rakow@kcl.ac.uk distinctly unattractive”. Other work also treats loss aversion as
+
+a property of the individual decision maker, but examines this
+1 as an individual difference. Thus, while it is often stated that
+
+Institute of Psychiatry, Psychology and Neuroscience – Department
+of Psychology, King’s College London, London, UK people typically weight losses twice as much as gains (Tom
+
+
+
+1334 Psychon Bull Rev (2020) 27:1333–1340
+
+et al., 2007), cognitive models of individual decision makers provides further data on the extent to which sensitivity to
+find that this ratio (the loss aversion coefficient) varies be- losses reflects an individual’s dispositions for information
+tween individuals and has moderate stability over time (r ≈ processing, or the features of his or her environment.
+.5; Glöckner & Pachur, 2012). This suggests that sensitivity to
+losses is a noteworthy individual difference, which we explore
+in this paper by examining loss sensitivity (within-subjects) Method
+across different environments.
+
+Recent work argues that loss aversion is something that Task and participants
+occurs in some environments, rather than something seen in
+(most) people because when the environment changes so too One-hundred-and-nine adult volunteers completed the same
+can the apparent relative weighting for losses and gains (Gal& online decision task on two different days, with different stim-
+Rucker, 2018). Thus, loss aversion is often reduced or absent uli defining each session’s decision-set. Additionally, 45 par-
+in: low-stakes decisions, when participants learn option- ticipants completed only the first session. Each session re-
+payoffs through repeated experience, or when symmetric quired 64 accept-versus-reject decisions for a 50–50 gamble
+50–50 gambles are embedded among less attractive gambles comprising one loss-amount and one gain-amount (presented
+(Ert & Erev, 2013; Yechiam&Hochman, 2013).Walasek and simultaneously; upper/lower position randomised).
+Stewart (2015) experimentally examined this plasticity in be-
+havioural responses to losses. Using decision-by-sampling the- Design and procedure
+ory (Stewart, Chater & Brown, 2006), they hypothesised that
+the distribution of losses and gains in a series of mixed gambles
+
+Each session had a 2-by-2 between-subjects design. One factor
+affects sensitivity to losses because an outcome’s
+
+manipulated the relative range of losses and gains (range condi-
+valuation relies on its rank within its consideration-set. For
+
+tion). Consistent withWalasek and Stewart (2015), gains or losses
+example, $32 ranks ‘low’ if other to-be-evaluated amounts are
+
+spanned 24–80 in eight-unit increments (high range) or 12–40 in
+Uniform($24,$80) but ranks ‘high’ within Uniform($12,$40).
+
+four-unit increments (low range). We thereby created two range
+Consequently, a 50–50 gamble for ±$32 should be less
+
+conditions: high-gain range with low-loss range (HGR-LLR), and
+attractive when +$32 ranks low in the distribution of gains
+
+low-gain range with high-loss range (LGR-HLR). The gambles in
+encountered in other gambles, and/or when -$32 ranks high
+
+each range condition represented all possible pairings of the des-
+(in magnitude) within the distribution of possible losses.
+
+ignated loss-amounts and gain-amounts. These two range condi-
+Walasek and Stewart corroborated this hypothesis in four
+
+tions were symmetric in the sense that the median ratio for gains/
+experiments: loss aversion reduced, disappeared and, occa-
+
+losses was 2.0 (0.5) in the HGR-LLR (LGR-HLR) condition; and
+sionally, reversed as a function of the ranges of losses and
+
+the HGR-LLR (LGR-HLR) condition had 86% of gambles with
+of gains encountered over 64 accept/reject decisions for 50-
+50 gambles.1
+
+positive (negative) expected value (EV) and 9% with negative
+(positive) EV.
+
+To better understand how an individual’s underlying pref-
+The other factor, amount condition, manipulated the currency-
+
+erences and his/her environment influence sensitivity to
+units: outcomeswere ‘pennies’ (low-amount condition; e.g., ‘–16p’)
+
+losses, we replicated and extended Walasek and Stewart
+or ‘pounds’ (high-amount condition; e.g., ‘–£16’). We randomly
+
+(2015). We re-examine their range manipulation, but also ma-
+allocated each participant to a condition for Session 1 (S1), and (at
+
+nipulate the stakes by a factor of 100 because previous re-
+least 1 day later) to one of the three remaining conditions for Session
+
+search finds that raising the stakes increases the degree of loss
+2 (S2).On completingS1, participants received a 7-digitmatch-code
+
+aversion (Ert & Erev, 2013). If either manipulation substan-
+to enter in S2. Most participants (54%) had one night between
+
+tially affects participants’ relative sensitivity to losses and
+sessions with 26% having two to three nights between.2
+
+gains (e.g., alters their propensity to accept a 50–50 gamble
+for equal-sized losses and gains), this would imply that loss
+sensitivity is context dependent and therefore that loss aver- Data transparency
+sion may not be fundamental to how people process potential
+outcomes. Additionally, we ran a second session of decisions Project-completion deadlines dictated our data-collection
+(within-subjects) to assess within-participant stability in loss stopping rule: we recruited participants between 5 December
+sensitivity across different decision environments. This 2018 and 1 March 2019. We report all manipulations and
+
+dependent measures, and any data exclusions together with
+1 In addition to these empirical challenges to the loss aversion account, there their reasons. The data are available at https://osf.io/384jd/.
+are theoretical ones. For example, the loss attention account proposes that what
+looks like the effect differential weighting of losses and gains might be better 2 Three participants completed both sessions on the same date: one completed
+understood as effects due to increased attention to decision tasks when losses S1 just after midnight; two participants completed S1 early morning and upon
+are possible (Yechiam & Hochman, 2013). contacting us we likely assumed they had completed the day before.
+
+
+
+Psychon Bull Rev (2020) 27:1333–1340 1335
+
+Data analysis Table 1 Median [95% confidence interval] (inter-quartile range) {ncell}
+for the loss aversion coefficient by condition
+
+As per Walasek and Stewart (2015), we computed a loss- Amount Range condition Both range
+aversion coefficient for each participant to represent the condition conditions
+relative impact of losses and gains on their decisions. HGR-LLR: High- LGR-HLR: Low- combined
+
+gain range with gain range with
+Regressing accept-reject decision on gain-amount and loss- low-loss range high-loss range
+amount for each session’s 64 decisions generated this binary
+logistic regression model: Session 1 (S1)
+
+ High 1.54 [1.12,1.61] 0.94 [0.67,1.00] 1.01 [0.96,1.19]
+PðacceptÞ 
+
+Log (1.00–2.25) (0.64–1.07) (0.77–1.58)
+e ð β
+1−P acceptÞ ¼ bias þ βloss ðlossÞ þ βgain ðgainÞ {n = 31} {n = 31} {n = 62}
+
+Low 1.34 [1.08,1.61] 0.77 [0.63,0.99] 1.03 [0.86,1.30]
+The regression coefficients βloss and βgain represent the (0.95–1.79) (0.56–1.25) (0.69–1.63)
+
+sensitivity to losses and to gains. The loss aversion coefficient {n = 36} {n = 35} {n = 71}
+
+(LA Both 1.36 [1.13,1.61] 0.85 [0.67,1.00] 1.01 [0.98,1.12]
+coefficient) was computed as the ratio: βloss/βgain.
+
+LAcoefficient > 1 represents loss aversion; e.g., LA amount (1.00–1.84) (0.59–1.09) (0.75–1.61)
+coefficient = 2
+
+conditions {n = 67} {n = 66} {n = 133}
+indicates losses weighted twice-as-much as gains and there- combined
+fore we expect gambles to be rejected unless the gain amount Session 2 (S2)
+exceeds twice the loss amount. LAcoefficient < 1 represents High 1.48 [1.02, 1.86] 0.93 [0.74,1.09] 1.04 [0.99,1.38]
+reverse loss aversion (greater sensitivity to gains than losses) (1.00–2.32) (0.68–1.12) (0.82–1.77)
+
+such that, for example, we expect gambles for equal-sized {n = 29} {n = 20} {n = 49}
+
+losses and gains to be accepted. Because LAcoefficient is asym- Low 1.31 [1.03,1.87] 0.75 [0.58,0.81] 1.04 [0.80,1.22]
+(0.92–2.00) (0.50–1.11) (0.73–1.53)
+
+metric around 1 (loss neutrality), we use log10(LAcoefficient) {n = 25} {n = 21} {n = 46}
+when analyses (e.g., ANOVA) work best for interval-like da- Both 1.41 [1.05,1.85] 0.79 [0.74,1.00] 1.04 [1.00,1.14]
+ta. For such analyses, positive log(LAcoefficient) denotes loss amount (1.00–2.00) (0.52–1.12) (0.75–1.58)
+aversion, while negative log(LAcoefficient) indicates reverse conditions {n = 54} {n = 41} {n = 95}
+loss aversion. combined
+
+We report standardised effect size measures and 95% con-
+fidence intervals (CIs) wherever possible. CIs for medians and
+correlation coefficients were obtained in SPSS via 10,000 confidence interval (CI) for the median LAcoefficient in this
+bootstrap samples using the bias-corrected and accelerated condition excludes values below 1. In contrast, most partici-
+method. pants showed reverse loss aversion in the LGR-HLR condi-
+
+Applying the data-exclusion policy described by Walasek tion; and, with one exception, the 95% CI for the median
+and Stewart (2015) to each session, we excluded 21/154 (14/ LAcoefficient excludes values above 1. Based on these distribu-
+109) participants for Session 1 (Session 2). These exclusions tions of the LAcoefficient, we expect that most participants reject
+mitigate for participants’ inattention, task misunderstanding, 50–50 gambles for equal losses and gains in the HGR-LLR
+or preferences that cannot be modelled, and were: (1) the 5% condition, though most accept such gambles in the LGR-HLR
+of individuals with the worst regression fit (highest minus-2- condition. Table 2 confirms this expectation. In contrast, loss
+log-likelihood); (2) those with a negative regression coeffi- sensitivity differs little by amount condition.
+cient (βloss or βgain); or (3) making 64 invariant decisions. A two-way between-subjects ANOVA tested the effects of
+
+The Online Supplementary Materials provide additional amount condition and range condition on log(LAcoefficient)
+details of the methods. separately by session. There was a medium-sized and statisti-
+
+cally significant main effect of range condition: FS1(1,129) =
+19.81, p < .001, η 2
+
+p = .133 in Session 1 (S1); and FS2(1,91) =
+Results and discussion 8.86, p = .004, η 2
+
+p = .089 in Session 2 (S2); with higher
+log(LAcoefficient) for HGR-LLR (MS1 = 0.16, SDS1 = 0.31;
+
+The effect of range and amountmanipulations on loss MS2 = 0.18, SDS2 = 0.43) than for LGR-HLR (MS1 = –0.06,
+sensitivity SDS1 = 0.25;MS2 = –0.07, SDS2 = 0.34). Therefore, loss aver-
+
+sion was typical when the range of possible gains exceeded
+Table 1 summarises LAcoefficient by condition and session, and the range of possible losses; but reverse loss aversion was
+suggests that the range manipulation substantially influenced more common when the loss-range exceeded the gain-range.
+loss sensitivity. Around three-quarters of participants were This effect is illustrated in Fig. 1, which plots LAcoefficient by
+loss averse in the HGR-LLR condition; and every 95% range condition, with data pooled from both sessions. The
+
+
+
+1336 Psychon Bull Rev (2020) 27:1333–1340
+
+Table 2 Acceptance rate for gambles with equal-size loss- and gain-amounts, by condition and session
+
+Session 1 (S1) Session 2 (S2)
+
+Amount condition Range condition Range cond. combined Range condition Range cond. combined
+
+HGR-LLR LGR-HLR HGR-LLR LGR-HLR
+
+High 25.9% 54.4% 40.5% 28.1% 43.5% 34.5%
+Low 34.1% 78.1% 55.0% 30.9% 60.5% 45.7%
+Both amount conditions combined 30.3% 66.2% 48.1% 29.4% 52.7% 40.1%
+
+Includes all participants by session (Ns of 154 and 109) including those excluded from LAcoefficient analyses
+
+effect of amount was small and non-significant in each ses- Spearman correlation was not statistically significant, ρ(86)
+sion: FS1(1,129) = 0.57, p = .450, η 2
+
+p = .004; and FS2(1,91) = = .16, CI95%[–.07,.38], p = .130. These correlations might
+1.93, p = .168, η 2
+
+p = .021; as was the two-way interaction, underestimate the consistency in loss sensitivity over time
+both F < 1, p > .57 and η 2 < .004.3p To further illustrate the because there were several possible pairings of conditions that
+effect of condition, Table 2 reports acceptance rates for the participants could be allocated to (see Online Supplementary
+three 50–50 gambles with equal-size loss- and gain-amounts Materials for correlational analyses by condition-pair). We
+(±24, ±32 and ±40) that appeared in each condition. Only in therefore used partial correlation, controlling for the 12 possi-
+decision-sets where the gain-range exceeded the loss-range ble combinations and orders of condition pair. Using the 11
+(HGR-LLR condition) were such gambles consistently dummy variables that this required, the partial correlation was
+rejected (as would be expected if participants were loss positive, and statistically significant, rp(75) = .36,
+averse). Under other circumstances – contrary to loss aversion CI95%[.05,.61], p = .002.
+– many participants accepted these gambles. The pattern of
+choice illustrated in Table 2 also runs counter to the predic-
+tions of rational choice theory because the propensity to ac- The effect of past experience on loss sensitivity
+cept a given gamble (e.g., a 50–50 gamble for ±32) varies
+between conditions. Thus, preferences change for a target To explore whether past experience influenced subsequent
+
+choice when the range manipulation alters the other choices decisions, we conducted a two-way between-subjects
+
+that the participant also makes. ANOVA with S1 amount condition and S1 range condition
+
+Where possible, we matched LA measures across ses- as factors, and log(LAcoefficient) in S2 as the dependent mea-
+
+sions.4 A within-subjects analysis (N = 88) of the effect of sure. There was a significant main effect of S1 amount condi-
+
+range condition corroborated our between-subjects analysis: tion, F(1,84) = 6.97, p = .010, η 2
+p = .077, reflecting greater
+
+loss aversion was reduced/reversed in the LGR-HLR condi- loss aversion in S2 when participants had made decisions for
+
+tion when compared against the HGR-LGR condition, with low amounts (‘pennies’) in S1 (MS2 = 0.18, SDS2 = 0.47)
+
+the estimated effect size being slightly larger (η 2
+p = .150) than rather than for high amounts (‘£s’) in S1 (MS2 = –0.04, SDS2
+
+for the between-subjects analysis (see Online Supplementary = 0.30). (the Online Supplementary Materials report this
+
+Materials). analysis for each condition.) Neither the main effect of S1
+range condition nor the two-way (range-by-amount) interac-
+tion were significant, both F < 1, p > .35, η 2
+
+p < .011.
+Individual consistency in loss sensitivity
+
+Next we used the matched LA measures to examine consis- Three influences on loss sensitivity
+tency in sensitivity to losses across sessions and conditions.
+Log(LAcoefficient) correlated significantly across sessions, Our findings point to three influences on an individual’s sen-
+
+r(86) = .30, CI95%[.05,.51], p = .005, indicating some consis- sitivity to losses in a given set of decisions: (1) the distribution
+
+tency in loss sensitivity across sessions – however, the of losses and gains in that decision-set; (2) individual differ-
+ences denoted by consistency across decision tasks; and (3)
+
+3 It was not straightforward to use factorial ANOVA to examine effects (e.g., the size of losses and gains encountered in previous similar
+interactions) across sessions because our design was not fully factorial (i.e., no decisions. Table 3 summarises a regression model that tests
+participant encountered the same condition twice).
+4 these effects for independence, and estimates their relative
+Four participants typed S2 match-codes that matched 6/7 digits of an allo-
+
+cated match-code; we judged this sufficient to match these data. One non- contributions. Together, S1 log(LAcoefficient), S1 amount con-
+matched participant did not type their match-code in S2. dition, and S2 range condition, account for 25% of the
+
+
+
+Psychon Bull Rev (2020) 27:1333–1340 1337
+
+Fig. 1 Loss version coefficient by range condition (HGR-LLR upper LAcoefficient = 2 implies losses receive twice the weight of gains, while
+panel, LGR-HLR lower panel); data pooled from both sessions. LAcoefficient = 0.5 implies losses receive half the weight of gains. Six
+Note. LAcoefficient is plotted on a logarithmic scale to preserve symmetry outlying coefficients (shown as open icons) were truncated at 0.1 or 10
+of the relative weight given to losses and gains, either side of equal before being plotted
+weighting for losses and gains (LAcoefficient = 1). For example,
+
+variability in S2 log(LAcoefficient), F(3,84) = 9.41, p < .001, R2 loss sensitivity within a given set of decisions (not on subse-
+= .252. Each predictor is statistically significant. quent decisions). Therefore, because this analysis was explor-
+
+Stability in loss sensitivity across sessions could reflect atory rather than confirmatory, this finding is provisional and
+inertia (patterns in decision making established in S1 continu- needs further investigation.
+ing into S2) or stable tendencies within individuals. However,
+because this stability remains when controlling (via partial Conclusions
+correlation) for allocation to condition-pairing, we assume it
+represents some stability in underlying preference rather than Reproducing Walasek and Stewart’s (2015) findings, the dis-
+solely behavioural carry-over from S1 condition.5 tribution of possible losses and gains in the decision-set al-
+
+tered loss sensitivity. When the range of gain-amounts
+
+Limitations exceeded the range of loss-amounts, we observed the ‘stan-
+dard finding’: most participants exhibited loss aversion –
+seemingly, losses did loom larger than gains (Kahneman &
+
+For 15/263 decision-sets (5.7%) we could not compute a
+Tversky, 1979). However, when the loss-range exceeded the
+
+LAcoefficient because the participant always made the same
+gain-range, most participants showed reverse loss aversion.
+
+choice in that session. In most cases (13/15) all gambles were
+This reversal was not symmetric: loss aversionwas more com-
+
+rejected, reflecting a relatively high degree of loss aversion.
+mon in the HGR-LLR condition than was its reverse in the
+
+The majority of those always-reject cases (9/13) were in one
+LGR-HLR condition (Table 1, Fig. 1) – even though the re-
+
+condition: high amount (£s) and LGR-HLR. Thus, we have
+versal of loss- and gain-distributions was symmetric across
+
+likely underestimated the degree of loss aversion in this con-
+conditions. Other researchers find something similar: revers-
+
+dition. Accordingly, robustness checks using all participants
+ing the pattern of payoffs moderates ‘standard’ effects without
+
+(see Online Supplementary Materials) estimated a slightly
+necessarily creating an equal-sized effect in the opposite di-
+
+smaller effect of range condition, and a slightly larger effect
+rection (Olivola & Sagara, 2009; Leuker, Pachur, Hertwig &
+
+of amount condition than reported in Table 1, though the basic
+Pleskac, 2018). For example, Walasek and Stewart (2019)
+
+pattern was unchanged.
+found that reversing the direction of skew in asymmetric dis-
+
+Due to sample-size limitations, there may be effects asso-
+tributions of losses and gains attenuated loss aversion, but did
+
+ciated with particular S1-S2 condition combinations that were
+not reverse it. Such attenuation-without-reversal can be under-
+
+not detected due to limited statistical power. Also, because
+stood in terms of the distributions of variables and their
+
+each participant changed conditions across sessions, we
+relationships outside the lab. For example, Stewart et al.
+
+missed collecting useful baseline data on test-retest reliability
+(2006) illustrated how the ‘standard’ pattern of loss aversion
+
+for loss sensitivity.
+is consistent with the observation that small losses (debits) are
+
+We were intrigued that S1 amount condition predicted S2
+more common than small gains (credits) in personal transac-
+
+loss sensitivity. However, it was not a primary research aim to
+tions. Therefore, if participants judge value based on amixture
+
+test this; rather, we manipulated amount to test its effect on
+of experiences from inside and outside the lab, this will place
+
+5 Supporting this interpretation, the regression coefficients in Table 3 barely bounds on how much patterns of preference (e.g., loss aver-
+altered when S1 range condition was added as a fourth predictor. sion) can be altered in the lab.
+
+
+
+1338 Psychon Bull Rev (2020) 27:1333–1340
+
+Table 3 Multiple linear regression with log(LAcoefficient) in Session 2 as the dependent variable
+
+Predictor Regression coefficients Unique contribution beyond other predictors
+
+Unstandardised b [95% CI] Standardised p-value R2 change Fchange(1,84) p-value
+β
+
+Constant 0.01 -- .849 -- -- --
+[–0.13,0.16]
+
+Log(LAcoefficient) in Session 1 0.51 0.35 < .001 .122 13.73 < .001
+[0.23,0.78]
+
+Amount condition in Session 1 –0.19 –0.23 .020 .050 5.63 .020
+[–0.35,–0.03]
+
+Range condition in Session 2 0.24 0.29 .003 .081 9.05 .003
+[0.08,0.41]
+
+Amount condition: 0 = low, 1 = high
+Range condition: 0 = low gain range with high loss range (LGR-HLR), 1 = high gain range with low loss range (HGR-LLR)
+See the Online Supplementary Materials for a dominance analysis of how these predictors contribute to the regression model
+
+Our data add to the evidence that the distribution of possi- the distribution of possible outcome amounts affects the sub-
+ble losses and gains in a decision-set affects sensitivity to jective value of an individual outcome (e.g., a given loss-
+losses; but also provide a cautionary tale concerning how ex- amount). However, this could also be explained at the level
+perimenters select study stimuli. For instance, Tom et al. of the gamble and its EV (Ert & Erev, 2013). For example,
+(2007) examined the neural correlates of loss aversion using 86% of gambles had strictly negative (positive) EVs in our
+stimuli with ranges equivalent to those from our HGR-LLR LGR-HLR (HGR-LLR) condition. Thus, perhaps a 50–50
+condition, stating that: “We chose these ranges because pre- gamble for ±32 is frequently accepted in the LGR-HLR con-
+vious studies indicate that people are, on average, roughly dition because it looks ‘good’ among so many negative-EV
+twice as sensitive to losses as to gains” (p.516). Their median gambles, rather than because +32 looks ‘good’ and –32 looks
+LAcoefficient of 1.93 corroborate the previous research they cite ‘not-so-bad’ when compared against other possible outcomes
+– though our data illustrate that other stimuli would have like- in the set. Consistent with this, Ashby, Rakow and Yechiam
+ly generated a different degree of loss aversion. This does not (2017) observed that mixed gambles with negative EV were
+mean that these stimuli were unsuitable for their study. It does, often chosen (over a zero sure-thing) in a three-option repeat-
+however, illustrate that when experimenters ‘tune’ stimuli to a ed-choice task when both non-zero options had negative EV.
+behavioural phenomenon under investigation, they might also Another possibility is that because positive-EV gambles
+be tuning their participants’ behaviour. are rare in the LGR-HLR condition, participants lowered their
+
+In our experiment, losses and gains occurred with equal aspirations and accepted zero- or negative-EV gambles. Such
+frequency, and the distributions of losses and gains were adaptation looks like reverse loss aversion but could reflect
+manipulated by altering their ranges. However, other work demand characteristics: the participant feels they should ac-
+suggests that manipulating the frequency of losses and gains cept some gambles and therefore takes the best on offer, even
+can affect loss aversion. For example, Yechiam and Rakow if these are unattractive options. Likewise, a ‘diligent’ partic-
+(2012) modelled individual-level data from six two-option ipant in the HGR-LLR condition who rejects a reasonable
+repeated-choice tasks involving mixed outcomes, and includ- number of the least attractive gambles may then reject some
+ed a model parameter reflecting the relative weighting for (otherwise-attractive) positive-EV gambles. Nonetheless, irre-
+losses and gains. Mean values for this parameter implied loss spective of exactly why it occurs, our data add to the evidence
+aversion in tasks where gains were more frequent than losses, that the current decision environment can substantially influ-
+a lesser (minimal) degree of loss aversion when losses and ence people’s sensitivity to losses (Ert & Erev, 2013; Walasek
+gains were equally frequent, and clear reverse loss aversion & Stewart, 2015, 2019). However, our data also suggest that
+when losses were more frequent than gains.6 Decision-by- loss sensitivity is not solely a property of the current environ-
+sampling (Stewart et al., 2006) proposes this happens because ment; two other potential influences were found.
+
+First, loss sensitivity varied according to what choices par-
+6 Mean parameter values were: one to one-and-a-half standard errors (SEs) ticipants encountered in a previous similar task. Seemingly,
+from loss/gain neutrality when gains were frequent; within three-quarters of a yesterday’s decisions for ‘pennies’ made today’s stakes seem
+SE from loss/gain neutrality when losses and gains had equal frequency; and
+two-and-a-half to three SEs from loss/gain neutrality (in the opposite direction) ‘high’, and yesterday’s decisions for £s made today’s choices
+when losses were frequent. appear ‘low stakes’. Decision-by-sampling provides a
+
+
+
+Psychon Bull Rev (2020) 27:1333–1340 1339
+
+theoretical framework for understanding this contrast effect. It while some individuals may have a tendency to be loss averse,
+assumes that potential outcomes are evaluated against this tendency is sufficiently unstable, and the environmental
+outcome-values from the environment (e.g., the current task influences are sufficiently powerful, that loss aversion cannot
+or choice set) as well as those sampled from memory. be regarded as a general feature of people’s decision making.
+Consequently, decisions are not only influenced by possible
+outcome amounts encountered at the point of decision, but Acknowledgements All authors made an equal contribution to this work;
+
+also by previously encountered amounts – especially those the order of authorship is arbitrary. We thank Neil Stewart and Lukasz
+Walasek for suggestions on this work, and for providing clarifications on
+
+encountered recently. Decision-by-sampling also assumes that their approach to data analyses in their work.
+similarity influences which previously encountered values are
+sampled (Stewart et al., 2006, p.21). Although this aspect of Open practices statement All data (including raw choice data, individ-
+
+the theory has not been extensively tested, it seems reasonable ual summary data, and data matched across sessions) are available https://
+osf.io/384jd/. The experiment was not pre-registered.
+
+to assume that the similarity of the task performed in each
+session encouraged participants to sample memories from
+their previous session even though this was not particularly
+recent. However reasonable this assumption, it warrants fur-
+ther testing. Open Access This article is licensed under a Creative Commons
+
+Attribution 4.0 International License, which permits use, sharing,
+Additionally, loss sensitivity varied reliably between indi- adaptation, distribution and reproduction in any medium or format, as
+
+viduals. This stability was lower in our data than that estimat- long as you give appropriate credit to the original author(s) and the
+ed by Glöckner and Pachur (2012). Notably, while Glöckner source, provide a link to the Creative Commons licence, and indicate if
+and Pachur used independent decision-sets to model prefer- changes weremade. The images or other third party material in this article
+
+are included in the article's Creative Commons licence, unless indicated
+ences, both sets had decisions with similar structure and pay- otherwise in a credit line to the material. If material is not included in the
+offs. In contrast, payoffs differed considerably between our article's Creative Commons licence and your intended use is not
+decision-sets, and therefore it is perhaps unsurprising that we permitted by statutory regulation or exceeds the permitted use, you will
+found lower consistency within individuals. Nonetheless, need to obtain permission directly from the copyright holder. To view a
+
+copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+while loss sensitivity was not highly stable across sessions,
+we regard the observed degree of consistency as meaningful.
+For example, the between-session correlation for loss sensi-
+tivity was modest (r = .30, rp = .36), though similarly sized References
+correlations are often found between items or indicators in
+multi-component measures of stable traits. We cannot be cer- Ashby, N. J. S., Rakow, T., & Yechiam, E. (2017). ‘Tis better to choose
+tain of the source of the consistency; however, the effects on and lose than to never choose at all. Judgment and DecisionMaking,
+loss sensitivity that we observed by manipulating current and 12(6), 553-562. http://journal.sjdm.org/17/17622/jdm17622.html
+
+recent decision environments highlight the possibility that sta- Baumeister, R. F., Bratslavsky, E., Finenauer, C., & Vohs, K. D. (2001).
+Bad is stronger than good. Review of General Psychology, 5(4),
+
+ble components of risk preference may reflect an individual’s 323-370.
+accumulated experience across a lifetime of idiosyncratic ob- Benartzi, S., & Thaler, R. H. (1995). Myopic loss aversion and the equity
+servations, experiences, decisions and incentives. Thus, premium puzzle. Quarterly Journal of Economics, 110(1), 73-92.
+whether the up-side or down-side of a decision seems ‘big’ Ert, E., & Erev, I. (2013). On the descriptive value of loss aversion in
+
+or ‘small’, and therefore whether a risk is accepted, will de- decisions under risk: Six clarifications. Judgment and Decision
+Making, 8, 214–235.
+
+pend upon an individual’s prior experiences (Stewart et al., Gal, D., & Rucker, D. D. (2018). The loss of loss aversion: Will it loom
+2006). Olivola and Sagara (2009) demonstrated the plausibil- larger than its gain. Journal of Consumer Psychology, 28(3), 497-
+ity of this: the country-specific distribution of single-event 516.
+
+death-tolls predicted the degree of risk aversion for lives Glöckner, A., & Pachur, T. (2012). Cognitive models of risky choice:
+Parameter stability and predictive accuracy of prospect theory.
+
+lost/saved in samples from those countries. Our data highlight Cognition, 123, 21-32.
+the value of going beyond the aggregate analysis of such pat- Kahneman, D. (2011). Thinking fast and slow. London: Allen Lane.
+terns to consider how an individual’s past experiences might Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of
+shape their current risk preferences. decisions under risk. Econometrica, 47, 263-291.
+
+Kahneman, D., Knetsch, J. L., & Thaler, R. H. (1991). Anomalies: The
+In sum, our experiment points to three potential influences endowment effect, loss aversion, and status-quo bias. Journal of
+
+on loss sensitivity: the current decision environment, recent Economic Perspectives, 5(1), 193–206.
+decision environments, and individual risk preference (i.e., Leuker, C., Pachur, T., Hertwig, R., & Pleskac, T.J. (2018). Exploiting
+stable tendencies in loss sensitivity). Thus, sensitivity to losses risk-reward structures in decision making under risk. Cognition,
+
+for a given decision likely has a trait component (reflecting 175, 186-200.
+Olivola, C. Y., & Sagara, N. (2009). Distributions of observed death tolls
+
+individual tendencies) and a state component (reflecting envi- govern sensitivity to human fatalities. Proceedings of the National
+ronmental features). Taken together, these findings imply that Academy of Sciences of the USA, 106, 22151-22156.
+
+
+
+1340 Psychon Bull Rev (2020) 27:1333–1340
+
+Rozin, P., & Royzman, E. B. (2001). Negativity bias, negativity domi- Yechiam, E., & Hochman, G. (2013). Losses as moderators of attention:
+nance, and contagion. Personality and Social Psychology Review, Review and analysis of the unique effects of losses over gains.
+5(4), 296-320. Psychological Bulletin, 139(2), 497-518. DOI: https://doi.org/10.
+
+Stewart, N., Chater, N., & Brown, G. D. (2006). Decision by sampling. 1037/a0029383
+Cognitive Psychology, 53, 1-26. Yechiam, E., & Rakow, T. (2012). The effect of foregone outcomes on
+
+Tom, S. M., Fox, C. R., Trepel, C., & Poldrack, R. A. (2007). The neural choices from experience: An individual level modeling analysis.
+basis of loss aversion in decision-making under risk. Science, 315, Experimental Psychology, 59, 55-67. DOI: https://doi.org/10.1027/
+515-518. 1618-3169/a000126
+
+Walasek, L., & Stewart, N. (2015). How to make loss aversion disappear
+and reverse: Tests of the Decision by Sampling origin of loss aver- Publisher’s note Springer Nature remains neutral with regard to jurisdic-
+sion. Journal of Experimental Psychology: General, 144(1), 7-11. tional claims in published maps and institutional affiliations.
+
+Walasek, L., & Stewart, N. (2019). Context dependent sensitivity to
+losses: Range and skew manipulations. Journal of Experimental
+Psychology: Learning, Memory, and Cognition, 45(6), 957-968.

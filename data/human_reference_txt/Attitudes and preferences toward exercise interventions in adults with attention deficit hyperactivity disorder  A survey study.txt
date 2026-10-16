@@ -1,0 +1,1121 @@
+International Journal of Mental Health
+
+ISSN: 0020-7411 (Print) 1557-9328 (Online) Journal homepage: www.tandfonline.com/journals/mimh20
+
+Attitudes and preferences toward exercise
+interventions in adults with attention deﬁcit
+hyperactivity disorder: A survey study
+William G. Cochrane, Larisa M. Dinu, Natalia B. Kika & Eleanor J. Dommett
+To cite this article: William G. Cochrane, Larisa M. Dinu, Natalia B. Kika & Eleanor J. Dommett
+(2022) Attitudes and preferences toward exercise interventions in adults with attention deﬁcit
+hyperactivity disorder: A survey study, International Journal of Mental Health, 51:3, 267-285,
+DOI: 10.1080/00207411.2022.2060027
+To link to this article: https://doi.org/10.1080/00207411.2022.2060027
+
+© 2022 The Author(s). Published with
+license by Taylor & Francis Group, LLC.
+Published online: 20 Apr 2022.
+
+Submit your article to this journal
+
+Article views: 4028
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 3 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=mimh20
+
+INTERNATIONAL JOURNAL OF MENTAL HEALTH
+2022, VOL. 51, NO. 3, 267–285
+https://doi.org/10.1080/00207411.2022.2060027
+
+Attitudes and preferences toward exercise
+interventions in adults with attention deficit
+hyperactivity disorder: A survey study
+William G. Cochrane, Larisa M. Dinu, Natalia B. Kika, and
+Eleanor J. Dommett
+Department of Psychology, Institute of Psychiatry, Psychology and Neuroscience, King’s College
+London, London, UK
+ABSTRACT
+
+Attention deficit hyperactivity disorder (ADHD) is characterized
+by inattention, impulsivity and hyperactivity, causing significant
+functional impairment. Current pharmacological treatments
+have significant side effects and concerns about abuse potential. Exercise interventions show promise, but adequately powered controlled studies are lacking, particularly in adults. Before
+embarking on large-scale trials, the willingness and feasibility of
+using exercise as a standalone or adjunct treatment in adults
+with ADHD must be determined. We used an online survey to
+assess the attitudes and preferences to exercise in 117 medicated and unmedicated UK-based adults with ADHD.
+Intervention preferences and characteristics, and exercise logs
+were also investigated. Analysis revealed that participants’ willingness to engage in exercise as a standalone treatment differed based on medication use. Despite this, exercise
+interventions were considered feasible, with most willing to
+dedicate considerable time to exercise. In terms of support, the
+most popular approaches were in-person support from a personal trainer or healthcare professional or independent exercise
+following a personalized plan. The current study was dominated
+by young adult females and relied on self-report but remains
+the first study to assess preferences for exercise interventions in
+those with ADHD and holds important implications for future
+exercise interventions in adults with ADHD.
+
+KEYWORDS
+
+Exercise; ADHD; feasibility;
+willingness;
+’adjunct treatment’
+
+Introduction
+
+Attention Deficit Hyperactivity Disorder (ADHD) is characterized by
+inattention, impulsivity and hyperactivity (American Psychiatric
+Association, 2000). It affects around 5% of children (Polanczyk et al., 2015;
+Zalsman & Shilton, 2016), and approximately two-thirds of these continue
+to experience ADHD as adults (Faraone et al., 2006). Furthermore, the
+CONTACT Eleanor J. Dommett
+Eleanor.dommett@kcl.ac.uk
+Department of Psychology, Institute of
+Psychiatry, Psychology and Neuroscience, King’s College London, London, SE5 8AF, UK.
+ß 2022 The Author(s). Published with license by Taylor & Francis Group, LLC.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://
+creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided
+the original work is properly cited.
+
+268
+
+W. G. COCHRANE ET AL.
+
+condition may develop for the first time in adulthood (Caye et al., 2016;
+Moffitt et al., 2015). In total, adult prevalence is estimated at 2–5% (Simon
+et al., 2009). ADHD is associated with learning, behavioral and emotional
+problems, lower occupational status and problems with communication
+and relationships (Doggett, 2004; Faraone et al., 2000), resulting in significant functional impairment (NICE, 2009) and reduced quality of life
+(Danckaerts et al., 2010).
+Despite the prevalence and impact of ADHD, treatments are limited.
+Psychostimulants are the most effective treatment for all ages and the firstline treatment for adults, reducing symptoms in around 80% of patients
+(Barkley et al., 1991; Dittmann et al., 2014; Milich et al., 2001), but with
+side effects ranging from insomnia to tachycardia (Mariani et al., 2007).
+Furthermore, some experience as little as 30% symptom reduction leaving
+considerable functional deficits (Aadil et al., 2017). There are also concerns
+that the medication may be abused (Laviola et al., 1999; Schenk &
+Davidson, 1998); 50% of adults report giving away or selling their psychostimulants and a further 30% report misusing it themselves (Darredeau
+et al., 2007). Whilst non-stimulant treatments exist, the response rate is
+lower (Dittmann et al., 2013) and these drugs still have side effects, including nausea, mood swings and suicide ideation (Mariani et al., 2007). Given
+the limitations of current drug treatments, other approaches need
+consideration.
+Exercise as a standalone or adjunct treatment has been suggested for
+various conditions because programmes can be personalized and flexibly
+delivered, with limited side effects. Reviews and meta-analyses demonstrate
+that exercise can improve core and related ADHD symptoms in children
+(Chimiklis et al., 2018; Den Heijer et al., 2017; Jeyanthi et al., 2019; VillaGonzalez et al., 2020; Zang, 2019; Zhang et al., 2019). Specifically, acute
+cardio exercise has been consistently shown to improve executive functioning (Chang et al., 2012; Chuang et al., 2015; Ludyga et al., 2017; Medina
+et al., 2010; Piepmeier et al., 2015; Pontifex et al., 2013) and non-cardio
+exercise, such as yoga, provides encouraging results (Abadi et al., 2008;
+Cohen et al., 2018; Jensen & Kenny, 2004). Adults with ADHD are underrepresented in this literature, but research suggests exercise may be beneficial for well-being and cognitive functioning in this group (Abramovitch
+et al., 2013; Fuermaier et al., 2014; Mehren et al., 2020).
+Much of the research to date on exercise in ADHD have used correlational studies with small samples (Abramovitch et al., 2013; Berger et al.,
+2014). However, before embarking on costly large-scale trials it is helpful to
+assess attitudes and preferences toward exercise in those with ADHD.
+Therefore the primary aim of this study is to assess beliefs about, and practices around, exercise in individuals with ADHD. Within this, we also
+
+INTERNATIONAL JOURNAL OF MENTAL HEALTH
+
+269
+
+sought to establish willingness to engage in an exercise intervention as part
+of ADHD management. We opted to sample adults because they are currently under-represented and, under UK treatment guidance, they have
+fewer non-pharmacological options available. Finally, given that acceptance
+of new treatments may depend on current treatments, we also aimed to
+compare these measures in individuals currently receiving medication as
+well as those not taking medication for ADHD.
+Materials and methods
+Participants
+
+To participate, individuals had to be UK residents, aged 18 years or older
+and have a diagnosis of ADHD. Participants were recruited via advertisements on volunteer sites and social media. Advertisements provided a link
+to the study information and an online consent form. One hundred and 56
+participants provided consent and were redirected to a single screening
+question that asked them to confirm they have a diagnosis of ADHD. Here
+143 (92%) confirmed an existing ADHD diagnosis and accessed the survey.
+The final sample consisted of the 117 (81.8%) participants who submitted
+the survey data. Participants could opt to enter a prize draw for a £50 voucher as a ‘thank you’. The survey was open from September 2020 to
+February 2021. This study was ethically approved by the university (MRA19/20-21037).
+Study survey
+
+Participants read the online study information and provided electronic consent. Before accessing the survey questions, participants had to confirm
+their diagnosis was made by a clinician. The survey itself consisted of four
+sections and took around 15 minutes to complete. Section 1 assessed demographic characteristics (gender, age) and asked whether participants have
+enough disposable income to afford monthly subscription services, such as
+a gym membership (Y/N). Participants’ subjective perception of financial
+means was sought because income details alone are not informative in the
+absence of information on outgoing costs and prices of local gym memberships. These costs would likely vary, considering this was a UK-wide study.
+Section 2 required participants to complete the 18-item Adult ADHD Selfreport Scale (ASRS-v1.1) Symptom Checklist scoring statements from 0
+(“never”) to 4 (“very often”). This scale probes all 18 DSM-IV Criterion A
+symptoms of adult ADHD (Kessler et al., 2005) and has high concurrent
+validity with the commonly used clinician-rated ADHD Rating Scale (Adler
+et al., 2006). The entire scale score (18 items, Cronbach’s a ¼ .94) as well
+
+270
+
+W. G. COCHRANE ET AL.
+
+the score of the first six screener items (a ¼ .88) was calculated by summing
+the scale items (Das et al., 2012; Hines et al., 2012). Scores over 12 on the
+screener items are indicative of a diagnosis of ADHD (Kessler et al., 2005;
+2007). The screener items can also provide an inattention trait score (items
+1–4, ITS) and hyperactivity trait score (items 5–6, HTS). After completing
+the ASRS participants were asked if they are taking medication for ADHD
+(Y/N) given that this is the primary treatment used in adults with ADHD
+in the UKA follow-up question for details if applicable (Psychostimulant,
+Non-stimulant, Other, please specify). Those answering ‘No’ were asked if
+they were receiving any other form of treatment (Y/N).
+Section 3 assessed exercise habits. Participants completed the Physical
+Activity Readiness Questionnaire (PAR-Q) (Thomas et al., 1992), a sevenitem Y/N questionnaire requiring responses to general health questions
+(e.g. “Do you feel pain in your chest when you do physical activity?”).
+Participants are deemed fit to exercise if they provide seven “No”
+responses. Current activity levels were then assessed using the GodinLeisure Time Exercise Questionnaire (Shephard, 1997) for which
+participants state the number of 15-minute blocks of mild, moderate, or
+strenuous activity in the past week. The moderate and strenuous exercise
+units are converted to a leisure score index ((LSI ¼ (frequency of moderate
+activity  5) þ (frequency of strenuous activity  9)). Individuals obtaining an LSI  24 were classified as active, whereas those with an LSI  23
+were classified as insufficiently active (Amireault & Godin, 2015).
+Participants were then asked several bespoke questions relating to: i) possession of gym membership (Y/N) ii) access to the sports equipment (either
+at home or at the gym) (Y/N) iii) undertaking exercise at least once per
+week (Y/N). For participants answering ‘Yes’ to iii), they were asked to
+select from Cardio, Non-cardio and Mixed and then indicate intensity from
+High, Moderate, or Low. In all cases, example exercises were given to
+remove any ambiguity.
+Section 4 aimed to assess willingness to engage in exercise to manage
+ADHD and preferences for this. Firstly, to evaluate attitudes toward an
+exercise intervention participants were asked to state whether they would
+be willing to engage with an exercise programme if it was (1) the only
+treatment they had, and (2) it could reduce the use of medication or other
+treatments (Y/N). Secondly, the feasibility of them engaging in exercise
+regularly and starting an exercise programme within the next month was
+assessed using a 3-point scale (1¼“not at all feasible”, 2¼“somewhat
+feasible”, 3¼“very feasible”). Thirdly, participants were asked for exercise
+preferences: (1) type of exercise (e.g., cardio, non-cardio, mixed), (2) intensity of exercise (e.g., low, moderate, high, no preference), (3) time spent
+exercising (1¼“none at all” to 5 ¼“a great deal”) if exercise was an only
+
+INTERNATIONAL JOURNAL OF MENTAL HEALTH
+
+271
+
+treatment approach or an adjunct, and (4) delivery method (personal
+trainer/health care professional to guide my exercise in-person; personal
+trainer/health care professional to guide my exercise remotely; exercise
+independently using a personalized plan available via an app; exercise independently using a personalized plan unsupported by an app; exercise within
+a group, all of whom are following the same plan; having a subsidized gym
+membership to support this exercise). For this, participants could select all
+options that applied. Fourthly, participants stated if they were willing to log
+exercises completed in an exercise programme. Finally, participants rated
+the importance of the following attributes in an exercise programme on a
+5-point scale ranging from 1 (“not at all important”) to 5 (“extremely
+important”): satisfaction, pleasantness, helpfulness, easiness, and
+affordability.
+The survey had several pages and could be accessed on any internetenabled device. On-screen prompts requesting completion were used to
+minimize missed questions. However, participants were not forced to
+answer questions and they could progress regardless.
+
+Data analysis
+
+The whole sample was characterized before being separated into two
+groups according to medication status. These groups were compared to
+ensure they were matched on demographic and clinical variables.
+Categorical variables were compared using chi-square. Continuous variables
+were compared using independent measures sample t-tests. There was no
+missing data for Section 1 (demographics) or Section 2 (ADHD-related
+measures). In Section 3 (exercise habits), four participants had missing data
+(three for the Godin-Leisure Time Exercise Questionnaire and one for the
+intensity of the weekly exercise). In Section 4, two participants had missing
+data for willingness to undertake adjunct exercise and a further two did
+not indicate the time they would dedicate to this exercise approach. One
+did not indicate the time they would spend if exercise was the only treatment and one failed to indicate the feasibility of the exercise. Five participants did not indicate a support preference and one did not answer all the
+important questions. Given the very small number of participants missing
+from any individual measure ( 5 and more typically 2), specific analysis
+on these measures simply excluded those individuals rather than employing
+methods to replace missing values.
+
+272
+
+W. G. COCHRANE ET AL.
+
+Results
+Sample characterization
+
+The final sample consisted of 36 (30.8%) males, 78 (66.7%) females and
+three identifying as non-binary (2.6%). Age ranged from 18 to 60 years
+(M ¼ 30.10, SD ¼ 9.72). Most (N ¼ 78, 66.7%) reported having sufficient
+disposable income to pay for a gym membership. The sample was divided
+into two groups according to medication status with 74 (63.2%) receiving
+medication and 43 (36.8%) not receiving medication. Table 1 shows these
+groups did not differ by gender or disposable income. The age of the medicated (M ¼ 30.88, SD ¼ 9.98) and unmedicated groups (M ¼ 28.77,
+SD ¼ 9.20) did not differ (t(115)¼1.14, 95% CI [1.575, 5.796], p¼.259).
+The ASRS scores for the whole sample and the different medication
+groups are shown in Table 2. Independent sample t-tests demonstrate similar severity and symptom profile (Table 2) as has been found in previous
+research (Popat et al., 2021). The screener also confirmed that on average
+participants for both groups fell within an ADHD range (>12), rather than
+subclinical (Kessler et al., 2005; 2007). Although group averages were in the
+clinical range, some individual participants scored within the subclinical
+range (N ¼ 35, 30%). There was no significant difference in the proportion
+who fell in this range between the medicated and unmedicated group
+(v2(1) ¼ .131, p ¼ .718). This may be expected if they are successfully managing their condition and as such, they were retained in the main sample.
+However, all analyses were repeated with these individuals excluded and it
+is noted in each section how these compared to the main analysis of 117
+participants. Excluding these participants did not result in any demographic
+or ASRS analyses differences from those reported above.
+Among the medicated participants, most were taking stimulant medication (N ¼ 70, 94.6%), with only one taking a non-stimulant (1.4%). Three
+(4%) participants in the medicated group reported taking other medication
+and specified this to be anti-depressants (N ¼ 2, one in combination with a
+stimulant and one with modafinil) or anti-anxiety medication (N ¼ 1).
+Table 1. Demographic details for the whole group as well as the comparisons for medicated
+and unmedicated ADHD participants.
+Characteristic
+
+Whole sample (N ¼ 117)
+N (%)
+
+Medicated (N ¼ 74)
+N (%)
+
+Unmedicated (N ¼ 43)
+N (%)
+
+Test statistics
+df
+
+p
+
+Gender
+.743
+1
+Male
+36 (30.8)
+21 (28.4)
+15 (34.9)
+Female
+78 (66.7)
+52 (70.3)
+26 (60.5)
+Non-Binary
+3 (2.6)
+1 (1.4)
+2 (4.7)
+Disposable income
+.460
+1
+Yes
+78 (66.7)
+51 (68.9)
+27 (62.8)
+No
+39 (33.3)
+23 (31.1)
+16 (37.2)
+Given the low number identifying as non-binary, this category was removed from all gender analyses.
+
+.389
+
+v
+
+2
+
+.498
+
+INTERNATIONAL JOURNAL OF MENTAL HEALTH
+
+273
+
+Table 2. Clinical characteristics of the whole sample and the medicated and unmediated
+ADHD participants comparison.
+ASRS
+
+Whole sample
+M (SD)
+
+Medicated
+M (SD)
+
+Unmedicated
+M (SD)
+
+t
+
+df
+
+p
+
+95% CI
+
+Total
+Screener
+Inattention
+Hyperactivity
+
+47.48 (13.73)
+16.78 (4.74)
+11.39 (3,42)
+5,39 (1.82)
+
+46.88 (13.41)
+16.46 (4.61)
+11.08 (3.31)
+5.38 (1.77)
+
+49.35 (14.27)
+17.34 (4.96)
+11.93 (3.56)
+5.42 (1.93)
+
+.938
+.978
+1.298
+.115
+
+115
+115
+115
+115
+
+.350
+.330
+.197
+.909
+
+7.687, 2.746
+2.691, .913
+2.145, .447
+.736, .656
+
+Table 3. Exercise habits of the whole group and the medicated and unmedicated ADHD participants with group comparison.
+Characteristic
+
+Whole group
+N (%)
+
+Medicated
+N (%)
+
+Unmedicated
+N (%)
+
+Test statistics
+v
+
+2
+
+df
+
+p
+
+Fitness to exercise
+1.438
+1
+.230
+Fit
+82 (70)
+49 (66.2)
+33 (76.7)
+Unfit
+35 (30)
+25 (33.8)
+10 (23.3)
+Exercise levels
+.057
+1
+.811
+Active
+88 (75.2)
+54 (77.1)
+34 (79.1)
+Insufficiently active
+26 (22.4)
+17 (22.9)
+9 (20.9)
+Exercise at least once per week
+.008
+1
+.930
+Yes
+92 (78.6)
+58 (78.4)
+34 (79.1)
+Type
+2.52
+2
+.283
+Cardio
+31 (26.5)
+17 (29.3)
+14 (41.4)
+Non-cardio
+8 (6.8)
+4 (6.9)
+4 (11.8)
+Mixed
+53 (45.3)
+37 (63.8)
+16 (47.1)
+Intensity
+.310
+1
+.578
+High
+44 (47.8)
+26 (45.6)
+18 (52.9)
+Moderate
+40 (43.5)
+26 (45.6)
+14 (41.2)
+Low
+7 (6.0)
+5 (8.8)
+2 (5.9)
+No
+25 (21.4)
+16 (21.6)
+9 (20.9)
+Gym membership
+.629
+1
+.428
+Yes
+26 (22.2)
+18 (25)
+8 (18.6)
+No
+89 (76.1)
+54 (75)
+35 (81.4)
+Access to sports equipment
+.614
+1
+.433
+Yes
+78 (66.7)
+51 (69.9)
+27 (62.8)
+No
+38 (32.5)
+22 (30.1)
+16 (37.2)
+Excluded from chi-square due to expected frequency less than 5 in both medicated and unmedicated groups.
+
+Of those not taking medication, the majority (N ¼ 35, 81.4%) were not
+receiving any other treatment.
+Exercise habits
+
+Exercise habits for the whole sample and the two separate medication
+groups are shown in Table 3. Overall, most participants were deemed fit to
+exercise by the PAR-Q (N ¼ 82, 70%) and classified as active by the LSI
+(N ¼ 88, 75.2%). In line with the active classification, most reported exercising weekly (N ¼ 92, 78.6%) with a mix of cardio and non-cardio exercise
+(N ¼ 53, 45.3%) and moderate (N ¼ 40, 43.5%) to high-intensity exercise
+(N ¼ 44, 47.8%) being the most common characteristics. Finally, despite
+most participants reporting that they had sufficient disposable income for a
+gym membership, only 26 (22.2%) of individuals had a membership, 78
+
+274
+
+W. G. COCHRANE ET AL.
+
+(66.7%) reported access to exercise equipment. There were no differences
+between the medicated and unmedicated participants. The same patterns
+were found where found when excluding participants in the sub-clinical range.
+
+Attitudes toward an exercise intervention
+
+Overall, participants showed a willingness to exercise. Across all participants, 99 (84,6%) were willing to use exercise as an adjunct treatment,
+whilst 83 (70.9%) were willing to use it as the only treatment. This pattern
+remained similar when those in the sub-clinical range were excluded.
+However, there were differences in willingness to exercise between the two
+different medication groups. Willingness to exercise as the only treatment
+for ADHD differed significantly between the two groups (v2(1) ¼ 7.53,
+p ¼ .006). Thirty-seven (86%) of unmedicated participants were willing to
+have an exercise intervention as the only treatment, in contrast to 46
+(62.2%) of those who were medicated. This pattern and significance
+remained when those in the subclinical range were excluded. One explanation for this is that those who are medicated have more severe symptoms
+which could mean that they either do not feel exercise would provide
+adequate treatment or that their symptoms could prevent effective exercise.
+Although this seems unlikely given that the two cohorts did not differ significantly in symptom severity, fitness, or current exercise habits, it is possible that they do differ when subdivided into those that are willing and
+those that are not. To further investigate this, we analyzed the inattention
+and hyperactivity trait scores, derived from the ASRS screener items, for
+medicated participants who were unwilling to have an exercise programme
+compared to those who were medicated and willing. This revealed that the
+unwilling medicated participants had significantly higher inattention
+(M ¼ 12.39, SD ¼ 2.78) and hyperactivity (M ¼ 5.93, SD ¼ 1.65) compared
+with the willing medicated participants’ inattention (M ¼ 10.28, SD ¼ 3.38)
+and hyperactivity (M ¼ 5.04, SD ¼ 1.78) scores (t(72) ¼ 2.78, 95% CI
+[.595, 3.625], p ¼ .007 and t(72) ¼ 2.13, 95% CI [.058, 1.712], p ¼ .036,
+respectively). Also within the medicated participants, there was no significant association between willingness and fitness to exercise as measured by
+PAR-Q (v2(1) ¼ .075, p ¼ .784) but there was an association between willingness and current activity levels (v2(1) ¼ 4.44, p ¼ .035), with those more
+willing to exercise being more inactive than expected. Excluding the subclinical participants removed the statistical significance for the inattention
+and hyperactivity scores, but the pattern remained the same i.e. those with
+higher scores were less willing. All other results remained unchanged.
+
+INTERNATIONAL JOURNAL OF MENTAL HEALTH
+
+275
+
+Unmedicated participants that were willing to have an exercise programme as the only treatment did not have significantly different inattention or hyperactivity trait scores than those that were unmedicated and
+unwilling (t(41) ¼ .54, 95% CI [2.349, 4.061], p ¼ .593 and t(41) ¼
+.56, 95% CI [1.248, 2.212], p ¼ .577, respectively). There was also no
+association between willingness and fitness to exercise (v2(1) ¼ .397,
+p ¼ .529) or current activity levels (v2(1) ¼ .077, p ¼ .782) for this group.
+These results remained unchanged if subclinical participants were excluded
+from the analysis.
+When asked about willingness to have an adjunct exercise treatment,
+the proportion of willing participants in the medicated (N ¼ 61, 82.4%)
+and unmedicated (N ¼ 38, 92.7%) groups did not differ (v2(1) ¼ 2.31,
+p ¼ .130). This remained the case when those in the subclinical range
+were excluded. For completeness, we repeated the sub-analysis described
+above. Medicated participants who were unwilling to have an adjunct
+exercise programme did not have significantly different inattention or
+hyperactivity trait scores from those that were medicated and willing
+(t(72) ¼ 1.29, 95% CI [.707, 3.310], p ¼ .210 and t(72) ¼ .70, 95%
+CI [.702, 1.464], p ¼ .486 respectively). There was also no association
+between willingness and fitness (v2(1) ¼ .064, p ¼ .800) or current activity levels (v2(1) ¼ 2.49, p ¼ .115). For unmedicated participants, those
+who were unwilling to have an exercise programme did not have significantly different inattention or hyperactivity trait scores from those that
+were unmedicated and willing, (t(39) ¼ 1.30, 95% CI [6.893, 1.489],
+p ¼ .200 and t(39) ¼ 1.36, 95% CI [3.507, .454], p ¼ .183 respectively).
+However, low cell counts make categorical associations for fitness and
+current levels inappropriate. These findings remained unchanged if subclinical participants were removed.
+Across the whole cohort, the majority (N ¼ 70, 59.8%) felt that it was
+very feasible for them to start exercising regularly in the next month, followed by a further 41 (35.0%) who felt it was somewhat feasible, leaving
+only 5 (4.3%) who felt it was not feasible. This is perhaps unsurprising
+given the majority of participants were already active with many exercising
+at least once per week. Despite differences in willingness to undertake exercise interventions, exercise was similarly feasible for both groups. Within
+the medicated group only three individuals reported that starting to exercise regularly was not feasible (4.1%) whilst 26 (35.6%) felt it was somewhat
+feasible and 44 (60.3%) felt it was very feasible. Similar results were found
+in the unmedicated group (not at all feasible N ¼ 2, 4.7%; somewhat feasible N ¼ 15, 34.9%; and very feasible N ¼ 26, 60.5%). Chi-square analysis
+excluding the not at all feasible group due to low cell counts revealed no
+significant group differences in feasibility (v2(1) ¼ .003, p ¼ .953).
+
+276
+
+W. G. COCHRANE ET AL.
+
+Table 4. Exercise preferences in the whole sample and the groups of medicated and unmedicated ADHD participants.
+Characteristic
+
+Whole sample
+N (%)
+
+Medicated
+N (%)
+
+Unmedicated
+N (%)
+
+Test statistics
+v
+
+2
+
+df
+
+p
+
+Preferred format
+.203
+2
+.904
+Cardio
+21 (17.9)
+14 (18.9)
+7 (16.7)
+Non-cardio
+9 (7.7)
+6 (8.1)
+3 (7.1)
+Mixed
+86 (73.5)
+54 (73.0)
+32 (76.2)
+Preferred intensity
+.194
+1
+.660
+No preference
+20 (17.1)
+12 (16.2)
+8 (18.6)
+Low
+7 (6.0)
+4 (5.4)
+3 (7.0)
+Moderate
+45 (38.5)
+30 (40.5)
+15 (34.9)
+High
+45 (38.5)
+28 (37.8)
+17 (39.5)
+Willing to log
+.886
+1
+.347
+Yes
+108 (92.3)
+67 (92.0)
+41 (95.3)
+No
+9 (7.7)
+7 (8.0)
+2 (4.7)
+Only treatment time
+20.39
+2
+< .001
+None
+4 (3.4)
+3 (4.1)
+1 (2.4)
+A little
+6 (5.1)
+5 (6.8)
+1 (2.4)
+Moderate amount
+45 (38.5)
+34 (45.9)
+11 (26.2)
+A lot
+27 (23.1)
+7 (9.5)
+20 (47.6)
+A great deal
+34 (29.1)
+25 (33.8)
+9 (21.4)
+Adjunct treatment
+.5.835
+2
+.054
+None
+4 (3.4)
+2 (27)
+2 (4.9)
+A little
+6 (5.1)
+5 (6.9)
+1 (2.4)
+Moderate amount
+41 (35.0)
+31 (41.9)
+10 (24.4)
+A lot
+33 (28.2)
+16 (21.6)
+17 (41.5)
+A great deal
+31 (26.5)
+20 (27.0)
+11 (26.8)
+Excluded from analysis as indicator of no preference. excluded from analysis to avoid >20% expected cell
+counts being <5.
+
+Feasibility findings
+were removed.
+
+remained
+
+unchanged
+
+if
+
+subclinical
+
+participants
+
+Exercise intervention preferences
+
+Table 4 summarizes exercise preferences for the whole cohort and for both
+medication groups. Overall, most participants preferred a combination of cardio and non-cardio exercise at medium to high intensity and were willing to
+log their exercise, which may be beneficial for testing interventions and considering adherence. There were no differences in these measures between medicated and unmedicated groups. Irrespective of whether exercise would be a
+standalone or adjunct treatment, most were willing to dedicate considerable
+time to exercise. Considering only the three most-willing groups (a moderate
+amount, a lot, a great deal), there was a significant difference between medicated and unmediated participants here for when exercise was a standalone
+treatment, with those who are unmedicated being more likely to dedicate a
+greater proportion of time to exercise. There were no differences when exercise
+was an adjunct treatment, although there was a trend toward the same pattern.
+Preferences for support types are shown in Figure 1. Most participants
+selected more than one option. The most popular choice for medicated
+
+INTERNATIONAL JOURNAL OF MENTAL HEALTH
+
+277
+
+Figure 1. Preferred exercise delivery support.
+
+Figure 2. Importance of attributes of exercise intervention.
+
+participants was in-person support from a personal trainer or health care
+professional, closely followed by independent exercise following a personalized plan available on an app. Unmedicated participants showed the same
+top two preferences, albeit with the order reversed.
+Figure 2 illustrates the importance placed on different attributes of exercise. Both groups showed similar ratings for all attributes and there were
+no significant group differences (satisfaction t(114) ¼ .425, 95% CI
+[.417, .270], p ¼ .672; pleasantness, t(114) ¼ .835, 95% CI [.569, .232],
+p ¼ .405; helpfulness, t(115) ¼ .569, 95% CI [.413, .228], p ¼ .57;
+
+278
+
+W. G. COCHRANE ET AL.
+
+easiness, t(114) ¼ .296, 95% CI –[.519, .384], p ¼ .767; and affordability,
+t(114) ¼ .215, 95% CI [.403, .324], p ¼ .83). The most important attribute was helpfulness, whilst the least important was easiness. All findings
+related to exercise preferences remained unchanged when subclinical participants were removed.
+Discussion
+
+The current study aimed to investigate attitudes and practices regarding
+exercise in adults with ADHD to better understand how exercise interventions would be received. Our findings demonstrated that irrespective of
+medication, most participants with ADHD reported being fit to exercise
+and currently active. Almost 80% of participants exercised weekly, with
+most completing a mixture of cardio and non-cardio exercise at moderate
+to high intensity. Although the majority reported being able to afford a
+gym membership, most did not have it, although they had access to sports
+equipment elsewhere. Most participants, irrespective of current medication
+status felt that beginning to exercise regularly was feasible for them and
+they were willing to log their exercise. These findings indicate that undertaking regular exercise would be plausible for adults with ADHD and that
+they would keep exercise records which may be beneficial for research and
+clinical records.
+There were differences in willingness to undertake exercise as a standalone treatment for ADHD between participants currently taking medication and those not receiving any medication, with medicated participants
+less willing. No previous research has asked participants with ADHD if
+they would be willing to stop the medication, which presumably they consider effective, to begin an alternative treatment, but the present data indicate a reluctance to do this, with around 40% unwilling. Given the
+considerable functional impairment associated with ADHD, it is perhaps
+unsurprising that they were reluctant to use exercise as a standalone treatment when they currently have a treatment that is offering some benefits.
+Further analysis revealed that of the medicated participants, those who
+were unwilling had more severe symptoms. It is possible that these individuals do not believe exercise would reduce the severity of their condition or
+that the severity makes exercise difficult. The former was not probed in the
+current study, but the latter is supported by the fact that despite being as
+fit as those who were willing, they were less active than their willing counterparts. This suggests that the severity of their symptoms may make exercise more challenging, which is perhaps expected when individuals with
+ADHD tend to encounter difficulties planning and organizing their time
+(Aadil et al., 2017). However, there was no significant difference in
+
+INTERNATIONAL JOURNAL OF MENTAL HEALTH
+
+279
+
+symptoms severity when participants in the subclinical range were excluded
+from analysis, although the pattern remained the same i.e., those unwilling
+had higher inattention and hyperactivity traits scores. While the lack of significance might be due to lower statistical power, the reason behind this
+unwillingness should be further investigated in the future.
+A greater proportion of participants were willing to have exercise as an
+adjunct treatment, with over 80% medicated and over 90% of unmedicated
+being willing to undertake this. Willingness for this type of intervention
+did not differ between medicated and unmedicated groups. Several adjunct
+treatments have been posited for ADHD previously including Cognitive
+Behavioral Therapy (Solanto & Scheres, 2021) and Mindfulness (Aadil
+et al., 2017), although these studies have examined the effectiveness of the
+adjunct treatment rather than participants’ willingness to undertake it. This
+means that this study is the first to demonstrate a willingness to undertake
+a specific adjunct treatment, in this case, exercise, outside of participation
+in a trial.
+In terms of preferences for an exercise intervention, both groups showed
+a preference for a mixed exercise (cardio and non-cardio components) of
+moderate to high intensity, which aligns with their current approaches to
+exercise. They were also willing to spend a good amount of time exercising
+if it were either a standalone or adjunct treatment. This is perhaps not surprising given most of this cohort were already exercising at least once per
+week. The most popular format for supporting an exercise intervention was
+with either a personal trainer or health professional in-person or through a
+personalized app, and the most important feature of the programme is that
+it is helpful. This is the first study to assess preferences for exercise interventions in ADHD but the preferences displayed align with that found for
+other mental health conditions for exercise intensity, including alcohol use
+disorder (Stoutenberg et al., 2015), substance abuse (Abrantes et al., 2011),
+and first-episode psychosis (Firth et al., 2018). Similar results for the preferred type of support were found in a mixed sample of individuals with
+depression, anxiety, psychosis and bipolar, either individually or in combination (Chapman et al., 2016). In summary, the current study demonstrates
+that most adults with ADHD would be willing to consider an adjunct exercise programme of moderate to high intensity to manage their condition.
+Furthermore, those not currently taking medication would be similarly willing to consider exercise as a standalone treatment.
+Although this is the first study to assess willingness and preferences for
+exercise interventions in ADHD, it is important to recognize that there are
+limitations to the work. Firstly, our sample contained more females than
+males, even though the prevalence of adult ADHD is similar in the two
+groups (Kooij et al., 2019). It is typical for females to be over-represented
+
+280
+
+W. G. COCHRANE ET AL.
+
+in survey-based research (Waters et al., 2011) and it has previously been
+noted that males are often under-represented in studies looking at exercise
+interventions (George et al., 2012; Waters et al., 2011). Therefore, whilst it
+is not unprecedented, this gender bias may impact on generalizability of
+the findings. Secondly, although our inclusion criteria allowed for adults of
+any age to participate, most participants were younger, meaning that this
+could have skewed data on fitness and current activity levels, and willingness. Furthermore, younger participants have been found to prefer higher
+intensity exercise in other studies of mental health conditions
+(Subramaniapillai et al., 2016). Thirdly, we did not ask participants to disclose the additional types of treatment they were receiving other than
+medication or ask about co-morbid conditions. Given that ADHD is often
+comorbid with other physical and mental health conditions (Hodgkins
+et al., 2011), this should be explored in future research. Related to this,
+detailed information about medication (e.g. dose or adherence) was not
+collected. The ASRS is a trait rather than a state measure of ADHD-related
+behaviors, however, it is possible that those not adhering to medication or
+those on a short-acting formulation who have not recently taken medication (i.e. ‘off medication’) may respond differently. Future studies should
+consider collecting further data on medication, including adherence, which
+can be collected in as few as two items in a survey (Safren et al., 2007)
+because without this information it is hard to determine the representativeness of the sample. Finally, the study relied on self-report of diagnosis.
+Although there was little incentive to be dishonest, future studies should
+consider confirming the diagnosis as part of the study procedure. Despite
+these limitations to our sample, all participants demonstrated scores on the
+ASRS as would be expected for an ADHD sample and the majority of those
+receiving medication were receiving psychostimulants, which indicates an
+ecologically valid sample.
+In terms of understanding attitudes and preferences toward exercise, the current study only asked about these and did not ask participants to explain why
+they had provided the answers they did, which could have provided useful
+insights. Furthermore, we did not explore barriers to exercise beyond financial
+elements which could impact actual uptake and adherence. Finally, although
+the current study has indicated that there is a willingness to undertake exercise,
+it is important to now test these preferences with an actual intervention. For
+example, it may be that in reality participants have less time or require a lower
+impact exercise than what they have suggested here.
+Although the above limitations are important, they do not detract from
+the fact that this is the first study to assess preferences for exercise interventions in those with ADHD. Given the need for alternative treatments to
+medication in this cohort and the research indicating the potential of
+
+INTERNATIONAL JOURNAL OF MENTAL HEALTH
+
+281
+
+exercise in providing this (Den Heijer et al., 2017), the present findings
+indicate that it is worthwhile to start testing specific exercise interventions
+for adults with ADHD.
+Acknowledgements
+The authors would like to thank Drs James Findon and Oliver Runswick for their helpful
+discussions in conceptualizing this study.
+
+Disclosure statement
+The authors have no conflicts of interest to report.
+
+Funding
+This study was partially supported by a seedcorn grant made to EJD by the Rosetrees Trust
+(Ref: M875).
+
+ORCID
+Eleanor J. Dommett
+
+http://orcid.org/0000-0002-6973-8762
+
+Data availability statement
+All data is available on reasonable request to the corresponding author.
+
+References
+Aadil, M., Cosme, R. M., & Chernaik, J. (2017). Mindfulness-based cognitive behavioral
+therapy as an adjunct treatment of attention deficit hyperactivity disorder in young
+adults: A literature review. Cureus, 9(5), e1269. https://doi.org/10.7759/cureus.1269
+Abadi, M. S., Madgaonkar, J., & Venkatesan, S. (2008). Effect of yoga on children with
+attention deficit/hyperactivity disorder. Psychological Studies, 53(2), 154–159.
+Abramovitch, A., Goldzweig, G., & Schweiger, A. (2013). Correlates of physical activity
+with intrusive thoughts, worry and impulsivity in adults with attention deficit/hyperactivity disorder: A cross-sectional pilot study. Israel Journal of Psychiatry and Related
+Sciences, 50(1), 47–54.
+Abrantes, A. M., Battle, C. L., Strong, D. R., Ing, E., Dubreuil, M. E., Gordon, A., &
+Brown, R. A. (2011). Exercise preferences of patients in substance abuse treatment.
+Mental Health and Physical Activity, 4(2), 79–87. https://doi.org/10.1016/j.mhpa.2011.08.
+002
+Adler, L. A., Spencer, T., Faraone, S. V., Kessler, R. C., Howes, M. J., Biederman, J., &
+Secnik, K. (2006). Validity of pilot Adult ADHD Self-Report Scale (ASRS) to rate adult
+ADHD symptoms. Annals of Clinical Psychiatry, 18(3), 145–148. https://doi.org/10.1080/
+10401230600801077
+American Psychiatric Association (2000). Attention-deficit and disruptive behavior disorders. In: Diagnostic and statistical manual of mental disorders (4th ed., pp. 85–93).
+
+282
+
+W. G. COCHRANE ET AL.
+
+Amireault, S., & Godin, G. (2015). The Godin-Shephard leisure-time physical activity questionnaire: validity evidence supporting its use for classifying healthy adults into active
+and insufficiently active categories. Perceptual and Motor Skills, 120(2), 604–622. https://
+doi.org/10.2466/03.27.PMS.120v19x7
+Barkley, R. A., DuPaul, G. J., & McMurray, M. B. (1991). Attention deficit disorder with
+and without hyperactivity: Clinical response to three dose levels of methylphenidate.
+Pediatrics, 87(4), 519–531. https://doi.org/10.1542/peds.87.4.519
+Berger, N. A., M€
+uller, A., Br€ahler, E., Philipsen, A., & de Zwaan, M. (2014). Association of
+symptoms of attention-deficit/hyperactivity disorder with symptoms of excessive exercising in an adult general population sample. BMC Psychiatry, 14(1), 250. https://doi.org/
+10.1186/s12888-014-0250-7
+Caye, A., Spadini, A. V., Karam, R. G., Grevet, E. H., Rovaris, D. L., Bau, C. H., Rohde, L.
+A., & Kieling, C. (2016). Predictors of persistence of ADHD into adulthood: a systematic
+review of the literature and meta-analysis. European Child & Adolescent Psychiatry,
+25(11), 1151–1159. https://doi.org/10.1007/s00787-016-0831-8
+Chang, Y. K., Liu, S., Yu, H. H., & Lee, Y. H. (2012). Effect of acute exercise on executive
+function in children with attention deficit hyperactivity disorder. Archives of Clinical
+Neuropsychology, 27(2), 225–237. https://doi.org/10.1093/arclin/acr094
+Chapman, J. J., Fraser, S. J., Brown, W. J., & Burton, N. W. (2016). Physical activity preferences, motivators, barriers and attitudes of adults with mental illness. Journal of Mental
+Health, 25(5), 448–454. https://doi.org/10.3109/09638237.2016.1167847
+Chimiklis, A. L., Dahl, V., Spears, A. P., Goss, K., Fogarty, K., & Chacko, A. (2018). Yoga,
+mindfulness, and meditation interventions for youth with ADHD: Systematic review and
+meta-analysis. Journal of Child and Family Studies, 27(10), 3155–3168. https://doi.org/10.
+1007/s10826-018-1148-7
+Chuang, L.-Y., Tsai, Y.-J., Chang, Y.-K., Huang, C.-J., & Hung, T.-M. (2015). Effects of
+acute aerobic exercise on response preparation in a Go/No Go Task in children with
+ADHD: An ERP study. Journal of Sport and Health Science, 4(1), 82–88. https://doi.org/
+10.1016/j.jshs.2014.11.002
+Cohen, S. C. L., Harvey, D. J., Shields, R. H., Shields, G. S., Rashedi, R. N., Tancredi, D. J.,
+Angkustsiri, K., Hansen, R. L., & Schweitzer, J. B. (2018). Effects of yoga on attention,
+impulsivity, and hyperactivity in preschool-aged children with attention-deficit hyperactivity disorder symptoms. Journal of Developmental and Behavioral Pediatrics, 39(3),
+200–209. https://doi.org/10.1097/dbp.0000000000000552
+Danckaerts, M., Sonuga-Barke, E. J. S., Banaschewski, T., Buitelaar, J., D€
+opfner, M., Hollis,
+C., Santosh, P., Rothenberger, A., Sergeant, J., Steinhausen, H.-C., Taylor, E., Zuddas, A.,
+& Coghill, D. (2010). The quality of life of children with attention deficit/hyperactivity
+disorder: A systematic review. European Child & Adolescent Psychiatry, 19(2), 83–105.
+https://doi.org/10.1007/s00787-009-0046-3
+Darredeau, C., Barrett, S. P., Jardin, B., & Pihl, R. O. (2007). Patterns and predictors of
+medication compliance, diversion, and misuse in adult prescribed methylphenidate users.
+Human Psychopharmacology: Clinical and Experimental, 22(8), 529–536. https://doi.org/
+10.1002/hup.883
+Das, D., Cherbuin, N., Butterworth, P., Anstey, K. J., & Easteal, S. (2012). A populationbased study of attention deficit/hyperactivity disorder symptoms and associated impairment in middle-aged adults. PLOS One, 7(2), e31500. https://doi.org/10.1371/journal.
+pone.0031500
+Den Heijer, A. E., Groen, Y., Tucha, L., Fuermaier, A. B. M., Koerts, J., Lange, K. W.,
+Thome, J., & Tucha, O. (2017). Sweat it out? The effects of physical exercise on
+
+INTERNATIONAL JOURNAL OF MENTAL HEALTH
+
+283
+
+cognition and behavior in children and adults with ADHD: A systematic literature
+review. Journal of Neural Transmission, 124(Suppl 1), 3–26. https://doi.org/10.1007/
+s00702-016-1593-7
+Dittmann, R. W., Cardo, E., Nagy, P., Anderson, C. S., Adeyi, B., Caballero, B., Hodgkins,
+P., Civil, R., & Coghill, D. R. (2014). Treatment response and remission in a doubleblind, randomized, head-to-head study of lisdexamfetamine dimesylate and atomoxetine
+in children and adolescents with attention-deficit hyperactivity disorder. CNS Drugs,
+28(11), 1059–1069. https://doi.org/10.1007/s40263-014-0188-9
+Dittmann, R. W., Cardo, E., Nagy, P., Anderson, C. S., Bloomfield, R., Caballero, B.,
+Higgins, N., Hodgkins, P., Lyne, A., Civil, R., & Coghill, D. (2013). Efficacy and safety of
+lisdexamfetamine dimesylate and atomoxetine in the treatment of attention-deficit/hyperactivity disorder: A head-to-head, randomized, double-blind, phase IIIb study. CNS
+Drugs, 27(12), 1081–1092. https://doi.org/10.1007/s40263-013-0104-8
+Doggett, A. M. (2004). ADHD and drug therapy: is it still a valid treatment? Journal of
+Child Health Care, 8(1), 69–81. https://doi.org/10.1177/1367493504041856
+Faraone, S. V., Biederman, J., & Mick, E. (2006). The age-dependent decline of attention
+deficit hyperactivity disorder: A meta-analysis of follow-up studies. Psychological
+Medicine, 36(2), 159–165. https://doi.org/10.1017/S003329170500471X
+Faraone, S. V., Biederman, J., Spencer, T., Wilens, T., Seidman, L. J., Mick, E., & Doyle,
+A. E. (2000). Attention-deficit/hyperactivity disorder in adults: An overview. Biological
+Psychiatry, 48(1), 9–20. https://doi.org/10.1016/S0006-3223(00)00889-1
+Firth, J., Carney, R., Elliott, R., French, P., Parker, S., McIntyre, R., McPhee, J. S., & Yung,
+A. R. (2018). Exercise as an intervention for first-episode psychosis: A feasibility study.
+Early Intervention in Psychiatry, 12(3), 307–315. https://doi.org/10.1111/eip.12329
+Fuermaier, A. B. M., Tucha, L., Koerts, J., van den Bos, M., Regterschot, G. R. H., Zeinstra,
+E. B., van Heuvelen, M. J. G., van der Zee, E. A., Lange, K. W., & Tucha, O. (2014).
+Whole-body vibration improves cognitive functions of an adult with ADHD. ADHD.
+Attention Deficit and Hyperactivity Disorders, 6(3), 211–220. https://doi.org/10.1007/
+s12402-014-0149-7
+George, E. S., Kolt, G. S., Duncan, M. J., Caperchione, C. M., Mummery, W. K.,
+Vandelanotte, C., … Noakes, M. (2012). A review of the effectiveness of physical activity
+interventions for adult males. Sports Medicine, 42(4), 281–300.
+Hines, J. L., King, T. S., & Curry, W. J. (2012). The adult ADHD self-report scale for
+screening for adult attention deficit–hyperactivity disorder (ADHD). The Journal of the
+American Board of Family Medicine, 25(6), 847–853. https://doi.org/10.3122/jabfm.2012.
+06.120065
+Hodgkins, P., Montejano, L., Sasane, R., & Huse, D. (2011). Cost of illness and comorbidities in adults diagnosed with attention-deficit/hyperactivity disorder: A retrospective
+analysis. Prim Care Companion CNS Disord, 13(2), 1–12.
+Jensen, P. S., & Kenny, D. T. (2004). The effects of yoga on the attention and behavior of
+boys with Attention-Deficit/Hyperactivity Disorder (ADHD). Journal of Attention
+Disorders, 7(4), 205–216. https://doi.org/10.1177/108705470400700403
+Jeyanthi, S., Arumugam, N., & Parasher, R. K. (2019). Effect of physical exercises on attention, motor skill and physical fitness in children with attention deficit hyperactivity disorder: A systematic review. Attention Deficit and Hyperactivity Disorders, 11(2), 125–137.
+https://doi.org/10.1007/s12402-018-0270-0
+Kessler, R. C., Adler, L. A., Gruber, M. J., Sarawate, C. A., Spencer, T., & Van Brunt, D. L.
+(2007). Validity of the World Health Organization Adult ADHD Self-Report Scale
+
+284
+
+W. G. COCHRANE ET AL.
+
+(ASRS) Screener in a representative sample of health plan members. International
+Journal of Methods in Psychiatric Research, 16(2), 52–65. https://doi.org/10.1002/mpr.208
+Kessler, R. C., Adler, L., Ames, M., Demler, O., Faraone, S., Hiripi, E., Howes, M. J., Jin,
+R., Secnik, K., Spencer, T., Ustun, T. B., & Walters, E. E. (2005). The World Health
+Organization Adult ADHD Self-Report Scale (ASRS): A short screening scale for use in
+the general population. Psychological Medicine, 35(2), 245–256. https://doi.org/10.1017/
+s0033291704002892
+Kooij, J. J. S., Bijlenga, D., Salerno, L., Jaeschke, R., Bitter, I., Balazs, J., Thome, J., Dom,
+G., Kasper, S., Nunes Filipe, C., Stes, S., Mohr, P., Lepp€am€aki, S., Casas, M., Bobes, J.,
+Mccarthy, J. M., Richarte, V., Kjems Philipsen, A., Pehlivanidis, A., … Asherson, P.
+(2019). Updated European Consensus Statement on diagnosis and treatment of adult
+ADHD. European Psychiatry, 56, 14–34. https://doi.org/10.1016/j.eurpsy.2018.11.001
+Laviola, G., Adriani, W., Terranova, M. L., & Gerra, G. (1999). Psychobiological risk factors
+for vulnerability to psychostimulants in human adolescents and animal models.
+Neuroscience and Biobehavioral Reviews, 23(7), 993–1010. https://doi.org/10.1016/s01497634(99)00032-9
+Ludyga, S., Brand, S., Gerber, M., Weber, P., Brotzmann, M., Habibifar, F., & P€
+uhse, U.
+(2017). An event-related potential investigation of the acute effects of aerobic and coordinative exercise on inhibitory control in children with ADHD. Developmental Cognitive
+Neuroscience, 28, 21–28. https://doi.org/10.1016/j.dcn.2017.10.007
+Mariani, J. J., Mariani, J. J., & Levin, F. R. (2007). Treatment strategies for co-occurring
+ADHD and substance use disorders. American Journal on Addictions, 16(s1), 45–56.
+https://doi.org/10.1080/10550490601082783
+Medina, J. A., Netto, T. L. B., Muszkat, M., Medina, A. C., Botter, D., Orbetelli, R.,
+Scaramuzza, L. F. C., Sinnes, E. G., Vilela, M., & Miranda, M. C. (2010). Exercise impact
+on sustained attention of ADHD children, methylphenidate effects. Attention Deficit and
+Hyperactivity Disorders, 2(1), 49–58. https://doi.org/10.1007/s12402-009-0018-y
+Mehren, A., Reichert, M., Coghill, D., M€
+uller, H. H., Braun, N., & Philipsen, A. (2020).
+Physical exercise in attention deficit hyperactivity disorder–evidence and implications for
+the treatment of borderline personality disorder. Borderline Personality Disorder and
+Emotion Dysregulation, 7(1), 1–11.
+Milich, R., Balentine, A. C., & Lynam, D. R. (2001). ADHD combined type and ADHD
+predominantly inattentive type are distinct and unrelated disorders. Clinical Psychology:
+science and Practice, 8(4), 463–488.
+Moffitt, T. E., Houts, R., Asherson, P., Belsky, D. W., Corcoran, D. L., Hammerle, M.,
+Harrington, H., Hogan, S., Meier, M. H., Polanczyk, G. V., Poulton, R., Ramrakha, S.,
+Sugden, K., Williams, B., Rohde, L. A., & Caspi, A. (2015). Is Adult ADHD a
+Childhood-Onset Neurodevelopmental Disorder? Evidence From a Four-Decade
+Longitudinal Cohort Study. The American Journal of Psychiatry, 172(10), 967–977.
+https://doi.org/10.1176/appi.ajp.2015.14101266
+NICE (2009). Diagnosis and management of ADHD in children, young people and adults.
+National Institute for Health and Clinical Excellence.
+Piepmeier, A. T., Shih, C.-H., Whedon, M., Williams, L. M., Davis, M. E., Henning, D. A.,
+Park, SYun., Calkins, S. D., & Etnier, J. L. (2015). The effect of acute exercise on cognitive performance in children with and without ADHD. Journal of Sport and Health
+Science, 4(1), 97–104. https://doi.org/10.1016/j.jshs.2014.11.004
+Polanczyk, G. V., Salum, G. A., Sugaya, L. S., Caye, A., & Rohde, L. A. (2015). Annual
+research review: A meta-analysis of the worldwide prevalence of mental disorders in
+
+INTERNATIONAL JOURNAL OF MENTAL HEALTH
+
+285
+
+children and adolescents. Journal of Child Psychology and Psychiatry, and Allied
+Disciplines, 56(3), 345–365. https://doi.org/10.1111/jcpp.12381
+Pontifex, M. B., Saliba, B. J., Raine, L. B., Picchietti, D. L., & Hillman, C. H. (2013).
+Exercise improves behavioral, neurocognitive, and scholastic performance in children
+with attention-deficit/hyperactivity disorder. The Journal of Pediatrics, 162(3), 543–551.
+https://doi.org/10.1016/j.jpeds.2012.08.036
+Popat, P., Dinu, L. M., Runswick, O., Findon, J. L., & Dommett, E. J. (2021). Investigating
+the relationship between attention-deficit hyperactivity disorder, obligatory exercise and
+exercise addiction. International Journal of Mental Health and Addiction, 1–13.
+Safren, S. A., Duran, P., Yovel, I., Perlman, C. A., & Sprich, S. (2007). Medication adherence in psychopharmacologically treated adults with ADHD. Journal of Attention
+Disorders, 10(3), 257–260.
+Schenk, S., & Davidson, E. S. (1998). Stimulant preexposure sensitizes rats and humans to
+the rewarding effects of cocaine. NIDA Research Monographs, 169, 56–82.
+Shephard, R. (1997). Godin leisure-time exercise questionnaire. Medicine & Science in
+Sports & Exercise, 29(6), S36–S38.
+Simon, V., Czobor, P., Balint, S., Meszaros, A., & Bitter, I. (2009). Prevalence and correlates
+of adult attention-deficit hyperactivity disorder: Meta-analysis. The British Journal of
+Psychiatry: The Journal of Mental Science, 194(3), 204–211. https://doi.org/10.1192/bjp.
+bp.107.048827
+Solanto, M. V., & Scheres, A. (2021). Feasibility, acceptability, and effectiveness of a new
+cognitive-behavioral intervention for college students with ADHD. Journal of Attention
+Disorders, 25 (14), 2068–2082. https://doi.org/10.1177/1087054720951865
+Stoutenberg, M., Warne, J., Vidot, D., Jimenez, E., & Read, J. P. (2015). Attitudes and preferences towards exercise training in individuals with alcohol use disorders in a residential treatment setting. Journal of Substance Abuse Treatment, 49, 43–49. https://doi.org/
+10.1016/j.jsat.2014.08.008
+Subramaniapillai, M., Arbour-Nicitopoulos, K., Duncan, M., McIntyre, R. S., Mansur, R. B.,
+Remington, G., & Faulkner, G. (2016). Physical activity preferences of individuals diagnosed with schizophrenia or bipolar disorder. BMC Research Notes, 9, 340. https://doi.
+org/10.1186/s13104-016-2151-y
+Thomas, S., Reading, J., & Shephard, R. J. (1992). Revision of the physical activity readiness
+questionnaire (PAR-Q). Canadian Journal of Sport Sciences 17(4), 338–345.
+Villa-Gonzalez, R., Villalba-Heredia, L., Crespo, I., del Valle, M., & Olmedillas, H. (2020).
+A systematic review of acute exercise as a coadjuvant treatment of ADHD in young people. Psicothema, 32(1), 67–74.
+Waters, L. A., Galichet, B., Owen, N., & Eakin, E. (2011). Who participates in physical
+activity intervention trials? Journal of Physical Activity & Health, 8(1), 85–103.
+Zalsman, G., & Shilton, T. (2016). Adult ADHD: A new disease? International Journal of
+Psychiatry in Clinical Practice, 20(2), 70–76. https://doi.org/10.3109/13651501.2016.
+1149197
+Zang, Y. (2019). Impact of physical exercise on children with attention deficit hyperactivity
+disorders: Evidence through a meta-analysis. Medicine, 98(46), e17980. https://doi.org/10.
+1097/md.0000000000017980
+Zhang, M. Q., Liu, Z., Ma, H. T., & Zhang, D. (2019). The effects of physical activity on
+executive function in children with attention-deficit/hyperactivity disorder: A systematic
+review and meta-analysis protocol. Medicine, 98(14), e15097. https://doi.org/10.1097/md.
+0000000000015097
+
+
